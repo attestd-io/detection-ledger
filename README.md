@@ -25,4 +25,4 @@ git log --show-signature -1
 - `incidents/{id}.json` — one file per incident
 - `ledger.json` — machine-readable index
 
-Repository: https://github.com/attestd/detection-ledger
+Repository: https://github.com/attestd-io/detection-ledger
