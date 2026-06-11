@@ -467,5 +467,35 @@
     "press_urls": [],
     "advisory_url": "https://app.safedep.io/community/malysis/01KTN73YY0MTFGD8C4TSDAPEMX",
     "ledger_commit_at": "2026-06-11T13:06:34Z"
+  },
+  {
+    "id": "solana-labs-etherjs-2026-06-11",
+    "display_name": "@solana-labs/etherjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@solana-labs/etherjs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.98.111",
+          "1.98.112"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5362",
+            "osv_published_at": "2026-06-07T05:44:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:21Z",
+    "osv_earliest_published_at": "2026-06-07T05:44:38Z",
+    "hours_ahead_of_osv": -103.36,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:06:37Z"
   }
 ]
