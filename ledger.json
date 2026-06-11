@@ -3263,5 +3263,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:14:56Z"
+  },
+  {
+    "id": "edu-npm-postinstall-demo2-2026-06-11",
+    "display_name": "edu-npm-postinstall-demo2",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "edu-npm-postinstall-demo2",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5624",
+            "osv_published_at": "2026-06-11T08:25:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:14:45Z",
+    "osv_earliest_published_at": "2026-06-11T08:25:49Z",
+    "hours_ahead_of_osv": -4.82,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:15:00Z"
   }
 ]
