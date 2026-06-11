@@ -1,0 +1,29 @@
+{
+  "id": "cache-section-helper-2026-06-11",
+  "display_name": "cache-section-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cache-section-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5604",
+          "osv_published_at": "2026-06-11T07:24:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:13:05Z",
+  "osv_earliest_published_at": "2026-06-11T07:24:13Z",
+  "hours_ahead_of_osv": -5.81,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:13:43Z"
+}
