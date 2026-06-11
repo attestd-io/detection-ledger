@@ -1769,5 +1769,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:11:42Z"
+  },
+  {
+    "id": "nim-submit-for-test-2026-06-11",
+    "display_name": "nim-submit-for-test",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nim-submit-for-test",
+        "ecosystem": "npm",
+        "versions": [
+          "2.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5570",
+            "osv_published_at": "2026-06-11T04:46:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:11:37Z",
+    "osv_earliest_published_at": "2026-06-11T04:46:02Z",
+    "hours_ahead_of_osv": -8.43,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:11:45Z"
   }
 ]
