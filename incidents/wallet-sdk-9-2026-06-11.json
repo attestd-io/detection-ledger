@@ -1,0 +1,29 @@
+{
+  "id": "wallet-sdk-9-2026-06-11",
+  "display_name": "wallet-sdk-9",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wallet-sdk-9",
+      "ecosystem": "npm",
+      "versions": [
+        "3.7.73"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5360",
+          "osv_published_at": "2026-06-09T07:55:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:06:20Z",
+  "osv_earliest_published_at": "2026-06-09T07:55:37Z",
+  "hours_ahead_of_osv": -53.18,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://app.safedep.io/community/malysis/01KTN73YY0MTFGD8C4TSDAPEMX",
+  "ledger_commit_at": "2026-06-11T13:06:34Z"
+}
