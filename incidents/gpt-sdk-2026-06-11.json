@@ -1,0 +1,37 @@
+{
+  "id": "gpt-sdk-2026-06-11",
+  "display_name": "gpt-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gpt-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.1.1",
+        "0.1.2",
+        "0.1.3",
+        "0.2.0",
+        "0.2.1",
+        "0.2.2",
+        "0.2.3",
+        "0.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5612",
+          "osv_published_at": "2026-06-11T06:33:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:13:55Z",
+  "osv_earliest_published_at": "2026-06-11T06:33:08Z",
+  "hours_ahead_of_osv": -6.68,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:14:14Z"
+}
