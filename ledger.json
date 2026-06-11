@@ -654,5 +654,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:06:55Z"
+  },
+  {
+    "id": "chai-check-error-2026-06-11",
+    "display_name": "chai-check-error",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-check-error",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5526",
+            "osv_published_at": "2026-06-10T18:46:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:27Z",
+    "osv_earliest_published_at": "2026-06-10T18:46:09Z",
+    "hours_ahead_of_osv": -18.34,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:06:58Z"
   }
 ]
