@@ -409,5 +409,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:06:28Z"
+  },
+  {
+    "id": "ethereum-kit-9-2026-06-11",
+    "display_name": "ethereum-kit-9",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ethereum-kit-9",
+        "ecosystem": "npm",
+        "versions": [
+          "1.25.36"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5356",
+            "osv_published_at": "2026-06-09T07:55:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:20Z",
+    "osv_earliest_published_at": "2026-06-09T07:55:35Z",
+    "hours_ahead_of_osv": -53.18,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://app.safedep.io/community/malysis/01KTN73YXHEMD7EATFD58FKGEY",
+    "ledger_commit_at": "2026-06-11T13:06:31Z"
   }
 ]
