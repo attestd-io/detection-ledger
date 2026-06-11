@@ -2068,5 +2068,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:12:23Z"
+  },
+  {
+    "id": "webpack-cache-reset-2026-06-11",
+    "display_name": "webpack-cache-reset",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "webpack-cache-reset",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5580",
+            "osv_published_at": "2026-06-11T05:06:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:12:15Z",
+    "osv_earliest_published_at": "2026-06-11T05:06:29Z",
+    "hours_ahead_of_osv": -8.1,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:12:26Z"
   }
 ]
