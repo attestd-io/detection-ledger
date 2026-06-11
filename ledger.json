@@ -292,5 +292,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:05:39Z"
+  },
+  {
+    "id": "chai-as-init-2026-06-11",
+    "display_name": "chai-as-init",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-as-init",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2891",
+            "osv_published_at": "2026-04-16T20:36:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:17Z",
+    "osv_earliest_published_at": "2026-04-16T20:36:13Z",
+    "hours_ahead_of_osv": -1336.5,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://www.indece.com/en-US/blog/7df041ba-feb1-4d87-918b-7fc2c709d805",
+    "ledger_commit_at": "2026-06-11T13:06:17Z"
   }
 ]
