@@ -2534,5 +2534,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:13:24Z"
+  },
+  {
+    "id": "0x2ai-multi-mq-2026-06-11",
+    "display_name": "0x2ai-multi-mq",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "0x2ai-multi-mq",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5600",
+            "osv_published_at": "2026-06-11T07:16:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:12:51Z",
+    "osv_earliest_published_at": "2026-06-11T07:16:23Z",
+    "hours_ahead_of_osv": -5.94,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:13:28Z"
   }
 ]
