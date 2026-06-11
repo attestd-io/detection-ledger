@@ -866,5 +866,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:07:20Z"
+  },
+  {
+    "id": "india-map-react-2026-06-11",
+    "display_name": "india-map-react",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "india-map-react",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5542",
+            "osv_published_at": "2026-06-11T02:02:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:43Z",
+    "osv_earliest_published_at": "2026-06-11T02:02:37Z",
+    "hours_ahead_of_osv": -11.07,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:07:23Z"
   }
 ]
