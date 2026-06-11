@@ -925,5 +925,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:07:26Z"
+  },
+  {
+    "id": "pocteszep-2026-06-11",
+    "display_name": "pocteszep",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pocteszep",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.4",
+          "1.0.5",
+          "1.0.8",
+          "1.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5544",
+            "osv_published_at": "2026-06-11T01:42:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:07:01Z",
+    "osv_earliest_published_at": "2026-06-11T01:42:15Z",
+    "hours_ahead_of_osv": -11.41,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:07:30Z"
   }
 ]
