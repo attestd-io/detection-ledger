@@ -530,5 +530,36 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:06:41Z"
+  },
+  {
+    "id": "hey-base32-2026-06-11",
+    "display_name": "hey-base32",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hey-base32",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.7",
+          "1.0.9",
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5398",
+            "osv_published_at": "2026-06-09T15:57:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:24Z",
+    "osv_earliest_published_at": "2026-06-09T15:57:35Z",
+    "hours_ahead_of_osv": -45.15,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:06:44Z"
   }
 ]
