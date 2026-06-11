@@ -1,0 +1,29 @@
+{
+  "id": "koadz-sso-2026-06-11",
+  "display_name": "@koadz/sso",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@koadz/sso",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5562",
+          "osv_published_at": "2026-06-11T04:45:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:10:37Z",
+  "osv_earliest_published_at": "2026-06-11T04:45:50Z",
+  "hours_ahead_of_osv": -8.41,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:10:40Z"
+}
