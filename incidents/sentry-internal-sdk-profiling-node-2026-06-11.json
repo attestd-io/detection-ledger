@@ -1,0 +1,30 @@
+{
+  "id": "sentry-internal-sdk-profiling-node-2026-06-11",
+  "display_name": "@sentry-internal-sdk/profiling-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sentry-internal-sdk/profiling-node",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5563",
+          "osv_published_at": "2026-06-11T04:48:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:10:41Z",
+  "osv_earliest_published_at": "2026-06-11T04:48:58Z",
+  "hours_ahead_of_osv": -8.36,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:10:43Z"
+}
