@@ -749,5 +749,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:07:05Z"
+  },
+  {
+    "id": "v018-axios-cdntest-2026-06-11",
+    "display_name": "v018-axios-cdntest",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "v018-axios-cdntest",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5529",
+            "osv_published_at": "2026-06-10T18:34:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:35Z",
+    "osv_earliest_published_at": "2026-06-10T18:34:55Z",
+    "hours_ahead_of_osv": -18.53,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:07:09Z"
   }
 ]
