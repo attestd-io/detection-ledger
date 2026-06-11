@@ -779,5 +779,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:07:09Z"
+  },
+  {
+    "id": "mermaid-v11-2026-06-11",
+    "display_name": "mermaid-v11",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mermaid-v11",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5539",
+            "osv_published_at": "2026-06-11T00:41:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:37Z",
+    "osv_earliest_published_at": "2026-06-11T00:41:50Z",
+    "hours_ahead_of_osv": -12.41,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:07:12Z"
   }
 ]
