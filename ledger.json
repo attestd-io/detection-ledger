@@ -2798,5 +2798,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:13:58Z"
+  },
+  {
+    "id": "clean-my-pc-2026-06-11",
+    "display_name": "clean-my-pc",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "clean-my-pc",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5609",
+            "osv_published_at": "2026-06-11T06:52:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:13:25Z",
+    "osv_earliest_published_at": "2026-06-11T06:52:05Z",
+    "hours_ahead_of_osv": -6.36,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:14:02Z"
   }
 ]
