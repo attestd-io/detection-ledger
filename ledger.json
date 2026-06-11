@@ -895,5 +895,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:07:23Z"
+  },
+  {
+    "id": "jailbreak-code-2026-06-11",
+    "display_name": "jailbreak-code",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "jailbreak-code",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.7",
+          "2.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5543",
+            "osv_published_at": "2026-06-11T01:56:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:47Z",
+    "osv_earliest_published_at": "2026-06-11T01:56:14Z",
+    "hours_ahead_of_osv": -11.18,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:07:26Z"
   }
 ]
