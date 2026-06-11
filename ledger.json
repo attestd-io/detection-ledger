@@ -1740,5 +1740,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:11:38Z"
+  },
+  {
+    "id": "js-crypto-promise-2026-06-11",
+    "display_name": "js-crypto-promise",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "js-crypto-promise",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5569",
+            "osv_published_at": "2026-06-11T04:49:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:11:35Z",
+    "osv_earliest_published_at": "2026-06-11T04:49:31Z",
+    "hours_ahead_of_osv": -8.37,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:11:42Z"
   }
 ]
