@@ -1,0 +1,30 @@
+{
+  "id": "sn-internal-test-2026-06-11",
+  "display_name": "sn-internal-test",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sn-internal-test",
+      "ecosystem": "npm",
+      "versions": [
+        "1.9.9",
+        "2.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5645",
+          "osv_published_at": "2026-06-11T12:38:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T14:32:26Z",
+  "osv_earliest_published_at": "2026-06-11T12:38:09Z",
+  "hours_ahead_of_osv": -1.9,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T14:32:58Z"
+}
