@@ -2622,5 +2622,36 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:13:35Z"
+  },
+  {
+    "id": "backup-my-data-2026-06-11",
+    "display_name": "backup-my-data",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "backup-my-data",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5603",
+            "osv_published_at": "2026-06-11T06:53:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:13:03Z",
+    "osv_earliest_published_at": "2026-06-11T06:53:18Z",
+    "hours_ahead_of_osv": -6.33,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:13:39Z"
   }
 ]
