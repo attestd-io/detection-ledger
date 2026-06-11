@@ -1,0 +1,26 @@
+{
+  "id": "checkmarx-kics-2026-04-22",
+  "display_name": "@checkmarx/kics TeamPCP",
+  "campaign": "TeamPCP",
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "@checkmarx/kics",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.21"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "backdoor",
+  "attestd_detected_at": null,
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "press_coverage_at": "2026-04-22T15:00:00Z",
+  "press_urls": [
+    "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/"
+  ],
+  "advisory_url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+  "ledger_commit_at": null
+}

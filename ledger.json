@@ -1,0 +1,265 @@
+[
+  {
+    "id": "litellm-2026-03-24",
+    "display_name": "LiteLLM TeamPCP",
+    "campaign": "TeamPCP",
+    "detection_source": "registry",
+    "packages": [
+      {
+        "package": "litellm",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.82.7",
+          "1.82.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2144",
+            "osv_published_at": "2026-03-24T11:15:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "backdoor",
+    "attestd_detected_at": null,
+    "osv_earliest_published_at": "2026-03-24T11:15:14Z",
+    "hours_ahead_of_osv": null,
+    "press_coverage_at": "2026-03-24T14:00:00Z",
+    "press_urls": [
+      "https://docs.litellm.ai/blog/security-update-march-2026"
+    ],
+    "advisory_url": "https://docs.litellm.ai/blog/security-update-march-2026",
+    "ledger_commit_at": "2026-06-11T01:32:37Z"
+  },
+  {
+    "id": "elementary-data-2026-04-26",
+    "display_name": "elementary-data GitHub Actions injection",
+    "campaign": null,
+    "detection_source": "registry",
+    "packages": [
+      {
+        "package": "elementary-data",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.23.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3083",
+            "osv_published_at": "2026-04-24T22:54:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "backdoor",
+    "attestd_detected_at": null,
+    "osv_earliest_published_at": "2026-04-24T22:54:25Z",
+    "hours_ahead_of_osv": null,
+    "press_coverage_at": "2026-04-26T00:00:00Z",
+    "press_urls": [
+      "https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection"
+    ],
+    "advisory_url": "https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection",
+    "ledger_commit_at": "2026-06-11T01:32:37Z"
+  },
+  {
+    "id": "pytorch-lightning-2026-04-30",
+    "display_name": "pytorch-lightning ShaiWorm",
+    "campaign": "ShaiWorm",
+    "detection_source": "registry",
+    "packages": [
+      {
+        "package": "pytorch-lightning",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.6.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "backdoor",
+    "attestd_detected_at": null,
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "press_coverage_at": "2026-04-30T00:00:00Z",
+    "press_urls": [
+      "https://github.com/Lightning-AI/pytorch-lightning/issues/21689"
+    ],
+    "advisory_url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21689",
+    "ledger_commit_at": "2026-06-11T01:32:37Z"
+  },
+  {
+    "id": "bitwarden-cli-2026-04-22",
+    "display_name": "@bitwarden/cli TeamPCP",
+    "campaign": "TeamPCP",
+    "detection_source": "registry",
+    "packages": [
+      {
+        "package": "@bitwarden/cli",
+        "ecosystem": "npm",
+        "versions": [
+          "2026.4.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3020",
+            "osv_published_at": "2026-04-23T17:07:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "backdoor",
+    "attestd_detected_at": null,
+    "osv_earliest_published_at": "2026-04-23T17:07:51Z",
+    "hours_ahead_of_osv": null,
+    "press_coverage_at": "2026-04-22T18:30:00Z",
+    "press_urls": [
+      "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/"
+    ],
+    "advisory_url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+    "ledger_commit_at": "2026-06-11T01:32:37Z"
+  },
+  {
+    "id": "checkmarx-kics-2026-04-22",
+    "display_name": "@checkmarx/kics TeamPCP",
+    "campaign": "TeamPCP",
+    "detection_source": "registry",
+    "packages": [
+      {
+        "package": "@checkmarx/kics",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.21"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "backdoor",
+    "attestd_detected_at": null,
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "press_coverage_at": "2026-04-22T15:00:00Z",
+    "press_urls": [
+      "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/"
+    ],
+    "advisory_url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+    "ledger_commit_at": "2026-06-11T01:32:37Z"
+  },
+  {
+    "id": "mini-shai-hulud-2026-05-11",
+    "display_name": "Mini Shai-Hulud (TanStack wave)",
+    "campaign": "TeamPCP",
+    "detection_source": "registry",
+    "packages": [
+      {
+        "package": "@tanstack/react-router",
+        "ecosystem": "npm",
+        "versions": [
+          "1.169.5",
+          "1.169.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3465",
+            "osv_published_at": "2026-05-11T23:44:35Z"
+          }
+        ]
+      },
+      {
+        "package": "@tanstack/router-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.169.5",
+          "1.169.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3465",
+            "osv_published_at": "2026-05-11T23:44:35Z"
+          }
+        ]
+      },
+      {
+        "package": "@tanstack/history",
+        "ecosystem": "npm",
+        "versions": [
+          "1.161.9",
+          "1.161.12"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3465",
+            "osv_published_at": "2026-05-11T23:44:35Z"
+          }
+        ]
+      },
+      {
+        "package": "@mistralai/mistralai",
+        "ecosystem": "npm",
+        "versions": [
+          "2.2.2",
+          "2.2.3",
+          "2.2.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3432",
+            "osv_published_at": "2026-05-11T23:00:35Z"
+          }
+        ]
+      },
+      {
+        "package": "@opensearch-project/opensearch",
+        "ecosystem": "npm",
+        "versions": [
+          "3.5.3",
+          "3.6.2",
+          "3.7.0",
+          "3.8.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3434",
+            "osv_published_at": "2026-05-12T00:42:07Z"
+          }
+        ]
+      },
+      {
+        "package": "mistralai",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.4.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3608",
+            "osv_published_at": "2026-05-12T05:49:00Z"
+          }
+        ]
+      },
+      {
+        "package": "guardrails-ai",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.10.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3607",
+            "osv_published_at": "2026-05-12T05:49:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "worm",
+    "attestd_detected_at": null,
+    "osv_earliest_published_at": "2026-05-11T23:00:35Z",
+    "hours_ahead_of_osv": null,
+    "press_coverage_at": "2026-05-11T20:00:00Z",
+    "press_urls": [
+      "https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack"
+    ],
+    "advisory_url": "https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack",
+    "ledger_commit_at": "2026-06-11T01:32:37Z"
+  }
+]

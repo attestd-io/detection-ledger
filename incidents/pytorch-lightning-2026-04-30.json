@@ -1,0 +1,26 @@
+{
+  "id": "pytorch-lightning-2026-04-30",
+  "display_name": "pytorch-lightning ShaiWorm",
+  "campaign": "ShaiWorm",
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "pytorch-lightning",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.6.3"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "backdoor",
+  "attestd_detected_at": null,
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "press_coverage_at": "2026-04-30T00:00:00Z",
+  "press_urls": [
+    "https://github.com/Lightning-AI/pytorch-lightning/issues/21689"
+  ],
+  "advisory_url": "https://github.com/Lightning-AI/pytorch-lightning/issues/21689",
+  "ledger_commit_at": null
+}

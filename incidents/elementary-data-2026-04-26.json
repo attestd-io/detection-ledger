@@ -1,0 +1,31 @@
+{
+  "id": "elementary-data-2026-04-26",
+  "display_name": "elementary-data GitHub Actions injection",
+  "campaign": null,
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "elementary-data",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.23.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3083",
+          "osv_published_at": "2026-04-24T22:54:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "backdoor",
+  "attestd_detected_at": null,
+  "osv_earliest_published_at": "2026-04-24T22:54:25Z",
+  "hours_ahead_of_osv": null,
+  "press_coverage_at": "2026-04-26T00:00:00Z",
+  "press_urls": [
+    "https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection"
+  ],
+  "advisory_url": "https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection",
+  "ledger_commit_at": null
+}

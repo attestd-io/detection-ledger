@@ -1,0 +1,117 @@
+{
+  "id": "mini-shai-hulud-2026-05-11",
+  "display_name": "Mini Shai-Hulud (TanStack wave)",
+  "campaign": "TeamPCP",
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "@tanstack/react-router",
+      "ecosystem": "npm",
+      "versions": [
+        "1.169.5",
+        "1.169.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3465",
+          "osv_published_at": "2026-05-11T23:44:35Z"
+        }
+      ]
+    },
+    {
+      "package": "@tanstack/router-core",
+      "ecosystem": "npm",
+      "versions": [
+        "1.169.5",
+        "1.169.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3465",
+          "osv_published_at": "2026-05-11T23:44:35Z"
+        }
+      ]
+    },
+    {
+      "package": "@tanstack/history",
+      "ecosystem": "npm",
+      "versions": [
+        "1.161.9",
+        "1.161.12"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3465",
+          "osv_published_at": "2026-05-11T23:44:35Z"
+        }
+      ]
+    },
+    {
+      "package": "@mistralai/mistralai",
+      "ecosystem": "npm",
+      "versions": [
+        "2.2.2",
+        "2.2.3",
+        "2.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3432",
+          "osv_published_at": "2026-05-11T23:00:35Z"
+        }
+      ]
+    },
+    {
+      "package": "@opensearch-project/opensearch",
+      "ecosystem": "npm",
+      "versions": [
+        "3.5.3",
+        "3.6.2",
+        "3.7.0",
+        "3.8.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3434",
+          "osv_published_at": "2026-05-12T00:42:07Z"
+        }
+      ]
+    },
+    {
+      "package": "mistralai",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3608",
+          "osv_published_at": "2026-05-12T05:49:00Z"
+        }
+      ]
+    },
+    {
+      "package": "guardrails-ai",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.10.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3607",
+          "osv_published_at": "2026-05-12T05:49:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "worm",
+  "attestd_detected_at": null,
+  "osv_earliest_published_at": "2026-05-11T23:00:35Z",
+  "hours_ahead_of_osv": null,
+  "press_coverage_at": "2026-05-11T20:00:00Z",
+  "press_urls": [
+    "https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack"
+  ],
+  "advisory_url": "https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack",
+  "ledger_commit_at": null
+}

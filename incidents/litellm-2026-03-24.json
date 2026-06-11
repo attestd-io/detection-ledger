@@ -1,0 +1,32 @@
+{
+  "id": "litellm-2026-03-24",
+  "display_name": "LiteLLM TeamPCP",
+  "campaign": "TeamPCP",
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "litellm",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.82.7",
+        "1.82.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-2144",
+          "osv_published_at": "2026-03-24T11:15:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "backdoor",
+  "attestd_detected_at": null,
+  "osv_earliest_published_at": "2026-03-24T11:15:14Z",
+  "hours_ahead_of_osv": null,
+  "press_coverage_at": "2026-03-24T14:00:00Z",
+  "press_urls": [
+    "https://docs.litellm.ai/blog/security-update-march-2026"
+  ],
+  "advisory_url": "https://docs.litellm.ai/blog/security-update-march-2026",
+  "ledger_commit_at": null
+}

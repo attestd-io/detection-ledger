@@ -1,0 +1,31 @@
+{
+  "id": "bitwarden-cli-2026-04-22",
+  "display_name": "@bitwarden/cli TeamPCP",
+  "campaign": "TeamPCP",
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "@bitwarden/cli",
+      "ecosystem": "npm",
+      "versions": [
+        "2026.4.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3020",
+          "osv_published_at": "2026-04-23T17:07:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "backdoor",
+  "attestd_detected_at": null,
+  "osv_earliest_published_at": "2026-04-23T17:07:51Z",
+  "hours_ahead_of_osv": null,
+  "press_coverage_at": "2026-04-22T18:30:00Z",
+  "press_urls": [
+    "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/"
+  ],
+  "advisory_url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+  "ledger_commit_at": null
+}
