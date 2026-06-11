@@ -1299,5 +1299,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:08:09Z"
+  },
+  {
+    "id": "janus-ft-2026-06-11",
+    "display_name": "janus-ft",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "janus-ft",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5557",
+            "osv_published_at": "2026-06-11T02:53:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:08:05Z",
+    "osv_earliest_published_at": "2026-06-11T02:53:06Z",
+    "hours_ahead_of_osv": -10.25,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:08:13Z"
   }
 ]
