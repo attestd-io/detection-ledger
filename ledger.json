@@ -808,5 +808,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-11T13:07:12Z"
+  },
+  {
+    "id": "monitoring-lib-error-tracking-2026-06-11",
+    "display_name": "@monitoring-lib/error-tracking",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@monitoring-lib/error-tracking",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5540",
+            "osv_published_at": "2026-06-11T01:22:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-11T13:06:39Z",
+    "osv_earliest_published_at": "2026-06-11T01:22:04Z",
+    "hours_ahead_of_osv": -11.74,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-11T13:07:16Z"
   }
 ]
