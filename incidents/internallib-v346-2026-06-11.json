@@ -1,0 +1,32 @@
+{
+  "id": "internallib-v346-2026-06-11",
+  "display_name": "internallib_v346",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "internallib_v346",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3",
+        "1.0.5",
+        "1.0.9",
+        "1.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5613",
+          "osv_published_at": "2026-06-11T07:19:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:14:03Z",
+  "osv_earliest_published_at": "2026-06-11T07:19:48Z",
+  "hours_ahead_of_osv": -5.9,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:14:18Z"
+}
