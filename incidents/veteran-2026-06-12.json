@@ -1,0 +1,29 @@
+{
+  "id": "veteran-2026-06-12",
+  "display_name": "veteran",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "veteran",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4703",
+          "osv_published_at": "2026-05-21T16:28:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:14:37Z",
+  "osv_earliest_published_at": "2026-05-21T16:28:03Z",
+  "hours_ahead_of_osv": -534.78,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:14:38Z"
+}
