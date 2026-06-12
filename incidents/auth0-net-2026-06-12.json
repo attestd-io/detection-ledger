@@ -1,0 +1,29 @@
+{
+  "id": "auth0-net-2026-06-12",
+  "display_name": "auth0.net",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "auth0.net",
+      "ecosystem": "npm",
+      "versions": [
+        "39.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1783",
+          "osv_published_at": "2024-06-25T12:28:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:12:15Z",
+  "osv_earliest_published_at": "2024-06-25T12:28:41Z",
+  "hours_ahead_of_osv": -17218.73,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:12:16Z"
+}
