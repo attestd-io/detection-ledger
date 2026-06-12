@@ -3855,5 +3855,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T03:21:38Z"
+  },
+  {
+    "id": "trongapy-2026-06-12",
+    "display_name": "trongapy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "trongapy",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5683",
+            "osv_published_at": "2026-06-12T07:33:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T09:24:57Z",
+    "osv_earliest_published_at": "2026-06-12T07:33:10Z",
+    "hours_ahead_of_osv": -1.86,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T09:24:57Z"
   }
 ]
