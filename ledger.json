@@ -4297,5 +4297,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:11:41Z"
+  },
+  {
+    "id": "silly-logger-2026-06-12",
+    "display_name": "silly-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "silly-logger",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.6",
+          "0.1.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4767",
+            "osv_published_at": "2026-05-19T21:50:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:11:32Z",
+    "osv_earliest_published_at": "2026-05-19T21:50:33Z",
+    "hours_ahead_of_osv": -577.35,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:11:44Z"
   }
 ]
