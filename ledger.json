@@ -6214,5 +6214,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:17:19Z"
+  },
+  {
+    "id": "typeorm-encrypt-2026-06-12",
+    "display_name": "typeorm-encrypt",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "typeorm-encrypt",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5633",
+            "osv_published_at": "2026-06-11T09:35:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:17:09Z",
+    "osv_earliest_published_at": "2026-06-11T09:35:12Z",
+    "hours_ahead_of_osv": -37.7,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:17:23Z"
   }
 ]
