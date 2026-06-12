@@ -1,0 +1,37 @@
+{
+  "id": "vite-plugin-logo-2026-06-12",
+  "display_name": "vite-plugin-logo",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vite-plugin-logo",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.1.0",
+        "1.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5714",
+          "osv_published_at": "2026-06-12T19:52:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:21:41Z",
+  "osv_earliest_published_at": "2026-06-12T19:52:23Z",
+  "hours_ahead_of_osv": -3.49,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:21:41Z"
+}
