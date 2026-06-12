@@ -6486,5 +6486,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:19:38Z"
+  },
+  {
+    "id": "ecto-corsair-flag-x9m4-2026-06-12",
+    "display_name": "ecto-corsair-flag-x9m4",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ecto-corsair-flag-x9m4",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5686",
+            "osv_published_at": "2026-06-12T14:32:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:19:39Z",
+    "osv_earliest_published_at": "2026-06-12T14:32:51Z",
+    "hours_ahead_of_osv": -8.78,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:19:42Z"
   }
 ]
