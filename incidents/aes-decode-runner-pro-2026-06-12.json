@@ -1,0 +1,31 @@
+{
+  "id": "aes-decode-runner-pro-2026-06-12",
+  "display_name": "aes-decode-runner-pro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "aes-decode-runner-pro",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.10",
+        "1.0.11",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4475",
+          "osv_published_at": "2026-05-25T16:36:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:12:32Z",
+  "osv_earliest_published_at": "2026-05-25T16:36:18Z",
+  "hours_ahead_of_osv": -438.6,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:12:49Z"
+}
