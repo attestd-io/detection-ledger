@@ -12,6 +12,8 @@ Each incident JSON file contains:
 - `package`, `ecosystem`, `version` — affected package coordinates
 - `press_coverage_at` — first public press or advisory timestamp (UTC)
 - `attestd_detected_at` — when Attestd first registered the detection (null when unavailable)
+- `flagged_at` — when Attestd first flagged the incident before full confirmation (null when not used)
+- `confirmed_at` — when the incident was corroborated or human-approved (null while flagged-only)
 - `hours_ahead_of_osv` — lead time vs earliest OSV publish (null when unavailable)
 - `ledger_commit_at` — git commit timestamp for this entry (null until committed)
 
