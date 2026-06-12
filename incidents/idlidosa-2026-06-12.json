@@ -1,0 +1,32 @@
+{
+  "id": "idlidosa-2026-06-12",
+  "display_name": "idlidosa",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "idlidosa",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.4",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4581",
+          "osv_published_at": "2026-05-20T07:38:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:13:25Z",
+  "osv_earliest_published_at": "2026-05-20T07:38:38Z",
+  "hours_ahead_of_osv": -567.58,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:13:32Z"
+}
