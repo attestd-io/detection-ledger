@@ -6717,5 +6717,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:20:50Z"
+  },
+  {
+    "id": "friendly-greeter-demo-2026-06-12",
+    "display_name": "friendly-greeter-demo",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "friendly-greeter-demo",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5704",
+            "osv_published_at": "2026-06-12T19:15:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:20:57Z",
+    "osv_earliest_published_at": "2026-06-12T19:15:47Z",
+    "hours_ahead_of_osv": -4.09,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:20:57Z"
   }
 ]
