@@ -1,0 +1,29 @@
+{
+  "id": "chalk-plus-js-2026-06-12",
+  "display_name": "chalk-plus-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chalk-plus-js",
+      "ecosystem": "npm",
+      "versions": [
+        "7.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5709",
+          "osv_published_at": "2026-06-12T20:38:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:21:15Z",
+  "osv_earliest_published_at": "2026-06-12T20:38:05Z",
+  "hours_ahead_of_osv": -2.72,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:21:17Z"
+}
