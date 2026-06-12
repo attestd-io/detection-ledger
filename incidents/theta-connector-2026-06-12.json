@@ -1,0 +1,29 @@
+{
+  "id": "theta-connector-2026-06-12",
+  "display_name": "theta-connector",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "theta-connector",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5705",
+          "osv_published_at": "2026-06-12T19:07:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:20:59Z",
+  "osv_earliest_published_at": "2026-06-12T19:07:24Z",
+  "hours_ahead_of_osv": -4.23,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:21:00Z"
+}
