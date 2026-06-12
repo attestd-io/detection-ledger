@@ -1,0 +1,29 @@
+{
+  "id": "emcd-vue-b2b-pay-form-2026-06-12",
+  "display_name": "@emcd-vue/b2b-pay-form",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@emcd-vue/b2b-pay-form",
+      "ecosystem": "npm",
+      "versions": [
+        "5.7.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5164",
+          "osv_published_at": "2026-06-01T07:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:14:47Z",
+  "osv_earliest_published_at": "2026-06-01T07:00:00Z",
+  "hours_ahead_of_osv": -280.25,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://safedep.io/oob-moika-tech-dependency-confusion-campaign/",
+  "ledger_commit_at": "2026-06-12T23:14:52Z"
+}
