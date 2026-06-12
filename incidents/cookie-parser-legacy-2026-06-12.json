@@ -1,0 +1,30 @@
+{
+  "id": "cookie-parser-legacy-2026-06-12",
+  "display_name": "cookie-parser-legacy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cookie-parser-legacy",
+      "ecosystem": "npm",
+      "versions": [
+        "1.5.3",
+        "1.5.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5346",
+          "osv_published_at": "2026-06-09T11:19:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:15:01Z",
+  "osv_earliest_published_at": "2026-06-09T11:19:47Z",
+  "hours_ahead_of_osv": -83.92,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:15:09Z"
+}
