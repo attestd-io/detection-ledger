@@ -1,0 +1,29 @@
+{
+  "id": "jec-2026-06-12",
+  "display_name": "jec",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jec",
+      "ecosystem": "pypi",
+      "versions": [
+        "39.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5684",
+          "osv_published_at": "2026-06-12T13:07:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T17:00:07Z",
+  "osv_earliest_published_at": "2026-06-12T13:07:48Z",
+  "hours_ahead_of_osv": -3.87,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T17:00:07Z"
+}
