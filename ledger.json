@@ -4968,5 +4968,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:13:15Z"
+  },
+  {
+    "id": "finkrouter-2026-06-12",
+    "display_name": "finkrouter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "finkrouter",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.1",
+          "1.1.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4563",
+            "osv_published_at": "2026-05-22T10:25:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:12:57Z",
+    "osv_earliest_published_at": "2026-05-22T10:25:25Z",
+    "hours_ahead_of_osv": -516.79,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:13:18Z"
   }
 ]
