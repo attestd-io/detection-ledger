@@ -1,0 +1,29 @@
+{
+  "id": "swagger-express-routes-2026-06-12",
+  "display_name": "swagger-express-routes",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "swagger-express-routes",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5636",
+          "osv_published_at": "2026-06-11T09:44:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:17:13Z",
+  "osv_earliest_published_at": "2026-06-11T09:44:59Z",
+  "hours_ahead_of_osv": -37.54,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:17:30Z"
+}
