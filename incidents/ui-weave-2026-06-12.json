@@ -1,0 +1,29 @@
+{
+  "id": "ui-weave-2026-06-12",
+  "display_name": "ui-weave",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ui-weave",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5406",
+          "osv_published_at": "2026-06-09T16:07:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:16:09Z",
+  "osv_earliest_published_at": "2026-06-09T16:07:22Z",
+  "hours_ahead_of_osv": -79.15,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:16:10Z"
+}
