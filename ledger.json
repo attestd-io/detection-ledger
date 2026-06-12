@@ -6986,5 +6986,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:21:27Z"
+  },
+  {
+    "id": "vite-plugin-compress-js-2026-06-12",
+    "display_name": "vite-plugin-compress-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vite-plugin-compress-js",
+        "ecosystem": "npm",
+        "versions": [
+          "0.5.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5713",
+            "osv_published_at": "2026-06-12T19:43:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:21:23Z",
+    "osv_earliest_published_at": "2026-06-12T19:43:47Z",
+    "hours_ahead_of_osv": -3.63,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:21:30Z"
   }
 ]
