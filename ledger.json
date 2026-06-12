@@ -6688,5 +6688,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:20:47Z"
+  },
+  {
+    "id": "eslint-plugin-mistica-local-rules-2026-06-12",
+    "display_name": "eslint-plugin-mistica-local-rules",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "eslint-plugin-mistica-local-rules",
+        "ecosystem": "npm",
+        "versions": [
+          "19.12.11"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5703",
+            "osv_published_at": "2026-06-12T19:02:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:20:47Z",
+    "osv_earliest_published_at": "2026-06-12T19:02:58Z",
+    "hours_ahead_of_osv": -4.3,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:20:50Z"
   }
 ]
