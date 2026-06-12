@@ -1,0 +1,29 @@
+{
+  "id": "bingocode-2026-06-12",
+  "display_name": "bingocode",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bingocode",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.163"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4497",
+          "osv_published_at": "2026-05-22T06:25:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:12:34Z",
+  "osv_earliest_published_at": "2026-05-22T06:25:45Z",
+  "hours_ahead_of_osv": -520.78,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:12:55Z"
+}
