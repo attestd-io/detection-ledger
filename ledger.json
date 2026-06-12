@@ -5969,5 +5969,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:16:33Z"
+  },
+  {
+    "id": "mcp-server-sentry-2026-06-12",
+    "display_name": "mcp-server-sentry",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mcp-server-sentry",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5483",
+            "osv_published_at": "2026-06-09T20:33:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:16:25Z",
+    "osv_earliest_published_at": "2026-06-09T20:33:56Z",
+    "hours_ahead_of_osv": -74.71,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:16:37Z"
   }
 ]
