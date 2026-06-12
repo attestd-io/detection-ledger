@@ -1,0 +1,32 @@
+{
+  "id": "tango-app-api-trax-2026-06-12",
+  "display_name": "tango-app-api-trax",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tango-app-api-trax",
+      "ecosystem": "npm",
+      "versions": [
+        "3.9.21",
+        "3.9.32",
+        "3.9.39",
+        "3.9.43"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4682",
+          "osv_published_at": "2026-05-20T11:24:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:14:35Z",
+  "osv_earliest_published_at": "2026-05-20T11:24:49Z",
+  "hours_ahead_of_osv": -563.83,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:14:35Z"
+}
