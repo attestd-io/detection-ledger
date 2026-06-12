@@ -1,0 +1,39 @@
+{
+  "id": "claw-messenger-2026-06-12",
+  "display_name": "claw_messenger",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "claw_messenger",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.77",
+        "0.0.78",
+        "0.0.79",
+        "0.0.80",
+        "0.0.81",
+        "0.0.83",
+        "0.0.84",
+        "0.0.89",
+        "0.0.91",
+        "0.0.94",
+        "0.0.95"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4526",
+          "osv_published_at": "2026-05-21T02:59:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:12:45Z",
+  "osv_earliest_published_at": "2026-05-21T02:59:33Z",
+  "hours_ahead_of_osv": -548.22,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:13:09Z"
+}
