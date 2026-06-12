@@ -1,0 +1,30 @@
+{
+  "id": "saas-common-lib-473815-2026-06-12",
+  "display_name": "saas-common-lib-473815",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "saas-common-lib-473815",
+      "ecosystem": "pypi",
+      "versions": [
+        "3.4",
+        "3.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4766",
+          "osv_published_at": "2026-05-19T20:28:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:11:31Z",
+  "osv_earliest_published_at": "2026-05-19T20:28:28Z",
+  "hours_ahead_of_osv": -578.72,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:11:41Z"
+}
