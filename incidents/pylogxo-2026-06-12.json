@@ -1,0 +1,30 @@
+{
+  "id": "pylogxo-2026-06-12",
+  "display_name": "pylogxo",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pylogxo",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.3",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5679",
+          "osv_published_at": "2026-06-11T21:23:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T03:20:58Z",
+  "osv_earliest_published_at": "2026-06-11T21:23:33Z",
+  "hours_ahead_of_osv": -5.96,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T03:20:59Z"
+}
