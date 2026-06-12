@@ -1,0 +1,29 @@
+{
+  "id": "bricks-builder-mcp-2026-06-12",
+  "display_name": "bricks-builder-mcp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bricks-builder-mcp",
+      "ecosystem": "npm",
+      "versions": [
+        "3.12.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4500",
+          "osv_published_at": "2026-05-20T08:20:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:12:35Z",
+  "osv_earliest_published_at": "2026-05-20T08:20:22Z",
+  "hours_ahead_of_osv": -566.87,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:13:02Z"
+}
