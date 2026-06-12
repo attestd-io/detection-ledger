@@ -1,0 +1,29 @@
+{
+  "id": "aiscene-aiserver-2026-06-12",
+  "display_name": "@aiscene/aiserver",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@aiscene/aiserver",
+      "ecosystem": "npm",
+      "versions": [
+        "1.7.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3747",
+          "osv_published_at": "2026-05-14T18:32:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:12:22Z",
+  "osv_earliest_published_at": "2026-05-14T18:32:53Z",
+  "hours_ahead_of_osv": -700.66,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:12:32Z"
+}
