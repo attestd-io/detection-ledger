@@ -1,0 +1,30 @@
+{
+  "id": "openprompt-lang-2026-06-12",
+  "display_name": "openprompt-lang",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "openprompt-lang",
+      "ecosystem": "npm",
+      "versions": [
+        "1.5.0",
+        "1.6.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4630",
+          "osv_published_at": "2026-05-23T23:03:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:14:27Z",
+  "osv_earliest_published_at": "2026-05-23T23:03:36Z",
+  "hours_ahead_of_osv": -480.18,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:14:27Z"
+}
