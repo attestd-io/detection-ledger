@@ -6515,5 +6515,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:19:42Z"
+  },
+  {
+    "id": "ecto-nightly-spirit-2026-06-12",
+    "display_name": "ecto-nightly-spirit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ecto-nightly-spirit",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5688",
+            "osv_published_at": "2026-06-12T14:32:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:19:51Z",
+    "osv_earliest_published_at": "2026-06-12T14:32:51Z",
+    "hours_ahead_of_osv": -8.78,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:19:51Z"
   }
 ]
