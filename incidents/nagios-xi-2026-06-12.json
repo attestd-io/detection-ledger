@@ -1,0 +1,30 @@
+{
+  "id": "nagios-xi-2026-06-12",
+  "display_name": "nagios-xi",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nagios-xi",
+      "ecosystem": "pypi",
+      "versions": [
+        "19.4.0",
+        "19.5.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5698",
+          "osv_published_at": "2026-06-12T15:27:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T17:00:08Z",
+  "osv_earliest_published_at": "2026-06-12T15:27:24Z",
+  "hours_ahead_of_osv": -1.55,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T17:00:11Z"
+}
