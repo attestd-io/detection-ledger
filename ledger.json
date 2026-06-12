@@ -4939,5 +4939,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:13:12Z"
+  },
+  {
+    "id": "ezymail-2026-06-12",
+    "display_name": "ezymail",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ezymail",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4557",
+            "osv_published_at": "2026-05-20T02:05:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:12:53Z",
+    "osv_earliest_published_at": "2026-05-20T02:05:58Z",
+    "hours_ahead_of_osv": -573.12,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:13:15Z"
   }
 ]
