@@ -1,0 +1,29 @@
+{
+  "id": "sql-trigger-nodesql-2026-06-12",
+  "display_name": "@sql-trigger/nodesql",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sql-trigger/nodesql",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5395",
+          "osv_published_at": "2026-06-09T15:46:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:15:41Z",
+  "osv_earliest_published_at": "2026-06-09T15:46:48Z",
+  "hours_ahead_of_osv": -79.48,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:15:42Z"
+}
