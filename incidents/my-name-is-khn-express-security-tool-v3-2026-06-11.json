@@ -1,0 +1,29 @@
+{
+  "id": "my-name-is-khn-express-security-tool-v3-2026-06-11",
+  "display_name": "@my_name_is_khn/express-security-tool-v3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@my_name_is_khn/express-security-tool-v3",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5552",
+          "osv_published_at": "2026-06-11T02:51:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:07:45Z",
+  "osv_earliest_published_at": "2026-06-11T02:51:53Z",
+  "hours_ahead_of_osv": -10.26,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:07:55Z"
+}

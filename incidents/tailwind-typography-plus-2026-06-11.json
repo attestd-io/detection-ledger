@@ -1,0 +1,29 @@
+{
+  "id": "tailwind-typography-plus-2026-06-11",
+  "display_name": "tailwind-typography-plus",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tailwind-typography-plus",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5619",
+          "osv_published_at": "2026-06-11T07:38:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:14:19Z",
+  "osv_earliest_published_at": "2026-06-11T07:38:41Z",
+  "hours_ahead_of_osv": -5.59,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:14:41Z"
+}

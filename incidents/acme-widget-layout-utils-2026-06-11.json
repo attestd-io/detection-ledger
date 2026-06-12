@@ -1,0 +1,31 @@
+{
+  "id": "acme-widget-layout-utils-2026-06-11",
+  "display_name": "acme-widget-layout-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "acme-widget-layout-utils",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5545",
+          "osv_published_at": "2026-06-11T01:46:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:05:37Z",
+  "osv_earliest_published_at": "2026-06-11T01:46:15Z",
+  "hours_ahead_of_osv": -11.32,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:05:39Z"
+}

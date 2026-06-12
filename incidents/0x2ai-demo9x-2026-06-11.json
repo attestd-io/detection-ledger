@@ -1,0 +1,29 @@
+{
+  "id": "0x2ai-demo9x-2026-06-11",
+  "display_name": "0x2ai-demo9x",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "0x2ai-demo9x",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5598",
+          "osv_published_at": "2026-06-11T07:16:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:12:47Z",
+  "osv_earliest_published_at": "2026-06-11T07:16:11Z",
+  "hours_ahead_of_osv": -5.94,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:13:20Z"
+}

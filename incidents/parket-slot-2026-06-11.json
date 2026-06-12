@@ -1,0 +1,29 @@
+{
+  "id": "parket-slot-2026-06-11",
+  "display_name": "parket-slot",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "parket-slot",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5643",
+          "osv_published_at": "2026-06-11T12:42:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T14:32:25Z",
+  "osv_earliest_published_at": "2026-06-11T12:42:07Z",
+  "hours_ahead_of_osv": -1.84,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T14:32:49Z"
+}

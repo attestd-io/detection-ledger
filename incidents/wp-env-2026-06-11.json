@@ -1,0 +1,29 @@
+{
+  "id": "wp-env-2026-06-11",
+  "display_name": "wp-env",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wp-env",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5582",
+          "osv_published_at": "2026-06-11T05:05:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:12:19Z",
+  "osv_earliest_published_at": "2026-06-11T05:05:53Z",
+  "hours_ahead_of_osv": -8.11,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T13:12:34Z"
+}

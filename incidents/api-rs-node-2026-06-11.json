@@ -1,0 +1,29 @@
+{
+  "id": "api-rs-node-2026-06-11",
+  "display_name": "api-rs-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "api-rs-node",
+      "ecosystem": "npm",
+      "versions": [
+        "4.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4348",
+          "osv_published_at": "2026-05-25T17:38:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T14:32:21Z",
+  "osv_earliest_published_at": "2026-05-25T17:38:00Z",
+  "hours_ahead_of_osv": -404.91,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T14:32:22Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "whatnot-web-www-legacy-2026-06-11",
+  "display_name": "@whatnot-web/www-legacy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@whatnot-web/www-legacy",
+      "ecosystem": "npm",
+      "versions": [
+        "99.1.1",
+        "99.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5622",
+          "osv_published_at": "2026-06-11T09:26:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-11T13:14:41Z",
+  "osv_earliest_published_at": "2026-06-11T09:26:29Z",
+  "hours_ahead_of_osv": -3.8,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-11T14:32:30Z"
+}
