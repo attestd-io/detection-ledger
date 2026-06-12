@@ -7052,5 +7052,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:21:41Z"
+  },
+  {
+    "id": "workflow-postgres-setup-2026-06-12",
+    "display_name": "workflow-postgres-setup",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "workflow-postgres-setup",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5715",
+            "osv_published_at": "2026-06-12T19:48:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:21:43Z",
+    "osv_earliest_published_at": "2026-06-12T19:48:49Z",
+    "hours_ahead_of_osv": -3.55,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:21:44Z"
   }
 ]
