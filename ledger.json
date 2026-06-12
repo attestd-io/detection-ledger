@@ -5182,5 +5182,44 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:13:39Z"
+  },
+  {
+    "id": "nolimit-x-2026-06-12",
+    "display_name": "nolimit-x",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nolimit-x",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.216",
+          "1.0.220",
+          "1.0.227",
+          "1.0.236",
+          "1.0.239",
+          "1.0.240",
+          "1.0.256",
+          "1.0.263",
+          "1.0.264",
+          "1.0.267",
+          "1.0.274"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4621",
+            "osv_published_at": "2026-05-20T09:07:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:13:51Z",
+    "osv_earliest_published_at": "2026-05-20T09:07:46Z",
+    "hours_ahead_of_osv": -566.1,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:13:51Z"
   }
 ]
