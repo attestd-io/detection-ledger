@@ -1,0 +1,35 @@
+{
+  "id": "ect-654321-2026-06-12",
+  "display_name": "ect-654321",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ect-654321",
+      "ecosystem": "npm",
+      "versions": [
+        "100.0.0",
+        "100.0.1",
+        "100.0.2",
+        "100.0.3",
+        "100.0.4",
+        "100.0.7",
+        "100.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5719",
+          "osv_published_at": "2026-06-12T21:31:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:22:15Z",
+  "osv_earliest_published_at": "2026-06-12T21:31:04Z",
+  "hours_ahead_of_osv": -1.85,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:22:15Z"
+}
