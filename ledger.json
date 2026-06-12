@@ -5998,5 +5998,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:16:37Z"
+  },
+  {
+    "id": "mcp-server-sequential-thinking-2026-06-12",
+    "display_name": "mcp-server-sequential-thinking",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mcp-server-sequential-thinking",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5484",
+            "osv_published_at": "2026-06-09T20:34:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:16:27Z",
+    "osv_earliest_published_at": "2026-06-09T20:34:37Z",
+    "hours_ahead_of_osv": -74.7,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:16:40Z"
   }
 ]
