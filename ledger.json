@@ -4208,5 +4208,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:11:31Z"
+  },
+  {
+    "id": "crw-2026-06-12",
+    "display_name": "crw",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "crw",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.13.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4746",
+            "osv_published_at": "2026-05-19T19:42:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:11:29Z",
+    "osv_earliest_published_at": "2026-05-19T19:42:27Z",
+    "hours_ahead_of_osv": -579.48,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:11:35Z"
   }
 ]
