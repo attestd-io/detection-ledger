@@ -1,0 +1,33 @@
+{
+  "id": "claudechor-2026-06-12",
+  "display_name": "claudechor",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "claudechor",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5717",
+          "osv_published_at": "2026-06-12T20:57:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:21:59Z",
+  "osv_earliest_published_at": "2026-06-12T20:57:29Z",
+  "hours_ahead_of_osv": -2.41,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:21:59Z"
+}
