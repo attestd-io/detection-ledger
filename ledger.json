@@ -6659,5 +6659,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T23:20:07Z"
+  },
+  {
+    "id": "vite-react-toolkit-2026-06-12",
+    "display_name": "vite-react-toolkit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vite-react-toolkit",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5701",
+            "osv_published_at": "2026-06-12T16:11:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:20:45Z",
+    "osv_earliest_published_at": "2026-06-12T16:11:50Z",
+    "hours_ahead_of_osv": -7.15,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T23:20:47Z"
   }
 ]
