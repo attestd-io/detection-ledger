@@ -1,0 +1,29 @@
+{
+  "id": "regexp-ts-2026-06-12",
+  "display_name": "regexp-ts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "regexp-ts",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5310",
+          "osv_published_at": "2026-06-08T09:27:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:14:57Z",
+  "osv_earliest_published_at": "2026-06-08T09:27:28Z",
+  "hours_ahead_of_osv": -109.79,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:15:05Z"
+}
