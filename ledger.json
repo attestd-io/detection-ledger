@@ -3995,5 +3995,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-12T17:00:11Z"
+  },
+  {
+    "id": "sea-bound-siren-2026-06-12",
+    "display_name": "sea-bound-siren",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sea-bound-siren",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0",
+          "99.0.1",
+          "99.0.2",
+          "99.0.4",
+          "99.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5693",
+            "osv_published_at": "2026-06-12T14:32:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T17:01:05Z",
+    "osv_earliest_published_at": "2026-06-12T14:32:51Z",
+    "hours_ahead_of_osv": -2.47,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-12T17:01:09Z"
   }
 ]
