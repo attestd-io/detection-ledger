@@ -1,0 +1,29 @@
+{
+  "id": "ect-472839-ctf-2026-06-12",
+  "display_name": "ect-472839-ctf",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ect-472839-ctf",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5718",
+          "osv_published_at": "2026-06-12T21:31:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-12T23:22:01Z",
+  "osv_earliest_published_at": "2026-06-12T21:31:07Z",
+  "hours_ahead_of_osv": -1.85,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-12T23:22:02Z"
+}
