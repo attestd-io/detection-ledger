@@ -5473,5 +5473,34 @@
     "press_urls": [],
     "advisory_url": "https://safedep.io/oob-moika-tech-dependency-confusion-campaign/",
     "ledger_commit_at": "2026-06-12T23:14:52Z"
+  },
+  {
+    "id": "emcd-vue-loans-2026-06-12",
+    "display_name": "@emcd-vue/loans",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@emcd-vue/loans",
+        "ecosystem": "npm",
+        "versions": [
+          "7.1.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5165",
+            "osv_published_at": "2026-06-01T07:05:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-12T23:14:49Z",
+    "osv_earliest_published_at": "2026-06-01T07:05:43Z",
+    "hours_ahead_of_osv": -280.15,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://safedep.io/oob-moika-tech-dependency-confusion-campaign/",
+    "ledger_commit_at": "2026-06-12T23:14:55Z"
   }
 ]
