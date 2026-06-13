@@ -7568,5 +7568,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-13T11:45:18Z"
+  },
+  {
+    "id": "houzidawang808-2026-06-13",
+    "display_name": "houzidawang808",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "houzidawang808",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5732",
+            "osv_published_at": "2026-06-13T06:51:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-13T11:45:14Z",
+    "osv_earliest_published_at": "2026-06-13T06:51:37Z",
+    "hours_ahead_of_osv": -4.89,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-13T11:45:21Z"
   }
 ]
