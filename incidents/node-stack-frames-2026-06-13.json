@@ -1,0 +1,29 @@
+{
+  "id": "node-stack-frames-2026-06-13",
+  "display_name": "node-stack-frames",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "node-stack-frames",
+      "ecosystem": "npm",
+      "versions": [
+        "4.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5736",
+          "osv_published_at": "2026-06-13T07:00:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-13T11:45:17Z",
+  "osv_earliest_published_at": "2026-06-13T07:00:10Z",
+  "hours_ahead_of_osv": -4.75,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-13T11:45:35Z"
+}
