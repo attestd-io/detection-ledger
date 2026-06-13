@@ -7342,5 +7342,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-13T05:33:50Z"
+  },
+  {
+    "id": "warp-dependency-2026-06-13",
+    "display_name": "warp-dependency",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "warp-dependency",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5724",
+            "osv_published_at": "2026-06-13T02:10:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-13T05:33:47Z",
+    "osv_earliest_published_at": "2026-06-13T02:10:04Z",
+    "hours_ahead_of_osv": -3.4,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-13T05:33:54Z"
   }
 ]
