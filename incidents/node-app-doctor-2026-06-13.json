@@ -1,0 +1,31 @@
+{
+  "id": "node-app-doctor-2026-06-13",
+  "display_name": "node-app-doctor",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "node-app-doctor",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5733",
+          "osv_published_at": "2026-06-13T06:58:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-13T11:45:16Z",
+  "osv_earliest_published_at": "2026-06-13T06:58:16Z",
+  "hours_ahead_of_osv": -4.78,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-13T11:45:25Z"
+}
