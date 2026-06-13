@@ -1,0 +1,33 @@
+{
+  "id": "dash-grid-normalizer-2026-06-13",
+  "display_name": "dash-grid-normalizer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dash-grid-normalizer",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5725",
+          "osv_published_at": "2026-06-13T01:03:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-13T05:33:06Z",
+  "osv_earliest_published_at": "2026-06-13T01:03:41Z",
+  "hours_ahead_of_osv": -4.49,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-13T05:33:06Z"
+}
