@@ -7961,5 +7961,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-14T00:11:41Z"
+  },
+  {
+    "id": "loadninja-shared-2026-06-14",
+    "display_name": "loadninja-shared",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "loadninja-shared",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5744",
+            "osv_published_at": "2026-06-13T20:03:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-14T00:11:28Z",
+    "osv_earliest_published_at": "2026-06-13T20:03:43Z",
+    "hours_ahead_of_osv": -4.13,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-14T00:11:44Z"
   }
 ]
