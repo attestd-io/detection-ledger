@@ -8304,5 +8304,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-14T06:23:36Z"
+  },
+  {
+    "id": "easyaillm-2026-06-14",
+    "display_name": "easyaillm",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "easyaillm",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.0.15",
+          "2.0.16"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5756",
+            "osv_published_at": "2026-06-14T01:55:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-14T06:23:36Z",
+    "osv_earliest_published_at": "2026-06-14T01:55:27Z",
+    "hours_ahead_of_osv": -4.47,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-14T06:23:39Z"
   }
 ]
