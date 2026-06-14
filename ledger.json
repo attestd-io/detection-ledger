@@ -8753,5 +8753,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-14T18:43:22Z"
+  },
+  {
+    "id": "llamagenerator-2026-06-14",
+    "display_name": "llamagenerator",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "llamagenerator",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.22"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5771",
+            "osv_published_at": "2026-06-14T12:50:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-14T18:43:23Z",
+    "osv_earliest_published_at": "2026-06-14T12:50:38Z",
+    "hours_ahead_of_osv": -5.88,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-14T18:43:26Z"
   }
 ]
