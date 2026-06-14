@@ -8427,5 +8427,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-14T12:33:22Z"
+  },
+  {
+    "id": "ezllmgen-2026-06-14",
+    "display_name": "ezllmgen",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ezllmgen",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.21"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5769",
+            "osv_published_at": "2026-06-14T08:53:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-14T12:33:17Z",
+    "osv_earliest_published_at": "2026-06-14T08:53:49Z",
+    "hours_ahead_of_osv": -3.66,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-14T12:33:26Z"
   }
 ]
