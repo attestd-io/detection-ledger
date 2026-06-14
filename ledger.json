@@ -7811,5 +7811,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-13T11:45:45Z"
+  },
+  {
+    "id": "salesforce-sysutils-diagnostics-2026-06-14",
+    "display_name": "salesforce-sysutils-diagnostics",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "salesforce-sysutils-diagnostics",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5754",
+            "osv_published_at": "2026-06-13T21:38:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-14T00:10:41Z",
+    "osv_earliest_published_at": "2026-06-13T21:38:10Z",
+    "hours_ahead_of_osv": -2.54,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-14T00:10:42Z"
   }
 ]
