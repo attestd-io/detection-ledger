@@ -1,0 +1,29 @@
+{
+  "id": "ltidiconf-2026-06-14",
+  "display_name": "ltidiconf",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ltidiconf",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5767",
+          "osv_published_at": "2026-06-14T09:54:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T12:34:07Z",
+  "osv_earliest_published_at": "2026-06-14T09:54:09Z",
+  "hours_ahead_of_osv": -2.67,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T12:34:31Z"
+}
