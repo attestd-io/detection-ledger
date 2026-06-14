@@ -8461,5 +8461,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-14T12:33:26Z"
+  },
+  {
+    "id": "npm-sandbox-ping-c8f2a-2026-06-14",
+    "display_name": "npm-sandbox-ping-c8f2a",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "npm-sandbox-ping-c8f2a",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5757",
+            "osv_published_at": "2026-06-14T07:30:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-14T12:34:00Z",
+    "osv_earliest_published_at": "2026-06-14T07:30:47Z",
+    "hours_ahead_of_osv": -5.05,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-14T12:34:04Z"
   }
 ]
