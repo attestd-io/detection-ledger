@@ -1,0 +1,29 @@
+{
+  "id": "npm-sandbox-research-d7e8-2026-06-14",
+  "display_name": "npm-sandbox-research-d7e8",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "npm-sandbox-research-d7e8",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5761",
+          "osv_published_at": "2026-06-14T07:30:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T12:34:02Z",
+  "osv_earliest_published_at": "2026-06-14T07:30:44Z",
+  "hours_ahead_of_osv": -5.05,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T12:34:17Z"
+}
