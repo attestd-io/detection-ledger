@@ -1,0 +1,35 @@
+{
+  "id": "mailconfirmer-2026-06-14",
+  "display_name": "mailconfirmer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mailconfirmer",
+      "ecosystem": "npm",
+      "versions": [
+        "3.2.34",
+        "3.2.35",
+        "3.2.36",
+        "3.2.38",
+        "3.3.11",
+        "3.3.12",
+        "3.3.13"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5750",
+          "osv_published_at": "2026-06-13T21:10:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T00:11:36Z",
+  "osv_earliest_published_at": "2026-06-13T21:10:40Z",
+  "hours_ahead_of_osv": -3.02,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T00:12:04Z"
+}
