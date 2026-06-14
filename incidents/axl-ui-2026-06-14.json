@@ -1,0 +1,29 @@
+{
+  "id": "axl-ui-2026-06-14",
+  "display_name": "axl-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "axl-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5742",
+          "osv_published_at": "2026-06-13T20:11:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T00:11:27Z",
+  "osv_earliest_published_at": "2026-06-13T20:11:39Z",
+  "hours_ahead_of_osv": -4.0,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T00:11:37Z"
+}
