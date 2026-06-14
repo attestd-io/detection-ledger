@@ -1,0 +1,29 @@
+{
+  "id": "oa-crm-webapi-2026-06-14",
+  "display_name": "oa-crm-webapi",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "oa-crm-webapi",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5745",
+          "osv_published_at": "2026-06-13T20:11:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T00:11:28Z",
+  "osv_earliest_published_at": "2026-06-13T20:11:58Z",
+  "hours_ahead_of_osv": -3.99,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T00:11:47Z"
+}
