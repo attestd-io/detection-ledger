@@ -1,0 +1,29 @@
+{
+  "id": "anthropickit-2026-06-14",
+  "display_name": "anthropickit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "anthropickit",
+      "ecosystem": "pypi",
+      "versions": [
+        "999.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5755",
+          "osv_published_at": "2026-06-14T01:37:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T06:23:36Z",
+  "osv_earliest_published_at": "2026-06-14T01:37:46Z",
+  "hours_ahead_of_osv": -4.76,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T06:23:36Z"
+}
