@@ -1,0 +1,29 @@
+{
+  "id": "easy-time666-2026-06-14",
+  "display_name": "easy-time666",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "easy-time666",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5749",
+          "osv_published_at": "2026-06-13T21:05:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T00:11:32Z",
+  "osv_earliest_published_at": "2026-06-13T21:05:45Z",
+  "hours_ahead_of_osv": -3.1,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T00:12:01Z"
+}
