@@ -1,0 +1,29 @@
+{
+  "id": "oh-my-ashclaw-2026-06-14",
+  "display_name": "oh-my-ashclaw",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "oh-my-ashclaw",
+      "ecosystem": "npm",
+      "versions": [
+        "4.11.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5751",
+          "osv_published_at": "2026-06-13T20:59:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T00:11:36Z",
+  "osv_earliest_published_at": "2026-06-13T20:59:00Z",
+  "hours_ahead_of_osv": -3.21,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T00:12:08Z"
+}
