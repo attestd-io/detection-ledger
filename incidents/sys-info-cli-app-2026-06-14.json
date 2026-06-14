@@ -1,0 +1,31 @@
+{
+  "id": "sys-info-cli-app-2026-06-14",
+  "display_name": "sys-info-cli-app",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sys-info-cli-app",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5764",
+          "osv_published_at": "2026-06-14T07:21:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T12:34:06Z",
+  "osv_earliest_published_at": "2026-06-14T07:21:56Z",
+  "hours_ahead_of_osv": -5.2,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T12:34:27Z"
+}
