@@ -1,0 +1,29 @@
+{
+  "id": "llmgenerator-2026-06-14",
+  "display_name": "llmgenerator",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "llmgenerator",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.21"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5770",
+          "osv_published_at": "2026-06-14T11:41:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-14T18:43:22Z",
+  "osv_earliest_published_at": "2026-06-14T11:41:32Z",
+  "hours_ahead_of_osv": -7.03,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-14T18:43:22Z"
+}
