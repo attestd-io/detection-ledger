@@ -1,0 +1,29 @@
+{
+  "id": "cardano-addresses-docs-2026-06-15",
+  "display_name": "cardano-addresses-docs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cardano-addresses-docs",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5802",
+          "osv_published_at": "2026-06-15T18:26:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T20:24:31Z",
+  "osv_earliest_published_at": "2026-06-15T18:26:01Z",
+  "hours_ahead_of_osv": -1.98,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T20:24:35Z"
+}
