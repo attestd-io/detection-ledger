@@ -9902,5 +9902,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:23:38Z"
+  },
+  {
+    "id": "solana-labs-web3js-2026-06-15",
+    "display_name": "@solana-labs/web3js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@solana-labs/web3js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.10",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5788",
+            "osv_published_at": "2026-06-15T17:15:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:22:59Z",
+    "osv_earliest_published_at": "2026-06-15T17:15:14Z",
+    "hours_ahead_of_osv": -3.13,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:23:42Z"
   }
 ]
