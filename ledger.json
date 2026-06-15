@@ -9492,5 +9492,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:22:32Z"
+  },
+  {
+    "id": "sl-pgp-2026-06-15",
+    "display_name": "sl-pgp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sl-pgp",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.2160.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5823",
+            "osv_published_at": "2026-06-15T17:37:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:21:38Z",
+    "osv_earliest_published_at": "2026-06-15T17:37:34Z",
+    "hours_ahead_of_osv": -2.73,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:22:36Z"
   }
 ]
