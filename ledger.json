@@ -9112,5 +9112,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:21:42Z"
+  },
+  {
+    "id": "dispatch-internal-plugins-2026-06-15",
+    "display_name": "dispatch-internal-plugins",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dispatch-internal-plugins",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.2160.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5810",
+            "osv_published_at": "2026-06-15T17:39:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:21:30Z",
+    "osv_earliest_published_at": "2026-06-15T17:39:31Z",
+    "hours_ahead_of_osv": -2.7,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:21:46Z"
   }
 ]
