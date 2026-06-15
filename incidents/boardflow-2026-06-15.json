@@ -1,0 +1,30 @@
+{
+  "id": "boardflow-2026-06-15",
+  "display_name": "boardflow",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "boardflow",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.4",
+        "1.1.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5799",
+          "osv_published_at": "2026-06-15T17:30:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T20:24:09Z",
+  "osv_earliest_published_at": "2026-06-15T17:30:59Z",
+  "hours_ahead_of_osv": -2.89,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T20:24:15Z"
+}
