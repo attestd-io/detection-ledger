@@ -1,0 +1,29 @@
+{
+  "id": "hemi-supply-cron-2026-06-15",
+  "display_name": "hemi-supply-cron",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hemi-supply-cron",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5779",
+          "osv_published_at": "2026-06-15T15:09:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T20:22:29Z",
+  "osv_earliest_published_at": "2026-06-15T15:09:34Z",
+  "hours_ahead_of_osv": -5.22,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T20:23:05Z"
+}
