@@ -8873,5 +8873,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T07:05:40Z"
+  },
+  {
+    "id": "whatsfly-labfox-2026-06-15",
+    "display_name": "whatsfly-labfox",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "whatsfly-labfox",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4776",
+            "osv_published_at": "2026-05-24T16:52:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T07:05:40Z",
+    "osv_earliest_published_at": "2026-05-24T16:52:10Z",
+    "hours_ahead_of_osv": -518.23,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T07:05:44Z"
   }
 ]
