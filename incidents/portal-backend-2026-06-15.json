@@ -1,0 +1,29 @@
+{
+  "id": "portal-backend-2026-06-15",
+  "display_name": "portal-backend",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "portal-backend",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5781",
+          "osv_published_at": "2026-06-15T15:10:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T20:22:30Z",
+  "osv_earliest_published_at": "2026-06-15T15:10:14Z",
+  "hours_ahead_of_osv": -5.2,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T20:23:13Z"
+}
