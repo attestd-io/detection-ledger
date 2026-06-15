@@ -8902,5 +8902,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T07:05:44Z"
+  },
+  {
+    "id": "m-at-star-tools-2026-06-15",
+    "display_name": "m-at-star-tools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "m-at-star-tools",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0",
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4812",
+            "osv_published_at": "2026-05-26T10:43:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T07:05:41Z",
+    "osv_earliest_published_at": "2026-05-26T10:43:03Z",
+    "hours_ahead_of_osv": -476.38,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T07:05:48Z"
   }
 ]
