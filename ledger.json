@@ -9716,5 +9716,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:23:13Z"
+  },
+  {
+    "id": "token-prices-cron-2026-06-15",
+    "display_name": "token-prices-cron",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "token-prices-cron",
+        "ecosystem": "npm",
+        "versions": [
+          "999.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5782",
+            "osv_published_at": "2026-06-15T15:09:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:22:30Z",
+    "osv_earliest_published_at": "2026-06-15T15:09:45Z",
+    "hours_ahead_of_osv": -5.21,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:23:18Z"
   }
 ]
