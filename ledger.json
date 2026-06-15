@@ -8842,5 +8842,36 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-14T18:44:05Z"
+  },
+  {
+    "id": "projz-py-2026-06-15",
+    "display_name": "projz-py",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "projz-py",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.7.1",
+          "1.8.2",
+          "2.3.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3696",
+            "osv_published_at": "2026-05-12T07:43:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T07:05:40Z",
+    "osv_earliest_published_at": "2026-05-12T07:43:32Z",
+    "hours_ahead_of_osv": -815.37,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T07:05:40Z"
   }
 ]
