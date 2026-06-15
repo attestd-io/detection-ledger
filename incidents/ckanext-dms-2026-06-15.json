@@ -1,0 +1,30 @@
+{
+  "id": "ckanext-dms-2026-06-15",
+  "display_name": "ckanext-dms",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ckanext-dms",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0",
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5775",
+          "osv_published_at": "2026-06-15T09:40:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T14:09:35Z",
+  "osv_earliest_published_at": "2026-06-15T09:40:32Z",
+  "hours_ahead_of_osv": -4.48,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T14:09:36Z"
+}
