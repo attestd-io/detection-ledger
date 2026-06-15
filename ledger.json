@@ -9260,5 +9260,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:22:01Z"
+  },
+  {
+    "id": "kinto-slack-2026-06-15",
+    "display_name": "kinto-slack",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "kinto-slack",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.2160.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5815",
+            "osv_published_at": "2026-06-15T17:36:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:21:35Z",
+    "osv_earliest_published_at": "2026-06-15T17:36:49Z",
+    "hours_ahead_of_osv": -2.75,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:22:05Z"
   }
 ]
