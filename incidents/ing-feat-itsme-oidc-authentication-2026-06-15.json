@@ -1,0 +1,29 @@
+{
+  "id": "ing-feat-itsme-oidc-authentication-2026-06-15",
+  "display_name": "ing-feat-itsme-oidc-authentication",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ing-feat-itsme-oidc-authentication",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5780",
+          "osv_published_at": "2026-06-15T15:10:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T20:22:30Z",
+  "osv_earliest_published_at": "2026-06-15T15:10:24Z",
+  "hours_ahead_of_osv": -5.2,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T20:23:09Z"
+}
