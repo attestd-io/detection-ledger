@@ -9318,5 +9318,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:22:09Z"
+  },
+  {
+    "id": "merino-common-2026-06-15",
+    "display_name": "merino-common",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "merino-common",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.2160.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5817",
+            "osv_published_at": "2026-06-15T17:39:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:21:36Z",
+    "osv_earliest_published_at": "2026-06-15T17:39:45Z",
+    "hours_ahead_of_osv": -2.7,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:22:13Z"
   }
 ]
