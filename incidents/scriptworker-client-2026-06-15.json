@@ -1,0 +1,29 @@
+{
+  "id": "scriptworker-client-2026-06-15",
+  "display_name": "scriptworker-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "scriptworker-client",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.2160.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5822",
+          "osv_published_at": "2026-06-15T17:36:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T20:21:38Z",
+  "osv_earliest_published_at": "2026-06-15T17:36:19Z",
+  "hours_ahead_of_osv": -2.76,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T20:22:32Z"
+}
