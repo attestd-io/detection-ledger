@@ -1,0 +1,30 @@
+{
+  "id": "intel-ai-safety-2026-06-15",
+  "display_name": "intel-ai-safety",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "intel-ai-safety",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.0",
+        "2.2160.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5813",
+          "osv_published_at": "2026-06-15T17:37:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-15T20:21:34Z",
+  "osv_earliest_published_at": "2026-06-15T17:37:45Z",
+  "hours_ahead_of_osv": -2.73,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-15T20:21:58Z"
+}
