@@ -10290,5 +10290,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:24:35Z"
+  },
+  {
+    "id": "flow-lending-2026-06-15",
+    "display_name": "flow-lending",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "flow-lending",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5803",
+            "osv_published_at": "2026-06-15T17:24:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:24:33Z",
+    "osv_earliest_published_at": "2026-06-15T17:24:05Z",
+    "hours_ahead_of_osv": -3.01,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:24:39Z"
   }
 ]
