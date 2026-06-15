@@ -9347,5 +9347,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-15T20:22:13Z"
+  },
+  {
+    "id": "mlir-aie-2026-06-15",
+    "display_name": "mlir-aie",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mlir-aie",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.2160.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5818",
+            "osv_published_at": "2026-06-15T17:37:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-15T20:21:36Z",
+    "osv_earliest_published_at": "2026-06-15T17:37:48Z",
+    "hours_ahead_of_osv": -2.73,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-15T20:22:17Z"
   }
 ]
