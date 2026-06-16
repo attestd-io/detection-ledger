@@ -12112,5 +12112,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T23:05:37Z"
+  },
+  {
+    "id": "react-hook-use-debounce-throttle-12-2026-06-16",
+    "display_name": "react-hook-use-debounce-throttle-12",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-hook-use-debounce-throttle-12",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5909",
+            "osv_published_at": "2026-06-16T17:24:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T23:05:01Z",
+    "osv_earliest_published_at": "2026-06-16T17:24:02Z",
+    "hours_ahead_of_osv": -5.68,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T23:05:41Z"
   }
 ]
