@@ -11615,5 +11615,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T16:53:01Z"
+  },
+  {
+    "id": "easyllmai-2026-06-16",
+    "display_name": "easyllmai",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "easyllmai",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.1",
+          "4.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5895",
+            "osv_published_at": "2026-06-16T16:01:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T16:52:27Z",
+    "osv_earliest_published_at": "2026-06-16T16:01:58Z",
+    "hours_ahead_of_osv": -0.84,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T16:53:05Z"
   }
 ]
