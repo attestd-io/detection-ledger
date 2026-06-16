@@ -1,0 +1,29 @@
+{
+  "id": "motion-lib-2026-06-16",
+  "display_name": "motion-lib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "motion-lib",
+      "ecosystem": "npm",
+      "versions": [
+        "2.3.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5925",
+          "osv_published_at": "2026-06-16T19:46:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T23:05:57Z",
+  "osv_earliest_published_at": "2026-06-16T19:46:09Z",
+  "hours_ahead_of_osv": -3.33,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T23:06:39Z"
+}
