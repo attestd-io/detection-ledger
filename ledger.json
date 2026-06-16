@@ -11441,5 +11441,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T16:52:36Z"
+  },
+  {
+    "id": "dsft-ft-element-2026-06-16",
+    "display_name": "@dsft/ft-element",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@dsft/ft-element",
+        "ecosystem": "npm",
+        "versions": [
+          "2.5.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5889",
+            "osv_published_at": "2026-06-16T15:27:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T16:52:23Z",
+    "osv_earliest_published_at": "2026-06-16T15:27:18Z",
+    "hours_ahead_of_osv": -1.42,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T16:52:41Z"
   }
 ]
