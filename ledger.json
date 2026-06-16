@@ -10925,5 +10925,41 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T02:36:40Z"
+  },
+  {
+    "id": "wacrot-infra-data-kit-2026-06-16",
+    "display_name": "@wacrot/infra-data-kit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wacrot/infra-data-kit",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.6",
+          "2.0.7",
+          "2.0.8",
+          "2.0.9",
+          "2.1.0",
+          "2.1.1",
+          "2.1.2",
+          "2.1.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5834",
+            "osv_published_at": "2026-06-15T20:55:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T02:35:51Z",
+    "osv_earliest_published_at": "2026-06-15T20:55:15Z",
+    "hours_ahead_of_osv": -5.68,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T02:36:44Z"
   }
 ]
