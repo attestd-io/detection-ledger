@@ -11873,5 +11873,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T23:05:07Z"
+  },
+  {
+    "id": "chai-as-polished-2026-06-16",
+    "display_name": "chai-as-polished",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-as-polished",
+        "ecosystem": "npm",
+        "versions": [
+          "7.0.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5901",
+            "osv_published_at": "2026-06-16T16:22:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T23:04:55Z",
+    "osv_earliest_published_at": "2026-06-16T16:22:51Z",
+    "hours_ahead_of_osv": -6.7,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T23:05:11Z"
   }
 ]
