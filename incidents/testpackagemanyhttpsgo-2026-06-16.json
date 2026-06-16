@@ -1,0 +1,29 @@
+{
+  "id": "testpackagemanyhttpsgo-2026-06-16",
+  "display_name": "testpackagemanyhttpsgo",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "testpackagemanyhttpsgo",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.26"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5840",
+          "osv_published_at": "2026-06-15T22:00:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T02:34:45Z",
+  "osv_earliest_published_at": "2026-06-15T22:00:38Z",
+  "hours_ahead_of_osv": -4.57,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T02:34:52Z"
+}
