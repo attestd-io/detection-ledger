@@ -11167,5 +11167,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T10:16:14Z"
+  },
+  {
+    "id": "vitest-pro-2026-06-16",
+    "display_name": "vitest-pro",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vitest-pro",
+        "ecosystem": "npm",
+        "versions": [
+          "7.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5862",
+            "osv_published_at": "2026-06-16T03:02:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T10:16:09Z",
+    "osv_earliest_published_at": "2026-06-16T03:02:30Z",
+    "hours_ahead_of_osv": -7.23,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T10:16:18Z"
   }
 ]
