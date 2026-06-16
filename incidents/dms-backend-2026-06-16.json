@@ -1,0 +1,29 @@
+{
+  "id": "dms-backend-2026-06-16",
+  "display_name": "dms-backend",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dms-backend",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5826",
+          "osv_published_at": "2026-06-15T20:08:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T02:35:43Z",
+  "osv_earliest_published_at": "2026-06-15T20:08:26Z",
+  "hours_ahead_of_osv": -6.45,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T02:36:15Z"
+}
