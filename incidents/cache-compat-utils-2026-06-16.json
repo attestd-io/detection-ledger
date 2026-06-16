@@ -1,0 +1,29 @@
+{
+  "id": "cache-compat-utils-2026-06-16",
+  "display_name": "cache-compat-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cache-compat-utils",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5878",
+          "osv_published_at": "2026-06-16T10:59:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T16:51:34Z",
+  "osv_earliest_published_at": "2026-06-16T10:59:10Z",
+  "hours_ahead_of_osv": -5.87,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T16:51:48Z"
+}
