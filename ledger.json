@@ -10780,5 +10780,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T02:36:23Z"
+  },
+  {
+    "id": "unico-android-2026-06-16",
+    "display_name": "unico-android",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "unico-android",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5829",
+            "osv_published_at": "2026-06-15T19:59:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T02:35:46Z",
+    "osv_earliest_published_at": "2026-06-15T19:59:36Z",
+    "hours_ahead_of_osv": -6.6,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T02:36:27Z"
   }
 ]
