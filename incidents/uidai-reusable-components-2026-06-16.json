@@ -1,0 +1,33 @@
+{
+  "id": "uidai-reusable-components-2026-06-16",
+  "display_name": "uidai_reusable_components",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "uidai_reusable_components",
+      "ecosystem": "npm",
+      "versions": [
+        "0.4.2",
+        "0.4.3",
+        "0.4.4",
+        "0.4.5",
+        "0.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5910",
+          "osv_published_at": "2026-06-16T16:14:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T23:05:11Z",
+  "osv_earliest_published_at": "2026-06-16T16:14:33Z",
+  "hours_ahead_of_osv": -6.84,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T23:05:44Z"
+}
