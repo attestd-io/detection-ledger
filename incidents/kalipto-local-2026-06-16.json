@@ -1,0 +1,32 @@
+{
+  "id": "kalipto-local-2026-06-16",
+  "display_name": "@kalipto/local",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@kalipto/local",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5922",
+          "osv_published_at": "2026-06-16T20:07:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T23:05:49Z",
+  "osv_earliest_published_at": "2026-06-16T20:07:17Z",
+  "hours_ahead_of_osv": -2.98,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T23:06:29Z"
+}
