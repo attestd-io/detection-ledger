@@ -10961,5 +10961,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T02:36:44Z"
+  },
+  {
+    "id": "lab-helper-2026-06-16",
+    "display_name": "lab-helper",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lab-helper",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5835",
+            "osv_published_at": "2026-06-15T21:03:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T02:35:51Z",
+    "osv_earliest_published_at": "2026-06-15T21:03:46Z",
+    "hours_ahead_of_osv": -5.53,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T02:36:48Z"
   }
 ]
