@@ -1,0 +1,29 @@
+{
+  "id": "caspian-day-js-2026-06-16",
+  "display_name": "caspian-day-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "caspian-day-js",
+      "ecosystem": "npm",
+      "versions": [
+        "1.11.23"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5892",
+          "osv_published_at": "2026-06-16T16:01:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T16:52:25Z",
+  "osv_earliest_published_at": "2026-06-16T16:01:36Z",
+  "hours_ahead_of_osv": -0.85,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T16:52:53Z"
+}
