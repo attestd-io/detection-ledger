@@ -11677,5 +11677,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T16:53:09Z"
+  },
+  {
+    "id": "noderzero-2026-06-16",
+    "display_name": "noderzero",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "noderzero",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5897",
+            "osv_published_at": "2026-06-16T15:29:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T16:52:30Z",
+    "osv_earliest_published_at": "2026-06-16T15:29:12Z",
+    "hours_ahead_of_osv": -1.39,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T16:53:13Z"
   }
 ]
