@@ -12529,5 +12529,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T23:06:29Z"
+  },
+  {
+    "id": "welcome-onboarding-web-mobile-focus-account-beta-merging-2026-06-16",
+    "display_name": "@welcome-onboarding-web/mobile-focus-account-beta-merging",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@welcome-onboarding-web/mobile-focus-account-beta-merging",
+        "ecosystem": "npm",
+        "versions": [
+          "4.28.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5923",
+            "osv_published_at": "2026-06-16T19:59:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T23:05:51Z",
+    "osv_earliest_published_at": "2026-06-16T19:59:43Z",
+    "hours_ahead_of_osv": -3.1,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T23:06:32Z"
   }
 ]
