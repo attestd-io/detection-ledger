@@ -11992,5 +11992,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T23:05:23Z"
+  },
+  {
+    "id": "chai-plugin-helper-2026-06-16",
+    "display_name": "chai-plugin-helper",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-plugin-helper",
+        "ecosystem": "npm",
+        "versions": [
+          "1.7.3",
+          "1.7.4",
+          "1.7.5",
+          "1.7.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5905",
+            "osv_published_at": "2026-06-16T16:32:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T23:04:59Z",
+    "osv_earliest_published_at": "2026-06-16T16:32:26Z",
+    "hours_ahead_of_osv": -6.54,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T23:05:27Z"
   }
 ]
