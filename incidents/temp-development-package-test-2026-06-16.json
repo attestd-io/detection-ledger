@@ -1,0 +1,32 @@
+{
+  "id": "temp-development-package-test-2026-06-16",
+  "display_name": "temp-development-package-test",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "temp-development-package-test",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5876",
+          "osv_published_at": "2026-06-16T09:48:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T16:51:34Z",
+  "osv_earliest_published_at": "2026-06-16T09:48:43Z",
+  "hours_ahead_of_osv": -7.05,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T16:51:44Z"
+}
