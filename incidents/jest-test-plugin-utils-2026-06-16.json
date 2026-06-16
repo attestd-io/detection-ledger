@@ -1,0 +1,32 @@
+{
+  "id": "jest-test-plugin-utils-2026-06-16",
+  "display_name": "jest-test-plugin-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jest-test-plugin-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5896",
+          "osv_published_at": "2026-06-16T15:37:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T16:52:28Z",
+  "osv_earliest_published_at": "2026-06-16T15:37:20Z",
+  "hours_ahead_of_osv": -1.25,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T16:53:09Z"
+}
