@@ -10751,5 +10751,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T02:36:19Z"
+  },
+  {
+    "id": "ogd-platform-2026-06-16",
+    "display_name": "ogd-platform",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ogd-platform",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5828",
+            "osv_published_at": "2026-06-15T20:08:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T02:35:45Z",
+    "osv_earliest_published_at": "2026-06-15T20:08:22Z",
+    "hours_ahead_of_osv": -6.46,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T02:36:23Z"
   }
 ]
