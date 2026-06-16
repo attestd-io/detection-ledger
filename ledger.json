@@ -11557,5 +11557,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T16:52:53Z"
+  },
+  {
+    "id": "claude-jar-2026-06-16",
+    "display_name": "claude-jar",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "claude-jar",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5893",
+            "osv_published_at": "2026-06-16T14:51:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T16:52:25Z",
+    "osv_earliest_published_at": "2026-06-16T14:51:36Z",
+    "hours_ahead_of_osv": -2.01,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T16:52:57Z"
   }
 ]
