@@ -12290,5 +12290,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T23:05:58Z"
+  },
+  {
+    "id": "nottuff23-2026-06-16",
+    "display_name": "nottuff23",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nottuff23",
+        "ecosystem": "npm",
+        "versions": [
+          "1.7.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5915",
+            "osv_published_at": "2026-06-16T19:27:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T23:05:21Z",
+    "osv_earliest_published_at": "2026-06-16T19:27:26Z",
+    "hours_ahead_of_osv": -3.63,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T23:06:02Z"
   }
 ]
