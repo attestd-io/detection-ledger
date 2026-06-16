@@ -10867,5 +10867,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T02:36:33Z"
+  },
+  {
+    "id": "vend-utilities-2026-06-16",
+    "display_name": "vend-utilities",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vend-utilities",
+        "ecosystem": "npm",
+        "versions": [
+          "14.12.11"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5832",
+            "osv_published_at": "2026-06-15T19:24:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T02:35:47Z",
+    "osv_earliest_published_at": "2026-06-15T19:24:31Z",
+    "hours_ahead_of_osv": -7.19,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T02:36:37Z"
   }
 ]
