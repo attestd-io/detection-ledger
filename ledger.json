@@ -11771,5 +11771,48 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T16:53:22Z"
+  },
+  {
+    "id": "metrics-pipeline-d8k2-2026-06-16",
+    "display_name": "metrics-pipeline-d8k2",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "metrics-pipeline-d8k2",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.10",
+          "1.0.11",
+          "1.0.12",
+          "1.0.13",
+          "1.0.15",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5858",
+            "osv_published_at": "2026-06-16T01:34:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T23:04:53Z",
+    "osv_earliest_published_at": "2026-06-16T01:34:34Z",
+    "hours_ahead_of_osv": -21.51,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T23:04:55Z"
   }
 ]
