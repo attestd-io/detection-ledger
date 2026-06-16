@@ -1,0 +1,29 @@
+{
+  "id": "test-copppss-2026-06-16",
+  "display_name": "test-copppss",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "test-copppss",
+      "ecosystem": "npm",
+      "versions": [
+        "1.999.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5926",
+          "osv_published_at": "2026-06-16T20:01:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T23:05:59Z",
+  "osv_earliest_published_at": "2026-06-16T20:01:12Z",
+  "hours_ahead_of_osv": -3.08,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T23:06:43Z"
+}
