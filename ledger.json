@@ -11815,5 +11815,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T23:04:55Z"
+  },
+  {
+    "id": "check-ulid-2026-06-16",
+    "display_name": "check-ulid",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "check-ulid",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5877",
+            "osv_published_at": "2026-06-16T09:37:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T23:04:54Z",
+    "osv_earliest_published_at": "2026-06-16T09:37:17Z",
+    "hours_ahead_of_osv": -13.46,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T23:05:03Z"
   }
 ]
