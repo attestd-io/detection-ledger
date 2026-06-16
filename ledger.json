@@ -11196,5 +11196,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T10:16:18Z"
+  },
+  {
+    "id": "ts-internal-shared-lib-2026-06-16",
+    "display_name": "@ts-internal/shared-lib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@ts-internal/shared-lib",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5863",
+            "osv_published_at": "2026-06-16T04:24:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T10:16:09Z",
+    "osv_earliest_published_at": "2026-06-16T04:24:55Z",
+    "hours_ahead_of_osv": -5.85,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T10:16:22Z"
   }
 ]
