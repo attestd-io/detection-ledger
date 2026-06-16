@@ -1,0 +1,30 @@
+{
+  "id": "binproto-2026-06-16",
+  "display_name": "binproto",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "binproto",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.5",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5924",
+          "osv_published_at": "2026-06-16T19:56:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T23:05:55Z",
+  "osv_earliest_published_at": "2026-06-16T19:56:34Z",
+  "hours_ahead_of_osv": -3.16,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T23:06:36Z"
+}
