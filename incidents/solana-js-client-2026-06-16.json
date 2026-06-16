@@ -1,0 +1,29 @@
+{
+  "id": "solana-js-client-2026-06-16",
+  "display_name": "solana-js-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "solana-js-client",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5860",
+          "osv_published_at": "2026-06-16T03:01:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-16T10:16:08Z",
+  "osv_earliest_published_at": "2026-06-16T03:01:18Z",
+  "hours_ahead_of_osv": -7.25,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-16T10:16:10Z"
+}
