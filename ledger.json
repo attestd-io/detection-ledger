@@ -10561,5 +10561,36 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-16T02:34:55Z"
+  },
+  {
+    "id": "dotenv-express-2026-06-16",
+    "display_name": "dotenv-express",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dotenv-express",
+        "ecosystem": "npm",
+        "versions": [
+          "17.4.3",
+          "17.4.4",
+          "17.4.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2350",
+            "osv_published_at": "2026-03-24T15:43:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-16T02:35:28Z",
+    "osv_earliest_published_at": "2026-03-24T15:43:15Z",
+    "hours_ahead_of_osv": -2002.87,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-16T02:35:28Z"
   }
 ]
