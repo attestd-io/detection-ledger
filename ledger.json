@@ -14086,5 +14086,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:26:49Z"
+  },
+  {
+    "id": "canary-ci-test-2026-06-17",
+    "display_name": "canary-ci-test",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "canary-ci-test",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5972",
+            "osv_published_at": "2026-06-17T04:24:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:26:36Z",
+    "osv_earliest_published_at": "2026-06-17T04:24:09Z",
+    "hours_ahead_of_osv": -8.04,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:26:53Z"
   }
 ]
