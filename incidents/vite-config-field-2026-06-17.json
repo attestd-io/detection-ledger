@@ -1,0 +1,29 @@
+{
+  "id": "vite-config-field-2026-06-17",
+  "display_name": "vite-config-field",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vite-config-field",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5936",
+          "osv_published_at": "2026-06-16T22:20:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T05:16:18Z",
+  "osv_earliest_published_at": "2026-06-16T22:20:36Z",
+  "hours_ahead_of_osv": -6.93,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T05:16:59Z"
+}
