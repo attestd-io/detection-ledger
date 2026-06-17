@@ -1,0 +1,29 @@
+{
+  "id": "disksweep-2026-06-17",
+  "display_name": "disksweep",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "disksweep",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6081",
+          "osv_published_at": "2026-06-17T21:34:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T23:26:54Z",
+  "osv_earliest_published_at": "2026-06-17T21:34:55Z",
+  "hours_ahead_of_osv": -1.87,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T23:27:00Z"
+}
