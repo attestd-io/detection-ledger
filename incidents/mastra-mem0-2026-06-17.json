@@ -1,0 +1,29 @@
+{
+  "id": "mastra-mem0-2026-06-17",
+  "display_name": "@mastra/mem0",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@mastra/mem0",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.14"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6053",
+          "osv_published_at": "2026-06-17T11:10:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:28:39Z",
+  "osv_earliest_published_at": "2026-06-17T11:10:16Z",
+  "hours_ahead_of_osv": -1.31,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:32:31Z"
+}
