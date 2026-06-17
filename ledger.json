@@ -14144,5 +14144,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:26:58Z"
+  },
+  {
+    "id": "cryptodao-bot-2026-06-17",
+    "display_name": "cryptodao-bot",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cryptodao-bot",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5974",
+            "osv_published_at": "2026-06-17T03:53:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:26:37Z",
+    "osv_earliest_published_at": "2026-06-17T03:53:19Z",
+    "hours_ahead_of_osv": -8.55,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:27:02Z"
   }
 ]
