@@ -1,0 +1,29 @@
+{
+  "id": "mastra-s3vectors-2026-06-17",
+  "display_name": "@mastra/s3vectors",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@mastra/s3vectors",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6035",
+          "osv_published_at": "2026-06-17T04:57:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:28:07Z",
+  "osv_earliest_published_at": "2026-06-17T04:57:57Z",
+  "hours_ahead_of_osv": -7.5,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:31:16Z"
+}
