@@ -16497,5 +16497,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:32:48Z"
+  },
+  {
+    "id": "pystylish-2026-06-17",
+    "display_name": "pystylish",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pystylish",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6076",
+            "osv_published_at": "2026-06-17T19:05:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T23:26:53Z",
+    "osv_earliest_published_at": "2026-06-17T19:05:58Z",
+    "hours_ahead_of_osv": -4.35,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T23:26:53Z"
   }
 ]
