@@ -15366,5 +15366,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:30:00Z"
+  },
+  {
+    "id": "mastra-deployer-vercel-2026-06-17",
+    "display_name": "@mastra/deployer-vercel",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/deployer-vercel",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.38"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6018",
+            "osv_published_at": "2026-06-17T04:58:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:27:31Z",
+    "osv_earliest_published_at": "2026-06-17T04:58:03Z",
+    "hours_ahead_of_osv": -7.49,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:30:04Z"
   }
 ]
