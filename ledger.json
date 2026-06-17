@@ -16784,5 +16784,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T23:28:21Z"
+  },
+  {
+    "id": "civitatis-bot-ui-2026-06-17",
+    "display_name": "@civitatis/bot-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@civitatis/bot-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "14.12.11",
+          "15.12.11"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6069",
+            "osv_published_at": "2026-06-17T18:55:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T23:27:53Z",
+    "osv_earliest_published_at": "2026-06-17T18:55:02Z",
+    "hours_ahead_of_osv": -4.55,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T23:28:25Z"
   }
 ]
