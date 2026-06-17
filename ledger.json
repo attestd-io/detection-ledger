@@ -13671,5 +13671,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T05:18:27Z"
+  },
+  {
+    "id": "mastra-rag-2026-06-17",
+    "display_name": "@mastra/rag",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/rag",
+        "ecosystem": "npm",
+        "versions": [
+          "2.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5961",
+            "osv_published_at": "2026-06-17T03:12:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T05:16:36Z",
+    "osv_earliest_published_at": "2026-06-17T03:12:53Z",
+    "hours_ahead_of_osv": -2.06,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T05:18:31Z"
   }
 ]
