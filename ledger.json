@@ -16755,5 +16755,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T23:28:18Z"
+  },
+  {
+    "id": "swift-parse-stream-2026-06-17",
+    "display_name": "swift-parse-stream",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "swift-parse-stream",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6068",
+            "osv_published_at": "2026-06-17T16:37:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T23:27:52Z",
+    "osv_earliest_published_at": "2026-06-17T16:37:42Z",
+    "hours_ahead_of_osv": -6.84,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T23:28:21Z"
   }
 ]
