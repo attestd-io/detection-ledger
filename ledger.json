@@ -17080,5 +17080,36 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T23:29:00Z"
+  },
+  {
+    "id": "array-util-nodepull-2026-06-17",
+    "display_name": "@array-util/nodepull",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@array-util/nodepull",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.1.0",
+          "1.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6084",
+            "osv_published_at": "2026-06-17T21:49:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T23:28:12Z",
+    "osv_earliest_published_at": "2026-06-17T21:49:58Z",
+    "hours_ahead_of_osv": -1.64,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T23:29:04Z"
   }
 ]
