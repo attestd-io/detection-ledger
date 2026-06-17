@@ -14554,5 +14554,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:27:57Z"
+  },
+  {
+    "id": "params-valid-js-2026-06-17",
+    "display_name": "params-valid-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "params-valid-js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5988",
+            "osv_published_at": "2026-06-17T04:22:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:26:45Z",
+    "osv_earliest_published_at": "2026-06-17T04:22:54Z",
+    "hours_ahead_of_osv": -8.06,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:28:02Z"
   }
 ]
