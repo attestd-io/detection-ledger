@@ -14409,5 +14409,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:27:35Z"
+  },
+  {
+    "id": "metrics-probe-dc85-2026-06-17",
+    "display_name": "metrics-probe-dc85",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "metrics-probe-dc85",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5983",
+            "osv_published_at": "2026-06-17T04:43:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:26:43Z",
+    "osv_earliest_published_at": "2026-06-17T04:43:32Z",
+    "hours_ahead_of_osv": -7.72,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:27:40Z"
   }
 ]
