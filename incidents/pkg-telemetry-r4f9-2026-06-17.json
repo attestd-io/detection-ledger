@@ -1,0 +1,29 @@
+{
+  "id": "pkg-telemetry-r4f9-2026-06-17",
+  "display_name": "pkg-telemetry-r4f9",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pkg-telemetry-r4f9",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5990",
+          "osv_published_at": "2026-06-17T04:42:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:26:46Z",
+  "osv_earliest_published_at": "2026-06-17T04:42:06Z",
+  "hours_ahead_of_osv": -7.74,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:28:11Z"
+}
