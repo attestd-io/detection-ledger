@@ -1,0 +1,29 @@
+{
+  "id": "pathfix-2026-06-17",
+  "display_name": "pathfix",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pathfix",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.10"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5989",
+          "osv_published_at": "2026-06-17T04:18:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:26:45Z",
+  "osv_earliest_published_at": "2026-06-17T04:18:57Z",
+  "hours_ahead_of_osv": -8.13,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:28:06Z"
+}
