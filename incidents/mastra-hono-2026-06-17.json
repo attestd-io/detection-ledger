@@ -1,0 +1,29 @@
+{
+  "id": "mastra-hono-2026-06-17",
+  "display_name": "@mastra/hono",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@mastra/hono",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.26"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5950",
+          "osv_published_at": "2026-06-17T03:12:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T05:16:25Z",
+  "osv_earliest_published_at": "2026-06-17T03:12:21Z",
+  "hours_ahead_of_osv": -2.07,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T05:17:51Z"
+}
