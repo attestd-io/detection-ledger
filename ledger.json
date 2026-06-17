@@ -13468,5 +13468,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T05:18:02Z"
+  },
+  {
+    "id": "mastra-libsql-2026-06-17",
+    "display_name": "@mastra/libsql",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/libsql",
+        "ecosystem": "npm",
+        "versions": [
+          "1.13.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5954",
+            "osv_published_at": "2026-06-17T03:11:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T05:16:26Z",
+    "osv_earliest_published_at": "2026-06-17T03:11:19Z",
+    "hours_ahead_of_osv": -2.09,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T05:18:05Z"
   }
 ]
