@@ -1,0 +1,31 @@
+{
+  "id": "backoffice-charges-module-2026-06-17",
+  "display_name": "backoffice-charges-module",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "backoffice-charges-module",
+      "ecosystem": "npm",
+      "versions": [
+        "1.999.0",
+        "2.999.0",
+        "2.999.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5929",
+          "osv_published_at": "2026-06-16T22:30:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T05:16:14Z",
+  "osv_earliest_published_at": "2026-06-16T22:30:57Z",
+  "hours_ahead_of_osv": -6.75,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T05:16:31Z"
+}
