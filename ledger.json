@@ -16814,5 +16814,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T23:28:25Z"
+  },
+  {
+    "id": "libsc-runtime-telemetry-2026-06-17",
+    "display_name": "libsc-runtime-telemetry",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "libsc-runtime-telemetry",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6070",
+            "osv_published_at": "2026-06-17T18:38:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T23:27:54Z",
+    "osv_earliest_published_at": "2026-06-17T18:38:17Z",
+    "hours_ahead_of_osv": -4.83,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T23:28:29Z"
   }
 ]
