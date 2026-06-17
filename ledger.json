@@ -15192,5 +15192,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:29:34Z"
+  },
+  {
+    "id": "mastra-couchbase-2026-06-17",
+    "display_name": "@mastra/couchbase",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/couchbase",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6012",
+            "osv_published_at": "2026-06-17T04:57:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:27:19Z",
+    "osv_earliest_published_at": "2026-06-17T04:57:27Z",
+    "hours_ahead_of_osv": -7.5,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:29:39Z"
   }
 ]
