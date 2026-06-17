@@ -15801,5 +15801,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:31:03Z"
+  },
+  {
+    "id": "mastra-playground-ui-2026-06-17",
+    "display_name": "@mastra/playground-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/playground-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "33.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6033",
+            "osv_published_at": "2026-06-17T05:00:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:28:01Z",
+    "osv_earliest_published_at": "2026-06-17T05:00:39Z",
+    "hours_ahead_of_osv": -7.46,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:31:08Z"
   }
 ]
