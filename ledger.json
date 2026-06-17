@@ -15714,5 +15714,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:30:50Z"
+  },
+  {
+    "id": "mastra-nestjs-2026-06-17",
+    "display_name": "@mastra/nestjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/nestjs",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.15"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6030",
+            "osv_published_at": "2026-06-17T04:56:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:27:55Z",
+    "osv_earliest_published_at": "2026-06-17T04:56:15Z",
+    "hours_ahead_of_osv": -7.53,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:30:55Z"
   }
 ]
