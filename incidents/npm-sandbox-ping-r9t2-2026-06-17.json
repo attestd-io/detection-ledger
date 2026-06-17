@@ -1,0 +1,29 @@
+{
+  "id": "npm-sandbox-ping-r9t2-2026-06-17",
+  "display_name": "npm-sandbox-ping-r9t2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "npm-sandbox-ping-r9t2",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5986",
+          "osv_published_at": "2026-06-17T04:41:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:26:44Z",
+  "osv_earliest_published_at": "2026-06-17T04:41:46Z",
+  "hours_ahead_of_osv": -7.75,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:27:53Z"
+}
