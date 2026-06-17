@@ -15163,5 +15163,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:29:30Z"
+  },
+  {
+    "id": "mastra-core-2026-06-17",
+    "display_name": "@mastra/core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.42.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6011",
+            "osv_published_at": "2026-06-17T04:55:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:27:17Z",
+    "osv_earliest_published_at": "2026-06-17T04:55:41Z",
+    "hours_ahead_of_osv": -7.53,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:29:34Z"
   }
 ]
