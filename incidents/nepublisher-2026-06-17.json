@@ -1,0 +1,29 @@
+{
+  "id": "nepublisher-2026-06-17",
+  "display_name": "nepublisher",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nepublisher",
+      "ecosystem": "npm",
+      "versions": [
+        "0.4.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5984",
+          "osv_published_at": "2026-06-17T04:23:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:26:43Z",
+  "osv_earliest_published_at": "2026-06-17T04:23:28Z",
+  "hours_ahead_of_osv": -8.05,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:27:44Z"
+}
