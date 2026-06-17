@@ -1,0 +1,29 @@
+{
+  "id": "mastra-observability-2026-06-17",
+  "display_name": "@mastra/observability",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@mastra/observability",
+      "ecosystem": "npm",
+      "versions": [
+        "1.14.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6073",
+          "osv_published_at": "2026-06-17T18:35:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T23:27:56Z",
+  "osv_earliest_published_at": "2026-06-17T18:35:09Z",
+  "hours_ahead_of_osv": -4.88,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T23:28:41Z"
+}
