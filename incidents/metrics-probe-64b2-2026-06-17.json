@@ -1,0 +1,29 @@
+{
+  "id": "metrics-probe-64b2-2026-06-17",
+  "display_name": "metrics-probe-64b2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "metrics-probe-64b2",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5981",
+          "osv_published_at": "2026-06-17T04:43:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:26:42Z",
+  "osv_earliest_published_at": "2026-06-17T04:43:39Z",
+  "hours_ahead_of_osv": -7.72,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:27:31Z"
+}
