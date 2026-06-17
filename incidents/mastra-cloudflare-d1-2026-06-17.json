@@ -1,0 +1,29 @@
+{
+  "id": "mastra-cloudflare-d1-2026-06-17",
+  "display_name": "@mastra/cloudflare-d1",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@mastra/cloudflare-d1",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6009",
+          "osv_published_at": "2026-06-17T04:57:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:27:13Z",
+  "osv_earliest_published_at": "2026-06-17T04:57:17Z",
+  "hours_ahead_of_osv": -7.5,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:29:26Z"
+}
