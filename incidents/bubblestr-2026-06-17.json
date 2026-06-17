@@ -1,0 +1,29 @@
+{
+  "id": "bubblestr-2026-06-17",
+  "display_name": "bubblestr",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bubblestr",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5930",
+          "osv_published_at": "2026-06-16T22:22:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T05:16:15Z",
+  "osv_earliest_published_at": "2026-06-16T22:22:20Z",
+  "hours_ahead_of_osv": -6.9,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T05:16:36Z"
+}
