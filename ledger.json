@@ -15743,5 +15743,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:30:55Z"
+  },
+  {
+    "id": "mastra-otel-exporter-2026-06-17",
+    "display_name": "@mastra/otel-exporter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/otel-exporter",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6031",
+            "osv_published_at": "2026-06-17T05:01:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:27:57Z",
+    "osv_earliest_published_at": "2026-06-17T05:01:04Z",
+    "hours_ahead_of_osv": -7.45,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:30:59Z"
   }
 ]
