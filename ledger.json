@@ -12859,5 +12859,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T05:16:43Z"
+  },
+  {
+    "id": "react-vite-assert-2026-06-17",
+    "display_name": "react-vite-assert",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-vite-assert",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5933",
+            "osv_published_at": "2026-06-16T22:20:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T05:16:17Z",
+    "osv_earliest_published_at": "2026-06-16T22:20:27Z",
+    "hours_ahead_of_osv": -6.93,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T05:16:47Z"
   }
 ]
