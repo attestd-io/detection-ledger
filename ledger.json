@@ -13816,5 +13816,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T05:18:46Z"
+  },
+  {
+    "id": "cryptodao-backend-2026-06-17",
+    "display_name": "cryptodao-backend",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cryptodao-backend",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5966",
+            "osv_published_at": "2026-06-17T03:39:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T05:16:46Z",
+    "osv_earliest_published_at": "2026-06-17T03:39:24Z",
+    "hours_ahead_of_osv": -1.62,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T05:18:49Z"
   }
 ]
