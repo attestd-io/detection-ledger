@@ -1,0 +1,29 @@
+{
+  "id": "opt-archetype-check-2026-06-17",
+  "display_name": "opt-archetype-check",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "opt-archetype-check",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6075",
+          "osv_published_at": "2026-06-17T19:09:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T23:27:58Z",
+  "osv_earliest_published_at": "2026-06-17T19:09:08Z",
+  "hours_ahead_of_osv": -4.31,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T23:28:48Z"
+}
