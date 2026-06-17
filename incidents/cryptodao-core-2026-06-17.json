@@ -1,0 +1,29 @@
+{
+  "id": "cryptodao-core-2026-06-17",
+  "display_name": "cryptodao-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cryptodao-core",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5976",
+          "osv_published_at": "2026-06-17T04:04:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T12:26:38Z",
+  "osv_earliest_published_at": "2026-06-17T04:04:30Z",
+  "hours_ahead_of_osv": -8.37,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T12:27:10Z"
+}
