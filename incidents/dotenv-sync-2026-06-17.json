@@ -1,0 +1,29 @@
+{
+  "id": "dotenv-sync-2026-06-17",
+  "display_name": "dotenv-sync",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dotenv-sync",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6082",
+          "osv_published_at": "2026-06-17T21:35:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-17T23:26:54Z",
+  "osv_earliest_published_at": "2026-06-17T21:35:47Z",
+  "hours_ahead_of_osv": -1.85,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-17T23:27:04Z"
+}
