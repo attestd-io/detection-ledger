@@ -15076,5 +15076,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:29:17Z"
+  },
+  {
+    "id": "mastra-cloudflare-2026-06-17",
+    "display_name": "@mastra/cloudflare",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/cloudflare",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6008",
+            "osv_published_at": "2026-06-17T04:58:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:27:11Z",
+    "osv_earliest_published_at": "2026-06-17T04:58:18Z",
+    "hours_ahead_of_osv": -7.48,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:29:22Z"
   }
 ]
