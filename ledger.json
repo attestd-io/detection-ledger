@@ -13381,5 +13381,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T05:17:51Z"
+  },
+  {
+    "id": "mastra-inngest-2026-06-17",
+    "display_name": "@mastra/inngest",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mastra/inngest",
+        "ecosystem": "npm",
+        "versions": [
+          "1.5.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5951",
+            "osv_published_at": "2026-06-17T03:13:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T05:16:25Z",
+    "osv_earliest_published_at": "2026-06-17T03:13:11Z",
+    "hours_ahead_of_osv": -2.05,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T05:17:55Z"
   }
 ]
