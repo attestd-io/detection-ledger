@@ -14173,5 +14173,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-17T12:27:02Z"
+  },
+  {
+    "id": "cryptodao-contracts-2026-06-17",
+    "display_name": "cryptodao-contracts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cryptodao-contracts",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5975",
+            "osv_published_at": "2026-06-17T04:04:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-17T12:26:37Z",
+    "osv_earliest_published_at": "2026-06-17T04:04:31Z",
+    "hours_ahead_of_osv": -8.37,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-17T12:27:06Z"
   }
 ]
