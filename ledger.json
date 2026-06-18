@@ -17353,5 +17353,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-18T11:15:56Z"
+  },
+  {
+    "id": "jwtmode-2026-06-18",
+    "display_name": "jwtmode",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "jwtmode",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6093",
+            "osv_published_at": "2026-06-18T04:09:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-18T11:15:37Z",
+    "osv_earliest_published_at": "2026-06-18T04:09:05Z",
+    "hours_ahead_of_osv": -7.11,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-18T11:16:00Z"
   }
 ]
