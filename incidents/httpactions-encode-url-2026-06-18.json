@@ -1,0 +1,30 @@
+{
+  "id": "httpactions-encode-url-2026-06-18",
+  "display_name": "@httpactions/encode-url",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@httpactions/encode-url",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6139",
+          "osv_published_at": "2026-06-18T18:39:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-18T21:52:24Z",
+  "osv_earliest_published_at": "2026-06-18T18:39:23Z",
+  "hours_ahead_of_osv": -3.22,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-18T21:53:40Z"
+}
