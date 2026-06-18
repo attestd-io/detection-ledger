@@ -18107,5 +18107,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-18T21:53:12Z"
+  },
+  {
+    "id": "metavu-2026-06-18",
+    "display_name": "metavu",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "metavu",
+        "ecosystem": "npm",
+        "versions": [
+          "99.21.1-1.21.127",
+          "99.21.1-1.21.199"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6132",
+            "osv_published_at": "2026-06-18T15:56:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-18T21:52:08Z",
+    "osv_earliest_published_at": "2026-06-18T15:56:00Z",
+    "hours_ahead_of_osv": -5.94,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-18T21:53:16Z"
   }
 ]
