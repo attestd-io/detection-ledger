@@ -18225,5 +18225,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-18T21:53:28Z"
+  },
+  {
+    "id": "ratelimitsucks6-2026-06-18",
+    "display_name": "ratelimitsucks6",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ratelimitsucks6",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6136",
+            "osv_published_at": "2026-06-18T16:30:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-18T21:52:19Z",
+    "osv_earliest_published_at": "2026-06-18T16:30:08Z",
+    "hours_ahead_of_osv": -5.37,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-18T21:53:32Z"
   }
 ]
