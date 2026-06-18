@@ -17498,5 +17498,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-18T11:16:17Z"
+  },
+  {
+    "id": "stackus-2026-06-18",
+    "display_name": "stackus",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "stackus",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6098",
+            "osv_published_at": "2026-06-18T04:09:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-18T11:15:39Z",
+    "osv_earliest_published_at": "2026-06-18T04:09:20Z",
+    "hours_ahead_of_osv": -7.11,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-18T11:16:21Z"
   }
 ]
