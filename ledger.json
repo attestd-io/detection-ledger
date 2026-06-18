@@ -17709,5 +17709,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-18T21:51:57Z"
+  },
+  {
+    "id": "reading-cookies-2026-06-18",
+    "display_name": "reading-cookies",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "reading-cookies",
+        "ecosystem": "npm",
+        "versions": [
+          "6.13.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5847",
+            "osv_published_at": "2026-06-15T23:47:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-18T21:51:42Z",
+    "osv_earliest_published_at": "2026-06-15T23:47:28Z",
+    "hours_ahead_of_osv": -70.07,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-18T21:52:00Z"
   }
 ]
