@@ -1,0 +1,31 @@
+{
+  "id": "onum-releases-shared-components-2026-06-18",
+  "display_name": "@onum-releases/shared-components",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@onum-releases/shared-components",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6126",
+          "osv_published_at": "2026-06-18T16:15:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-18T21:51:54Z",
+  "osv_earliest_published_at": "2026-06-18T16:15:24Z",
+  "hours_ahead_of_osv": -5.61,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-18T21:52:52Z"
+}
