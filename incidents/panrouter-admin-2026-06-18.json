@@ -1,0 +1,29 @@
+{
+  "id": "panrouter-admin-2026-06-18",
+  "display_name": "panrouter-admin",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "panrouter-admin",
+      "ecosystem": "npm",
+      "versions": [
+        "5.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6134",
+          "osv_published_at": "2026-06-18T16:28:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-18T21:52:14Z",
+  "osv_earliest_published_at": "2026-06-18T16:28:28Z",
+  "hours_ahead_of_osv": -5.4,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-18T21:53:24Z"
+}
