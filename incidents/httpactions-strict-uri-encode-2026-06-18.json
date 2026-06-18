@@ -1,0 +1,29 @@
+{
+  "id": "httpactions-strict-uri-encode-2026-06-18",
+  "display_name": "@httpactions/strict-uri-encode",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@httpactions/strict-uri-encode",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6140",
+          "osv_published_at": "2026-06-18T18:39:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-18T21:52:26Z",
+  "osv_earliest_published_at": "2026-06-18T18:39:24Z",
+  "hours_ahead_of_osv": -3.22,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-18T21:53:44Z"
+}
