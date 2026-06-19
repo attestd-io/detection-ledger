@@ -1,0 +1,29 @@
+{
+  "id": "request-performance-2026-06-19",
+  "display_name": "request-performance",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "request-performance",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6175",
+          "osv_published_at": "2026-06-17T12:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T09:09:43Z",
+  "osv_earliest_published_at": "2026-06-17T12:00:00Z",
+  "hours_ahead_of_osv": -45.16,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T09:10:54Z"
+}
