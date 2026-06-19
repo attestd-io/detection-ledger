@@ -20096,5 +20096,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T20:31:38Z"
+  },
+  {
+    "id": "shoaib-done-pack-2026-06-19",
+    "display_name": "shoaib-done-pack",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "shoaib-done-pack",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6207",
+            "osv_published_at": "2026-06-19T10:18:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T20:31:38Z",
+    "osv_earliest_published_at": "2026-06-19T10:18:42Z",
+    "hours_ahead_of_osv": -10.22,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T20:31:42Z"
   }
 ]
