@@ -19887,5 +19887,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T09:12:05Z"
+  },
+  {
+    "id": "portloop-2026-06-19",
+    "display_name": "portloop",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "portloop",
+        "ecosystem": "npm",
+        "versions": [
+          "1.14.0",
+          "1.6.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6194",
+            "osv_published_at": "2026-06-19T04:36:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T09:10:31Z",
+    "osv_earliest_published_at": "2026-06-19T04:36:47Z",
+    "hours_ahead_of_osv": -4.56,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T09:12:09Z"
   }
 ]
