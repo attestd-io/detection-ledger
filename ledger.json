@@ -20648,5 +20648,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T20:33:19Z"
+  },
+  {
+    "id": "new-eslint-1-2026-06-19",
+    "display_name": "new-eslint-1",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "new-eslint-1",
+        "ecosystem": "npm",
+        "versions": [
+          "7.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6225",
+            "osv_published_at": "2026-06-19T14:24:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T20:32:26Z",
+    "osv_earliest_published_at": "2026-06-19T14:24:00Z",
+    "hours_ahead_of_osv": -6.14,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T20:33:23Z"
   }
 ]
