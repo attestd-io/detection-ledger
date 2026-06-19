@@ -19800,5 +19800,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T09:11:53Z"
+  },
+  {
+    "id": "node-slot-2026-06-19",
+    "display_name": "node-slot",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "node-slot",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6191",
+            "osv_published_at": "2026-06-19T05:10:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T09:10:23Z",
+    "osv_earliest_published_at": "2026-06-19T05:10:55Z",
+    "hours_ahead_of_osv": -3.99,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T09:11:57Z"
   }
 ]
