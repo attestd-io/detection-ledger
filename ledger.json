@@ -19595,5 +19595,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T09:11:19Z"
+  },
+  {
+    "id": "mep-exp-api-tools-2026-06-19",
+    "display_name": "@mep-exp/api-tools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mep-exp/api-tools",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6183",
+            "osv_published_at": "2026-06-19T05:03:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T09:10:03Z",
+    "osv_earliest_published_at": "2026-06-19T05:03:19Z",
+    "hours_ahead_of_osv": -4.11,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T09:11:23Z"
   }
 ]
