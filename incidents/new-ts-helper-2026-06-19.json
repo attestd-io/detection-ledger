@@ -1,0 +1,29 @@
+{
+  "id": "new-ts-helper-2026-06-19",
+  "display_name": "new-ts-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "new-ts-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "9.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6227",
+          "osv_published_at": "2026-06-19T14:13:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T20:32:27Z",
+  "osv_earliest_published_at": "2026-06-19T14:13:34Z",
+  "hours_ahead_of_osv": -6.31,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T20:33:30Z"
+}
