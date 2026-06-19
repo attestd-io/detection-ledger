@@ -19448,5 +19448,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T09:10:58Z"
+  },
+  {
+    "id": "socket-network-2026-06-19",
+    "display_name": "socket-network",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "socket-network",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6177",
+            "osv_published_at": "2026-06-17T12:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T09:09:49Z",
+    "osv_earliest_published_at": "2026-06-17T12:00:00Z",
+    "hours_ahead_of_osv": -45.16,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T09:11:02Z"
   }
 ]
