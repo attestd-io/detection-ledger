@@ -1,0 +1,30 @@
+{
+  "id": "async-protobuf-av-2026-06-19",
+  "display_name": "async-protobuf-av",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "async-protobuf-av",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6148",
+          "osv_published_at": "2026-06-17T12:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T09:08:33Z",
+  "osv_earliest_published_at": "2026-06-17T12:00:00Z",
+  "hours_ahead_of_osv": -45.14,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T09:08:59Z"
+}
