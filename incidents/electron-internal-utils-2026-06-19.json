@@ -1,0 +1,29 @@
+{
+  "id": "electron-internal-utils-2026-06-19",
+  "display_name": "electron-internal-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "electron-internal-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6186",
+          "osv_published_at": "2026-06-19T04:56:31Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T09:10:11Z",
+  "osv_earliest_published_at": "2026-06-19T04:56:31Z",
+  "hours_ahead_of_osv": -4.23,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T09:11:36Z"
+}
