@@ -20212,5 +20212,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T20:32:20Z"
+  },
+  {
+    "id": "apexcraft-nano-key-2026-06-19",
+    "display_name": "@apexcraft/nano-key",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@apexcraft/nano-key",
+        "ecosystem": "npm",
+        "versions": [
+          "1.3.4",
+          "1.3.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6210",
+            "osv_published_at": "2026-06-19T15:12:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T20:32:19Z",
+    "osv_earliest_published_at": "2026-06-19T15:12:42Z",
+    "hours_ahead_of_osv": -5.33,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T20:32:24Z"
   }
 ]
