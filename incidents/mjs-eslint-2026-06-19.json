@@ -1,0 +1,29 @@
+{
+  "id": "mjs-eslint-2026-06-19",
+  "display_name": "mjs-eslint",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mjs-eslint",
+      "ecosystem": "npm",
+      "versions": [
+        "7.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6223",
+          "osv_published_at": "2026-06-19T14:24:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T20:32:25Z",
+  "osv_earliest_published_at": "2026-06-19T14:24:01Z",
+  "hours_ahead_of_osv": -6.14,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T20:33:15Z"
+}
