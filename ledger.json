@@ -20561,5 +20561,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T20:33:07Z"
+  },
+  {
+    "id": "create-mono-package-2026-06-19",
+    "display_name": "create-mono-package",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "create-mono-package",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6222",
+            "osv_published_at": "2026-06-19T15:30:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T20:32:24Z",
+    "osv_earliest_published_at": "2026-06-19T15:30:59Z",
+    "hours_ahead_of_osv": -5.02,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T20:33:11Z"
   }
 ]
