@@ -19565,5 +19565,35 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T09:11:15Z"
+  },
+  {
+    "id": "virtualization-compression-collapse-2026-06-19",
+    "display_name": "virtualization-compression-collapse",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "virtualization-compression-collapse",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6181",
+            "osv_published_at": "2026-06-17T12:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T09:10:01Z",
+    "osv_earliest_published_at": "2026-06-17T12:00:00Z",
+    "hours_ahead_of_osv": -45.17,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T09:11:19Z"
   }
 ]
