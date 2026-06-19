@@ -18693,5 +18693,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T09:09:11Z"
+  },
+  {
+    "id": "custom-save-area-block-2026-06-19",
+    "display_name": "custom-save-area-block",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "custom-save-area-block",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6152",
+            "osv_published_at": "2026-06-17T12:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T09:08:37Z",
+    "osv_earliest_published_at": "2026-06-17T12:00:00Z",
+    "hours_ahead_of_osv": -45.14,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T09:09:16Z"
   }
 ]
