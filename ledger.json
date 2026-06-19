@@ -18342,5 +18342,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-18T21:53:44Z"
+  },
+  {
+    "id": "fluent-panel-metrics-2026-06-19",
+    "display_name": "fluent-panel-metrics",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fluent-panel-metrics",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6182",
+            "osv_published_at": "2026-06-19T00:53:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-19T09:07:49Z",
+    "osv_earliest_published_at": "2026-06-19T00:53:01Z",
+    "hours_ahead_of_osv": -8.25,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-19T09:07:50Z"
   }
 ]
