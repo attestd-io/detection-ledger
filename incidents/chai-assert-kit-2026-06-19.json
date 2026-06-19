@@ -1,0 +1,29 @@
+{
+  "id": "chai-assert-kit-2026-06-19",
+  "display_name": "chai-assert-kit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-assert-kit",
+      "ecosystem": "npm",
+      "versions": [
+        "3.8.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6221",
+          "osv_published_at": "2026-06-19T15:00:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T20:32:24Z",
+  "osv_earliest_published_at": "2026-06-19T15:00:48Z",
+  "hours_ahead_of_osv": -5.53,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T20:33:07Z"
+}
