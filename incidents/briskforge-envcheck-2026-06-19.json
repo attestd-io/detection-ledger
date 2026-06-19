@@ -1,0 +1,29 @@
+{
+  "id": "briskforge-envcheck-2026-06-19",
+  "display_name": "@briskforge/envcheck",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@briskforge/envcheck",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6212",
+          "osv_published_at": "2026-06-19T15:12:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T20:32:20Z",
+  "osv_earliest_published_at": "2026-06-19T15:12:55Z",
+  "hours_ahead_of_osv": -5.32,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T20:32:33Z"
+}
