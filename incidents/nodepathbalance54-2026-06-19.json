@@ -1,0 +1,29 @@
+{
+  "id": "nodepathbalance54-2026-06-19",
+  "display_name": "nodepathbalance54",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nodepathbalance54",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6192",
+          "osv_published_at": "2026-06-19T05:01:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T09:10:25Z",
+  "osv_earliest_published_at": "2026-06-19T05:01:34Z",
+  "hours_ahead_of_osv": -4.15,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T09:12:01Z"
+}
