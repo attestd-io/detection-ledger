@@ -1,0 +1,30 @@
+{
+  "id": "base-parts-ai-2026-06-19",
+  "display_name": "base_parts_ai",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "base_parts_ai",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.50",
+        "1.0.52"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6228",
+          "osv_published_at": "2026-06-19T15:59:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-19T20:32:28Z",
+  "osv_earliest_published_at": "2026-06-19T15:59:03Z",
+  "hours_ahead_of_osv": -4.56,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-19T20:33:34Z"
+}
