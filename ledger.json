@@ -21132,21 +21132,53 @@
     "ledger_commit_at": "2026-06-20T23:07:40Z"
   },
   {
-    "id": "atlasora-types-2026-06-20",
-    "display_name": "atlasora-types",
+    "id": "atlasora-shared-2026-06-20",
+    "display_name": "atlasora-shared",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "atlasora-types",
+        "package": "atlasora-shared",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6242",
-            "osv_published_at": "2026-06-20T13:10:05Z"
+            "osv_id": "MAL-2026-6241",
+            "osv_published_at": "2026-06-20T13:10:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-20T23:07:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-20T23:07:29Z",
+    "osv_earliest_published_at": "2026-06-20T13:10:07Z",
+    "hours_ahead_of_osv": -9.96,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-20T23:07:46Z"
+  },
+  {
+    "id": "atlasora-utils-2026-06-20",
+    "display_name": "atlasora-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "atlasora-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6243",
+            "osv_published_at": "2026-06-20T13:10:04Z"
           }
         ]
       }
@@ -21155,12 +21187,12 @@
     "attestd_detected_at": "2026-06-20T23:07:30Z",
     "flagged_at": null,
     "confirmed_at": "2026-06-20T23:07:30Z",
-    "osv_earliest_published_at": "2026-06-20T13:10:05Z",
+    "osv_earliest_published_at": "2026-06-20T13:10:04Z",
     "hours_ahead_of_osv": -9.96,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-06-20T23:07:50Z"
+    "ledger_commit_at": "2026-06-20T23:07:56Z"
   }
 ]
