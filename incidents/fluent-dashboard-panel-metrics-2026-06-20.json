@@ -1,0 +1,29 @@
+{
+  "id": "fluent-dashboard-panel-metrics-2026-06-20",
+  "display_name": "fluent-dashboard-panel-metrics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fluent-dashboard-panel-metrics",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6233",
+          "osv_published_at": "2026-06-20T01:07:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-20T07:44:14Z",
+  "osv_earliest_published_at": "2026-06-20T01:07:05Z",
+  "hours_ahead_of_osv": -6.62,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-20T07:44:21Z"
+}
