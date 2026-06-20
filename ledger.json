@@ -20795,5 +20795,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-19T20:33:38Z"
+  },
+  {
+    "id": "django-auth-middleware-plus-2026-06-20",
+    "display_name": "django-auth-middleware-plus",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "django-auth-middleware-plus",
+        "ecosystem": "pypi",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6230",
+            "osv_published_at": "2026-06-19T21:05:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-20T07:44:12Z",
+    "osv_earliest_published_at": "2026-06-19T21:05:32Z",
+    "hours_ahead_of_osv": -10.64,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-20T07:44:13Z"
   }
 ]
