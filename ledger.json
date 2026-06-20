@@ -20826,33 +20826,32 @@
     "ledger_commit_at": "2026-06-20T07:44:13Z"
   },
   {
-    "id": "improvado-layout-panel-metrics-2026-06-20",
-    "display_name": "improvado-layout-panel-metrics",
+    "id": "fluent-dashboard-panel-metrics-2026-06-20",
+    "display_name": "fluent-dashboard-panel-metrics",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "improvado-layout-panel-metrics",
+        "package": "fluent-dashboard-panel-metrics",
         "ecosystem": "pypi",
         "versions": [
-          "0.1.0",
-          "0.1.1"
+          "0.1.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6231",
-            "osv_published_at": "2026-06-19T22:45:50Z"
+            "osv_id": "MAL-2026-6233",
+            "osv_published_at": "2026-06-20T01:07:05Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-06-20T07:44:13Z",
-    "osv_earliest_published_at": "2026-06-19T22:45:50Z",
-    "hours_ahead_of_osv": -8.97,
+    "attestd_detected_at": "2026-06-20T07:44:14Z",
+    "osv_earliest_published_at": "2026-06-20T01:07:05Z",
+    "hours_ahead_of_osv": -6.62,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-06-20T07:44:17Z"
+    "ledger_commit_at": "2026-06-20T07:44:21Z"
   }
 ]
