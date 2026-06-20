@@ -20853,5 +20853,34 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-20T07:44:21Z"
+  },
+  {
+    "id": "free-claude-2026-06-20",
+    "display_name": "free-claude",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "free-claude",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6232",
+            "osv_published_at": "2026-06-19T17:37:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-20T07:44:51Z",
+    "osv_earliest_published_at": "2026-06-19T17:37:59Z",
+    "hours_ahead_of_osv": -14.11,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-20T07:44:52Z"
   }
 ]
