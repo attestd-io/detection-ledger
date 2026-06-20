@@ -20913,37 +20913,36 @@
     "ledger_commit_at": "2026-06-20T07:45:00Z"
   },
   {
-    "id": "query-profile-2026-06-20",
-    "display_name": "query-profile",
+    "id": "d0rk3r-telemetry-2026-06-20",
+    "display_name": "d0rk3r-telemetry",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "query-profile",
+        "package": "d0rk3r-telemetry",
         "ecosystem": "pypi",
         "versions": [
-          "0.0.1",
-          "0.0.2",
-          "0.0.3"
+          "1.0.0",
+          "1.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6236",
-            "osv_published_at": "2026-06-20T08:55:46Z"
+            "osv_id": "MAL-2026-6244",
+            "osv_published_at": "2026-06-20T19:08:37Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-06-20T23:03:32Z",
+    "attestd_detected_at": "2026-06-20T23:03:33Z",
     "flagged_at": null,
-    "confirmed_at": "2026-06-20T23:03:32Z",
-    "osv_earliest_published_at": "2026-06-20T08:55:46Z",
-    "hours_ahead_of_osv": -14.13,
+    "confirmed_at": "2026-06-20T23:03:33Z",
+    "osv_earliest_published_at": "2026-06-20T19:08:37Z",
+    "hours_ahead_of_osv": -3.92,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-06-20T23:03:33Z"
+    "ledger_commit_at": "2026-06-20T23:03:37Z"
   }
 ]
