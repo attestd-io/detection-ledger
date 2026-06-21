@@ -21290,5 +21290,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-21T17:08:49Z"
+  },
+  {
+    "id": "zomato-config-2026-06-21",
+    "display_name": "zomato-config",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "zomato-config",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6251",
+            "osv_published_at": "2026-06-21T16:01:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-21T17:08:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-21T17:08:44Z",
+    "osv_earliest_published_at": "2026-06-21T16:01:08Z",
+    "hours_ahead_of_osv": -1.13,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-21T17:08:54Z"
   }
 ]
