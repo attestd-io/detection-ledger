@@ -1,0 +1,32 @@
+{
+  "id": "zomato-sushi-2026-06-21",
+  "display_name": "zomato-sushi",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zomato-sushi",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6254",
+          "osv_published_at": "2026-06-21T16:11:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-21T17:08:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-21T17:08:45Z",
+  "osv_earliest_published_at": "2026-06-21T16:11:12Z",
+  "hours_ahead_of_osv": -0.96,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-21T17:09:09Z"
+}
