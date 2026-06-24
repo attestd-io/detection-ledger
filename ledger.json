@@ -23133,5 +23133,41 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:50:47Z"
+  },
+  {
+    "id": "withgoogle-stitch-sdk-2026-06-23",
+    "display_name": "@withgoogle/stitch-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@withgoogle/stitch-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1",
+          "0.1.2",
+          "0.1.3",
+          "0.1.4",
+          "0.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6256",
+            "osv_published_at": "2026-06-20T12:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T22:13:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T22:13:47Z",
+    "osv_earliest_published_at": "2026-06-20T12:00:00Z",
+    "hours_ahead_of_osv": -82.23,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://safedep.io/withgoogle-stitch-sdk-scope-squat-credential-harvester/",
+    "ledger_commit_at": "2026-06-24T02:50:55Z"
   }
 ]
