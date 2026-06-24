@@ -1,0 +1,32 @@
+{
+  "id": "bn-lint-2026-06-24",
+  "display_name": "bn-lint",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bn-lint",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6376",
+          "osv_published_at": "2026-06-24T06:26:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:43Z",
+  "osv_earliest_published_at": "2026-06-24T06:26:20Z",
+  "hours_ahead_of_osv": -5.12,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:36:08Z"
+}
