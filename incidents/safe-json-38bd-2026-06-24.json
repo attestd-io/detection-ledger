@@ -1,0 +1,32 @@
+{
+  "id": "safe-json-38bd-2026-06-24",
+  "display_name": "safe-json-38bd",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "safe-json-38bd",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6356",
+          "osv_published_at": "2026-06-23T21:40:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:38Z",
+  "osv_earliest_published_at": "2026-06-23T21:40:03Z",
+  "hours_ahead_of_osv": -13.89,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:34:51Z"
+}
