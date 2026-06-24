@@ -23215,5 +23215,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:51:18Z"
+  },
+  {
+    "id": "hunsterx-package-2026-06-23",
+    "display_name": "hunsterx-package",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hunsterx-package",
+        "ecosystem": "npm",
+        "versions": [
+          "7.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6337",
+            "osv_published_at": "2026-06-23T19:33:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T22:13:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T22:13:54Z",
+    "osv_earliest_published_at": "2026-06-23T19:33:15Z",
+    "hours_ahead_of_osv": -2.68,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:51:22Z"
   }
 ]
