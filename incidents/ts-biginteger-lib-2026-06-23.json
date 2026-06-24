@@ -1,0 +1,32 @@
+{
+  "id": "ts-biginteger-lib-2026-06-23",
+  "display_name": "ts-biginteger-lib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ts-biginteger-lib",
+      "ecosystem": "npm",
+      "versions": [
+        "5.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6316",
+          "osv_published_at": "2026-06-23T16:07:35Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T17:46:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T17:46:34Z",
+  "osv_earliest_published_at": "2026-06-23T16:07:35Z",
+  "hours_ahead_of_osv": -1.65,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:49:46Z"
+}
