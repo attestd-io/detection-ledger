@@ -1,0 +1,32 @@
+{
+  "id": "macos-ci-utils-2026-06-24",
+  "display_name": "macos-ci-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "macos-ci-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6378",
+          "osv_published_at": "2026-06-24T07:21:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:43Z",
+  "osv_earliest_published_at": "2026-06-24T07:21:28Z",
+  "hours_ahead_of_osv": -4.2,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:36:16Z"
+}
