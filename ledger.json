@@ -23031,5 +23031,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:50:20Z"
+  },
+  {
+    "id": "web3-eth-util-2026-06-23",
+    "display_name": "web3-eth-util",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "web3-eth-util",
+        "ecosystem": "npm",
+        "versions": [
+          "6.2.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6325",
+            "osv_published_at": "2026-06-23T15:55:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T17:46:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T17:46:36Z",
+    "osv_earliest_published_at": "2026-06-23T15:55:58Z",
+    "hours_ahead_of_osv": -1.84,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:50:24Z"
   }
 ]
