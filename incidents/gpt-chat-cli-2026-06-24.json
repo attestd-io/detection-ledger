@@ -1,0 +1,33 @@
+{
+  "id": "gpt-chat-cli-2026-06-24",
+  "display_name": "gpt-chat-cli",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gpt-chat-cli",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6375",
+          "osv_published_at": "2026-06-24T06:02:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:42Z",
+  "osv_earliest_published_at": "2026-06-24T06:02:01Z",
+  "hours_ahead_of_osv": -5.53,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:36:04Z"
+}
