@@ -1,0 +1,36 @@
+{
+  "id": "lazyutil-dater-2026-06-23",
+  "display_name": "@lazyutil/dater",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@lazyutil/dater",
+      "ecosystem": "npm",
+      "versions": [
+        "0.8.1",
+        "0.9.2",
+        "0.9.3",
+        "0.9.4",
+        "0.9.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6308",
+          "osv_published_at": "2026-06-23T16:22:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T17:46:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T17:46:27Z",
+  "osv_earliest_published_at": "2026-06-23T16:22:37Z",
+  "hours_ahead_of_osv": -1.4,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:49:15Z"
+}
