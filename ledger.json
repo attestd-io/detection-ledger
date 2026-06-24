@@ -22019,5 +22019,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:48:16Z"
+  },
+  {
+    "id": "cue-mcp-2026-06-23",
+    "display_name": "cue-mcp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cue-mcp",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6294",
+            "osv_published_at": "2026-06-23T14:10:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T17:46:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T17:46:16Z",
+    "osv_earliest_published_at": "2026-06-23T14:10:26Z",
+    "hours_ahead_of_osv": -3.6,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:48:19Z"
   }
 ]
