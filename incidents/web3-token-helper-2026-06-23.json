@@ -1,0 +1,36 @@
+{
+  "id": "web3-token-helper-2026-06-23",
+  "display_name": "web3-token-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "web3-token-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.1.1",
+        "1.1.2",
+        "1.2.0",
+        "1.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6274",
+          "osv_published_at": "2026-06-22T22:38:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T04:00:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T04:00:43Z",
+  "osv_earliest_published_at": "2026-06-22T22:38:59Z",
+  "hours_ahead_of_osv": -5.36,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:44:20Z"
+}
