@@ -1,0 +1,45 @@
+{
+  "id": "variational-common-ui-2026-06-23",
+  "display_name": "@variational/common-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@variational/common-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9",
+        "1.1.0",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6272",
+          "osv_published_at": "2026-06-22T21:16:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T04:00:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T04:00:42Z",
+  "osv_earliest_published_at": "2026-06-22T21:16:50Z",
+  "hours_ahead_of_osv": -6.73,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:44:12Z"
+}
