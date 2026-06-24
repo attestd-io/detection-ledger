@@ -1,0 +1,32 @@
+{
+  "id": "openllmapi-2026-06-24",
+  "display_name": "openllmapi",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "openllmapi",
+      "ecosystem": "npm",
+      "versions": [
+        "4.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6364",
+          "osv_published_at": "2026-06-24T02:56:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:40Z",
+  "osv_earliest_published_at": "2026-06-24T02:56:49Z",
+  "hours_ahead_of_osv": -8.61,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:35:18Z"
+}
