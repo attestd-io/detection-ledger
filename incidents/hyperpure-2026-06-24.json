@@ -1,0 +1,32 @@
+{
+  "id": "hyperpure-2026-06-24",
+  "display_name": "hyperpure",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hyperpure",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6370",
+          "osv_published_at": "2026-06-24T04:00:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:41Z",
+  "osv_earliest_published_at": "2026-06-24T04:00:01Z",
+  "hours_ahead_of_osv": -7.56,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:35:42Z"
+}
