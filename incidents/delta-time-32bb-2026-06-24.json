@@ -1,0 +1,32 @@
+{
+  "id": "delta-time-32bb-2026-06-24",
+  "display_name": "delta-time-32bb",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "delta-time-32bb",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6351",
+          "osv_published_at": "2026-06-23T22:26:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:37Z",
+  "osv_earliest_published_at": "2026-06-23T22:26:24Z",
+  "hours_ahead_of_osv": -13.12,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:34:31Z"
+}
