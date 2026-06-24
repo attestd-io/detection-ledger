@@ -1,0 +1,32 @@
+{
+  "id": "paypal-postman-lib-2026-06-24",
+  "display_name": "paypal-postman-lib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "paypal-postman-lib",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-47594",
+          "osv_published_at": "2025-09-23T18:23:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:30Z",
+  "osv_earliest_published_at": "2025-09-23T18:23:25Z",
+  "hours_ahead_of_osv": -6569.17,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:33:31Z"
+}
