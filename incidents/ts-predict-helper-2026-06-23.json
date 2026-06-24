@@ -1,0 +1,33 @@
+{
+  "id": "ts-predict-helper-2026-06-23",
+  "display_name": "ts-predict-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ts-predict-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "3.7.0",
+        "3.7.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6322",
+          "osv_published_at": "2026-06-23T15:27:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T17:46:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T17:46:35Z",
+  "osv_earliest_published_at": "2026-06-23T15:27:33Z",
+  "hours_ahead_of_osv": -2.32,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:50:12Z"
+}
