@@ -23826,5 +23826,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T11:33:46Z"
+  },
+  {
+    "id": "ethereum-gas-reporter-2026-06-24",
+    "display_name": "ethereum-gas-reporter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ethereum-gas-reporter",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.27"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6202",
+            "osv_published_at": "2026-06-19T08:08:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-24T11:33:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-24T11:33:35Z",
+    "osv_earliest_published_at": "2026-06-19T08:08:39Z",
+    "hours_ahead_of_osv": -123.42,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T11:33:50Z"
   }
 ]
