@@ -22115,5 +22115,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:48:28Z"
+  },
+  {
+    "id": "tree-sitter-forth-2026-06-23",
+    "display_name": "tree-sitter-forth",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tree-sitter-forth",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6297",
+            "osv_published_at": "2026-06-23T14:10:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T17:46:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T17:46:17Z",
+    "osv_earliest_published_at": "2026-06-23T14:10:12Z",
+    "hours_ahead_of_osv": -3.6,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:48:31Z"
   }
 ]
