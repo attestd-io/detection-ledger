@@ -1,0 +1,32 @@
+{
+  "id": "npm-bug-bounty-test1-rhyselsmore-2026-06-24",
+  "display_name": "npm-bug-bounty-test1-rhyselsmore",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "npm-bug-bounty-test1-rhyselsmore",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6354",
+          "osv_published_at": "2026-06-23T21:57:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:38Z",
+  "osv_earliest_published_at": "2026-06-23T21:57:12Z",
+  "hours_ahead_of_osv": -13.61,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:34:43Z"
+}
