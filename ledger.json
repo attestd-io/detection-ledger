@@ -23247,5 +23247,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:51:22Z"
+  },
+  {
+    "id": "log-taker-2026-06-23",
+    "display_name": "log-taker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "log-taker",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6338",
+            "osv_published_at": "2026-06-23T20:20:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T22:13:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T22:13:54Z",
+    "osv_earliest_published_at": "2026-06-23T20:20:56Z",
+    "hours_ahead_of_osv": -1.88,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:51:26Z"
   }
 ]
