@@ -23961,5 +23961,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T11:34:18Z"
+  },
+  {
+    "id": "bug-monorepo-2026-06-24",
+    "display_name": "bug-monorepo",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bug-monorepo",
+        "ecosystem": "npm",
+        "versions": [
+          "3.1.94"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6349",
+            "osv_published_at": "2026-06-23T21:53:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-24T11:33:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-24T11:33:37Z",
+    "osv_earliest_published_at": "2026-06-23T21:53:55Z",
+    "hours_ahead_of_osv": -13.66,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T11:34:22Z"
   }
 ]
