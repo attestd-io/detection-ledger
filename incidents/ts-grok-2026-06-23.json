@@ -1,0 +1,32 @@
+{
+  "id": "ts-grok-2026-06-23",
+  "display_name": "ts-grok",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ts-grok",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6321",
+          "osv_published_at": "2026-06-23T16:11:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T17:46:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T17:46:35Z",
+  "osv_earliest_published_at": "2026-06-23T16:11:24Z",
+  "hours_ahead_of_osv": -1.59,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:50:08Z"
+}
