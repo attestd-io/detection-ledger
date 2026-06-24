@@ -22427,5 +22427,41 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:49:07Z"
+  },
+  {
+    "id": "glitchpad-throttler-2026-06-23",
+    "display_name": "@glitchpad/throttler",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@glitchpad/throttler",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.1",
+          "2.2.1",
+          "2.2.2",
+          "2.2.3",
+          "2.2.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6307",
+            "osv_published_at": "2026-06-23T16:23:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T17:46:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T17:46:26Z",
+    "osv_earliest_published_at": "2026-06-23T16:23:03Z",
+    "hours_ahead_of_osv": -1.39,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:49:11Z"
   }
 ]
