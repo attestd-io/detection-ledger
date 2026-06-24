@@ -1,0 +1,32 @@
+{
+  "id": "zod-pino-2026-06-23",
+  "display_name": "zod-pino",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zod-pino",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.122"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6273",
+          "osv_published_at": "2026-06-22T21:53:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T04:00:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T04:00:42Z",
+  "osv_earliest_published_at": "2026-06-22T21:53:45Z",
+  "hours_ahead_of_osv": -6.12,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:44:16Z"
+}
