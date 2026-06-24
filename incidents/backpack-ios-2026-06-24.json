@@ -1,0 +1,32 @@
+{
+  "id": "backpack-ios-2026-06-24",
+  "display_name": "backpack-ios",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "backpack-ios",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6366",
+          "osv_published_at": "2026-06-24T03:36:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-24T11:33:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-24T11:33:41Z",
+  "osv_earliest_published_at": "2026-06-24T03:36:34Z",
+  "hours_ahead_of_osv": -7.95,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T11:35:26Z"
+}
