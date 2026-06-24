@@ -22640,5 +22640,41 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:49:30Z"
+  },
+  {
+    "id": "zynkit-jwtbytes-2026-06-23",
+    "display_name": "@zynkit/jwtbytes",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@zynkit/jwtbytes",
+        "ecosystem": "npm",
+        "versions": [
+          "0.4.3",
+          "0.5.1",
+          "0.5.2",
+          "0.5.3",
+          "0.5.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6313",
+            "osv_published_at": "2026-06-23T16:22:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T17:46:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T17:46:32Z",
+    "osv_earliest_published_at": "2026-06-23T16:22:25Z",
+    "hours_ahead_of_osv": -1.4,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:49:34Z"
   }
 ]
