@@ -21505,5 +21505,43 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40mastra%2Fvoice-sarvam",
     "ledger_commit_at": "2026-06-23T01:24:10Z"
+  },
+  {
+    "id": "node-fetch-utils-2026-06-23",
+    "display_name": "node-fetch-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "node-fetch-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.1",
+          "1.2.2",
+          "1.2.3",
+          "1.2.4",
+          "1.2.5",
+          "1.2.6",
+          "1.2.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6271",
+            "osv_published_at": "2026-06-22T19:54:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T04:00:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T04:00:40Z",
+    "osv_earliest_published_at": "2026-06-22T19:54:51Z",
+    "hours_ahead_of_osv": -8.1,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:44:07Z"
   }
 ]
