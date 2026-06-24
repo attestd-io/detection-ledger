@@ -1,0 +1,34 @@
+{
+  "id": "ttal2ttml-2026-06-23",
+  "display_name": "ttal2ttml",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ttal2ttml",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.1",
+        "99.0.2",
+        "99.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6298",
+          "osv_published_at": "2026-06-23T14:11:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-23T17:46:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-23T17:46:17Z",
+  "osv_earliest_published_at": "2026-06-23T14:11:40Z",
+  "hours_ahead_of_osv": -3.58,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-24T02:48:35Z"
+}
