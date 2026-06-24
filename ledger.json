@@ -23098,5 +23098,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T02:50:28Z"
+  },
+  {
+    "id": "crosswalker-2026-06-23",
+    "display_name": "crosswalker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "crosswalker",
+        "ecosystem": "npm",
+        "versions": [
+          "18.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2024-2031",
+            "osv_published_at": "2024-06-25T12:34:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-23T22:13:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-23T22:13:43Z",
+    "osv_earliest_published_at": "2024-06-25T12:34:37Z",
+    "hours_ahead_of_osv": -17481.65,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-24T02:50:47Z"
   }
 ]
