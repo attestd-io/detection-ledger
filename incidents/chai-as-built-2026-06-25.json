@@ -1,0 +1,32 @@
+{
+  "id": "chai-as-built-2026-06-25",
+  "display_name": "chai-as-built",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-as-built",
+      "ecosystem": "npm",
+      "versions": [
+        "6.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6465",
+          "osv_published_at": "2026-06-25T17:13:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-25T22:17:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-25T22:17:00Z",
+  "osv_earliest_published_at": "2026-06-25T17:13:38Z",
+  "hours_ahead_of_osv": -5.06,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-25T22:17:01Z"
+}
