@@ -25321,5 +25321,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-25T22:17:31Z"
+  },
+  {
+    "id": "tailwindcss-effector-2026-06-25",
+    "display_name": "tailwindcss-effector",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tailwindcss-effector",
+        "ecosystem": "npm",
+        "versions": [
+          "1.7.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6472",
+            "osv_published_at": "2026-06-25T18:43:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-25T22:17:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-25T22:17:03Z",
+    "osv_earliest_published_at": "2026-06-25T18:43:43Z",
+    "hours_ahead_of_osv": -3.56,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-25T22:17:36Z"
   }
 ]
