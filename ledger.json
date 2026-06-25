@@ -25418,5 +25418,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-25T22:17:50Z"
+  },
+  {
+    "id": "typedecode-2026-06-25",
+    "display_name": "typedecode",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "typedecode",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6476",
+            "osv_published_at": "2026-06-25T20:32:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-25T22:17:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-25T22:17:03Z",
+    "osv_earliest_published_at": "2026-06-25T20:32:15Z",
+    "hours_ahead_of_osv": -1.75,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-25T22:17:55Z"
   }
 ]
