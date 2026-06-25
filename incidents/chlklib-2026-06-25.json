@@ -1,0 +1,35 @@
+{
+  "id": "chlklib-2026-06-25",
+  "display_name": "chlklib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chlklib",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6470",
+          "osv_published_at": "2026-06-25T18:27:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-25T22:17:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-25T22:17:02Z",
+  "osv_earliest_published_at": "2026-06-25T18:27:36Z",
+  "hours_ahead_of_osv": -3.82,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-25T22:17:26Z"
+}
