@@ -25062,5 +25062,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-25T22:16:46Z"
+  },
+  {
+    "id": "colibri-event-types-megamarket-ru-web-2026-06-25",
+    "display_name": "@colibri-event-types/megamarket-ru-web",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@colibri-event-types/megamarket-ru-web",
+        "ecosystem": "npm",
+        "versions": [
+          "5.2.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6464",
+            "osv_published_at": "2026-06-25T17:00:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-25T22:16:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-25T22:16:27Z",
+    "osv_earliest_published_at": "2026-06-25T17:00:25Z",
+    "hours_ahead_of_osv": -5.27,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-25T22:16:51Z"
   }
 ]
