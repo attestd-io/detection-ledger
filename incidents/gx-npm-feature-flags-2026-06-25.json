@@ -1,0 +1,32 @@
+{
+  "id": "gx-npm-feature-flags-2026-06-25",
+  "display_name": "gx-npm-feature-flags",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gx-npm-feature-flags",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6466",
+          "osv_published_at": "2026-06-25T17:06:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-25T22:17:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-25T22:17:00Z",
+  "osv_earliest_published_at": "2026-06-25T17:06:05Z",
+  "hours_ahead_of_osv": -5.18,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-25T22:17:06Z"
+}
