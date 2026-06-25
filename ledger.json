@@ -24931,5 +24931,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-24T11:36:25Z"
+  },
+  {
+    "id": "python-dateutil2-2026-06-25",
+    "display_name": "python-dateutil2",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "python-dateutil2",
+        "ecosystem": "pypi",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6400",
+            "osv_published_at": "2026-06-24T16:27:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-25T03:09:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-25T03:09:55Z",
+    "osv_earliest_published_at": "2026-06-24T16:27:52Z",
+    "hours_ahead_of_osv": -10.7,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-25T04:31:32Z"
   }
 ]
