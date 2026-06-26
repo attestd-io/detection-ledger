@@ -1,0 +1,32 @@
+{
+  "id": "appupdate-cdn-sync-2026-06-26",
+  "display_name": "@appupdate/cdn-sync",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@appupdate/cdn-sync",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6531",
+          "osv_published_at": "2026-06-26T18:24:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-26T23:46:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-26T23:46:34Z",
+  "osv_earliest_published_at": "2026-06-26T18:24:34Z",
+  "hours_ahead_of_osv": -5.37,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-26T23:47:10Z"
+}
