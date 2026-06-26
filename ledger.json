@@ -26136,5 +26136,41 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-26T23:46:47Z"
+  },
+  {
+    "id": "immobiliarelabs-backstage-plugin-gitlab-backend-2026-06-26",
+    "display_name": "@immobiliarelabs/backstage-plugin-gitlab-backend",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@immobiliarelabs/backstage-plugin-gitlab-backend",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.3",
+          "4.0.2",
+          "5.2.1",
+          "6.13.1",
+          "7.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6527",
+            "osv_published_at": "2026-06-26T15:42:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-26T23:46:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-26T23:46:31Z",
+    "osv_earliest_published_at": "2026-06-26T15:42:17Z",
+    "hours_ahead_of_osv": -8.07,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-26T23:46:51Z"
   }
 ]
