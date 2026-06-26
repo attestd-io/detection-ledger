@@ -1,0 +1,32 @@
+{
+  "id": "ts-einkle-2026-06-26",
+  "display_name": "ts-einkle",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ts-einkle",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6524",
+          "osv_published_at": "2026-06-26T14:16:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-26T23:46:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-26T23:46:29Z",
+  "osv_earliest_published_at": "2026-06-26T14:16:24Z",
+  "hours_ahead_of_osv": -9.5,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-26T23:46:38Z"
+}
