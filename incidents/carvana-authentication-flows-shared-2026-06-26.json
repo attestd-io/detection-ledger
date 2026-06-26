@@ -1,0 +1,32 @@
+{
+  "id": "carvana-authentication-flows-shared-2026-06-26",
+  "display_name": "@carvana.authentication-flows/shared",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@carvana.authentication-flows/shared",
+      "ecosystem": "npm",
+      "versions": [
+        "19.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6521",
+          "osv_published_at": "2026-06-26T14:36:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-26T23:44:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-26T23:44:47Z",
+  "osv_earliest_published_at": "2026-06-26T14:36:29Z",
+  "hours_ahead_of_osv": -9.14,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-26T23:45:39Z"
+}
