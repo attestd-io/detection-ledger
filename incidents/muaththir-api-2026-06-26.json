@@ -1,0 +1,32 @@
+{
+  "id": "muaththir-api-2026-06-26",
+  "display_name": "@muaththir/api",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@muaththir/api",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6328",
+          "osv_published_at": "2026-06-23T16:11:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-26T23:44:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-26T23:44:43Z",
+  "osv_earliest_published_at": "2026-06-23T16:11:16Z",
+  "hours_ahead_of_osv": -79.56,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-26T23:45:03Z"
+}
