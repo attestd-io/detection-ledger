@@ -1,0 +1,33 @@
+{
+  "id": "inlifegram-2026-06-26",
+  "display_name": "inlifegram",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "inlifegram",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.1.2.8",
+        "2.1.2.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6516",
+          "osv_published_at": "2026-06-26T10:50:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-26T23:40:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-26T23:40:25Z",
+  "osv_earliest_published_at": "2026-06-26T10:50:08Z",
+  "hours_ahead_of_osv": -12.84,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-26T23:40:35Z"
+}
