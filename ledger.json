@@ -25484,21 +25484,21 @@
     "ledger_commit_at": "2026-06-26T05:07:01Z"
   },
   {
-    "id": "pyext6cc8cd-2026-06-26",
-    "display_name": "pyext6cc8cd",
+    "id": "extra-huggingface-2026-06-26",
+    "display_name": "extra-huggingface",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "pyext6cc8cd",
+        "package": "extra-huggingface",
         "ecosystem": "pypi",
         "versions": [
-          "1.0.0"
+          "0.4.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6488",
-            "osv_published_at": "2026-06-25T22:45:45Z"
+            "osv_id": "MAL-2026-6489",
+            "osv_published_at": "2026-06-25T22:49:25Z"
           }
         ]
       }
@@ -25507,12 +25507,12 @@
     "attestd_detected_at": "2026-06-26T03:10:48Z",
     "flagged_at": null,
     "confirmed_at": "2026-06-26T03:10:48Z",
-    "osv_earliest_published_at": "2026-06-25T22:45:45Z",
-    "hours_ahead_of_osv": -4.42,
+    "osv_earliest_published_at": "2026-06-25T22:49:25Z",
+    "hours_ahead_of_osv": -4.36,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-06-26T05:07:05Z"
+    "ledger_commit_at": "2026-06-26T05:07:10Z"
   }
 ]
