@@ -1,0 +1,32 @@
+{
+  "id": "chai-as-assured-2026-06-26",
+  "display_name": "chai-as-assured",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-as-assured",
+      "ecosystem": "npm",
+      "versions": [
+        "7.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6532",
+          "osv_published_at": "2026-06-26T17:44:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-26T23:46:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-26T23:46:34Z",
+  "osv_earliest_published_at": "2026-06-26T17:44:23Z",
+  "hours_ahead_of_osv": -6.04,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-26T23:47:14Z"
+}
