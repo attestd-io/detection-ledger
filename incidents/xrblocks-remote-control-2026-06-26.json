@@ -1,0 +1,32 @@
+{
+  "id": "xrblocks-remote-control-2026-06-26",
+  "display_name": "xrblocks-remote-control",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "xrblocks-remote-control",
+      "ecosystem": "npm",
+      "versions": [
+        "22.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6530",
+          "osv_published_at": "2026-06-26T16:56:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-26T23:46:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-26T23:46:34Z",
+  "osv_earliest_published_at": "2026-06-26T16:56:03Z",
+  "hours_ahead_of_osv": -6.84,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-26T23:47:05Z"
+}
