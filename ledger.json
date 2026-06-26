@@ -25450,5 +25450,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-25T22:17:55Z"
+  },
+  {
+    "id": "mi-test-99-tuapellido-2026-06-26",
+    "display_name": "mi-test-99-tuapellido",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mi-test-99-tuapellido",
+        "ecosystem": "pypi",
+        "versions": [
+          "99.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6478",
+            "osv_published_at": "2026-06-25T21:11:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-26T03:10:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-26T03:10:47Z",
+    "osv_earliest_published_at": "2026-06-25T21:11:03Z",
+    "hours_ahead_of_osv": -6.0,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-26T05:07:01Z"
   }
 ]
