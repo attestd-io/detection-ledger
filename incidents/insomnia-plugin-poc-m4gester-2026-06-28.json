@@ -1,0 +1,32 @@
+{
+  "id": "insomnia-plugin-poc-m4gester-2026-06-28",
+  "display_name": "insomnia-plugin-poc-m4gester",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "insomnia-plugin-poc-m4gester",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6552",
+          "osv_published_at": "2026-06-28T06:00:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-28T09:51:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-28T09:51:43Z",
+  "osv_earliest_published_at": "2026-06-28T06:00:42Z",
+  "hours_ahead_of_osv": -3.85,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-28T09:51:52Z"
+}
