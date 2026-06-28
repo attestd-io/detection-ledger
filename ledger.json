@@ -26831,5 +26831,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-28T09:52:05Z"
+  },
+  {
+    "id": "polymarket-clob-math-2026-06-28",
+    "display_name": "polymarket-clob-math",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "polymarket-clob-math",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6556",
+            "osv_published_at": "2026-06-28T06:02:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-28T09:51:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-28T09:51:45Z",
+    "osv_earliest_published_at": "2026-06-28T06:02:02Z",
+    "hours_ahead_of_osv": -3.83,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-28T09:52:09Z"
   }
 ]
