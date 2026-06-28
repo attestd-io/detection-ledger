@@ -26863,5 +26863,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-28T09:52:09Z"
+  },
+  {
+    "id": "fsociety-tools-2026-06-28",
+    "display_name": "fsociety-tools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fsociety-tools",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6558",
+            "osv_published_at": "2026-06-28T11:03:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-28T15:29:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-28T15:29:01Z",
+    "osv_earliest_published_at": "2026-06-28T11:03:41Z",
+    "hours_ahead_of_osv": -4.42,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-28T15:29:01Z"
   }
 ]
