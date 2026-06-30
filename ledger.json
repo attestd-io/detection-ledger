@@ -27000,5 +27000,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-29T04:15:18Z"
+  },
+  {
+    "id": "django-bkvision-2026-06-29",
+    "display_name": "django-bkvision",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "django-bkvision",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6593",
+            "osv_published_at": "2026-06-29T09:41:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-29T15:52:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-29T15:52:09Z",
+    "osv_earliest_published_at": "2026-06-29T09:41:45Z",
+    "hours_ahead_of_osv": -6.17,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-30T02:44:19Z"
   }
 ]
