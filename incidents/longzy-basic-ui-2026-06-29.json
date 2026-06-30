@@ -1,0 +1,32 @@
+{
+  "id": "longzy-basic-ui-2026-06-29",
+  "display_name": "longzy-basic-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "longzy-basic-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6569",
+          "osv_published_at": "2026-06-29T04:37:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-29T15:58:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-29T15:58:04Z",
+  "osv_earliest_published_at": "2026-06-29T04:37:18Z",
+  "hours_ahead_of_osv": -11.35,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-30T02:45:30Z"
+}
