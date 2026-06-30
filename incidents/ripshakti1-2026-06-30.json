@@ -1,0 +1,32 @@
+{
+  "id": "ripshakti1-2026-06-30",
+  "display_name": "ripshakti1",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ripshakti1",
+      "ecosystem": "npm",
+      "versions": [
+        "81.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6674",
+          "osv_published_at": "2026-06-30T09:37:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-30T18:21:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-30T18:21:10Z",
+  "osv_earliest_published_at": "2026-06-30T09:37:30Z",
+  "hours_ahead_of_osv": -8.73,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-30T18:21:15Z"
+}
