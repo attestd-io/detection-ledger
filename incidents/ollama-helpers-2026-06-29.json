@@ -1,0 +1,33 @@
+{
+  "id": "ollama-helpers-2026-06-29",
+  "display_name": "ollama-helpers",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ollama-helpers",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.1",
+        "1.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6581",
+          "osv_published_at": "2026-06-29T05:51:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-29T15:58:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-29T15:58:08Z",
+  "osv_earliest_published_at": "2026-06-29T05:51:09Z",
+  "hours_ahead_of_osv": -10.12,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-30T02:46:21Z"
+}
