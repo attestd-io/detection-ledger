@@ -27604,21 +27604,21 @@
     "ledger_commit_at": "2026-06-30T02:46:08Z"
   },
   {
-    "id": "loadutils-2026-06-29",
-    "display_name": "loadutils",
+    "id": "lessload-2026-06-29",
+    "display_name": "lessload",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "loadutils",
+        "package": "lessload",
         "ecosystem": "npm",
         "versions": [
-          "1.0.4"
+          "1.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6580",
-            "osv_published_at": "2026-06-29T06:39:52Z"
+            "osv_id": "MAL-2026-6579",
+            "osv_published_at": "2026-06-29T05:32:36Z"
           }
         ]
       }
@@ -27627,12 +27627,45 @@
     "attestd_detected_at": "2026-06-29T15:58:08Z",
     "flagged_at": null,
     "confirmed_at": "2026-06-29T15:58:08Z",
-    "osv_earliest_published_at": "2026-06-29T06:39:52Z",
-    "hours_ahead_of_osv": -9.3,
+    "osv_earliest_published_at": "2026-06-29T05:32:36Z",
+    "hours_ahead_of_osv": -10.43,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-06-30T02:46:17Z"
+    "ledger_commit_at": "2026-06-30T02:46:13Z"
+  },
+  {
+    "id": "ollama-helpers-2026-06-29",
+    "display_name": "ollama-helpers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ollama-helpers",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.1",
+          "1.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6581",
+            "osv_published_at": "2026-06-29T05:51:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-29T15:58:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-29T15:58:08Z",
+    "osv_earliest_published_at": "2026-06-29T05:51:09Z",
+    "hours_ahead_of_osv": -10.12,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-30T02:46:21Z"
   }
 ]
