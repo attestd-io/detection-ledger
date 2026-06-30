@@ -1,0 +1,37 @@
+{
+  "id": "thone33-core-utils-2026-06-29",
+  "display_name": "@thone33/core-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@thone33/core-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6564",
+          "osv_published_at": "2026-06-29T04:50:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-29T15:58:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-29T15:58:02Z",
+  "osv_earliest_published_at": "2026-06-29T04:50:05Z",
+  "hours_ahead_of_osv": -11.13,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-30T02:45:10Z"
+}
