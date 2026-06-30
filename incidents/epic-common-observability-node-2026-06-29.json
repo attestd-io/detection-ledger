@@ -1,0 +1,33 @@
+{
+  "id": "epic-common-observability-node-2026-06-29",
+  "display_name": "@epic-common/observability-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@epic-common/observability-node",
+      "ecosystem": "npm",
+      "versions": [
+        "10.10.1",
+        "10.10.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6562",
+          "osv_published_at": "2026-06-29T04:21:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-29T15:56:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-29T15:56:18Z",
+  "osv_earliest_published_at": "2026-06-29T04:21:26Z",
+  "hours_ahead_of_osv": -11.58,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-30T02:45:01Z"
+}
