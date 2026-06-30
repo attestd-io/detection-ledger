@@ -27337,5 +27337,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-30T02:45:30Z"
+  },
+  {
+    "id": "pkg-fallback-2026-06-29",
+    "display_name": "pkg-fallback",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pkg-fallback",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6570",
+            "osv_published_at": "2026-06-29T04:26:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-29T15:58:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-29T15:58:04Z",
+    "osv_earliest_published_at": "2026-06-29T04:26:41Z",
+    "hours_ahead_of_osv": -11.52,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-30T02:45:34Z"
   }
 ]
