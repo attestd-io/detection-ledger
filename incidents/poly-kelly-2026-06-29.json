@@ -1,0 +1,32 @@
+{
+  "id": "poly-kelly-2026-06-29",
+  "display_name": "poly-kelly",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "poly-kelly",
+      "ecosystem": "npm",
+      "versions": [
+        "3.5.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6584",
+          "osv_published_at": "2026-06-29T06:04:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-06-29T15:58:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-06-29T15:58:09Z",
+  "osv_earliest_published_at": "2026-06-29T06:04:33Z",
+  "hours_ahead_of_osv": -9.89,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-06-30T02:46:33Z"
+}
