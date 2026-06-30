@@ -27668,22 +27668,21 @@
     "ledger_commit_at": "2026-06-30T02:46:26Z"
   },
   {
-    "id": "pino-debugging-2026-06-29",
-    "display_name": "pino-debugging",
+    "id": "poly-kelly-2026-06-29",
+    "display_name": "poly-kelly",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "pino-debugging",
+        "package": "poly-kelly",
         "ecosystem": "npm",
         "versions": [
-          "1.1.3",
-          "1.1.4"
+          "3.5.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6583",
-            "osv_published_at": "2026-06-29T06:27:23Z"
+            "osv_id": "MAL-2026-6584",
+            "osv_published_at": "2026-06-29T06:04:33Z"
           }
         ]
       }
@@ -27692,12 +27691,12 @@
     "attestd_detected_at": "2026-06-29T15:58:09Z",
     "flagged_at": null,
     "confirmed_at": "2026-06-29T15:58:09Z",
-    "osv_earliest_published_at": "2026-06-29T06:27:23Z",
-    "hours_ahead_of_osv": -9.51,
+    "osv_earliest_published_at": "2026-06-29T06:04:33Z",
+    "hours_ahead_of_osv": -9.89,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-06-30T02:46:30Z"
+    "ledger_commit_at": "2026-06-30T02:46:33Z"
   }
 ]
