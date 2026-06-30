@@ -27698,5 +27698,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-06-30T02:46:33Z"
+  },
+  {
+    "id": "stake-math-2026-06-29",
+    "display_name": "stake-math",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "stake-math",
+        "ecosystem": "npm",
+        "versions": [
+          "3.5.2",
+          "3.5.3",
+          "3.5.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6585",
+            "osv_published_at": "2026-06-29T05:33:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-06-29T15:58:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-06-29T15:58:09Z",
+    "osv_earliest_published_at": "2026-06-29T05:33:56Z",
+    "hours_ahead_of_osv": -10.4,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-06-30T02:46:37Z"
   }
 ]
