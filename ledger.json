@@ -28503,5 +28503,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-01T22:51:35Z"
+  },
+  {
+    "id": "svgcraft-core-2026-07-01",
+    "display_name": "svgcraft-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "svgcraft-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6715",
+            "osv_published_at": "2026-07-01T20:48:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-01T22:50:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-01T22:50:58Z",
+    "osv_earliest_published_at": "2026-07-01T20:48:15Z",
+    "hours_ahead_of_osv": -2.05,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-01T22:51:40Z"
   }
 ]
