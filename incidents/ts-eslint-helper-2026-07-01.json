@@ -1,0 +1,34 @@
+{
+  "id": "ts-eslint-helper-2026-07-01",
+  "display_name": "ts-eslint-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ts-eslint-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "4.0.3",
+        "4.0.4",
+        "4.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6721",
+          "osv_published_at": "2026-07-01T20:28:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T22:51:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T22:51:01Z",
+  "osv_earliest_published_at": "2026-07-01T20:28:12Z",
+  "hours_ahead_of_osv": -2.38,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-01T22:52:07Z"
+}
