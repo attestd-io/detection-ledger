@@ -1,0 +1,32 @@
+{
+  "id": "polymarket-toolkit-2026-07-01",
+  "display_name": "polymarket-toolkit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "polymarket-toolkit",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6713",
+          "osv_published_at": "2026-07-01T20:37:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T22:50:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T22:50:57Z",
+  "osv_earliest_published_at": "2026-07-01T20:37:33Z",
+  "hours_ahead_of_osv": -2.22,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-01T22:51:31Z"
+}
