@@ -28471,5 +28471,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-01T22:51:31Z"
+  },
+  {
+    "id": "polymarket-trading-developer-tool-2026-07-01",
+    "display_name": "polymarket-trading-developer-tool",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "polymarket-trading-developer-tool",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6714",
+            "osv_published_at": "2026-07-01T20:37:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-01T22:50:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-01T22:50:57Z",
+    "osv_earliest_published_at": "2026-07-01T20:37:24Z",
+    "hours_ahead_of_osv": -2.23,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-01T22:51:35Z"
   }
 ]
