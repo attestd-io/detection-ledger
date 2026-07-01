@@ -1,0 +1,33 @@
+{
+  "id": "vitest-agent-2026-07-01",
+  "display_name": "vitest-agent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vitest-agent",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.5",
+        "1.0.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6710",
+          "osv_published_at": "2026-07-01T19:15:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T22:50:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T22:50:57Z",
+  "osv_earliest_published_at": "2026-07-01T19:15:53Z",
+  "hours_ahead_of_osv": -3.58,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-01T22:51:22Z"
+}
