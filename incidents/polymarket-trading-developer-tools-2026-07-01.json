@@ -1,0 +1,33 @@
+{
+  "id": "polymarket-trading-developer-tools-2026-07-01",
+  "display_name": "polymarket-trading-developer-tools",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "polymarket-trading-developer-tools",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6692",
+          "osv_published_at": "2026-06-30T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T22:50:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T22:50:56Z",
+  "osv_earliest_published_at": "2026-06-30T00:00:00Z",
+  "hours_ahead_of_osv": -46.85,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://safedep.io/defi-infostealer-fake-arbitrage-bot-npm/",
+  "ledger_commit_at": "2026-07-01T22:51:13Z"
+}
