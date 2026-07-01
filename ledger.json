@@ -28083,21 +28083,21 @@
     "ledger_commit_at": "2026-07-01T00:35:26Z"
   },
   {
-    "id": "ripshakti-2026-07-01",
-    "display_name": "ripshakti",
+    "id": "vue-demi-fix-2026-07-01",
+    "display_name": "vue-demi-fix",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "ripshakti",
+        "package": "vue-demi-fix",
         "ecosystem": "npm",
         "versions": [
-          "80.0.0"
+          "10.0.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6701",
-            "osv_published_at": "2026-06-30T20:59:31Z"
+            "osv_id": "MAL-2026-6702",
+            "osv_published_at": "2026-06-30T10:41:28Z"
           }
         ]
       }
@@ -28106,12 +28106,12 @@
     "attestd_detected_at": "2026-07-01T00:35:12Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-01T00:35:12Z",
-    "osv_earliest_published_at": "2026-06-30T20:59:31Z",
-    "hours_ahead_of_osv": -3.59,
+    "osv_earliest_published_at": "2026-06-30T10:41:28Z",
+    "hours_ahead_of_osv": -13.9,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-01T00:35:30Z"
+    "ledger_commit_at": "2026-07-01T00:35:35Z"
   }
 ]
