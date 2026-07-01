@@ -1,0 +1,32 @@
+{
+  "id": "sudoughnym-enviro-demo-2026-07-01",
+  "display_name": "@sudoughnym/enviro-demo",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sudoughnym/enviro-demo",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6697",
+          "osv_published_at": "2026-06-30T20:59:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T00:35:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T00:35:09Z",
+  "osv_earliest_published_at": "2026-06-30T20:59:17Z",
+  "hours_ahead_of_osv": -3.6,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-01T00:35:12Z"
+}
