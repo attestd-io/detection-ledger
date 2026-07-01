@@ -28538,5 +28538,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-01T22:51:40Z"
+  },
+  {
+    "id": "test-pkg-pnpm-2026-07-01",
+    "display_name": "test-pkg-pnpm",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "test-pkg-pnpm",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6716",
+            "osv_published_at": "2026-07-01T20:47:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-01T22:50:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-01T22:50:58Z",
+    "osv_earliest_published_at": "2026-07-01T20:47:19Z",
+    "hours_ahead_of_osv": -2.06,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-01T22:51:45Z"
   }
 ]
