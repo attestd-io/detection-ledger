@@ -1,0 +1,32 @@
+{
+  "id": "vue-demi-fix-2026-07-01",
+  "display_name": "vue-demi-fix",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vue-demi-fix",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6702",
+          "osv_published_at": "2026-06-30T10:41:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T00:35:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T00:35:12Z",
+  "osv_earliest_published_at": "2026-06-30T10:41:28Z",
+  "hours_ahead_of_osv": -13.9,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-01T00:35:35Z"
+}
