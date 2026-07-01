@@ -1,0 +1,32 @@
+{
+  "id": "andes-tools-colors-2026-07-01",
+  "display_name": "@andes-tools/colors",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@andes-tools/colors",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6703",
+          "osv_published_at": "2026-07-01T17:11:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T18:26:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T18:26:02Z",
+  "osv_earliest_published_at": "2026-07-01T17:11:18Z",
+  "hours_ahead_of_osv": -1.25,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-01T18:26:02Z"
+}
