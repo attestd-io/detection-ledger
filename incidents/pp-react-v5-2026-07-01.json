@@ -1,0 +1,32 @@
+{
+  "id": "pp-react-v5-2026-07-01",
+  "display_name": "pp-react-v5",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pp-react-v5",
+      "ecosystem": "npm",
+      "versions": [
+        "30.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3509",
+          "osv_published_at": "2026-05-11T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-01T09:00:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-01T09:00:56Z",
+  "osv_earliest_published_at": "2026-05-11T00:00:00Z",
+  "hours_ahead_of_osv": -1233.02,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-01T09:00:57Z"
+}
