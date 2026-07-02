@@ -1,0 +1,32 @@
+{
+  "id": "dt-validator-2026-07-02",
+  "display_name": "dt-validator",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dt-validator",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.3.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6728",
+          "osv_published_at": "2026-07-02T17:39:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-02T21:13:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-02T21:13:25Z",
+  "osv_earliest_published_at": "2026-07-02T17:39:30Z",
+  "hours_ahead_of_osv": -3.57,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-02T21:13:26Z"
+}
