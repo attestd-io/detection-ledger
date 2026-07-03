@@ -29005,5 +29005,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-03T04:27:37Z"
+  },
+  {
+    "id": "unreal-mladapter-2026-07-03",
+    "display_name": "unreal-mladapter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "unreal-mladapter",
+        "ecosystem": "pypi",
+        "versions": [
+          "99999.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6736",
+            "osv_published_at": "2026-07-02T21:22:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-03T04:27:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-03T04:27:29Z",
+    "osv_earliest_published_at": "2026-07-02T21:22:11Z",
+    "hours_ahead_of_osv": -7.09,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-03T04:27:41Z"
   }
 ]
