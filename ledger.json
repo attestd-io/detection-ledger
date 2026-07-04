@@ -29271,5 +29271,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-04T14:02:24Z"
+  },
+  {
+    "id": "httpprobe-2026-07-04",
+    "display_name": "httpprobe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "httpprobe",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6758",
+            "osv_published_at": "2026-07-04T18:05:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-04T20:02:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-04T20:02:29Z",
+    "osv_earliest_published_at": "2026-07-04T18:05:11Z",
+    "hours_ahead_of_osv": -1.96,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-04T20:02:30Z"
   }
 ]
