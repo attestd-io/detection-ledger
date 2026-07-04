@@ -29205,5 +29205,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-04T04:15:10Z"
+  },
+  {
+    "id": "schemavault-2026-07-04",
+    "display_name": "schemavault",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "schemavault",
+        "ecosystem": "pypi",
+        "versions": [
+          "4.1.0",
+          "4.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6753",
+            "osv_published_at": "2026-07-03T23:47:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-04T04:14:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-04T04:14:54Z",
+    "osv_earliest_published_at": "2026-07-03T23:47:04Z",
+    "hours_ahead_of_osv": -4.46,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-04T04:15:15Z"
   }
 ]
