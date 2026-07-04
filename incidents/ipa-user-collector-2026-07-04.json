@@ -1,0 +1,32 @@
+{
+  "id": "ipa-user-collector-2026-07-04",
+  "display_name": "ipa-user-collector",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ipa-user-collector",
+      "ecosystem": "pypi",
+      "versions": [
+        "8.5.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6749",
+          "osv_published_at": "2026-07-03T22:45:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-04T04:14:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-04T04:14:53Z",
+  "osv_earliest_published_at": "2026-07-03T22:45:17Z",
+  "hours_ahead_of_osv": -5.49,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-04T04:14:58Z"
+}
