@@ -1,0 +1,33 @@
+{
+  "id": "confighub-2026-07-04",
+  "display_name": "confighub",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "confighub",
+      "ecosystem": "pypi",
+      "versions": [
+        "7.0.1",
+        "7.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6752",
+          "osv_published_at": "2026-07-03T23:44:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-04T04:14:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-04T04:14:54Z",
+  "osv_earliest_published_at": "2026-07-03T23:44:02Z",
+  "hours_ahead_of_osv": -4.51,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-04T04:15:10Z"
+}
