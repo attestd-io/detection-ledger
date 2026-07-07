@@ -1,0 +1,32 @@
+{
+  "id": "zluri-ad-connector-2026-07-07",
+  "display_name": "zluri-ad-connector",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zluri-ad-connector",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6910",
+          "osv_published_at": "2026-07-07T06:25:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-07T15:17:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-07T15:17:15Z",
+  "osv_earliest_published_at": "2026-07-07T06:25:49Z",
+  "hours_ahead_of_osv": -8.86,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-07T15:17:18Z"
+}
