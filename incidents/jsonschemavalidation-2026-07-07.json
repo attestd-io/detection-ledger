@@ -1,0 +1,32 @@
+{
+  "id": "jsonschemavalidation-2026-07-07",
+  "display_name": "jsonschemavalidation",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jsonschemavalidation",
+      "ecosystem": "pypi",
+      "versions": [
+        "4.26.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6945",
+          "osv_published_at": "2026-07-07T15:29:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-07T20:14:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-07T20:14:04Z",
+  "osv_earliest_published_at": "2026-07-07T15:29:07Z",
+  "hours_ahead_of_osv": -4.75,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-07T20:14:30Z"
+}
