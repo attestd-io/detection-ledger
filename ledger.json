@@ -29405,5 +29405,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-07T15:17:23Z"
+  },
+  {
+    "id": "paysafe-api-2026-07-07",
+    "display_name": "paysafe-api",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "paysafe-api",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6926",
+            "osv_published_at": "2026-07-07T15:21:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-07T20:14:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-07T20:14:03Z",
+    "osv_earliest_published_at": "2026-07-07T15:21:28Z",
+    "hours_ahead_of_osv": -4.88,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-07T20:14:07Z"
   }
 ]
