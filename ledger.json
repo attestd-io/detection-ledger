@@ -34001,5 +34001,32 @@
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6954",
     "ledger_commit_at": "2026-07-08T22:57:06Z"
+  },
+  {
+    "id": "annotator-harvardx-2026-07-08",
+    "display_name": "annotator-harvardx",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "annotator-harvardx",
+        "ecosystem": "npm",
+        "versions": [
+          "9.0.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T22:56:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T22:56:49Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6930",
+    "ledger_commit_at": "2026-07-08T22:57:12Z"
   }
 ]
