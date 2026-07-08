@@ -31919,5 +31919,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:23:16Z"
+  },
+  {
+    "id": "webda-infra-ui-static-images-2026-07-08",
+    "display_name": "@webda-infra-ui/static-images",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@webda-infra-ui/static-images",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6652",
+            "osv_published_at": "2026-06-29T16:53:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:22:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:22:28Z",
+    "osv_earliest_published_at": "2026-06-29T16:53:34Z",
+    "hours_ahead_of_osv": -219.48,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:23:39Z"
   }
 ]
