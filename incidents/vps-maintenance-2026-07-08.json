@@ -1,0 +1,32 @@
+{
+  "id": "vps-maintenance-2026-07-08",
+  "display_name": "vps-maintenance",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vps-maintenance",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6756",
+          "osv_published_at": "2026-07-04T13:43:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:24:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:24:27Z",
+  "osv_earliest_published_at": "2026-07-04T13:43:09Z",
+  "hours_ahead_of_osv": -102.69,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:24:55Z"
+}
