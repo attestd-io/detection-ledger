@@ -1,0 +1,37 @@
+{
+  "id": "ebay-ui-core-react-2026-07-08",
+  "display_name": "@ebay/ui-core-react",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ebay/ui-core-react",
+      "ecosystem": "npm",
+      "versions": [
+        "9.6.4",
+        "9.6.5",
+        "9.6.6",
+        "9.7.0",
+        "9.8.0",
+        "9.8.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1006",
+          "osv_published_at": "2024-02-15T15:21:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:21:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:21:04Z",
+  "osv_earliest_published_at": "2024-02-15T15:21:51Z",
+  "hours_ahead_of_osv": -20980.99,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:21:05Z"
+}
