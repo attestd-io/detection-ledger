@@ -30564,5 +30564,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T11:41:45Z"
+  },
+  {
+    "id": "vwfs-its-sf-sac-frontend-2026-07-08",
+    "display_name": "@vwfs-its/sf-sac-frontend",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@vwfs-its/sf-sac-frontend",
+        "ecosystem": "npm",
+        "versions": [
+          "20.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6972",
+            "osv_published_at": "2026-07-08T10:15:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T11:45:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T11:45:57Z",
+    "osv_earliest_published_at": "2026-07-08T10:15:48Z",
+    "hours_ahead_of_osv": -1.5,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T11:46:04Z"
   }
 ]
