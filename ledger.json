@@ -32376,5 +32376,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:25:28Z"
+  },
+  {
+    "id": "load-nuxt-dev-2026-07-08",
+    "display_name": "load-nuxt-dev",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "load-nuxt-dev",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6935",
+            "osv_published_at": "2026-07-07T15:34:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:24:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:24:30Z",
+    "osv_earliest_published_at": "2026-07-07T15:34:03Z",
+    "hours_ahead_of_osv": -28.84,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:25:33Z"
   }
 ]
