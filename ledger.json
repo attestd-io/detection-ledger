@@ -31517,5 +31517,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:22:20Z"
+  },
+  {
+    "id": "hs-locale-management-2026-07-08",
+    "display_name": "hs-locale-management",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hs-locale-management",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6394",
+            "osv_published_at": "2026-06-24T14:01:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:21:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:21:18Z",
+    "osv_earliest_published_at": "2026-06-24T14:01:16Z",
+    "hours_ahead_of_osv": -342.33,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:22:25Z"
   }
 ]
