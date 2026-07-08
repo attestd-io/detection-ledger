@@ -1,0 +1,32 @@
+{
+  "id": "py-slugify-2026-07-08",
+  "display_name": "py-slugify",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "py-slugify",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.8.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6976",
+          "osv_published_at": "2026-07-08T12:05:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:17:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:17:13Z",
+  "osv_earliest_published_at": "2026-07-08T12:05:04Z",
+  "hours_ahead_of_osv": -8.2,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:17:36Z"
+}
