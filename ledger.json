@@ -33073,5 +33073,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:27:43Z"
+  },
+  {
+    "id": "airkey-mfa-react-2026-07-08",
+    "display_name": "airkey-mfa-react",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "airkey-mfa-react",
+        "ecosystem": "npm",
+        "versions": [
+          "20.0.1",
+          "36.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6991",
+            "osv_published_at": "2026-07-08T16:30:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:27:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:27:38Z",
+    "osv_earliest_published_at": "2026-07-08T16:30:56Z",
+    "hours_ahead_of_osv": -3.94,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:27:47Z"
   }
 ]
