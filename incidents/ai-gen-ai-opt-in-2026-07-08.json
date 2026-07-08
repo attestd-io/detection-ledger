@@ -1,0 +1,32 @@
+{
+  "id": "ai-gen-ai-opt-in-2026-07-08",
+  "display_name": "ai-gen-ai-opt-in",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ai-gen-ai-opt-in",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6990",
+          "osv_published_at": "2026-07-08T16:21:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:27:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:27:37Z",
+  "osv_earliest_published_at": "2026-07-08T16:21:20Z",
+  "hours_ahead_of_osv": -4.1,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:27:43Z"
+}
