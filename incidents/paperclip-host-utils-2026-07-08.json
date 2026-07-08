@@ -1,0 +1,37 @@
+{
+  "id": "paperclip-host-utils-2026-07-08",
+  "display_name": "paperclip-host-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "paperclip-host-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6947",
+          "osv_published_at": "2026-07-07T16:16:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:24:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:24:31Z",
+  "osv_earliest_published_at": "2026-07-07T16:16:40Z",
+  "hours_ahead_of_osv": -28.13,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:26:02Z"
+}
