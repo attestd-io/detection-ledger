@@ -33844,5 +33844,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:29:48Z"
+  },
+  {
+    "id": "n8n-nodes-barcode-generator-2026-07-08",
+    "display_name": "n8n-nodes-barcode-generator",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "n8n-nodes-barcode-generator",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7018",
+            "osv_published_at": "2026-07-08T19:30:21Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:27:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:27:44Z",
+    "osv_earliest_published_at": "2026-07-08T19:30:21Z",
+    "hours_ahead_of_osv": -0.96,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:29:53Z"
   }
 ]
