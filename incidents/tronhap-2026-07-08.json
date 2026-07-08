@@ -1,0 +1,32 @@
+{
+  "id": "tronhap-2026-07-08",
+  "display_name": "tronhap",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tronhap",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6971",
+          "osv_published_at": "2026-07-08T08:35:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T11:41:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T11:41:33Z",
+  "osv_earliest_published_at": "2026-07-08T08:35:14Z",
+  "hours_ahead_of_osv": -3.11,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T11:41:40Z"
+}

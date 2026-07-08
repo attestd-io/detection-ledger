@@ -1,0 +1,33 @@
+{
+  "id": "chai-spycore-2026-07-08",
+  "display_name": "chai-spycore",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-spycore",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.0",
+        "1.5.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6907",
+          "osv_published_at": "2026-07-07T06:27:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:24:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:24:29Z",
+  "osv_earliest_published_at": "2026-07-07T06:27:27Z",
+  "hours_ahead_of_osv": -37.95,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:25:18Z"
+}

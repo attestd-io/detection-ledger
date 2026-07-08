@@ -1,0 +1,32 @@
+{
+  "id": "tronhapy-2026-07-08",
+  "display_name": "tronhapy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tronhapy",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6974",
+          "osv_published_at": "2026-07-08T09:23:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T11:41:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T11:41:33Z",
+  "osv_earliest_published_at": "2026-07-08T09:23:29Z",
+  "hours_ahead_of_osv": -2.3,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T11:41:45Z"
+}

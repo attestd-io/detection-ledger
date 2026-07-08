@@ -1,0 +1,38 @@
+{
+  "id": "forge-jsxy-2026-07-08",
+  "display_name": "forge-jsxy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "forge-jsxy",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.103",
+        "1.0.104",
+        "1.0.105",
+        "1.0.107",
+        "1.0.108",
+        "1.0.120",
+        "1.0.121"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3609",
+          "osv_published_at": "2026-05-06T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:21:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:21:10Z",
+  "osv_earliest_published_at": "2026-05-06T00:00:00Z",
+  "hours_ahead_of_osv": -1532.35,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://safedep.io/malicious-forge-jsx-npm-rat/",
+  "ledger_commit_at": "2026-07-08T20:21:16Z"
+}

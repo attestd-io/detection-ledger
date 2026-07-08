@@ -1,0 +1,33 @@
+{
+  "id": "turbom-2026-07-08",
+  "display_name": "turbom",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "turbom",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7015",
+          "osv_published_at": "2026-07-08T16:50:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:17:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:17:16Z",
+  "osv_earliest_published_at": "2026-07-08T16:50:17Z",
+  "hours_ahead_of_osv": -3.45,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:18:11Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "react-v17-2026-07-08",
+  "display_name": "react-v17",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react-v17",
+      "ecosystem": "npm",
+      "versions": [
+        "20.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7020",
+          "osv_published_at": "2026-07-08T19:30:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:27:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:27:44Z",
+  "osv_earliest_published_at": "2026-07-08T19:30:12Z",
+  "hours_ahead_of_osv": -0.96,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:30:03Z"
+}
