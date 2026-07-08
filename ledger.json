@@ -32244,5 +32244,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:25:07Z"
+  },
+  {
+    "id": "debugcli-2026-07-08",
+    "display_name": "debugcli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "debugcli",
+        "ecosystem": "npm",
+        "versions": [
+          "4.3.6",
+          "4.3.7",
+          "4.3.8",
+          "4.4.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6790",
+            "osv_published_at": "2026-07-03T20:05:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:24:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:24:29Z",
+    "osv_earliest_published_at": "2026-07-03T20:05:34Z",
+    "hours_ahead_of_osv": -120.32,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:25:12Z"
   }
 ]
