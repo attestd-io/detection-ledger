@@ -34142,5 +34142,34 @@
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6944",
     "ledger_commit_at": "2026-07-08T22:59:22Z"
+  },
+  {
+    "id": "clx-cookieparser-2026-07-08",
+    "display_name": "clx-cookieparser",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "clx-cookieparser",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.6",
+          "1.4.9",
+          "1.5.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T22:58:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T22:58:07Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6661",
+    "ledger_commit_at": "2026-07-08T23:00:16Z"
   }
 ]
