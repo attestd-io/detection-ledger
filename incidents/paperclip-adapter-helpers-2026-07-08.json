@@ -1,0 +1,40 @@
+{
+  "id": "paperclip-adapter-helpers-2026-07-08",
+  "display_name": "paperclip-adapter-helpers",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "paperclip-adapter-helpers",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.12",
+        "1.0.2",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6981",
+          "osv_published_at": "2026-07-08T14:32:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:24:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:24:34Z",
+  "osv_earliest_published_at": "2026-07-08T14:32:11Z",
+  "hours_ahead_of_osv": -5.87,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-08T20:26:36Z"
+}
