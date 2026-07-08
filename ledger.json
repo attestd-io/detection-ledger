@@ -31133,5 +31133,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:21:20Z"
+  },
+  {
+    "id": "react-json-chalk-2026-07-08",
+    "display_name": "react-json-chalk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-json-chalk",
+        "ecosystem": "npm",
+        "versions": [
+          "13.4.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4792",
+            "osv_published_at": "2026-05-26T08:46:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:21:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:21:10Z",
+    "osv_earliest_published_at": "2026-05-26T08:46:33Z",
+    "hours_ahead_of_osv": -1043.58,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:21:25Z"
   }
 ]
