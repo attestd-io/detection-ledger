@@ -32976,5 +32976,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:26:56Z"
+  },
+  {
+    "id": "vite-tab-tab-2026-07-08",
+    "display_name": "@vite-tab/tab",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@vite-tab/tab",
+        "ecosystem": "npm",
+        "versions": [
+          "3.15.10",
+          "5.7.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6988",
+            "osv_published_at": "2026-07-08T16:58:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:26:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:26:03Z",
+    "osv_earliest_published_at": "2026-07-08T16:58:42Z",
+    "hours_ahead_of_osv": -3.46,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:27:01Z"
   }
 ]
