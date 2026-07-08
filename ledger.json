@@ -32605,5 +32605,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:26:02Z"
+  },
+  {
+    "id": "runtimedev-link-2026-07-08",
+    "display_name": "runtimedev-link",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "runtimedev-link",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.13"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6948",
+            "osv_published_at": "2026-07-07T16:12:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T20:24:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T20:24:32Z",
+    "osv_earliest_published_at": "2026-07-07T16:12:58Z",
+    "hours_ahead_of_osv": -28.19,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-08T20:26:07Z"
   }
 ]
