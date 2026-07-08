@@ -33941,5 +33941,32 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-08T20:30:03Z"
+  },
+  {
+    "id": "mcp-server-pg-2026-07-08",
+    "display_name": "mcp-server-pg",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "mcp-server-pg",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-08T22:56:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-08T22:56:37Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6922",
+    "ledger_commit_at": "2026-07-08T22:56:39Z"
   }
 ]
