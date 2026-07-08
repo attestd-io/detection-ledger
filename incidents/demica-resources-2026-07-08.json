@@ -1,0 +1,32 @@
+{
+  "id": "demica-resources-2026-07-08",
+  "display_name": "@demica/resources",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@demica/resources",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5350",
+          "osv_published_at": "2026-06-09T07:52:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T20:21:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T20:21:14Z",
+  "osv_earliest_published_at": "2026-06-09T07:52:42Z",
+  "hours_ahead_of_osv": -708.48,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://app.safedep.io/community/malysis/01KTMB44098ATG3YSX2G0Q9M23",
+  "ledger_commit_at": "2026-07-08T20:21:37Z"
+}
