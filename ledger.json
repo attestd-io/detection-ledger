@@ -7576,5 +7576,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:49:27Z"
+  },
+  {
+    "id": "endurosat-stellar-ui-2026-07-09",
+    "display_name": "@endurosat/stellar-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@endurosat/stellar-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "12.5.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7068",
+            "osv_published_at": "2026-07-07T12:21:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:48:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:48:41Z",
+    "osv_earliest_published_at": "2026-07-07T12:21:51Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:49:34Z"
   }
 ]
