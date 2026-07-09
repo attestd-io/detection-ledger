@@ -1511,5 +1511,41 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:55:40Z"
+  },
+  {
+    "id": "jenkins-for-jira-2026-07-09",
+    "display_name": "jenkins-for-jira",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "jenkins-for-jira",
+        "ecosystem": "npm",
+        "versions": [
+          "100.0.0",
+          "99.0.0",
+          "99.0.1",
+          "99.9.9",
+          "99.99.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3788",
+            "osv_published_at": "2026-05-15T10:43:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:52:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:52:46Z",
+    "osv_earliest_published_at": "2026-05-15T10:43:16Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:55:49Z"
   }
 ]
