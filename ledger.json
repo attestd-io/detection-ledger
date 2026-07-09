@@ -6056,5 +6056,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:29:54Z"
+  },
+  {
+    "id": "bundrix-2026-07-09",
+    "display_name": "bundrix",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bundrix",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6658",
+            "osv_published_at": "2026-06-29T16:32:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:29:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:29:52Z",
+    "osv_earliest_published_at": "2026-06-29T16:32:13Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:30:03Z"
   }
 ]
