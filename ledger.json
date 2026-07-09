@@ -18333,5 +18333,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T18:55:59Z"
+  },
+  {
+    "id": "lovable-tager-2026-07-09",
+    "display_name": "lovable-tager",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lovable-tager",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.0",
+          "1.4.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10088",
+            "osv_published_at": "2026-07-09T17:00:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:47:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:47:24Z",
+    "osv_earliest_published_at": "2026-07-09T17:00:49Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T18:56:06Z"
   }
 ]
