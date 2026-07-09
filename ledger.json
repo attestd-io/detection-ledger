@@ -38826,5 +38826,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:45:42Z"
+  },
+  {
+    "id": "ccn-common-react-library-2026-07-09",
+    "display_name": "ccn-common-react-library",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ccn-common-react-library",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2599",
+            "osv_published_at": "2026-04-13T15:25:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:45:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:45:28Z",
+    "osv_earliest_published_at": "2026-04-13T15:25:20Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:45:49Z"
   }
 ]
