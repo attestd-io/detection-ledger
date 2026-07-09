@@ -16074,5 +16074,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T18:46:18Z"
+  },
+  {
+    "id": "n8n-nodes-mcputils-2026-07-09",
+    "display_name": "n8n-nodes-mcputils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "n8n-nodes-mcputils",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10013",
+            "osv_published_at": "2026-07-09T11:54:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:45:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:45:55Z",
+    "osv_earliest_published_at": "2026-07-09T11:54:08Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T18:46:27Z"
   }
 ]
