@@ -1,0 +1,38 @@
+{
+  "id": "wagni-bot-eth-agent-2026-07-09",
+  "display_name": "@wagni_bot/eth-agent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@wagni_bot/eth-agent",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10024",
+          "osv_published_at": "2026-07-09T15:15:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T18:46:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T18:46:05Z",
+  "osv_earliest_published_at": "2026-07-09T15:15:40Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T18:47:20Z"
+}
