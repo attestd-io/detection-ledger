@@ -36305,5 +36305,41 @@
     "press_urls": [],
     "advisory_url": "https://safedep.io/defi-infostealer-fake-arbitrage-bot-npm/",
     "ledger_commit_at": "2026-07-09T00:56:50Z"
+  },
+  {
+    "id": "node-cloud-create-2026-07-09",
+    "display_name": "@node-cloud/create",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@node-cloud/create",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6741",
+            "osv_published_at": "2026-07-03T15:59:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T00:52:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T00:52:28Z",
+    "osv_earliest_published_at": "2026-07-03T15:59:09Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T00:57:10Z"
   }
 ]
