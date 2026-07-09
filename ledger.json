@@ -35545,5 +35545,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T00:52:40Z"
+  },
+  {
+    "id": "ioredis-os-2026-07-09",
+    "display_name": "ioredis-os",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ioredis-os",
+        "ecosystem": "npm",
+        "versions": [
+          "5.10.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5879",
+            "osv_published_at": "2026-06-16T11:54:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T00:51:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T00:51:28Z",
+    "osv_earliest_published_at": "2026-06-16T11:54:56Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T00:52:46Z"
   }
 ]
