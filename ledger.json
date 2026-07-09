@@ -7947,5 +7947,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:53:33Z"
+  },
+  {
+    "id": "jesusvizcaino2021-app-push-base-2026-07-09",
+    "display_name": "@jesusvizcaino2021/app-push-base",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@jesusvizcaino2021/app-push-base",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7078",
+            "osv_published_at": "2026-07-07T12:24:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:53:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:53:34Z",
+    "osv_earliest_published_at": "2026-07-07T12:24:36Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:53:40Z"
   }
 ]
