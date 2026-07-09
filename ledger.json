@@ -968,5 +968,32 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:53:59Z"
+  },
+  {
+    "id": "momo-kits-native-kits-2026-07-09",
+    "display_name": "@momo-kits/native-kits",
+    "campaign": "apple-pay-trust",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@momo-kits/native-kits",
+        "ecosystem": "npm",
+        "versions": [
+          "0.160.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:48:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:48:42Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40momo-kits%2Fnative-kits",
+    "ledger_commit_at": "2026-07-09T13:54:03Z"
   }
 ]
