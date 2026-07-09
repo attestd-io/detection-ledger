@@ -19574,5 +19574,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T19:08:12Z"
+  },
+  {
+    "id": "authmatrix-2026-07-09",
+    "display_name": "authmatrix",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "authmatrix",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.30",
+          "1.1.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6656",
+            "osv_published_at": "2026-06-29T14:00:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:53:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:53:36Z",
+    "osv_earliest_published_at": "2026-06-29T14:00:15Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T19:08:20Z"
   }
 ]
