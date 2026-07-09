@@ -1,0 +1,39 @@
+{
+  "id": "postcss-minify-selector-2026-07-09",
+  "display_name": "postcss-minify-selector",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "postcss-minify-selector",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.10",
+        "0.1.11",
+        "0.1.4",
+        "0.1.5",
+        "0.1.6",
+        "0.1.7",
+        "0.1.8",
+        "0.1.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5837",
+          "osv_published_at": "2026-06-15T20:17:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T00:51:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T00:51:23Z",
+  "osv_earliest_published_at": "2026-06-15T20:17:18Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T00:52:20Z"
+}
