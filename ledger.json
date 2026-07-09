@@ -563,5 +563,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:52:40Z"
+  },
+  {
+    "id": "apple-coredata-internal-service-2026-07-09",
+    "display_name": "apple-coredata-internal-service",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "apple-coredata-internal-service",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3152",
+            "osv_published_at": "2026-04-29T08:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:47:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:47:39Z",
+    "osv_earliest_published_at": "2026-04-29T08:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:52:45Z"
   }
 ]
