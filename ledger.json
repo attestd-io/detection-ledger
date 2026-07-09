@@ -37953,5 +37953,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:36:02Z"
+  },
+  {
+    "id": "chain-promised-await-2026-07-09",
+    "display_name": "chain-promised-await",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chain-promised-await",
+        "ecosystem": "npm",
+        "versions": [
+          "1.3.5",
+          "3.5.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-1320",
+            "osv_published_at": "2026-03-10T08:24:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:35:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:35:37Z",
+    "osv_earliest_published_at": "2026-03-10T08:24:44Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://app.safedep.io/community/malysis/01KKBDBQ4Z6DCXMMKNDFKQ4M1M",
+    "ledger_commit_at": "2026-07-09T13:36:09Z"
   }
 ]
