@@ -22741,5 +22741,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T19:33:53Z"
+  },
+  {
+    "id": "retactjs-2026-07-09",
+    "display_name": "retactjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "retactjs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.2",
+          "1.1.4",
+          "8.7.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7388",
+            "osv_published_at": "2026-07-07T13:08:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:59:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:59:59Z",
+    "osv_earliest_published_at": "2026-07-07T13:08:36Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T19:33:59Z"
   }
 ]
