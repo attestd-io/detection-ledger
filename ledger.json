@@ -34036,14 +34036,19 @@
         "versions": [
           "1.2.1"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6922",
+            "osv_published_at": "2026-07-07T13:59:38Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-07-08T22:56:37Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-08T22:56:37Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-07-07T13:59:38Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": "2026-07-08T22:56:44Z",
@@ -34051,7 +34056,7 @@
       "https://osv.dev/vulnerability/MAL-2026-6922"
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6922",
-    "ledger_commit_at": "2026-07-08T22:56:44Z"
+    "ledger_commit_at": "2026-07-09T00:57:53Z"
   },
   {
     "id": "wsh4-npm-2026-07-08",
