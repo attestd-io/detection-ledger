@@ -38523,5 +38523,33 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:41:12Z"
+  },
+  {
+    "id": "polyfea-service-worker-2026-07-09",
+    "display_name": "@polyfea/service-worker",
+    "campaign": "op-microfrontends",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@polyfea/service-worker",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.5",
+          "2.0.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:42:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:42:18Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40polyfea%2Fservice-worker",
+    "ledger_commit_at": "2026-07-09T13:42:22Z"
   }
 ]
