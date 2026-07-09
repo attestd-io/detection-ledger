@@ -1,0 +1,32 @@
+{
+  "id": "iam-scripts-2026-07-09",
+  "display_name": "iam-scripts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "iam-scripts",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7296",
+          "osv_published_at": "2026-07-07T12:54:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T15:09:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T15:09:05Z",
+  "osv_earliest_published_at": "2026-07-07T12:54:50Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T15:42:28Z"
+}
