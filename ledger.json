@@ -6596,5 +6596,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:33:48Z"
+  },
+  {
+    "id": "apps-locations-events-2026-07-09",
+    "display_name": "@apps-locations/events",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@apps-locations/events",
+        "ecosystem": "npm",
+        "versions": [
+          "12.11.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7039",
+            "osv_published_at": "2026-07-07T12:17:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:34:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:34:51Z",
+    "osv_earliest_published_at": "2026-07-07T12:17:24Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:34:53Z"
   }
 ]
