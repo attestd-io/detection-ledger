@@ -1,0 +1,32 @@
+{
+  "id": "ethers-jss-2026-07-09",
+  "display_name": "ethers-jss",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ethers-jss",
+      "ecosystem": "npm",
+      "versions": [
+        "6.13.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5501",
+          "osv_published_at": "2026-06-10T11:40:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:03:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:03:56Z",
+  "osv_earliest_published_at": "2026-06-10T11:40:56Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:03:58Z"
+}
