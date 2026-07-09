@@ -1,0 +1,33 @@
+{
+  "id": "chai-as-redeployed-2026-07-09",
+  "display_name": "chai-as-redeployed",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-as-redeployed",
+      "ecosystem": "npm",
+      "versions": [
+        "3.5.7",
+        "3.5.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3165",
+          "osv_published_at": "2026-04-29T12:29:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:47:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:47:45Z",
+  "osv_earliest_published_at": "2026-04-29T12:29:50Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:53:09Z"
+}
