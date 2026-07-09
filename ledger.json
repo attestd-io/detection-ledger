@@ -13921,5 +13921,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:38:44Z"
+  },
+  {
+    "id": "elf-stats-holly-bauble-986-2026-07-09",
+    "display_name": "elf-stats-holly-bauble-986",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "elf-stats-holly-bauble-986",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7264",
+            "osv_published_at": "2026-07-07T12:48:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:08:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:08:25Z",
+    "osv_earliest_published_at": "2026-07-07T12:48:23Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:38:53Z"
   }
 ]
