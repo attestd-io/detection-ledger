@@ -38954,5 +38954,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:46:26Z"
+  },
+  {
+    "id": "okfe-serverless-conf-2026-07-09",
+    "display_name": "okfe-serverless-conf",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "okfe-serverless-conf",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2646",
+            "osv_published_at": "2026-04-14T11:47:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:45:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:45:37Z",
+    "osv_earliest_published_at": "2026-04-14T11:47:13Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:46:37Z"
   }
 ]
