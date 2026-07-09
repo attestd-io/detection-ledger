@@ -8,16 +8,25 @@
       "package": "vkzmn",
       "ecosystem": "npm",
       "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.3",
+        "1.0.4",
         "1.0.6"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6594",
+          "osv_published_at": "2026-06-29T10:49:33Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-07-08T22:58:38Z",
   "flagged_at": null,
   "confirmed_at": "2026-07-08T22:58:38Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-29T10:49:33Z",
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": "2026-07-08T23:01:30Z",
@@ -25,5 +34,5 @@
     "https://osv.dev/vulnerability/MAL-2026-6594"
   ],
   "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6594",
-  "ledger_commit_at": "2026-07-08T23:01:30Z"
+  "ledger_commit_at": "2026-07-09T00:56:05Z"
 }
