@@ -1,0 +1,33 @@
+{
+  "id": "ecinc-cloud-moaxmpp-2026-07-09",
+  "display_name": "ecinc-cloud-moaxmpp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ecinc-cloud-moaxmpp",
+      "ecosystem": "npm",
+      "versions": [
+        "9.7.1",
+        "9.7.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-6214",
+          "osv_published_at": "2025-07-15T09:15:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T00:46:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T00:46:56Z",
+  "osv_earliest_published_at": "2025-07-15T09:15:00Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://platform.safedep.io/community/malysis/01K01T6C4JN4Q19HD1PAB151RZ",
+  "ledger_commit_at": "2026-07-09T00:47:03Z"
+}
