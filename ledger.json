@@ -16493,5 +16493,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T18:48:22Z"
+  },
+  {
+    "id": "wagni-bot-orca-sdk-2026-07-09",
+    "display_name": "@wagni_bot/orca-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wagni_bot/orca-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10031",
+            "osv_published_at": "2026-07-09T15:18:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:46:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:46:17Z",
+    "osv_earliest_published_at": "2026-07-09T15:18:06Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T18:48:33Z"
   }
 ]
