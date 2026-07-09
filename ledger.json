@@ -20885,5 +20885,42 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T19:25:31Z"
+  },
+  {
+    "id": "options-msg-2026-07-09",
+    "display_name": "options-msg",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "options-msg",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7332",
+            "osv_published_at": "2026-07-07T13:02:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:58:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:58:53Z",
+    "osv_earliest_published_at": "2026-07-07T13:02:39Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T19:25:38Z"
   }
 ]
