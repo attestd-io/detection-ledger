@@ -10023,5 +10023,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:09:23Z"
+  },
+  {
+    "id": "angulards-2026-07-09",
+    "display_name": "angulards",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "angulards",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.4",
+          "8.7.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7142",
+            "osv_published_at": "2026-07-07T12:36:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:05:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:05:54Z",
+    "osv_earliest_published_at": "2026-07-07T12:36:51Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:09:30Z"
   }
 ]
