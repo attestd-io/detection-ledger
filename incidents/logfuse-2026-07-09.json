@@ -1,0 +1,32 @@
+{
+  "id": "logfuse-2026-07-09",
+  "display_name": "logfuse",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "logfuse",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7314",
+          "osv_published_at": "2026-07-07T12:57:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T15:09:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T15:09:28Z",
+  "osv_earliest_published_at": "2026-07-07T12:57:52Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T15:44:33Z"
+}
