@@ -8785,5 +8785,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:03:24Z"
+  },
+  {
+    "id": "xp-utilities-web-2026-07-09",
+    "display_name": "@xp-utilities/web",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@xp-utilities/web",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7104",
+            "osv_published_at": "2026-07-07T12:34:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:04:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:04:32Z",
+    "osv_earliest_published_at": "2026-07-07T12:34:08Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:04:34Z"
   }
 ]
