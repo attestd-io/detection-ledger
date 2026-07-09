@@ -19872,5 +19872,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T19:09:49Z"
+  },
+  {
+    "id": "mongoose-lean-hooks-2026-07-09",
+    "display_name": "mongoose-lean-hooks",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mongoose-lean-hooks",
+        "ecosystem": "npm",
+        "versions": [
+          "0.5.4",
+          "0.5.5",
+          "0.5.6",
+          "0.5.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6797",
+            "osv_published_at": "2026-07-06T18:01:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:53:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:53:54Z",
+    "osv_earliest_published_at": "2026-07-06T18:01:34Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T19:09:56Z"
   }
 ]
