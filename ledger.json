@@ -36042,5 +36042,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T00:54:29Z"
+  },
+  {
+    "id": "pump-laserstream-parser-2026-07-09",
+    "display_name": "pump-laserstream-parser",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pump-laserstream-parser",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6506",
+            "osv_published_at": "2026-06-26T05:11:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T00:51:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T00:51:52Z",
+    "osv_earliest_published_at": "2026-06-26T05:11:13Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T00:54:39Z"
   }
 ]
