@@ -1,0 +1,32 @@
+{
+  "id": "apple-internal-pki-utils-2026-07-09",
+  "display_name": "apple-internal-pki-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "apple-internal-pki-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3160",
+          "osv_published_at": "2026-04-29T08:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:47:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:47:41Z",
+  "osv_earliest_published_at": "2026-04-29T08:00:00Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:52:53Z"
+}
