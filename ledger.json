@@ -3572,5 +3572,32 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40kong-ui-public%2Fpage-layout",
     "ledger_commit_at": "2026-07-09T13:59:56Z"
+  },
+  {
+    "id": "mastra-tavily-2026-07-09",
+    "display_name": "@mastra/tavily",
+    "campaign": "trp-individual-investor-adv-disc",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@mastra/tavily",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:58:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:58:15Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40mastra%2Ftavily",
+    "ledger_commit_at": "2026-07-09T14:00:01Z"
   }
 ]
