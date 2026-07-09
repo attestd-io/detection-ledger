@@ -39114,5 +39114,38 @@
     "press_urls": [],
     "advisory_url": "https://app.safedep.io/community/malysis/01KNYTQGX2AEBXPXYJGPWQBYQ8",
     "ledger_commit_at": "2026-07-09T13:47:18Z"
+  },
+  {
+    "id": "ui-utils-udhay-alerts-2026-07-09",
+    "display_name": "ui-utils-udhay-alerts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ui-utils-udhay-alerts",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2659",
+            "osv_published_at": "2026-04-14T11:47:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:45:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:45:45Z",
+    "osv_earliest_published_at": "2026-04-14T11:47:49Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:47:25Z"
   }
 ]
