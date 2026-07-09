@@ -1,0 +1,33 @@
+{
+  "id": "sql-access-nodesql-2026-07-09",
+  "display_name": "@sql-access/nodesql",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sql-access/nodesql",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5394",
+          "osv_published_at": "2026-06-09T15:58:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T00:49:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T00:49:03Z",
+  "osv_earliest_published_at": "2026-06-09T15:58:52Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T00:50:35Z"
+}
