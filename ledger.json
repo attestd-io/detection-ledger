@@ -2129,5 +2129,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:57:38Z"
+  },
+  {
+    "id": "wm-plugin-native-functions-restorer-2026-07-09",
+    "display_name": "wm-plugin-native-functions-restorer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wm-plugin-native-functions-restorer",
+        "ecosystem": "npm",
+        "versions": [
+          "0.6.4",
+          "30.6.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4339",
+            "osv_published_at": "2026-05-25T08:09:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:54:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:54:08Z",
+    "osv_earliest_published_at": "2026-05-25T08:09:48Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:57:43Z"
   }
 ]
