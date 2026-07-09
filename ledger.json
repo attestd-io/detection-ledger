@@ -4780,5 +4780,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:10:33Z"
+  },
+  {
+    "id": "terminal-structured-logger-2026-07-09",
+    "display_name": "terminal-structured-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "terminal-structured-logger",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5867",
+            "osv_published_at": "2026-06-16T06:03:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:09:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:09:42Z",
+    "osv_earliest_published_at": "2026-06-16T06:03:38Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:10:39Z"
   }
 ]
