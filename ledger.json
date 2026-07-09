@@ -36903,5 +36903,32 @@
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5676",
     "ledger_commit_at": "2026-07-09T04:43:12Z"
+  },
+  {
+    "id": "chai-smart-assert-2026-07-09",
+    "display_name": "chai-smart-assert",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "chai-smart-assert",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.9"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T04:42:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T04:42:14Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5843",
+    "ledger_commit_at": "2026-07-09T04:43:18Z"
   }
 ]
