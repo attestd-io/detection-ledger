@@ -37855,5 +37855,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:35:28Z"
+  },
+  {
+    "id": "elf-stats-sparkly-train-831-2026-07-09",
+    "display_name": "elf-stats-sparkly-train-831",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "elf-stats-sparkly-train-831",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3",
+          "1.0.5",
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2025-192788",
+            "osv_published_at": "2025-12-23T08:10:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:35:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:35:28Z",
+    "osv_earliest_published_at": "2025-12-23T08:10:48Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:35:40Z"
   }
 ]
