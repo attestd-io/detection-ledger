@@ -36843,5 +36843,34 @@
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5491",
     "ledger_commit_at": "2026-07-09T04:42:50Z"
+  },
+  {
+    "id": "sass-formats-2026-07-09",
+    "display_name": "sass-formats",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "sass-formats",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T04:42:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T04:42:07Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5629",
+    "ledger_commit_at": "2026-07-09T04:42:56Z"
   }
 ]
