@@ -15781,5 +15781,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:45:11Z"
+  },
+  {
+    "id": "modustack-2026-07-09",
+    "display_name": "modustack",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "modustack",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.3",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7321",
+            "osv_published_at": "2026-07-07T12:59:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:09:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:09:37Z",
+    "osv_earliest_published_at": "2026-07-07T12:59:23Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:45:18Z"
   }
 ]
