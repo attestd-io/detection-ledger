@@ -35818,5 +35818,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T00:53:42Z"
+  },
+  {
+    "id": "new-ecro-1-2026-07-09",
+    "display_name": "new-ecro-1",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "new-ecro-1",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6198",
+            "osv_published_at": "2026-06-19T05:20:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T00:51:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T00:51:42Z",
+    "osv_earliest_published_at": "2026-06-19T05:20:04Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T00:53:49Z"
   }
 ]
