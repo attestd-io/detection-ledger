@@ -1,0 +1,60 @@
+{
+  "id": "js-logger-pack-2026-07-09",
+  "display_name": "js-logger-pack",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "js-logger-pack",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.1.10",
+        "1.1.11",
+        "1.1.12",
+        "1.1.13",
+        "1.1.14",
+        "1.1.15",
+        "1.1.16",
+        "1.1.17",
+        "1.1.18",
+        "1.1.19",
+        "1.1.2",
+        "1.1.20",
+        "1.1.21",
+        "1.1.22",
+        "1.1.23",
+        "1.1.24",
+        "1.1.25",
+        "1.1.26",
+        "1.1.27",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6",
+        "1.1.7",
+        "1.1.8",
+        "1.1.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-2827",
+          "osv_published_at": "2026-04-15T06:24:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:45:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:45:57Z",
+  "osv_earliest_published_at": "2026-04-15T06:24:12Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://safedep.io/malicious-js-logger-pack-npm-stealer/",
+  "ledger_commit_at": "2026-07-09T13:48:04Z"
+}
