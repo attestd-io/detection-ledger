@@ -6024,5 +6024,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:29:35Z"
+  },
+  {
+    "id": "app-hotmart-blog-headless-2026-07-09",
+    "display_name": "app-hotmart-blog-headless",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "app-hotmart-blog-headless",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6654",
+            "osv_published_at": "2026-06-29T16:44:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:29:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:29:51Z",
+    "osv_earliest_published_at": "2026-06-29T16:44:20Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:29:54Z"
   }
 ]
