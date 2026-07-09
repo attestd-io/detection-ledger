@@ -39213,5 +39213,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:47:43Z"
+  },
+  {
+    "id": "farikku-util-2026-07-09",
+    "display_name": "farikku-util",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "farikku-util",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.10",
+          "1.0.2",
+          "1.0.6",
+          "1.0.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2762",
+            "osv_published_at": "2026-04-16T09:56:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:45:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:45:51Z",
+    "osv_earliest_published_at": "2026-04-16T09:56:35Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:47:51Z"
   }
 ]
