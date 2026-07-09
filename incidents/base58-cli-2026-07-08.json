@@ -8,18 +8,26 @@
       "package": "base58-cli",
       "ecosystem": "npm",
       "versions": [
+        "1.0.0",
         "1.0.1",
+        "1.0.2",
+        "1.0.3",
         "1.0.4",
         "1.0.5"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6918",
+          "osv_published_at": "2026-07-07T15:06:08Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-07-08T22:58:32Z",
   "flagged_at": null,
   "confirmed_at": "2026-07-08T22:58:32Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-07-07T15:06:08Z",
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": "2026-07-08T23:01:19Z",
@@ -27,5 +35,5 @@
     "https://osv.dev/vulnerability/MAL-2026-6918"
   ],
   "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6918",
-  "ledger_commit_at": "2026-07-08T23:01:19Z"
+  "ledger_commit_at": "2026-07-09T00:57:39Z"
 }
