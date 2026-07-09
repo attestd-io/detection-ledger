@@ -17527,5 +17527,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T18:52:53Z"
+  },
+  {
+    "id": "express-router-engine-2026-07-09",
+    "display_name": "express-router-engine",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "express-router-engine",
+        "ecosystem": "npm",
+        "versions": [
+          "3.6.5",
+          "3.6.6",
+          "3.6.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10063",
+            "osv_published_at": "2026-07-09T15:55:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:46:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:46:58Z",
+    "osv_earliest_published_at": "2026-07-09T15:55:17Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T18:53:00Z"
   }
 ]
