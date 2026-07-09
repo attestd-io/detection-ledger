@@ -34344,5 +34344,37 @@
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6923",
     "ledger_commit_at": "2026-07-08T23:02:17Z"
+  },
+  {
+    "id": "dbzy-tools-2026-07-09",
+    "display_name": "dbzy-tools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dbzy-tools",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7023",
+            "osv_published_at": "2026-07-08T21:19:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T00:42:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T00:42:56Z",
+    "osv_earliest_published_at": "2026-07-08T21:19:06Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T00:43:29Z"
   }
 ]
