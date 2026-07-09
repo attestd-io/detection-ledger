@@ -22775,5 +22775,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T19:33:59Z"
+  },
+  {
+    "id": "reuactjs-2026-07-09",
+    "display_name": "reuactjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "reuactjs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.2",
+          "1.1.4",
+          "8.7.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7389",
+            "osv_published_at": "2026-07-07T13:08:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T19:00:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T19:00:00Z",
+    "osv_earliest_published_at": "2026-07-07T13:08:37Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T19:34:11Z"
   }
 ]
