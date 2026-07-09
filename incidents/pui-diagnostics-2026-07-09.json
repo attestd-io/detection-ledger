@@ -1,0 +1,32 @@
+{
+  "id": "pui-diagnostics-2026-07-09",
+  "display_name": "pui-diagnostics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pui-diagnostics",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5670",
+          "osv_published_at": "2026-06-11T13:54:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:09:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:09:30Z",
+  "osv_earliest_published_at": "2026-06-11T13:54:39Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:09:51Z"
+}
