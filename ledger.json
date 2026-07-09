@@ -37466,5 +37466,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:32:03Z"
+  },
+  {
+    "id": "pycryptoshuffle-2026-07-09",
+    "display_name": "pycryptoshuffle",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pycryptoshuffle",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.6",
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7458",
+            "osv_published_at": "2026-07-07T11:49:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:31:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:31:06Z",
+    "osv_earliest_published_at": "2026-07-07T11:49:54Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:32:09Z"
   }
 ]
