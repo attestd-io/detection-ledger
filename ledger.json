@@ -10933,5 +10933,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:27:55Z"
+  },
+  {
+    "id": "angulirjs-2026-07-09",
+    "display_name": "angulirjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "angulirjs",
+        "ecosystem": "npm",
+        "versions": [
+          "8.7.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7170",
+            "osv_published_at": "2026-07-07T12:37:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:06:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:06:29Z",
+    "osv_earliest_published_at": "2026-07-07T12:37:36Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:28:01Z"
   }
 ]
