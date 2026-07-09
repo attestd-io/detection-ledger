@@ -1,0 +1,32 @@
+{
+  "id": "gpbw-fcop-ui-packages-theme-2026-07-09",
+  "display_name": "@gpbw-fcop-ui-packages/theme",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@gpbw-fcop-ui-packages/theme",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7071",
+          "osv_published_at": "2026-07-07T12:23:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:48:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:48:45Z",
+  "osv_earliest_published_at": "2026-07-07T12:23:37Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:49:53Z"
+}
