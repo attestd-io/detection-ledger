@@ -4089,5 +4089,42 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:03:58Z"
+  },
+  {
+    "id": "graphbase-js-2026-07-09",
+    "display_name": "graphbase-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "graphbase-js",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.3",
+          "2.1.4",
+          "2.1.5",
+          "2.1.6",
+          "2.2.0",
+          "2.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5502",
+            "osv_published_at": "2026-06-10T12:18:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:03:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:03:57Z",
+    "osv_earliest_published_at": "2026-06-10T12:18:53Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:04:04Z"
   }
 ]
