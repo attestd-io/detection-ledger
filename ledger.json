@@ -7819,5 +7819,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:51:45Z"
+  },
+  {
+    "id": "gutierre0x80-ads-components-button-2026-07-09",
+    "display_name": "@gutierre0x80/ads.components.button",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@gutierre0x80/ads.components.button",
+        "ecosystem": "npm",
+        "versions": [
+          "1.999.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7074",
+            "osv_published_at": "2026-07-07T12:23:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:52:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:52:19Z",
+    "osv_earliest_published_at": "2026-07-07T12:23:50Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:52:21Z"
   }
 ]
