@@ -803,5 +803,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:53:26Z"
+  },
+  {
+    "id": "internal-sys-audit-check-2026-07-09",
+    "display_name": "internal-sys-audit-check",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "internal-sys-audit-check",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3174",
+            "osv_published_at": "2026-04-29T14:40:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:47:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:47:51Z",
+    "osv_earliest_published_at": "2026-04-29T14:40:01Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:53:34Z"
   }
 ]
