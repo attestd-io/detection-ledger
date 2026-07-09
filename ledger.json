@@ -18236,5 +18236,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T18:55:39Z"
+  },
+  {
+    "id": "dependency-confusions-2026-07-09",
+    "display_name": "dependency_confusions",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dependency_confusions",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10085",
+            "osv_published_at": "2026-07-09T16:34:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:47:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:47:21Z",
+    "osv_earliest_published_at": "2026-07-09T16:34:18Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T18:55:46Z"
   }
 ]
