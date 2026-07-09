@@ -1,0 +1,32 @@
+{
+  "id": "frank-newton3-user-hunt-2026-07-09",
+  "display_name": "frank-newton3-user-hunt",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "frank-newton3-user-hunt",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3172",
+          "osv_published_at": "2026-04-29T14:40:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:47:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:47:50Z",
+  "osv_earliest_published_at": "2026-04-29T14:40:01Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:53:26Z"
+}
