@@ -38215,5 +38215,33 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:37:03Z"
+  },
+  {
+    "id": "antv-graphlib-2026-07-09",
+    "display_name": "@antv/graphlib",
+    "campaign": "ascend-ops",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@antv/graphlib",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.4",
+          "2.2.4"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:36:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:36:40Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40antv%2Fgraphlib",
+    "ledger_commit_at": "2026-07-09T13:37:08Z"
   }
 ]
