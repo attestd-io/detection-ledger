@@ -7704,5 +7704,56 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:49:53Z"
+  },
+  {
+    "id": "kong-ui-public-dashboard-renderer-2026-07-09",
+    "display_name": "@kong-ui-public/dashboard-renderer",
+    "campaign": "gpbw-fcop-ui-packages",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@kong-ui-public/dashboard-renderer",
+        "ecosystem": "npm",
+        "versions": [
+          "8.12.19-pr.3539.4caa02792.0",
+          "8.12.19-pr.3539.933e69a42.0",
+          "8.12.19-pr.3539.a28d0f469.0",
+          "8.12.19-pr.3539.c2cede4ab.0",
+          "8.12.19-pr.3539.c58281a86.0",
+          "8.12.19-pr.3539.ea0713573.0",
+          "8.12.20-pr.3538.918589162.0",
+          "8.12.20-pr.3538.dfc5ede76.0",
+          "8.12.22-pr.3542.4e45e4928.0",
+          "8.12.23-pr.3055.ac653774c.0",
+          "8.12.23-pr.3544.0ab4271fd.0",
+          "8.12.23-pr.3544.63deab802.0",
+          "8.12.23-pr.3544.f8aac08ac.0",
+          "8.12.24-pr.3055.f601a045b.0",
+          "8.12.24-pr.3539.cc39260c0.0",
+          "8.12.24-pr.3543.1df3c7e2b.0",
+          "8.12.24-pr.3547.2cbfcdd31.0",
+          "8.12.24-pr.3548.4f88f52d5.0",
+          "8.12.24-pr.3548.53d3a08c5.0",
+          "8.12.24-pr.3548.7ada50d9f.0",
+          "8.12.24-pr.3548.9bb3456ef.0",
+          "8.12.25-pr.3547.021296cc6.0",
+          "8.12.25-pr.3547.e903deafa.0",
+          "8.12.26-pr.3547.c4561edd0.0",
+          "8.12.26-pr.3547.de855da7a.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:49:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:49:29Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40kong-ui-public%2Fdashboard-renderer",
+    "ledger_commit_at": "2026-07-09T14:49:58Z"
   }
 ]
