@@ -1,0 +1,32 @@
+{
+  "id": "nullzero-urlcat-2026-07-09",
+  "display_name": "@nullzero/urlcat",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "@nullzero/urlcat",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.0",
+        "1.4.1",
+        "1.4.2",
+        "1.4.3",
+        "1.4.4",
+        "1.4.5"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T04:42:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T04:42:28Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6309",
+  "ledger_commit_at": "2026-07-09T04:44:05Z"
+}
