@@ -36753,5 +36753,34 @@
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5164",
     "ledger_commit_at": "2026-07-09T04:42:15Z"
+  },
+  {
+    "id": "emcd-vue-loans-2026-07-09",
+    "display_name": "@emcd-vue/loans",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "@emcd-vue/loans",
+        "ecosystem": "npm",
+        "versions": [
+          "7.1.7",
+          "7.1.8",
+          "7.1.9"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T04:41:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T04:41:57Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5165",
+    "ledger_commit_at": "2026-07-09T04:42:22Z"
   }
 ]
