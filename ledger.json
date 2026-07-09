@@ -38273,5 +38273,32 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/ops-wiki-agent-kit",
     "ledger_commit_at": "2026-07-09T13:37:41Z"
+  },
+  {
+    "id": "pi-stack-ops-2026-07-09",
+    "display_name": "pi-stack-ops",
+    "campaign": "ascend-ops",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "pi-stack-ops",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:37:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:37:41Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/pi-stack-ops",
+    "ledger_commit_at": "2026-07-09T13:37:47Z"
   }
 ]
