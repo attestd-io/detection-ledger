@@ -1,0 +1,27 @@
+{
+  "id": "ulid-os-2026-07-09",
+  "display_name": "ulid-os",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "ulid-os",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.2"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T04:42:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T04:42:00Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5268",
+  "ledger_commit_at": "2026-07-09T04:42:33Z"
+}
