@@ -12435,5 +12435,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:33:28Z"
+  },
+  {
+    "id": "babelcode-js-2026-07-09",
+    "display_name": "babelcode_js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "babelcode_js",
+        "ecosystem": "npm",
+        "versions": [
+          "99.12.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7216",
+            "osv_published_at": "2026-07-07T12:40:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:07:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:07:27Z",
+    "osv_earliest_published_at": "2026-07-07T12:40:37Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:33:34Z"
   }
 ]
