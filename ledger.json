@@ -34408,14 +34408,19 @@
         "versions": [
           "1.3.8"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6923",
+            "osv_published_at": "2026-07-07T15:13:22Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-07-08T22:58:59Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-08T22:58:59Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-07-07T15:13:22Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": "2026-07-08T23:02:17Z",
@@ -34423,7 +34428,7 @@
       "https://osv.dev/vulnerability/MAL-2026-6923"
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6923",
-    "ledger_commit_at": "2026-07-08T23:02:17Z"
+    "ledger_commit_at": "2026-07-09T00:57:59Z"
   },
   {
     "id": "dbzy-tools-2026-07-09",
