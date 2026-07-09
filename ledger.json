@@ -19711,5 +19711,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T19:09:00Z"
+  },
+  {
+    "id": "ts-bn-proto-2026-07-09",
+    "display_name": "ts-bn-proto",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ts-bn-proto",
+        "ecosystem": "npm",
+        "versions": [
+          "5.8.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6695",
+            "osv_published_at": "2026-06-30T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:53:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:53:46Z",
+    "osv_earliest_published_at": "2026-06-30T00:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://safedep.io/defi-infostealer-fake-arbitrage-bot-npm/",
+    "ledger_commit_at": "2026-07-09T19:09:09Z"
   }
 ]
