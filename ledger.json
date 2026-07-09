@@ -19094,5 +19094,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T19:04:41Z"
+  },
+  {
+    "id": "libsignal-node-travatiger-2026-07-09",
+    "display_name": "libsignal-node-travatiger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "libsignal-node-travatiger",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6281",
+            "osv_published_at": "2026-06-23T11:57:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:52:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:52:57Z",
+    "osv_earliest_published_at": "2026-06-23T11:57:45Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T19:04:53Z"
   }
 ]
