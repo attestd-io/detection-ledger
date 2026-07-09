@@ -7091,5 +7091,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:45:27Z"
+  },
+  {
+    "id": "bmg-web-bmg-review-basket-2026-07-09",
+    "display_name": "@bmg-web/bmg-review-basket",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@bmg-web/bmg-review-basket",
+        "ecosystem": "npm",
+        "versions": [
+          "999.9.9",
+          "999.9999.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7053",
+            "osv_published_at": "2026-07-07T12:18:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:46:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:46:01Z",
+    "osv_earliest_published_at": "2026-07-07T12:18:54Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:46:03Z"
   }
 ]
