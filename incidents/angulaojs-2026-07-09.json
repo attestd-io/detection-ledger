@@ -1,0 +1,32 @@
+{
+  "id": "angulaojs-2026-07-09",
+  "display_name": "angulaojs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "angulaojs",
+      "ecosystem": "npm",
+      "versions": [
+        "8.7.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7138",
+          "osv_published_at": "2026-07-07T12:36:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T15:05:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T15:05:49Z",
+  "osv_earliest_published_at": "2026-07-07T12:36:38Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T15:09:02Z"
+}
