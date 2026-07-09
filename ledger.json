@@ -14565,5 +14565,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:40:56Z"
+  },
+  {
+    "id": "express-flowlimit-2026-07-09",
+    "display_name": "express-flowlimit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "express-flowlimit",
+        "ecosystem": "npm",
+        "versions": [
+          "2.2.7",
+          "2.2.8",
+          "2.2.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7284",
+            "osv_published_at": "2026-07-07T12:50:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:08:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:08:49Z",
+    "osv_earliest_published_at": "2026-07-07T12:50:50Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:41:02Z"
   }
 ]
