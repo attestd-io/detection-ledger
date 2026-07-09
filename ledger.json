@@ -13337,5 +13337,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:36:41Z"
+  },
+  {
+    "id": "cli-pretty-logger-2026-07-09",
+    "display_name": "cli-pretty-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cli-pretty-logger",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7246",
+            "osv_published_at": "2026-07-07T12:44:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:08:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:08:03Z",
+    "osv_earliest_published_at": "2026-07-07T12:44:35Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:36:47Z"
   }
 ]
