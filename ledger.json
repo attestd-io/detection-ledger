@@ -692,5 +692,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:53:09Z"
+  },
+  {
+    "id": "apple-infra-stealth-audit-2026-07-09",
+    "display_name": "apple-infra-stealth-audit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "apple-infra-stealth-audit",
+        "ecosystem": "npm",
+        "versions": [
+          "1.3.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3167",
+            "osv_published_at": "2026-04-29T14:40:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:47:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:47:46Z",
+    "osv_earliest_published_at": "2026-04-29T14:40:01Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:53:15Z"
   }
 ]
