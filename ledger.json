@@ -12755,5 +12755,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:34:37Z"
+  },
+  {
+    "id": "bmg-user-interaction-tracker-2026-07-09",
+    "display_name": "bmg-user-interaction-tracker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bmg-user-interaction-tracker",
+        "ecosystem": "npm",
+        "versions": [
+          "999.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7226",
+            "osv_published_at": "2026-07-07T12:41:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:07:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:07:39Z",
+    "osv_earliest_published_at": "2026-07-07T12:41:53Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:34:43Z"
   }
 ]
