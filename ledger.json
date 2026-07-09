@@ -12821,5 +12821,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:34:50Z"
+  },
+  {
+    "id": "box-ui-elements-usm-2026-07-09",
+    "display_name": "box-ui-elements-usm",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "box-ui-elements-usm",
+        "ecosystem": "npm",
+        "versions": [
+          "99.3.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7228",
+            "osv_published_at": "2026-07-07T12:42:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:07:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:07:42Z",
+    "osv_earliest_published_at": "2026-07-07T12:42:07Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:34:56Z"
   }
 ]
