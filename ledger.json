@@ -8043,5 +8043,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:54:39Z"
+  },
+  {
+    "id": "louisvuitton-configurator-common-lib-2026-07-09",
+    "display_name": "@louisvuitton/configurator-common-lib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@louisvuitton/configurator-common-lib",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7081",
+            "osv_published_at": "2026-07-07T12:25:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:54:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:54:39Z",
+    "osv_earliest_published_at": "2026-07-07T12:25:26Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:54:45Z"
   }
 ]
