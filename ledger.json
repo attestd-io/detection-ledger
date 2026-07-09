@@ -17689,5 +17689,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T18:53:34Z"
+  },
+  {
+    "id": "polymarket-kelly-math-2026-07-09",
+    "display_name": "polymarket-kelly-math",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "polymarket-kelly-math",
+        "ecosystem": "npm",
+        "versions": [
+          "3.5.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10068",
+            "osv_published_at": "2026-07-09T15:48:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:47:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:47:03Z",
+    "osv_earliest_published_at": "2026-07-09T15:48:13Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T18:53:41Z"
   }
 ]
