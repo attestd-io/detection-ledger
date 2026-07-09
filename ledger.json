@@ -1251,5 +1251,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:54:48Z"
+  },
+  {
+    "id": "chai-as-streamed-2026-07-09",
+    "display_name": "chai-as-streamed",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-as-streamed",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.11"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3657",
+            "osv_published_at": "2026-05-13T14:03:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:52:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:52:36Z",
+    "osv_earliest_published_at": "2026-05-13T14:03:47Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:54:54Z"
   }
 ]
