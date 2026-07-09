@@ -1,0 +1,34 @@
+{
+  "id": "pt-sc-logger-2026-07-09",
+  "display_name": "pt-sc-logger",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pt-sc-logger",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.3",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-2568",
+          "osv_published_at": "2026-04-12T21:36:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:35:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:35:46Z",
+  "osv_earliest_published_at": "2026-04-12T21:36:18Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:36:48Z"
+}
