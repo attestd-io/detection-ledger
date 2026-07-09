@@ -8655,5 +8655,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T15:00:05Z"
+  },
+  {
+    "id": "vmo-community-video-player-2026-07-09",
+    "display_name": "@vmo-community/video-player",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@vmo-community/video-player",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7100",
+            "osv_published_at": "2026-07-07T12:32:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T15:00:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T15:00:04Z",
+    "osv_earliest_published_at": "2026-07-07T12:32:26Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T15:00:12Z"
   }
 ]
