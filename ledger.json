@@ -37499,5 +37499,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T13:32:09Z"
+  },
+  {
+    "id": "pygremlinbox-malware-c2-beacon-2026-07-09",
+    "display_name": "pygremlinbox-malware-c2-beacon",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pygremlinbox-malware-c2-beacon",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7459",
+            "osv_published_at": "2026-07-07T11:49:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:31:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:31:08Z",
+    "osv_earliest_published_at": "2026-07-07T11:49:55Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:32:24Z"
   }
 ]
