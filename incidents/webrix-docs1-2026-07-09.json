@@ -1,0 +1,32 @@
+{
+  "id": "webrix-docs1-2026-07-09",
+  "display_name": "webrix-docs1",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "webrix-docs1",
+      "ecosystem": "npm",
+      "versions": [
+        "10.2.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10081",
+          "osv_published_at": "2026-07-09T15:45:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T18:47:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T18:47:17Z",
+  "osv_earliest_published_at": "2026-07-09T15:45:53Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T18:55:13Z"
+}
