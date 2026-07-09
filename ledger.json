@@ -5992,5 +5992,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T14:28:00Z"
+  },
+  {
+    "id": "rakuten-rewards-messaging-sdk-js-2026-07-09",
+    "display_name": "@rakuten-rewards/messaging-sdk-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@rakuten-rewards/messaging-sdk-js",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6641",
+            "osv_published_at": "2026-06-29T16:50:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T14:29:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T14:29:32Z",
+    "osv_earliest_published_at": "2026-06-29T16:50:48Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T14:29:35Z"
   }
 ]
