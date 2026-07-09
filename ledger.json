@@ -1670,5 +1670,41 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/supabase",
     "ledger_commit_at": "2026-07-09T13:56:14Z"
+  },
+  {
+    "id": "ts-logger-pack-2026-07-09",
+    "display_name": "ts-logger-pack",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ts-logger-pack",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "0.1.0",
+          "0.1.1",
+          "1.1.1",
+          "1.1.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4199",
+            "osv_published_at": "2026-05-20T06:52:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T13:53:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T13:53:51Z",
+    "osv_earliest_published_at": "2026-05-20T06:52:04Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T13:56:22Z"
   }
 ]
