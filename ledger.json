@@ -16422,5 +16422,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-09T18:48:02Z"
+  },
+  {
+    "id": "wagni-bot-meteora-sdk-2026-07-09",
+    "display_name": "@wagni_bot/meteora-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wagni_bot/meteora-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10029",
+            "osv_published_at": "2026-07-09T15:15:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-09T18:46:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-09T18:46:14Z",
+    "osv_earliest_published_at": "2026-07-09T15:15:13Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-09T18:48:09Z"
   }
 ]
