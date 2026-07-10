@@ -1083,5 +1083,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T22:53:47Z"
+  },
+  {
+    "id": "consumerweb-2026-07-10",
+    "display_name": "consumerweb",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "consumerweb",
+        "ecosystem": "npm",
+        "versions": [
+          "2200.4.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10181",
+            "osv_published_at": "2026-07-10T22:43:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T22:53:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T22:53:33Z",
+    "osv_earliest_published_at": "2026-07-10T22:43:11Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T22:53:53Z"
   }
 ]
