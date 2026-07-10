@@ -1,0 +1,32 @@
+{
+  "id": "crypto-utils-7-2026-07-10",
+  "display_name": "crypto-utils-7",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "crypto-utils-7",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5353",
+          "osv_published_at": "2026-06-09T07:55:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:39:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:39:37Z",
+  "osv_earliest_published_at": "2026-06-09T07:55:28Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://app.safedep.io/community/malysis/01KTN5C3TJZG5F660Y9K4BDYDN",
+  "ledger_commit_at": "2026-07-10T00:41:48Z"
+}
