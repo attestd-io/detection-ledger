@@ -1,0 +1,27 @@
+{
+  "id": "injectivelabs-wallet-cosmos-2026-07-10",
+  "display_name": "@injectivelabs/wallet-cosmos",
+  "campaign": null,
+  "detection_source": "npm_deprecation",
+  "packages": [
+    {
+      "package": "@injectivelabs/wallet-cosmos",
+      "ecosystem": "npm",
+      "versions": [
+        "1.20.21"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "deprecated_release",
+  "attestd_detected_at": "2026-07-10T15:08:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T15:08:33Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Fwallet-cosmos",
+  "ledger_commit_at": "2026-07-10T15:08:55Z"
+}
