@@ -28491,5 +28491,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T16:27:59Z"
+  },
+  {
+    "id": "theta-sdk-js-2026-07-10",
+    "display_name": "theta-sdk-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "theta-sdk-js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.14",
+          "1.2.15",
+          "1.2.16"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10135",
+            "osv_published_at": "2026-07-10T16:15:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T16:27:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T16:27:41Z",
+    "osv_earliest_published_at": "2026-07-10T16:15:18Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T16:28:06Z"
   }
 ]
