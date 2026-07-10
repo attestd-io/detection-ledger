@@ -1,0 +1,34 @@
+{
+  "id": "new-solt-2026-07-10",
+  "display_name": "new-solt",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "new-solt",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.7",
+        "0.0.8",
+        "0.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6285",
+          "osv_published_at": "2026-06-23T12:15:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:41:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:41:38Z",
+  "osv_earliest_published_at": "2026-06-23T12:15:37Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:45:39Z"
+}
