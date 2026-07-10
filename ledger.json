@@ -27025,5 +27025,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T00:47:12Z"
+  },
+  {
+    "id": "maplibre-gl-vue3-2026-07-10",
+    "display_name": "maplibre-gl-vue3",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "maplibre-gl-vue3",
+        "ecosystem": "npm",
+        "versions": [
+          "5.24.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6592",
+            "osv_published_at": "2026-06-29T09:11:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:42:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:42:01Z",
+    "osv_earliest_published_at": "2026-06-29T09:11:39Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T00:47:25Z"
   }
 ]
