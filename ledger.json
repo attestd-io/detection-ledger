@@ -26437,5 +26437,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T00:45:12Z"
+  },
+  {
+    "id": "forge-jsx4-2026-07-10",
+    "display_name": "forge-jsx4",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "forge-jsx4",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.122"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6279",
+            "osv_published_at": "2026-06-22T12:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:41:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:41:35Z",
+    "osv_earliest_published_at": "2026-06-22T12:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://safedep.io/malicious-forge-jsxy-npm-rat-evolution/",
+    "ledger_commit_at": "2026-07-10T00:45:19Z"
   }
 ]
