@@ -1,0 +1,32 @@
+{
+  "id": "type-plint-2026-07-10",
+  "display_name": "type-plint",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "type-plint",
+      "ecosystem": "npm",
+      "versions": [
+        "3.3.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10130",
+          "osv_published_at": "2026-07-10T15:17:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T15:40:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T15:40:44Z",
+  "osv_earliest_published_at": "2026-07-10T15:17:48Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T15:41:21Z"
+}
