@@ -26469,5 +26469,37 @@
     "press_urls": [],
     "advisory_url": "https://safedep.io/malicious-forge-jsxy-npm-rat-evolution/",
     "ledger_commit_at": "2026-07-10T00:45:19Z"
+  },
+  {
+    "id": "local-ip-helper-2026-07-10",
+    "display_name": "local-ip-helper",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "local-ip-helper",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6282",
+            "osv_published_at": "2026-06-23T12:05:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:41:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:41:36Z",
+    "osv_earliest_published_at": "2026-06-23T12:05:04Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T00:45:26Z"
   }
 ]
