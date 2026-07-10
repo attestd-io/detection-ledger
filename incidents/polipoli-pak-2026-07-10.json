@@ -1,0 +1,33 @@
+{
+  "id": "polipoli-pak-2026-07-10",
+  "display_name": "polipoli-pak",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "polipoli-pak",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10099",
+          "osv_published_at": "2026-07-09T22:52:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:39:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:39:16Z",
+  "osv_earliest_published_at": "2026-07-09T22:52:20Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:40:09Z"
+}
