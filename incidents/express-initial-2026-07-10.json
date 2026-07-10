@@ -1,0 +1,33 @@
+{
+  "id": "express-initial-2026-07-10",
+  "display_name": "express-initial",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "express-initial",
+      "ecosystem": "npm",
+      "versions": [
+        "12.1.7",
+        "12.1.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6543",
+          "osv_published_at": "2026-06-26T21:40:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:41:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:41:53Z",
+  "osv_earliest_published_at": "2026-06-26T21:40:14Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:46:52Z"
+}
