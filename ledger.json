@@ -1,169 +1,35 @@
 [
   {
-    "id": "ggk-happy-2026-07-10",
-    "display_name": "ggk-happy",
+    "id": "notify-funcs-2026-07-10",
+    "display_name": "notify-funcs",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "ggk-happy",
+        "package": "notify-funcs",
         "ecosystem": "npm",
         "versions": [
-          "1.2.20",
-          "1.2.22",
-          "1.2.24",
-          "1.2.28",
-          "1.2.30",
-          "1.2.32",
-          "1.2.33",
-          "1.2.34"
+          "1.3.5",
+          "1.3.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-4789",
-            "osv_published_at": "2026-05-26T09:03:51Z"
+            "osv_id": "MAL-2026-10155",
+            "osv_published_at": "2026-07-10T16:46:45Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-10T17:15:34Z",
+    "attestd_detected_at": "2026-07-10T17:15:48Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-10T17:15:34Z",
-    "osv_earliest_published_at": "2026-05-26T09:03:51Z",
+    "confirmed_at": "2026-07-10T17:15:48Z",
+    "osv_earliest_published_at": "2026-07-10T16:46:45Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-10T17:16:11Z"
-  },
-  {
-    "id": "nonenull1-2026-07-10",
-    "display_name": "nonenull1",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "nonenull1",
-        "ecosystem": "npm",
-        "versions": [
-          "1.5.6"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10090",
-            "osv_published_at": "2026-07-09T16:34:31Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-10T17:15:36Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-10T17:15:36Z",
-    "osv_earliest_published_at": "2026-07-09T16:34:31Z",
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-10T17:16:16Z"
-  },
-  {
-    "id": "notifier-funcs-2026-07-10",
-    "display_name": "notifier-funcs",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "notifier-funcs",
-        "ecosystem": "npm",
-        "versions": [
-          "1.3.4"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10152",
-            "osv_published_at": "2026-07-10T16:46:28Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-10T17:15:38Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-10T17:15:38Z",
-    "osv_earliest_published_at": "2026-07-10T16:46:28Z",
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-10T17:16:22Z"
-  },
-  {
-    "id": "notifier-log-2026-07-10",
-    "display_name": "notifier-log",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "notifier-log",
-        "ecosystem": "npm",
-        "versions": [
-          "1.3.5"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10153",
-            "osv_published_at": "2026-07-10T16:46:36Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-10T17:15:39Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-10T17:15:39Z",
-    "osv_earliest_published_at": "2026-07-10T16:46:36Z",
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-10T17:16:29Z"
-  },
-  {
-    "id": "notify-dist-2026-07-10",
-    "display_name": "notify-dist",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "notify-dist",
-        "ecosystem": "npm",
-        "versions": [
-          "1.3.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10154",
-            "osv_published_at": "2026-07-10T16:46:54Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-10T17:15:46Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-10T17:15:46Z",
-    "osv_earliest_published_at": "2026-07-10T16:46:54Z",
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-10T17:16:36Z"
+    "ledger_commit_at": "2026-07-10T17:16:46Z"
   }
 ]
