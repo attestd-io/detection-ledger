@@ -25945,5 +25945,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T00:43:13Z"
+  },
+  {
+    "id": "mailconfirmer-2026-07-10",
+    "display_name": "mailconfirmer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mailconfirmer",
+        "ecosystem": "npm",
+        "versions": [
+          "3.3.33"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5750",
+            "osv_published_at": "2026-06-13T21:10:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:41:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:41:07Z",
+    "osv_earliest_published_at": "2026-06-13T21:10:40Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T00:43:20Z"
   }
 ]
