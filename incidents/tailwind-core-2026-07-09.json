@@ -1,0 +1,37 @@
+{
+  "id": "tailwind-core-2026-07-09",
+  "display_name": "tailwind-core",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "tailwind-core",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0",
+        "4.3.0",
+        "4.3.1",
+        "4.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7026",
+          "osv_published_at": "2026-07-09T02:51:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T04:43:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T04:43:09Z",
+  "osv_earliest_published_at": "2026-07-09T02:51:12Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": "2026-07-09T04:45:51Z",
+  "press_urls": [
+    "https://osv.dev/vulnerability/MAL-2026-7026"
+  ],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-7026",
+  "ledger_commit_at": "2026-07-09T06:35:55Z"
+}

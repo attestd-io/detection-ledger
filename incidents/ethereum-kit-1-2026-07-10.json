@@ -1,0 +1,32 @@
+{
+  "id": "ethereum-kit-1-2026-07-10",
+  "display_name": "ethereum-kit-1",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ethereum-kit-1",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5355",
+          "osv_published_at": "2026-06-09T07:55:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:39:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:39:39Z",
+  "osv_earliest_published_at": "2026-06-09T07:55:22Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://app.safedep.io/community/malysis/01KTN5C3T4WGY271HXKTAZVC5D",
+  "ledger_commit_at": "2026-07-10T00:41:55Z"
+}

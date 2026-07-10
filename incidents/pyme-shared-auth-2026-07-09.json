@@ -1,0 +1,32 @@
+{
+  "id": "pyme-shared-auth-2026-07-09",
+  "display_name": "@pyme-shared/auth",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@pyme-shared/auth",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7087",
+          "osv_published_at": "2026-07-07T12:28:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:54:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:54:49Z",
+  "osv_earliest_published_at": "2026-07-07T12:28:53Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:55:23Z"
+}

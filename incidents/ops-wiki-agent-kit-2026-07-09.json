@@ -1,0 +1,30 @@
+{
+  "id": "ops-wiki-agent-kit-2026-07-09",
+  "display_name": "ops-wiki-agent-kit",
+  "campaign": "ascend-ops",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "ops-wiki-agent-kit",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.1.1",
+        "0.1.2",
+        "0.1.3"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:37:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:37:39Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/ops-wiki-agent-kit",
+  "ledger_commit_at": "2026-07-09T13:37:41Z"
+}

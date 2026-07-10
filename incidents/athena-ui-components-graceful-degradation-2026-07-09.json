@@ -1,0 +1,33 @@
+{
+  "id": "athena-ui-components-graceful-degradation-2026-07-09",
+  "display_name": "@athena-ui-components/graceful-degradation",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@athena-ui-components/graceful-degradation",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.26",
+        "1.1.27"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7042",
+          "osv_published_at": "2026-07-07T12:18:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:38:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:38:02Z",
+  "osv_earliest_published_at": "2026-07-07T12:18:23Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:38:03Z"
+}

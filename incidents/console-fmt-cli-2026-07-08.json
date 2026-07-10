@@ -1,0 +1,42 @@
+{
+  "id": "console-fmt-cli-2026-07-08",
+  "display_name": "console-fmt-cli",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "console-fmt-cli",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0",
+        "2.1.0",
+        "2.2.0",
+        "2.3.0",
+        "2.4.0",
+        "2.5.0",
+        "2.7.0",
+        "2.8.0",
+        "2.9.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6688",
+          "osv_published_at": "2026-06-30T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T22:57:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T22:57:02Z",
+  "osv_earliest_published_at": "2026-06-30T00:00:00Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": "2026-07-08T22:57:50Z",
+  "press_urls": [
+    "https://osv.dev/vulnerability/MAL-2026-6688"
+  ],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6688",
+  "ledger_commit_at": "2026-07-09T00:56:31Z"
+}

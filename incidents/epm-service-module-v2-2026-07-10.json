@@ -1,0 +1,32 @@
+{
+  "id": "epm-service-module-v2-2026-07-10",
+  "display_name": "epm-service-module-v2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "epm-service-module-v2",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5851",
+          "osv_published_at": "2026-06-16T00:05:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:41:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:41:16Z",
+  "osv_earliest_published_at": "2026-06-16T00:05:20Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:44:02Z"
+}

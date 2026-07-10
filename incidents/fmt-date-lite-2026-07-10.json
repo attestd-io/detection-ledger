@@ -1,0 +1,32 @@
+{
+  "id": "fmt-date-lite-2026-07-10",
+  "display_name": "fmt-date-lite",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fmt-date-lite",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10115",
+          "osv_published_at": "2026-07-10T06:45:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T12:46:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T12:46:10Z",
+  "osv_earliest_published_at": "2026-07-10T06:45:28Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T12:46:19Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "launchdarkly-ai-tooling-2026-07-09",
+  "display_name": "launchdarkly-ai-tooling",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "launchdarkly-ai-tooling",
+      "ecosystem": "npm",
+      "versions": [
+        "6.10.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7311",
+          "osv_published_at": "2026-07-07T12:57:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T15:09:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T15:09:24Z",
+  "osv_earliest_published_at": "2026-07-07T12:57:20Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T15:44:11Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pino-logger-utils-2026-07-09",
+  "display_name": "pino-logger-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pino-logger-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-1493",
+          "osv_published_at": "2026-03-17T04:46:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:35:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:35:39Z",
+  "osv_earliest_published_at": "2026-03-17T04:46:23Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:36:17Z"
+}

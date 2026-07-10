@@ -1,0 +1,32 @@
+{
+  "id": "mrgn-common-2026-07-09",
+  "display_name": "mrgn-common",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mrgn-common",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3731",
+          "osv_published_at": "2026-05-14T15:49:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:52:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:52:41Z",
+  "osv_earliest_published_at": "2026-05-14T15:49:01Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:55:22Z"
+}

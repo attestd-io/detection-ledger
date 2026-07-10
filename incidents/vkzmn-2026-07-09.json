@@ -1,0 +1,35 @@
+{
+  "id": "vkzmn-2026-07-09",
+  "display_name": "vkzmn",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vkzmn",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2",
+        "1.0.5",
+        "1.0.7",
+        "1.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6594",
+          "osv_published_at": "2026-06-29T10:49:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T18:53:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T18:53:17Z",
+  "osv_earliest_published_at": "2026-06-29T10:49:33Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T19:06:56Z"
+}

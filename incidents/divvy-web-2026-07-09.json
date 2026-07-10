@@ -1,0 +1,32 @@
+{
+  "id": "divvy-web-2026-07-09",
+  "display_name": "divvy-web",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "divvy-web",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7250",
+          "osv_published_at": "2026-07-07T12:47:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T15:08:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T15:08:07Z",
+  "osv_earliest_published_at": "2026-07-07T12:47:20Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T15:37:12Z"
+}

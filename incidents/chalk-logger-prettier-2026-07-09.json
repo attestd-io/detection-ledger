@@ -1,0 +1,32 @@
+{
+  "id": "chalk-logger-prettier-2026-07-09",
+  "display_name": "chalk-logger-prettier",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chalk-logger-prettier",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6809",
+          "osv_published_at": "2026-07-06T18:51:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:30:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:30:42Z",
+  "osv_earliest_published_at": "2026-07-06T18:51:56Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:30:58Z"
+}

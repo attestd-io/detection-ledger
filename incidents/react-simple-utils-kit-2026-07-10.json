@@ -1,0 +1,33 @@
+{
+  "id": "react-simple-utils-kit-2026-07-10",
+  "display_name": "react-simple-utils-kit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react-simple-utils-kit",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3",
+        "1.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6303",
+          "osv_published_at": "2026-06-23T14:46:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:41:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:41:41Z",
+  "osv_earliest_published_at": "2026-06-23T14:46:34Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:45:52Z"
+}

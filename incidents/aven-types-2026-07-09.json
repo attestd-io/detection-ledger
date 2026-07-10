@@ -1,0 +1,32 @@
+{
+  "id": "aven-types-2026-07-09",
+  "display_name": "aven_types",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "aven_types",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-2972",
+          "osv_published_at": "2026-04-22T01:29:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:46:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:46:41Z",
+  "osv_earliest_published_at": "2026-04-22T01:29:49Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:51:55Z"
+}

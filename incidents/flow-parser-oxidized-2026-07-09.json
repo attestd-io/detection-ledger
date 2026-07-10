@@ -1,0 +1,33 @@
+{
+  "id": "flow-parser-oxidized-2026-07-09",
+  "display_name": "flow-parser-oxidized",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "flow-parser-oxidized",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "0.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4294",
+          "osv_published_at": "2026-05-25T07:12:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:53:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:53:55Z",
+  "osv_earliest_published_at": "2026-05-25T07:12:03Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:56:45Z"
+}

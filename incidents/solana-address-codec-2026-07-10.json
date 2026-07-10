@@ -1,0 +1,35 @@
+{
+  "id": "solana-address-codec-2026-07-10",
+  "display_name": "solana-address-codec",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "solana-address-codec",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6924",
+          "osv_published_at": "2026-07-07T15:06:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:44:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:44:09Z",
+  "osv_earliest_published_at": "2026-07-07T15:06:08Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:48:29Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "b2b-blocker-hide-activation-error-2026-07-09",
+  "display_name": "@b2b_blocker/hide_activation_error",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@b2b_blocker/hide_activation_error",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.2",
+        "99.0.3",
+        "99.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3318",
+          "osv_published_at": "2026-05-04T03:02:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:49:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:49:37Z",
+  "osv_earliest_published_at": "2026-05-04T03:02:53Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:54:17Z"
+}

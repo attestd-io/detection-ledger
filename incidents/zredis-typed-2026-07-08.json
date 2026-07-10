@@ -1,0 +1,29 @@
+{
+  "id": "zredis-typed-2026-07-08",
+  "display_name": "zredis-typed",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "zredis-typed",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.127"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T22:57:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T22:57:47Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": "2026-07-08T22:59:22Z",
+  "press_urls": [
+    "https://osv.dev/vulnerability/MAL-2026-6944"
+  ],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6944",
+  "ledger_commit_at": "2026-07-08T22:59:22Z"
+}

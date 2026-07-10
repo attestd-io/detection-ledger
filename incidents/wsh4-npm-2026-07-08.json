@@ -1,0 +1,29 @@
+{
+  "id": "wsh4-npm-2026-07-08",
+  "display_name": "wsh4_npm",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "wsh4_npm",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-08T22:56:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-08T22:56:44Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": "2026-07-08T22:57:06Z",
+  "press_urls": [
+    "https://osv.dev/vulnerability/MAL-2026-6954"
+  ],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6954",
+  "ledger_commit_at": "2026-07-08T22:57:06Z"
+}

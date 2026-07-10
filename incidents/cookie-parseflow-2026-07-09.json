@@ -1,0 +1,32 @@
+{
+  "id": "cookie-parseflow-2026-07-09",
+  "display_name": "cookie-parseflow",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cookie-parseflow",
+      "ecosystem": "npm",
+      "versions": [
+        "1.5.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7247",
+          "osv_published_at": "2026-07-07T12:45:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T15:08:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T15:08:04Z",
+  "osv_earliest_published_at": "2026-07-07T12:45:08Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T15:36:54Z"
+}

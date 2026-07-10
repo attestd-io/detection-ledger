@@ -1,0 +1,32 @@
+{
+  "id": "rn-bitu-2026-07-09",
+  "display_name": "rn-bitu",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rn-bitu",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7401",
+          "osv_published_at": "2026-07-07T13:09:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T19:00:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T19:00:15Z",
+  "osv_earliest_published_at": "2026-07-07T13:09:06Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T19:36:13Z"
+}

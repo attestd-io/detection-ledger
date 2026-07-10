@@ -1,0 +1,51 @@
+{
+  "id": "claude-cup-2026-07-09",
+  "display_name": "claude-cup",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "claude-cup",
+      "ecosystem": "npm",
+      "versions": [
+        "0.2.1",
+        "0.2.5",
+        "0.2.6",
+        "0.3.2",
+        "0.5.0",
+        "0.7.1",
+        "0.8.0",
+        "0.8.2",
+        "0.8.5",
+        "0.8.6",
+        "0.8.8",
+        "0.8.9",
+        "0.9.0",
+        "0.9.1",
+        "0.9.2",
+        "0.9.3",
+        "0.9.4",
+        "0.9.5",
+        "0.9.7",
+        "0.9.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5789",
+          "osv_published_at": "2026-06-15T16:45:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T00:51:20Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T00:51:20Z",
+  "osv_earliest_published_at": "2026-06-15T16:45:04Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:43:27Z"
+}

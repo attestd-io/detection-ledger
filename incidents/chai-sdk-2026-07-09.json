@@ -1,0 +1,33 @@
+{
+  "id": "chai-sdk-2026-07-09",
+  "display_name": "chai-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.7",
+        "1.4.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6931",
+          "osv_published_at": "2026-07-07T15:20:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T18:54:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T18:54:27Z",
+  "osv_earliest_published_at": "2026-07-07T15:20:49Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T19:12:23Z"
+}

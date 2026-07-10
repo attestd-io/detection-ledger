@@ -1,0 +1,29 @@
+{
+  "id": "ioredis-typed-2026-07-09",
+  "display_name": "ioredis-typed",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "ioredis-typed",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.6"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T04:42:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T04:42:10Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": "2026-07-09T04:43:12Z",
+  "press_urls": [
+    "https://osv.dev/vulnerability/MAL-2026-5676"
+  ],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5676",
+  "ledger_commit_at": "2026-07-09T04:43:12Z"
+}

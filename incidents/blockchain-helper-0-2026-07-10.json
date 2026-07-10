@@ -1,0 +1,32 @@
+{
+  "id": "blockchain-helper-0-2026-07-10",
+  "display_name": "blockchain-helper-0",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "blockchain-helper-0",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5352",
+          "osv_published_at": "2026-06-09T07:53:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:39:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:39:36Z",
+  "osv_earliest_published_at": "2026-06-09T07:53:45Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://app.safedep.io/community/malysis/01KTN3QACESWZP4EK3W7D1JJGC",
+  "ledger_commit_at": "2026-07-10T00:41:42Z"
+}

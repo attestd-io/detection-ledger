@@ -1,0 +1,37 @@
+{
+  "id": "emcd-vue-b2b-pay-form-2026-07-09",
+  "display_name": "@emcd-vue/b2b-pay-form",
+  "campaign": null,
+  "detection_source": "agent",
+  "packages": [
+    {
+      "package": "@emcd-vue/b2b-pay-form",
+      "ecosystem": "npm",
+      "versions": [
+        "5.7.3",
+        "5.7.4",
+        "5.7.5",
+        "5.8.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5164",
+          "osv_published_at": "2026-06-01T07:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T04:41:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T04:41:53Z",
+  "osv_earliest_published_at": "2026-06-01T07:00:00Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": "2026-07-09T04:42:15Z",
+  "press_urls": [
+    "https://osv.dev/vulnerability/MAL-2026-5164"
+  ],
+  "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5164",
+  "ledger_commit_at": "2026-07-09T19:01:03Z"
+}

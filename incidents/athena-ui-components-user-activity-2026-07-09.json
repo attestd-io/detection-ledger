@@ -1,0 +1,33 @@
+{
+  "id": "athena-ui-components-user-activity-2026-07-09",
+  "display_name": "@athena-ui-components/user-activity",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@athena-ui-components/user-activity",
+      "ecosystem": "npm",
+      "versions": [
+        "1.9.35",
+        "1.9.36"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7048",
+          "osv_published_at": "2026-07-07T12:18:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:42:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:42:35Z",
+  "osv_earliest_published_at": "2026-07-07T12:18:37Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:42:37Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cyberday26szymon-payments-2026-07-09",
+  "display_name": "cyberday26szymon-payments",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cyberday26szymon-payments",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7454",
+          "osv_published_at": "2026-07-07T11:49:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T13:31:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T13:31:01Z",
+  "osv_earliest_published_at": "2026-07-07T11:49:30Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T13:31:42Z"
+}

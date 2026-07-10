@@ -1,0 +1,32 @@
+{
+  "id": "dany47-csec-crypto-utils-2026-07-09",
+  "display_name": "@dany47/csec-crypto-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@dany47/csec-crypto-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "4.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7063",
+          "osv_published_at": "2026-07-07T12:20:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T14:48:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T14:48:32Z",
+  "osv_earliest_published_at": "2026-07-07T12:20:54Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T14:49:01Z"
+}

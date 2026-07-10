@@ -1,0 +1,34 @@
+{
+  "id": "mreactjs-2026-07-09",
+  "display_name": "mreactjs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mreactjs",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.2",
+        "1.1.4",
+        "8.7.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-7323",
+          "osv_published_at": "2026-07-07T12:59:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-09T15:09:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-09T15:09:40Z",
+  "osv_earliest_published_at": "2026-07-07T12:59:51Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-09T15:45:36Z"
+}
