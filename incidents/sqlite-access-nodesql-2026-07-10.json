@@ -1,0 +1,32 @@
+{
+  "id": "sqlite-access-nodesql-2026-07-10",
+  "display_name": "@sqlite-access/nodesql",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sqlite-access/nodesql",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6914",
+          "osv_published_at": "2026-07-07T14:48:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:43:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:43:13Z",
+  "osv_earliest_published_at": "2026-07-07T14:48:43Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:48:16Z"
+}
