@@ -1,0 +1,33 @@
+{
+  "id": "ecto-corsair-whisper-6f3b9-2026-07-10",
+  "display_name": "ecto-corsair-whisper-6f3b9",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ecto-corsair-whisper-6f3b9",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.6",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5640",
+          "osv_published_at": "2026-06-11T12:40:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T00:40:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T00:40:56Z",
+  "osv_earliest_published_at": "2026-06-11T12:40:47Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T00:42:46Z"
+}
