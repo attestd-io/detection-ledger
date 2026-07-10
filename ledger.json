@@ -228,5 +228,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T17:17:20Z"
+  },
+  {
+    "id": "sidecar-mcp-2026-07-10",
+    "display_name": "sidecar-mcp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sidecar-mcp",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10161",
+            "osv_published_at": "2026-07-10T16:25:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T17:16:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T17:16:00Z",
+    "osv_earliest_published_at": "2026-07-10T16:25:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T17:17:25Z"
   }
 ]
