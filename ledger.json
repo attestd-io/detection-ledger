@@ -1049,5 +1049,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T22:53:39Z"
+  },
+  {
+    "id": "auth-next-gen-2026-07-10",
+    "display_name": "auth-next-gen",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "auth-next-gen",
+        "ecosystem": "npm",
+        "versions": [
+          "1.6.29",
+          "1.7.11",
+          "1.7.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10180",
+            "osv_published_at": "2026-07-10T22:42:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T22:53:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T22:53:32Z",
+    "osv_earliest_published_at": "2026-07-10T22:42:02Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T22:53:47Z"
   }
 ]
