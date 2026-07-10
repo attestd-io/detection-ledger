@@ -24785,5 +24785,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T00:34:32Z"
+  },
+  {
+    "id": "chain-api-sdk-2026-07-10",
+    "display_name": "chain-api-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chain-api-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.10",
+          "0.2.11",
+          "0.2.12"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10009",
+            "osv_published_at": "2026-07-09T11:26:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:38:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:38:32Z",
+    "osv_earliest_published_at": "2026-07-09T11:26:45Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T00:38:34Z"
   }
 ]
