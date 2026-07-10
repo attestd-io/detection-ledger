@@ -27058,5 +27058,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T00:47:25Z"
+  },
+  {
+    "id": "console-fmt-cli-2026-07-10",
+    "display_name": "console-fmt-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "console-fmt-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "2.6.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6688",
+            "osv_published_at": "2026-06-30T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:42:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:42:03Z",
+    "osv_earliest_published_at": "2026-06-30T00:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://safedep.io/defi-infostealer-fake-arbitrage-bot-npm/",
+    "ledger_commit_at": "2026-07-10T00:47:39Z"
   }
 ]
