@@ -1,0 +1,32 @@
+{
+  "id": "polygon-gama-apis-2026-07-10",
+  "display_name": "polygon-gama-apis",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "polygon-gama-apis",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10147",
+          "osv_published_at": "2026-07-10T16:12:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T19:19:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T19:19:33Z",
+  "osv_earliest_published_at": "2026-07-10T16:12:23Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T19:20:20Z"
+}
