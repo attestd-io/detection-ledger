@@ -1,0 +1,39 @@
+{
+  "id": "ggk-happy-2026-07-10",
+  "display_name": "ggk-happy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ggk-happy",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.20",
+        "1.2.22",
+        "1.2.24",
+        "1.2.28",
+        "1.2.30",
+        "1.2.32",
+        "1.2.33",
+        "1.2.34"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4789",
+          "osv_published_at": "2026-05-26T09:03:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T17:15:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T17:15:34Z",
+  "osv_earliest_published_at": "2026-05-26T09:03:51Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T17:16:11Z"
+}
