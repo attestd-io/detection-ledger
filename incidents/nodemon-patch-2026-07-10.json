@@ -1,0 +1,33 @@
+{
+  "id": "nodemon-patch-2026-07-10",
+  "display_name": "nodemon-patch",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nodemon-patch",
+      "ecosystem": "npm",
+      "versions": [
+        "3.1.15",
+        "3.1.16"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10110",
+          "osv_published_at": "2026-07-10T02:56:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-10T15:40:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-10T15:40:40Z",
+  "osv_earliest_published_at": "2026-07-10T02:56:04Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-10T15:41:01Z"
+}
