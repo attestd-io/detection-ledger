@@ -25591,5 +25591,37 @@
     "press_urls": [],
     "advisory_url": "https://app.safedep.io/community/malysis/01KTN5C3T4WGY271HXKTAZVC5D",
     "ledger_commit_at": "2026-07-10T00:41:55Z"
+  },
+  {
+    "id": "doaction-example-2026-07-10",
+    "display_name": "@doaction/example",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@doaction/example",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5371",
+            "osv_published_at": "2026-06-09T14:17:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:39:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:39:40Z",
+    "osv_earliest_published_at": "2026-06-09T14:17:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T00:42:03Z"
   }
 ]
