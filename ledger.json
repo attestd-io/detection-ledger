@@ -25290,5 +25290,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T00:40:45Z"
+  },
+  {
+    "id": "rallycoding-2026-07-10",
+    "display_name": "rallycoding",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rallycoding",
+        "ecosystem": "npm",
+        "versions": [
+          "3.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10106",
+            "osv_published_at": "2026-07-09T22:57:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T00:39:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T00:39:23Z",
+    "osv_earliest_published_at": "2026-07-09T22:57:12Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T00:40:51Z"
   }
 ]
