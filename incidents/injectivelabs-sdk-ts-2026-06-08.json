@@ -1,0 +1,126 @@
+{
+  "id": "injectivelabs-sdk-ts-2026-06-08",
+  "display_name": "@injectivelabs/sdk-ts wallet stealer",
+  "campaign": "InjectiveLabs",
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "@injectivelabs/sdk-ts",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/utils",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/networks",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/ts-types",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/exceptions",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-base",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-core",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-cosmos",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-private-key",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-evm",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-trezor",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-cosmostation",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-ledger",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-wallet-connect",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-magic",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-strategy",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-turnkey",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    },
+    {
+      "package": "@injectivelabs/wallet-cosmos-strategy",
+      "ecosystem": "npm",
+      "versions": ["1.20.21"],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "wallet_stealer",
+  "attestd_detected_at": null,
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "press_coverage_at": "2026-07-09T13:32:20Z",
+  "press_urls": [
+    "https://socket.dev/blog/compromised-injective-sdk-npm-package"
+  ],
+  "advisory_url": "https://socket.dev/blog/compromised-injective-sdk-npm-package",
+  "ledger_commit_at": null
+}
