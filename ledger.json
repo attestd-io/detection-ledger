@@ -463,5 +463,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-10T19:19:23Z"
+  },
+  {
+    "id": "evil-pkg-2026-07-10",
+    "display_name": "evil-pkg",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "evil-pkg",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6374",
+            "osv_published_at": "2026-06-24T06:16:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-10T19:19:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-10T19:19:19Z",
+    "osv_earliest_published_at": "2026-06-24T06:16:56Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-10T19:19:29Z"
   }
 ]
