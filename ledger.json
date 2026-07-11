@@ -1246,5 +1246,43 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-11T04:46:38Z"
+  },
+  {
+    "id": "google-caja-bower-2026-07-11",
+    "display_name": "google-caja-bower",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "google-caja-bower",
+        "ecosystem": "npm",
+        "versions": [
+          "1000.80.20",
+          "1000.800.20",
+          "1000.801.20",
+          "20.20.20",
+          "999.20.20",
+          "999.99.20",
+          "999.999.20"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10186",
+            "osv_published_at": "2026-07-11T21:32:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-11T22:01:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-11T22:01:49Z",
+    "osv_earliest_published_at": "2026-07-11T21:32:53Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-11T22:01:51Z"
   }
 ]
