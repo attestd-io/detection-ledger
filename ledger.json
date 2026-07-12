@@ -1775,5 +1775,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-12T21:02:23Z"
+  },
+  {
+    "id": "bugexploit-2026-07-12",
+    "display_name": "bugexploit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bugexploit",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10201",
+            "osv_published_at": "2026-07-12T20:45:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-12T21:02:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-12T21:02:23Z",
+    "osv_earliest_published_at": "2026-07-12T20:45:28Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-12T21:02:30Z"
   }
 ]
