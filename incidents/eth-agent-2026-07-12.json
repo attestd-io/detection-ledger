@@ -1,0 +1,33 @@
+{
+  "id": "eth-agent-2026-07-12",
+  "display_name": "eth-agent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eth-agent",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10195",
+          "osv_published_at": "2026-07-12T11:25:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-12T12:08:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-12T12:08:00Z",
+  "osv_earliest_published_at": "2026-07-12T11:25:25Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-12T12:08:02Z"
+}
