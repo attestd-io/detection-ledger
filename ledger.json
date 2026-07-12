@@ -1743,5 +1743,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-12T15:41:11Z"
+  },
+  {
+    "id": "api-changelly-2026-07-12",
+    "display_name": "api-changelly",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "api-changelly",
+        "ecosystem": "npm",
+        "versions": [
+          "19.2.11"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10200",
+            "osv_published_at": "2026-07-12T20:46:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-12T21:02:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-12T21:02:21Z",
+    "osv_earliest_published_at": "2026-07-12T20:46:51Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-12T21:02:23Z"
   }
 ]
