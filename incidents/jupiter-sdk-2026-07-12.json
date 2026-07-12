@@ -1,0 +1,33 @@
+{
+  "id": "jupiter-sdk-2026-07-12",
+  "display_name": "jupiter-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jupiter-sdk",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0",
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10196",
+          "osv_published_at": "2026-07-12T11:25:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-12T12:08:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-12T12:08:01Z",
+  "osv_earliest_published_at": "2026-07-12T11:25:55Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-12T12:08:10Z"
+}
