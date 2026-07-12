@@ -1969,5 +1969,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-12T21:03:40Z"
+  },
+  {
+    "id": "nullrift-2026-07-12",
+    "display_name": "nullrift",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nullrift",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10206",
+            "osv_published_at": "2026-07-12T20:48:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-12T21:02:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-12T21:02:31Z",
+    "osv_earliest_published_at": "2026-07-12T20:48:13Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-12T21:03:52Z"
   }
 ]
