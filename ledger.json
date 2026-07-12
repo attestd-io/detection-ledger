@@ -2033,5 +2033,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-12T21:04:03Z"
+  },
+  {
+    "id": "meziizana-frontend-logger-2026-07-12",
+    "display_name": "@meziizana/frontend-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@meziizana/frontend-logger",
+        "ecosystem": "npm",
+        "versions": [
+          "10.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10208",
+            "osv_published_at": "2026-07-12T20:49:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-12T21:33:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-12T21:33:12Z",
+    "osv_earliest_published_at": "2026-07-12T20:49:38Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-12T21:33:18Z"
   }
 ]
