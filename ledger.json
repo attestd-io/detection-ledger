@@ -2230,5 +2230,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-12T21:34:33Z"
+  },
+  {
+    "id": "pipspeed-2026-07-12",
+    "display_name": "pipspeed",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pipspeed",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10213",
+            "osv_published_at": "2026-07-12T20:55:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-12T21:33:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-12T21:33:29Z",
+    "osv_earliest_published_at": "2026-07-12T20:55:04Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-12T21:34:45Z"
   }
 ]
