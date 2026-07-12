@@ -1,0 +1,34 @@
+{
+  "id": "gptcore-2026-07-12",
+  "display_name": "gptcore",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gptcore",
+      "ecosystem": "npm",
+      "versions": [
+        "4.0.6",
+        "4.0.7",
+        "4.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10204",
+          "osv_published_at": "2026-07-12T20:45:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-12T21:02:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-12T21:02:29Z",
+  "osv_earliest_published_at": "2026-07-12T20:45:48Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-12T21:03:25Z"
+}
