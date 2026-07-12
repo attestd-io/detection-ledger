@@ -2328,5 +2328,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-12T22:34:25Z"
+  },
+  {
+    "id": "fast-dotenv-2026-07-12",
+    "display_name": "fast-dotenv",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fast-dotenv",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10215",
+            "osv_published_at": "2026-07-12T21:59:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-12T22:34:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-12T22:34:25Z",
+    "osv_earliest_published_at": "2026-07-12T21:59:58Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-12T22:34:31Z"
   }
 ]
