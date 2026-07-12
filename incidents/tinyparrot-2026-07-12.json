@@ -1,0 +1,32 @@
+{
+  "id": "tinyparrot-2026-07-12",
+  "display_name": "tinyparrot",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tinyparrot",
+      "ecosystem": "npm",
+      "versions": [
+        "0.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10190",
+          "osv_published_at": "2026-07-11T23:20:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-12T00:03:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-12T00:03:53Z",
+  "osv_earliest_published_at": "2026-07-11T23:20:47Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-12T00:04:17Z"
+}
