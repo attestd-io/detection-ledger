@@ -1133,5 +1133,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T08:08:58Z"
+  },
+  {
+    "id": "flex-ng-error-component-2026-07-13",
+    "display_name": "@flex-ng/error-component",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@flex-ng/error-component",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10221",
+            "osv_published_at": "2026-07-06T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T09:18:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T09:18:15Z",
+    "osv_earliest_published_at": "2026-07-06T00:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T09:18:17Z"
   }
 ]
