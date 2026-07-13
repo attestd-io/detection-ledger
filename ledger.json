@@ -322,5 +322,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T09:31:50Z"
+  },
+  {
+    "id": "enbd-react-logger-2026-07-13",
+    "display_name": "enbd-react-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "enbd-react-logger",
+        "ecosystem": "npm",
+        "versions": [
+          "4.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10231",
+            "osv_published_at": "2026-07-06T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T09:23:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T09:23:54Z",
+    "osv_earliest_published_at": "2026-07-06T00:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T09:32:05Z"
   }
 ]
