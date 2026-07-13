@@ -1,0 +1,32 @@
+{
+  "id": "polymarket-stake-kelly-math-2026-07-13",
+  "display_name": "polymarket-stake-kelly-math",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "polymarket-stake-kelly-math",
+      "ecosystem": "npm",
+      "versions": [
+        "3.8.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10467",
+          "osv_published_at": "2026-07-13T17:38:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T18:27:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T18:27:21Z",
+  "osv_earliest_published_at": "2026-07-13T17:38:01Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T18:28:08Z"
+}
