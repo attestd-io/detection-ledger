@@ -1,0 +1,34 @@
+{
+  "id": "stella-coder-2026-07-13",
+  "display_name": "stella-coder",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "stella-coder",
+      "ecosystem": "npm",
+      "versions": [
+        "5.3.3",
+        "5.3.4",
+        "5.3.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10134",
+          "osv_published_at": "2026-07-10T15:59:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T22:35:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T22:35:59Z",
+  "osv_earliest_published_at": "2026-07-10T15:59:07Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T22:36:21Z"
+}
