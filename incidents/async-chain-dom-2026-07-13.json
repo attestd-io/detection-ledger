@@ -1,0 +1,32 @@
+{
+  "id": "async-chain-dom-2026-07-13",
+  "display_name": "async-chain-dom",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "async-chain-dom",
+      "ecosystem": "npm",
+      "versions": [
+        "1.3.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10406",
+          "osv_published_at": "2026-07-13T06:49:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T08:01:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T08:01:04Z",
+  "osv_earliest_published_at": "2026-07-13T06:49:36Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T08:01:39Z"
+}
