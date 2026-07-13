@@ -1490,5 +1490,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T09:23:24Z"
+  },
+  {
+    "id": "abuden211-2026-07-13",
+    "display_name": "abuden211",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "abuden211",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.7",
+          "1.7.7",
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10254",
+            "osv_published_at": "2026-07-13T06:27:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T09:22:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T09:22:47Z",
+    "osv_earliest_published_at": "2026-07-13T06:27:42Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T09:23:41Z"
   }
 ]
