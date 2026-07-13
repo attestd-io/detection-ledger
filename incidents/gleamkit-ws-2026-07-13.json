@@ -1,0 +1,32 @@
+{
+  "id": "gleamkit-ws-2026-07-13",
+  "display_name": "@gleamkit/ws",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@gleamkit/ws",
+      "ecosystem": "npm",
+      "versions": [
+        "8.21.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10402",
+          "osv_published_at": "2026-07-13T06:00:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T07:59:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T07:59:41Z",
+  "osv_earliest_published_at": "2026-07-13T06:00:14Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T07:59:44Z"
+}
