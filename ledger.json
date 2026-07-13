@@ -2678,5 +2678,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T22:35:52Z"
+  },
+  {
+    "id": "express-ini-2026-07-13",
+    "display_name": "express-ini",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "express-ini",
+        "ecosystem": "npm",
+        "versions": [
+          "12.1.10"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10505",
+            "osv_published_at": "2026-07-13T21:50:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T22:35:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T22:35:50Z",
+    "osv_earliest_published_at": "2026-07-13T21:50:05Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T22:35:57Z"
   }
 ]
