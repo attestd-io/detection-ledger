@@ -2656,5 +2656,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T07:41:48Z"
+  },
+  {
+    "id": "car-loans-dealerships-approval-2026-07-13",
+    "display_name": "@car_loans/dealerships-approval",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@car_loans/dealerships-approval",
+        "ecosystem": "npm",
+        "versions": [
+          "7.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10397",
+            "osv_published_at": "2026-07-13T05:13:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T07:57:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T07:57:33Z",
+    "osv_earliest_published_at": "2026-07-13T05:13:48Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T07:57:35Z"
   }
 ]
