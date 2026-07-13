@@ -1,0 +1,32 @@
+{
+  "id": "slds-lsp-client-2026-07-13",
+  "display_name": "slds-lsp-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "slds-lsp-client",
+      "ecosystem": "npm",
+      "versions": [
+        "2026.7.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10234",
+          "osv_published_at": "2026-07-13T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T10:44:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T10:44:00Z",
+  "osv_earliest_published_at": "2026-07-13T00:00:00Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T10:52:58Z"
+}
