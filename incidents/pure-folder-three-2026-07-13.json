@@ -1,0 +1,36 @@
+{
+  "id": "pure-folder-three-2026-07-13",
+  "display_name": "pure-folder-three",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pure-folder-three",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.0",
+        "0.6.0",
+        "0.7.0",
+        "0.7.1",
+        "0.7.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10218",
+          "osv_published_at": "2026-07-13T01:52:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T02:10:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T02:10:41Z",
+  "osv_earliest_published_at": "2026-07-13T01:52:55Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T02:10:59Z"
+}
