@@ -289,5 +289,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T08:02:42Z"
+  },
+  {
+    "id": "chain-js-utils-2026-07-13",
+    "display_name": "chain-js-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chain-js-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10408",
+            "osv_published_at": "2026-07-13T06:49:21Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T08:01:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T08:01:12Z",
+    "osv_earliest_published_at": "2026-07-13T06:49:21Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T08:02:58Z"
   }
 ]
