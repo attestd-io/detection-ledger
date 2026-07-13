@@ -72,5 +72,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T14:37:28Z"
+  },
+  {
+    "id": "react-markable-table-2026-07-13",
+    "display_name": "react-markable-table",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-markable-table",
+        "ecosystem": "npm",
+        "versions": [
+          "2.4.10"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10446",
+            "osv_published_at": "2026-07-13T14:03:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T14:36:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T14:36:57Z",
+    "osv_earliest_published_at": "2026-07-13T14:03:16Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T14:37:36Z"
   }
 ]
