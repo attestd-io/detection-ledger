@@ -1,0 +1,32 @@
+{
+  "id": "chain-guardian-2026-07-13",
+  "display_name": "chain-guardian",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chain-guardian",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10433",
+          "osv_published_at": "2026-07-13T09:21:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T10:43:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T10:43:02Z",
+  "osv_earliest_published_at": "2026-07-13T09:21:39Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T10:44:50Z"
+}
