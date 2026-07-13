@@ -1,0 +1,32 @@
+{
+  "id": "hbsig-2026-07-13",
+  "display_name": "hbsig",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hbsig",
+      "ecosystem": "npm",
+      "versions": [
+        "0.3.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5190",
+          "osv_published_at": "2026-06-04T22:27:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T07:39:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T07:39:46Z",
+  "osv_earliest_published_at": "2026-06-04T22:27:40Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T07:41:48Z"
+}
