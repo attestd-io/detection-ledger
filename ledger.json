@@ -1233,5 +1233,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T10:45:21Z"
+  },
+  {
+    "id": "jest-formatter-2026-07-13",
+    "display_name": "jest-formatter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "jest-formatter",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10436",
+            "osv_published_at": "2026-07-13T09:22:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T10:43:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T10:43:08Z",
+    "osv_earliest_published_at": "2026-07-13T09:22:35Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T10:45:39Z"
   }
 ]
