@@ -2688,5 +2688,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T07:57:35Z"
+  },
+  {
+    "id": "db-tools-main-app-2026-07-13",
+    "display_name": "@db-tools/main-app",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@db-tools/main-app",
+        "ecosystem": "npm",
+        "versions": [
+          "2026.6.30"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10398",
+            "osv_published_at": "2026-07-13T05:14:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T07:57:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T07:57:35Z",
+    "osv_earliest_published_at": "2026-07-13T05:14:59Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T07:57:42Z"
   }
 ]
