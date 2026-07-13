@@ -1291,5 +1291,37 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40napster-corp%2Fedge-mcp",
     "ledger_commit_at": "2026-07-13T09:20:52Z"
+  },
+  {
+    "id": "logdna-web-shared-2026-07-13",
+    "display_name": "@logdna-web/shared",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@logdna-web/shared",
+        "ecosystem": "npm",
+        "versions": [
+          "13.19.37"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10225",
+            "osv_published_at": "2026-07-06T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T09:21:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T09:21:23Z",
+    "osv_earliest_published_at": "2026-07-06T00:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T09:21:25Z"
   }
 ]
