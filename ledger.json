@@ -2031,5 +2031,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T21:01:53Z"
+  },
+  {
+    "id": "outsmartly-metaobjects-2026-07-13",
+    "display_name": "@outsmartly/metaobjects",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@outsmartly/metaobjects",
+        "ecosystem": "npm",
+        "versions": [
+          "0.3.3-rc.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10487",
+            "osv_published_at": "2026-07-13T20:43:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T21:02:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T21:02:45Z",
+    "osv_earliest_published_at": "2026-07-13T20:43:22Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T21:02:47Z"
   }
 ]
