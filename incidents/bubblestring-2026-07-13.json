@@ -1,0 +1,32 @@
+{
+  "id": "bubblestring-2026-07-13",
+  "display_name": "bubblestring",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bubblestring",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10496",
+          "osv_published_at": "2026-07-13T21:44:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T22:05:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T22:05:07Z",
+  "osv_earliest_published_at": "2026-07-13T21:44:59Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T22:05:16Z"
+}
