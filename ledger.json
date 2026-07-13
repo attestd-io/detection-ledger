@@ -434,5 +434,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T12:00:10Z"
+  },
+  {
+    "id": "tme-xca-2026-07-13",
+    "display_name": "tme-xca",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tme-xca",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10236",
+            "osv_published_at": "2026-07-06T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T11:59:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T11:59:51Z",
+    "osv_earliest_published_at": "2026-07-06T00:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T12:00:19Z"
   }
 ]
