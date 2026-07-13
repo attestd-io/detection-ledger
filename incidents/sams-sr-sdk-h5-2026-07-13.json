@@ -1,0 +1,32 @@
+{
+  "id": "sams-sr-sdk-h5-2026-07-13",
+  "display_name": "sams-sr-sdk-h5",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sams-sr-sdk-h5",
+      "ecosystem": "npm",
+      "versions": [
+        "7.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10233",
+          "osv_published_at": "2026-07-06T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T10:43:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T10:43:43Z",
+  "osv_earliest_published_at": "2026-07-06T00:00:00Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T10:50:25Z"
+}
