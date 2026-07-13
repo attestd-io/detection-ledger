@@ -1704,5 +1704,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T19:43:50Z"
+  },
+  {
+    "id": "claude-team-tracker-2026-07-13",
+    "display_name": "claude-team-tracker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "claude-team-tracker",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0",
+          "1.2.1",
+          "1.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10473",
+            "osv_published_at": "2026-07-13T19:05:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T19:43:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T19:43:51Z",
+    "osv_earliest_published_at": "2026-07-13T19:05:05Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T19:43:56Z"
   }
 ]
