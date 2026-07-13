@@ -1,0 +1,40 @@
+{
+  "id": "node-procmetrics-2026-07-13",
+  "display_name": "node-procmetrics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "node-procmetrics",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10445",
+          "osv_published_at": "2026-07-13T13:59:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T14:36:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T14:36:55Z",
+  "osv_earliest_published_at": "2026-07-13T13:59:48Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T14:37:23Z"
+}
