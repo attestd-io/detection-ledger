@@ -2752,5 +2752,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T07:58:29Z"
+  },
+  {
+    "id": "equansservices-codex-2026-07-13",
+    "display_name": "@equansservices/codex",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@equansservices/codex",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10399",
+            "osv_published_at": "2026-07-13T05:14:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T07:58:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T07:58:28Z",
+    "osv_earliest_published_at": "2026-07-13T05:14:20Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T07:58:35Z"
   }
 ]
