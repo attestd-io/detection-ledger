@@ -1,0 +1,33 @@
+{
+  "id": "filewisee-2026-07-13",
+  "display_name": "filewisee",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "filewisee",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10501",
+          "osv_published_at": "2026-07-13T21:47:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T22:05:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T22:05:14Z",
+  "osv_earliest_published_at": "2026-07-13T21:47:47Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T22:05:42Z"
+}
