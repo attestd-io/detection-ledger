@@ -1,0 +1,34 @@
+{
+  "id": "torbeck-heap-2026-07-13",
+  "display_name": "@torbeck/heap",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@torbeck/heap",
+      "ecosystem": "npm",
+      "versions": [
+        "4.3.10",
+        "4.3.11",
+        "4.3.14"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10405",
+          "osv_published_at": "2026-07-13T06:53:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T08:01:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T08:01:02Z",
+  "osv_earliest_published_at": "2026-07-13T06:53:07Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T08:01:28Z"
+}
