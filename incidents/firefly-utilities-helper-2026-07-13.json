@@ -1,0 +1,32 @@
+{
+  "id": "firefly-utilities-helper-2026-07-13",
+  "display_name": "firefly-utilities-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "firefly-utilities-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5517",
+          "osv_published_at": "2026-06-10T17:38:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T08:01:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T08:01:32Z",
+  "osv_earliest_published_at": "2026-06-10T17:38:18Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T08:05:36Z"
+}
