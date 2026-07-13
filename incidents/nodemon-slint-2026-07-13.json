@@ -1,0 +1,32 @@
+{
+  "id": "nodemon-slint-2026-07-13",
+  "display_name": "nodemon-slint",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nodemon-slint",
+      "ecosystem": "npm",
+      "versions": [
+        "3.1.13"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10117",
+          "osv_published_at": "2026-07-10T10:18:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T08:01:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T08:01:37Z",
+  "osv_earliest_published_at": "2026-07-10T10:18:08Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T08:06:47Z"
+}
