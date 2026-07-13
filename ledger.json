@@ -197,5 +197,41 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T17:58:01Z"
+  },
+  {
+    "id": "guarddog-2026-07-13",
+    "display_name": "guarddog",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "guarddog",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.6.0",
+          "2.7.0",
+          "2.7.1",
+          "2.8.4",
+          "2.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-m5p4-gvpx-4mvr",
+            "osv_published_at": "2026-05-11T14:43:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T17:58:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T17:58:01Z",
+    "osv_earliest_published_at": "2026-05-11T14:43:43Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T17:58:10Z"
   }
 ]
