@@ -3008,5 +3008,42 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T23:06:43Z"
+  },
+  {
+    "id": "stella-ai-cli-2026-07-13",
+    "display_name": "stella-ai-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "stella-ai-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "2.1.0",
+          "2.2.0",
+          "2.2.1",
+          "2.2.2",
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10133",
+            "osv_published_at": "2026-07-10T15:59:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T23:37:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T23:37:04Z",
+    "osv_earliest_published_at": "2026-07-10T15:59:49Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T23:37:05Z"
   }
 ]
