@@ -1,0 +1,32 @@
+{
+  "id": "luminarycloudinternal-lcvis-st-2026-07-13",
+  "display_name": "@luminarycloudinternal/lcvis-st",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@luminarycloudinternal/lcvis-st",
+      "ecosystem": "npm",
+      "versions": [
+        "9999.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6987",
+          "osv_published_at": "2026-07-08T16:27:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T08:01:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T08:01:00Z",
+  "osv_earliest_published_at": "2026-07-08T16:27:42Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T08:01:15Z"
+}
