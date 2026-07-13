@@ -1149,5 +1149,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T18:27:04Z"
+  },
+  {
+    "id": "spzhongwin-skill-logger-plugin-2026-07-13",
+    "display_name": "@spzhongwin/skill-logger-plugin",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@spzhongwin/skill-logger-plugin",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.10",
+          "1.0.5",
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10456",
+            "osv_published_at": "2026-07-13T18:09:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T18:27:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T18:27:05Z",
+    "osv_earliest_published_at": "2026-07-13T18:09:02Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T18:27:10Z"
   }
 ]
