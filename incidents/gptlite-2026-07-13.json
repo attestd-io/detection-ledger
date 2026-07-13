@@ -1,0 +1,32 @@
+{
+  "id": "gptlite-2026-07-13",
+  "display_name": "gptlite",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gptlite",
+      "ecosystem": "npm",
+      "versions": [
+        "4.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10461",
+          "osv_published_at": "2026-07-13T17:38:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T18:27:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T18:27:12Z",
+  "osv_earliest_published_at": "2026-07-13T17:38:10Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T18:27:36Z"
+}
