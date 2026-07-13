@@ -436,5 +436,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-13T10:49:58Z"
+  },
+  {
+    "id": "salesforce-vscode-slds-2026-07-13",
+    "display_name": "salesforce-vscode-slds",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "salesforce-vscode-slds",
+        "ecosystem": "npm",
+        "versions": [
+          "2026.7.11"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10232",
+            "osv_published_at": "2026-07-13T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-13T10:43:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-13T10:43:42Z",
+    "osv_earliest_published_at": "2026-07-13T00:00:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-13T10:50:12Z"
   }
 ]
