@@ -1,0 +1,32 @@
+{
+  "id": "babel-preset-lib-client-2026-07-13",
+  "display_name": "babel-preset-lib-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "babel-preset-lib-client",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10214",
+          "osv_published_at": "2026-07-12T21:32:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-13T18:57:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-13T18:57:54Z",
+  "osv_earliest_published_at": "2026-07-12T21:32:17Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-13T18:57:55Z"
+}
