@@ -83380,5 +83380,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T07:07:28Z"
+  },
+  {
+    "id": "wrenfield-viem-2026-07-14",
+    "display_name": "@wrenfield/viem",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wrenfield/viem",
+        "ecosystem": "npm",
+        "versions": [
+          "2.53.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10571",
+            "osv_published_at": "2026-07-14T06:17:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T07:05:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T07:05:10Z",
+    "osv_earliest_published_at": "2026-07-14T06:17:33Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T07:07:53Z"
   }
 ]
