@@ -84549,5 +84549,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T13:52:40Z"
+  },
+  {
+    "id": "ethers-core-2026-07-14",
+    "display_name": "ethers-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ethers-core",
+        "ecosystem": "npm",
+        "versions": [
+          "6.13.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10580",
+            "osv_published_at": "2026-07-14T12:55:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T13:52:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T13:52:33Z",
+    "osv_earliest_published_at": "2026-07-14T12:55:50Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T13:52:57Z"
   }
 ]
