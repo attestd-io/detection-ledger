@@ -82836,5 +82836,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T06:05:56Z"
+  },
+  {
+    "id": "dervix-socket-io-2026-07-14",
+    "display_name": "@dervix/socket.io",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@dervix/socket.io",
+        "ecosystem": "npm",
+        "versions": [
+          "4.8.5",
+          "4.8.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10475",
+            "osv_published_at": "2026-07-13T19:02:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T06:02:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T06:02:59Z",
+    "osv_earliest_published_at": "2026-07-13T19:02:59Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T06:06:06Z"
   }
 ]
