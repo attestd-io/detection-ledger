@@ -84516,5 +84516,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T13:52:32Z"
+  },
+  {
+    "id": "bimi-maker-2026-07-14",
+    "display_name": "bimi-maker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bimi-maker",
+        "ecosystem": "npm",
+        "versions": [
+          "8.2.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10579",
+            "osv_published_at": "2026-07-14T12:58:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T13:52:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T13:52:30Z",
+    "osv_earliest_published_at": "2026-07-14T12:58:33Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T13:52:40Z"
   }
 ]
