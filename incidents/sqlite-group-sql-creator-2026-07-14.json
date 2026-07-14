@@ -1,0 +1,32 @@
+{
+  "id": "sqlite-group-sql-creator-2026-07-14",
+  "display_name": "@sqlite-group/sql-creator",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sqlite-group/sql-creator",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10578",
+          "osv_published_at": "2026-07-14T10:35:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T13:51:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T13:51:41Z",
+  "osv_earliest_published_at": "2026-07-14T10:35:02Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T13:51:45Z"
+}
