@@ -1,0 +1,32 @@
+{
+  "id": "async-mutex-v2-2026-07-14",
+  "display_name": "async-mutex-v2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "async-mutex-v2",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10582",
+          "osv_published_at": "2026-07-14T14:01:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T14:53:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T14:53:46Z",
+  "osv_earliest_published_at": "2026-07-14T14:01:47Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T14:53:48Z"
+}
