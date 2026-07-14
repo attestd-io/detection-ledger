@@ -1,0 +1,32 @@
+{
+  "id": "dervix-engine-io-2026-07-14",
+  "display_name": "@dervix/engine.io",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@dervix/engine.io",
+      "ecosystem": "npm",
+      "versions": [
+        "6.6.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10474",
+          "osv_published_at": "2026-07-13T19:02:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T06:02:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T06:02:57Z",
+  "osv_earliest_published_at": "2026-07-13T19:02:59Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T06:05:56Z"
+}
