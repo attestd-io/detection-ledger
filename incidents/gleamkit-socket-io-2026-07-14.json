@@ -1,0 +1,34 @@
+{
+  "id": "gleamkit-socket-io-2026-07-14",
+  "display_name": "@gleamkit/socket.io",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@gleamkit/socket.io",
+      "ecosystem": "npm",
+      "versions": [
+        "4.8.6",
+        "4.8.7",
+        "4.8.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10477",
+          "osv_published_at": "2026-07-13T19:00:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T07:05:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T07:05:05Z",
+  "osv_earliest_published_at": "2026-07-13T19:00:40Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T07:07:28Z"
+}
