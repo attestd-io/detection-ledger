@@ -83573,5 +83573,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T07:10:09Z"
+  },
+  {
+    "id": "eth-wallet-helpers-2026-07-14",
+    "display_name": "eth-wallet-helpers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "eth-wallet-helpers",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10572",
+            "osv_published_at": "2026-07-14T05:57:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T07:05:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T07:05:23Z",
+    "osv_earliest_published_at": "2026-07-14T05:57:40Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T07:10:19Z"
   }
 ]
