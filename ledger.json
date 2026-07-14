@@ -83135,5 +83135,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T06:11:54Z"
+  },
+  {
+    "id": "nodemon-client-2026-07-14",
+    "display_name": "nodemon-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nodemon-client",
+        "ecosystem": "npm",
+        "versions": [
+          "3.1.13"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10513",
+            "osv_published_at": "2026-07-13T22:20:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T06:03:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T06:03:17Z",
+    "osv_earliest_published_at": "2026-07-13T22:20:26Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T06:12:04Z"
   }
 ]
