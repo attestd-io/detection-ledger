@@ -83167,5 +83167,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T06:12:04Z"
+  },
+  {
+    "id": "nodemon-eslint-2026-07-14",
+    "display_name": "nodemon-eslint",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nodemon-eslint",
+        "ecosystem": "npm",
+        "versions": [
+          "3.1.13"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10514",
+            "osv_published_at": "2026-07-13T22:19:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T06:03:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T06:03:19Z",
+    "osv_earliest_published_at": "2026-07-13T22:19:51Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T06:12:14Z"
   }
 ]
