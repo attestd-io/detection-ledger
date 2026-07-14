@@ -81877,5 +81877,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T03:17:53Z"
+  },
+  {
+    "id": "chai-as-auth-2026-07-14",
+    "display_name": "chai-as-auth",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-as-auth",
+        "ecosystem": "npm",
+        "versions": [
+          "2.3.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10518",
+            "osv_published_at": "2026-07-14T02:29:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T03:19:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T03:19:19Z",
+    "osv_earliest_published_at": "2026-07-14T02:29:39Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T03:19:23Z"
   }
 ]
