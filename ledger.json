@@ -84290,5 +84290,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T11:59:04Z"
+  },
+  {
+    "id": "amedit-vercel-builder-probe-2026-07-14",
+    "display_name": "@amedit/vercel-builder-probe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@amedit/vercel-builder-probe",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10548",
+            "osv_published_at": "2026-07-14T03:24:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T13:49:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T13:49:28Z",
+    "osv_earliest_published_at": "2026-07-14T03:24:31Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T13:49:31Z"
   }
 ]
