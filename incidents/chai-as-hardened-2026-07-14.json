@@ -1,0 +1,32 @@
+{
+  "id": "chai-as-hardened-2026-07-14",
+  "display_name": "chai-as-hardened",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-as-hardened",
+      "ecosystem": "npm",
+      "versions": [
+        "7.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10621",
+          "osv_published_at": "2026-07-14T20:33:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T20:57:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T20:57:37Z",
+  "osv_earliest_published_at": "2026-07-14T20:33:37Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T20:57:47Z"
+}
