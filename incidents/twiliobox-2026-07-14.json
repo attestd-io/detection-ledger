@@ -1,0 +1,32 @@
+{
+  "id": "twiliobox-2026-07-14",
+  "display_name": "twiliobox",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "twiliobox",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10593",
+          "osv_published_at": "2026-07-14T13:59:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T14:54:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T14:54:04Z",
+  "osv_earliest_published_at": "2026-07-14T13:59:56Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T14:55:31Z"
+}
