@@ -82290,5 +82290,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T04:45:36Z"
+  },
+  {
+    "id": "fluterjs-2026-07-14",
+    "display_name": "fluterjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fluterjs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10532",
+            "osv_published_at": "2026-07-14T03:54:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T04:45:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T04:45:09Z",
+    "osv_earliest_published_at": "2026-07-14T03:54:52Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T04:45:46Z"
   }
 ]
