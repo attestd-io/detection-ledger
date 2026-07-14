@@ -85932,5 +85932,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T20:58:12Z"
+  },
+  {
+    "id": "tidgi-2026-07-14",
+    "display_name": "tidgi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tidgi",
+        "ecosystem": "npm",
+        "versions": [
+          "0.13.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-9hc2-hjx8-q6pv",
+            "osv_published_at": "2026-07-14T19:52:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T23:40:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T23:40:44Z",
+    "osv_earliest_published_at": "2026-07-14T19:52:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T23:40:46Z"
   }
 ]
