@@ -1,0 +1,33 @@
+{
+  "id": "cosmos-gradio-2026-07-14",
+  "display_name": "cosmos-gradio",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cosmos-gradio",
+      "ecosystem": "pypi",
+      "versions": [
+        "9999.0.0",
+        "9999.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10618",
+          "osv_published_at": "2026-07-14T20:06:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T20:41:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T20:41:50Z",
+  "osv_earliest_published_at": "2026-07-14T20:06:55Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T20:42:42Z"
+}
