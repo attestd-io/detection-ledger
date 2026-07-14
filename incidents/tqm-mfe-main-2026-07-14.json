@@ -1,0 +1,32 @@
+{
+  "id": "tqm-mfe-main-2026-07-14",
+  "display_name": "@tqm-mfe/main",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@tqm-mfe/main",
+      "ecosystem": "npm",
+      "versions": [
+        "5.4.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10517",
+          "osv_published_at": "2026-07-14T02:40:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T03:17:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T03:17:50Z",
+  "osv_earliest_published_at": "2026-07-14T02:40:37Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T03:17:53Z"
+}
