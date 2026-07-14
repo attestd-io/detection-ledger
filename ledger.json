@@ -82940,5 +82940,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T06:07:17Z"
+  },
+  {
+    "id": "better-tailwindcss-2026-07-14",
+    "display_name": "better-tailwindcss",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "better-tailwindcss",
+        "ecosystem": "npm",
+        "versions": [
+          "4.6.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10550",
+            "osv_published_at": "2026-07-14T04:35:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T06:03:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T06:03:07Z",
+    "osv_earliest_published_at": "2026-07-14T04:35:12Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T06:08:35Z"
   }
 ]
