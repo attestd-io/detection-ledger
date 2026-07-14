@@ -1,0 +1,32 @@
+{
+  "id": "n8n-nodes-social-facebook-2026-07-14",
+  "display_name": "n8n-nodes-social-facebook",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "n8n-nodes-social-facebook",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.96"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10536",
+          "osv_published_at": "2026-07-14T03:48:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-14T04:45:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-14T04:45:15Z",
+  "osv_earliest_published_at": "2026-07-14T03:48:22Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-14T04:47:01Z"
+}
