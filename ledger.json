@@ -85610,5 +85610,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T20:42:08Z"
+  },
+  {
+    "id": "smb-common-uikit-2026-07-14",
+    "display_name": "smb-common-uikit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "smb-common-uikit",
+        "ecosystem": "npm",
+        "versions": [
+          "15.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10615",
+            "osv_published_at": "2026-07-14T19:49:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T20:41:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T20:41:41Z",
+    "osv_earliest_published_at": "2026-07-14T19:49:26Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T20:42:16Z"
   }
 ]
