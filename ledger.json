@@ -84785,5 +84785,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T14:54:14Z"
+  },
+  {
+    "id": "crypto-validate-lib-2026-07-14",
+    "display_name": "crypto-validate-lib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "crypto-validate-lib",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10586",
+            "osv_published_at": "2026-07-14T13:58:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-14T14:53:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-14T14:53:51Z",
+    "osv_earliest_published_at": "2026-07-14T13:58:43Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-14T14:54:23Z"
   }
 ]
