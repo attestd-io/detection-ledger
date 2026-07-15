@@ -87011,5 +87011,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T09:15:32Z"
+  },
+  {
+    "id": "magda-semantic-indexer-sdk-2026-07-15",
+    "display_name": "@magda/semantic-indexer-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@magda/semantic-indexer-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "6.1.0-alpha.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2025-47009",
+            "osv_published_at": "2025-09-10T09:51:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T09:15:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T09:15:25Z",
+    "osv_earliest_published_at": "2025-09-10T09:51:31Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T09:15:41Z"
   }
 ]
