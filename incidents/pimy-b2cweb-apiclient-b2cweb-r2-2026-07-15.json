@@ -1,0 +1,32 @@
+{
+  "id": "pimy-b2cweb-apiclient-b2cweb-r2-2026-07-15",
+  "display_name": "@pimy-b2cweb/apiclient-b2cweb-r2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@pimy-b2cweb/apiclient-b2cweb-r2",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10655",
+          "osv_published_at": "2026-07-07T08:50:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-15T06:01:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-15T06:01:59Z",
+  "osv_earliest_published_at": "2026-07-07T08:50:52Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-15T06:02:10Z"
+}
