@@ -1,0 +1,32 @@
+{
+  "id": "clipboard-drop-2026-07-15",
+  "display_name": "clipboard-drop",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "clipboard-drop",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10560",
+          "osv_published_at": "2026-07-14T05:09:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-15T04:58:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-15T04:58:53Z",
+  "osv_earliest_published_at": "2026-07-14T05:09:02Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-15T04:59:29Z"
+}
