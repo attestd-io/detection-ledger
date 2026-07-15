@@ -1,0 +1,32 @@
+{
+  "id": "eslintcmd-2026-07-15",
+  "display_name": "eslintcmd",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eslintcmd",
+      "ecosystem": "npm",
+      "versions": [
+        "0.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10670",
+          "osv_published_at": "2026-07-15T07:55:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-15T09:15:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-15T09:15:31Z",
+  "osv_earliest_published_at": "2026-07-15T07:55:08Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-15T09:16:18Z"
+}
