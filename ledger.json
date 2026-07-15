@@ -87075,5 +87075,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T09:15:50Z"
+  },
+  {
+    "id": "chain-as-log-2026-07-15",
+    "display_name": "chain-as-log",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chain-as-log",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10668",
+            "osv_published_at": "2026-07-15T07:56:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T09:15:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T09:15:28Z",
+    "osv_earliest_published_at": "2026-07-15T07:56:38Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T09:16:00Z"
   }
 ]
