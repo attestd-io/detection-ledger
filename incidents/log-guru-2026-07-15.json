@@ -1,0 +1,32 @@
+{
+  "id": "log-guru-2026-07-15",
+  "display_name": "log-guru",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "log-guru",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.7.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10688",
+          "osv_published_at": "2026-07-15T17:29:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-15T18:05:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-15T18:05:41Z",
+  "osv_earliest_published_at": "2026-07-15T17:29:10Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-15T18:05:50Z"
+}
