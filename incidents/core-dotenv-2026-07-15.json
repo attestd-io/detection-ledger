@@ -1,0 +1,32 @@
+{
+  "id": "core-dotenv-2026-07-15",
+  "display_name": "core-dotenv",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "core-dotenv",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10631",
+          "osv_published_at": "2026-07-15T04:01:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-15T04:58:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-15T04:58:55Z",
+  "osv_earliest_published_at": "2026-07-15T04:01:05Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-15T04:59:37Z"
+}
