@@ -86292,5 +86292,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T04:59:46Z"
+  },
+  {
+    "id": "creditgauge-2026-07-15",
+    "display_name": "creditgauge",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "creditgauge",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10633",
+            "osv_published_at": "2026-07-15T03:56:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T04:58:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T04:58:58Z",
+    "osv_earliest_published_at": "2026-07-15T03:56:05Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T04:59:54Z"
   }
 ]
