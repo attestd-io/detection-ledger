@@ -87849,5 +87849,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T16:39:01Z"
+  },
+  {
+    "id": "formatters-ts-2026-07-15",
+    "display_name": "formatters.ts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "formatters.ts",
+        "ecosystem": "npm",
+        "versions": [
+          "14.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10683",
+            "osv_published_at": "2026-07-15T15:38:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T16:39:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T16:39:00Z",
+    "osv_earliest_published_at": "2026-07-15T15:38:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T16:39:10Z"
   }
 ]
