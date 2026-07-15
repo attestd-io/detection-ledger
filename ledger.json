@@ -87270,5 +87270,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T09:16:47Z"
+  },
+  {
+    "id": "iwsdk-2026-07-15",
+    "display_name": "iwsdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "iwsdk",
+        "ecosystem": "npm",
+        "versions": [
+          "22.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10651",
+            "osv_published_at": "2026-07-14T23:41:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T09:15:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T09:15:39Z",
+    "osv_earliest_published_at": "2026-07-14T23:41:49Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T09:16:57Z"
   }
 ]
