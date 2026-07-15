@@ -86490,5 +86490,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T05:00:57Z"
+  },
+  {
+    "id": "nodemon-plint-2026-07-15",
+    "display_name": "nodemon-plint",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nodemon-plint",
+        "ecosystem": "npm",
+        "versions": [
+          "3.1.13"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10595",
+            "osv_published_at": "2026-07-14T14:03:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T04:59:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T04:59:14Z",
+    "osv_earliest_published_at": "2026-07-14T14:03:30Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T05:01:14Z"
   }
 ]
