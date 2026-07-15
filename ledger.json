@@ -87203,5 +87203,40 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T09:16:29Z"
+  },
+  {
+    "id": "hashd-edu-2026-07-15",
+    "display_name": "hashd-edu",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hashd-edu",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6302",
+            "osv_published_at": "2026-06-23T15:24:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T09:15:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T09:15:36Z",
+    "osv_earliest_published_at": "2026-06-23T15:24:26Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T09:16:37Z"
   }
 ]
