@@ -86358,5 +86358,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T05:00:03Z"
+  },
+  {
+    "id": "gmail-changer-2026-07-15",
+    "display_name": "gmail-changer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gmail-changer",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10635",
+            "osv_published_at": "2026-07-15T04:20:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T04:59:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T04:59:05Z",
+    "osv_earliest_published_at": "2026-07-15T04:20:08Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T05:00:29Z"
   }
 ]
