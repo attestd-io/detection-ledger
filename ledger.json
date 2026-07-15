@@ -87417,5 +87417,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T09:18:00Z"
+  },
+  {
+    "id": "ssweb-wp-2026-07-15",
+    "display_name": "ssweb-wp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ssweb-wp",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10662",
+            "osv_published_at": "2026-07-15T05:14:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T09:15:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T09:15:54Z",
+    "osv_earliest_published_at": "2026-07-15T05:14:18Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T09:18:09Z"
   }
 ]
