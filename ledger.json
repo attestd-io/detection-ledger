@@ -87107,5 +87107,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T09:16:00Z"
+  },
+  {
+    "id": "dbconnectify-2026-07-15",
+    "display_name": "dbconnectify",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dbconnectify",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10669",
+            "osv_published_at": "2026-07-15T07:55:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T09:15:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T09:15:30Z",
+    "osv_earliest_published_at": "2026-07-15T07:55:37Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T09:16:09Z"
   }
 ]
