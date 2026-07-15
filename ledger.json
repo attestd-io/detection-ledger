@@ -85964,5 +85964,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-14T23:40:46Z"
+  },
+  {
+    "id": "akshajrawat-plugin-repo-cli-2026-07-15",
+    "display_name": "@akshajrawat/plugin-repo-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@akshajrawat/plugin-repo-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10554",
+            "osv_published_at": "2026-07-14T05:44:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T04:56:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T04:56:45Z",
+    "osv_earliest_published_at": "2026-07-14T05:44:19Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T04:56:48Z"
   }
 ]
