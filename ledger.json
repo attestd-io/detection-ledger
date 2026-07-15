@@ -87913,5 +87913,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-15T16:39:18Z"
+  },
+  {
+    "id": "trongridweb-2026-07-15",
+    "display_name": "trongridweb",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "trongridweb",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10685",
+            "osv_published_at": "2026-07-15T15:33:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T16:39:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T16:39:05Z",
+    "osv_earliest_published_at": "2026-07-15T15:33:11Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-15T16:39:27Z"
   }
 ]
