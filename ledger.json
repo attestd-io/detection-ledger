@@ -88994,5 +88994,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:15:00Z"
+  },
+  {
+    "id": "yuandc-aica-2026-07-16",
+    "display_name": "@yuandc/aica",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@yuandc/aica",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1",
+          "0.1.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10724",
+            "osv_published_at": "2026-07-16T18:38:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:13:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:13:59Z",
+    "osv_earliest_published_at": "2026-07-16T18:38:56Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:15:11Z"
   }
 ]
