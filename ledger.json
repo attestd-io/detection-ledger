@@ -88930,5 +88930,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:14:39Z"
+  },
+  {
+    "id": "whalent-agent-2026-07-16",
+    "display_name": "@whalent/agent",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@whalent/agent",
+        "ecosystem": "npm",
+        "versions": [
+          "0.3.231"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10721",
+            "osv_published_at": "2026-07-16T18:46:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:13:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:13:55Z",
+    "osv_earliest_published_at": "2026-07-16T18:46:02Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:14:50Z"
   }
 ]
