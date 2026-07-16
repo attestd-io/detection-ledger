@@ -89484,5 +89484,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:18:05Z"
+  },
+  {
+    "id": "mmagrt-2026-07-16",
+    "display_name": "mmagrt",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mmagrt",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.10"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10737",
+            "osv_published_at": "2026-07-16T18:37:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:14:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:14:26Z",
+    "osv_earliest_published_at": "2026-07-16T18:37:14Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:18:15Z"
   }
 ]
