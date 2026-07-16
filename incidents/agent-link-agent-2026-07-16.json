@@ -1,0 +1,32 @@
+{
+  "id": "agent-link-agent-2026-07-16",
+  "display_name": "@agent-link/agent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@agent-link/agent",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.269"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10705",
+          "osv_published_at": "2026-07-16T18:41:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:06:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:06:47Z",
+  "osv_earliest_published_at": "2026-07-16T18:41:12Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:06:51Z"
+}
