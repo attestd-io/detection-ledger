@@ -89257,5 +89257,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:16:56Z"
+  },
+  {
+    "id": "hehehe-2026-07-16",
+    "display_name": "hehehe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hehehe",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10732",
+            "osv_published_at": "2026-07-16T18:41:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:14:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:14:16Z",
+    "osv_earliest_published_at": "2026-07-16T18:41:40Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:17:06Z"
   }
 ]
