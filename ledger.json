@@ -89873,5 +89873,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:20:03Z"
+  },
+  {
+    "id": "sync-grove-2026-07-16",
+    "display_name": "sync-grove",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sync-grove",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10749",
+            "osv_published_at": "2026-07-16T18:35:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:14:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:14:43Z",
+    "osv_earliest_published_at": "2026-07-16T18:35:11Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:20:13Z"
   }
 ]
