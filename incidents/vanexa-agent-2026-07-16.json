@@ -1,0 +1,33 @@
+{
+  "id": "vanexa-agent-2026-07-16",
+  "display_name": "vanexa-agent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vanexa-agent",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.10",
+        "1.1.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10751",
+          "osv_published_at": "2026-07-16T18:39:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:14:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:14:49Z",
+  "osv_earliest_published_at": "2026-07-16T18:39:20Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:20:53Z"
+}
