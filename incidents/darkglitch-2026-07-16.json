@@ -1,0 +1,32 @@
+{
+  "id": "darkglitch-2026-07-16",
+  "display_name": "darkglitch",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "darkglitch",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10756",
+          "osv_published_at": "2026-07-16T18:43:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:15:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:15:18Z",
+  "osv_earliest_published_at": "2026-07-16T18:43:08Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:21:53Z"
+}
