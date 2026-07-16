@@ -1,0 +1,33 @@
+{
+  "id": "amdocs-auth-package-2026-07-16",
+  "display_name": "amdocs-auth-package",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "amdocs-auth-package",
+      "ecosystem": "npm",
+      "versions": [
+        "114.2.1",
+        "115.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-6694",
+          "osv_published_at": "2025-08-03T04:02:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:14:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:14:03Z",
+  "osv_earliest_published_at": "2025-08-03T04:02:38Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:15:42Z"
+}
