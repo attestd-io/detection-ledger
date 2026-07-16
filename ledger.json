@@ -88831,5 +88831,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:13:59Z"
+  },
+  {
+    "id": "thepayulink-server-2026-07-16",
+    "display_name": "@thepayulink/server",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@thepayulink/server",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10719",
+            "osv_published_at": "2026-07-16T18:45:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:13:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:13:50Z",
+    "osv_earliest_published_at": "2026-07-16T18:45:45Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:14:19Z"
   }
 ]
