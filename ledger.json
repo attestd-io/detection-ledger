@@ -90205,5 +90205,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:22:03Z"
+  },
+  {
+    "id": "mfq-private-encoder-2026-07-16",
+    "display_name": "mfq-private-encoder",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mfq-private-encoder",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10758",
+            "osv_published_at": "2026-07-16T18:48:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:15:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:15:21Z",
+    "osv_earliest_published_at": "2026-07-16T18:48:40Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:22:13Z"
   }
 ]
