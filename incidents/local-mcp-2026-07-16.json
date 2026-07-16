@@ -1,0 +1,32 @@
+{
+  "id": "local-mcp-2026-07-16",
+  "display_name": "local-mcp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "local-mcp",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.340"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4601",
+          "osv_published_at": "2026-05-20T08:14:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T21:11:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T21:11:53Z",
+  "osv_earliest_published_at": "2026-05-20T08:14:15Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T21:13:38Z"
+}
