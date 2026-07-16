@@ -88699,5 +88699,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:12:57Z"
+  },
+  {
+    "id": "hibachi-xyz-types-2026-07-16",
+    "display_name": "@hibachi-xyz/types",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@hibachi-xyz/types",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10715",
+            "osv_published_at": "2026-07-16T18:34:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:13:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:13:10Z",
+    "osv_earliest_published_at": "2026-07-16T18:34:00Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:13:14Z"
   }
 ]
