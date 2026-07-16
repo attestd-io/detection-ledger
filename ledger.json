@@ -88763,5 +88763,39 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:13:31Z"
+  },
+  {
+    "id": "onescience-onecode-2026-07-16",
+    "display_name": "@onescience/onecode",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onescience/onecode",
+        "ecosystem": "npm",
+        "versions": [
+          "1.14.50-202607161038",
+          "1.14.50-202607161139",
+          "1.14.50-202607161710"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10717",
+            "osv_published_at": "2026-07-16T18:41:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:13:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:13:45Z",
+    "osv_earliest_published_at": "2026-07-16T18:41:22Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:13:49Z"
   }
 ]
