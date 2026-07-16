@@ -88470,5 +88470,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:07:40Z"
+  },
+  {
+    "id": "aicommander-agent-2026-07-16",
+    "display_name": "@aicommander/agent",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@aicommander/agent",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.34"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10708",
+            "osv_published_at": "2026-07-16T18:48:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:08:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:08:25Z",
+    "osv_earliest_published_at": "2026-07-16T18:48:49Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:08:29Z"
   }
 ]
