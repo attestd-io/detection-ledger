@@ -89093,5 +89093,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-16T19:15:42Z"
+  },
+  {
+    "id": "astro-2026-07-16",
+    "display_name": "astro",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "astro",
+        "ecosystem": "npm",
+        "versions": [
+          "7.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10726",
+            "osv_published_at": "2026-07-16T18:39:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-16T19:14:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-16T19:14:05Z",
+    "osv_earliest_published_at": "2026-07-16T18:39:39Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-16T19:15:53Z"
   }
 ]
