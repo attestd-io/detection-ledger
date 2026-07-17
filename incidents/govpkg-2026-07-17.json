@@ -1,0 +1,33 @@
+{
+  "id": "govpkg-2026-07-17",
+  "display_name": "govpkg",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "govpkg",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0",
+        "0.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10770",
+          "osv_published_at": "2026-07-17T13:49:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-17T14:53:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-17T14:53:33Z",
+  "osv_earliest_published_at": "2026-07-17T13:49:45Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-17T14:53:40Z"
+}
