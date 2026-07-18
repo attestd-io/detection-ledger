@@ -90816,5 +90816,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-18T07:15:06Z"
+  },
+  {
+    "id": "n8n-nodes-final-mile-2026-07-18",
+    "display_name": "n8n-nodes-final-mile",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "n8n-nodes-final-mile",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10776",
+            "osv_published_at": "2026-07-17T13:26:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-18T07:14:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-18T07:14:58Z",
+    "osv_earliest_published_at": "2026-07-17T13:26:59Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-18T07:15:14Z"
   }
 ]
