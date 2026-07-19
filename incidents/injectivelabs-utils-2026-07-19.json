@@ -1,0 +1,27 @@
+{
+  "id": "injectivelabs-utils-2026-07-19",
+  "display_name": "@injectivelabs/utils",
+  "campaign": null,
+  "detection_source": "npm_deprecation",
+  "packages": [
+    {
+      "package": "@injectivelabs/utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.20.21"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "deprecated_release",
+  "attestd_detected_at": "2026-07-19T16:09:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-19T16:09:41Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Futils",
+  "ledger_commit_at": "2026-07-19T16:09:43Z"
+}
