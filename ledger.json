@@ -97502,5 +97502,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:31:27Z"
+  },
+  {
+    "id": "babel-plugin-transform-modules-systemjs-2026-07-20",
+    "display_name": "@babel/plugin-transform-modules-systemjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@babel/plugin-transform-modules-systemjs",
+        "ecosystem": "npm",
+        "versions": [
+          "7.12.0",
+          "8.0.0-alpha.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-fv7c-fp4j-7gwp",
+            "osv_published_at": "2026-05-08T20:34:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:05:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:05:09Z",
+    "osv_earliest_published_at": "2026-05-08T20:34:07Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:31:50Z"
   }
 ]
