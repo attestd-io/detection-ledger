@@ -102737,5 +102737,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:58:07Z"
+  },
+  {
+    "id": "file-logging-2026-07-20",
+    "display_name": "file-logging",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "file-logging",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-wwwg-6r7f-9c9h",
+            "osv_published_at": "2020-09-03T19:43:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:10:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:10:15Z",
+    "osv_earliest_published_at": "2020-09-03T19:43:28Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:58:16Z"
   }
 ]
