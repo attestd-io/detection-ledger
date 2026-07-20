@@ -96936,12 +96936,18 @@
         "package": "ghost",
         "ecosystem": "npm",
         "versions": [
-          "0.7.2"
+          "0.7.2",
+          "5.43.0",
+          "6.0.0"
         ],
         "osv_entries": [
           {
             "osv_id": "GHSA-cgc2-rcrh-qr5x",
             "osv_published_at": "2026-03-03T20:01:21Z"
+          },
+          {
+            "osv_id": "GHSA-gv6q-2m97-882h",
+            "osv_published_at": "2026-01-28T16:11:59Z"
           }
         ]
       }
@@ -96950,13 +96956,13 @@
     "attestd_detected_at": "2026-07-20T03:04:35Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-20T03:04:35Z",
-    "osv_earliest_published_at": "2026-03-03T20:01:21Z",
+    "osv_earliest_published_at": "2026-01-28T16:11:59Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-20T03:28:26Z"
+    "ledger_commit_at": "2026-07-20T03:36:04Z"
   },
   {
     "id": "ecuvre-2026-07-20",
