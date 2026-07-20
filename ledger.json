@@ -94965,5 +94965,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:18:52Z"
+  },
+  {
+    "id": "bconi-2026-07-20",
+    "display_name": "bconi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bconi",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-7j93-5m2h-rvjx",
+            "osv_published_at": "2020-09-04T15:32:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:03:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:03:11Z",
+    "osv_earliest_published_at": "2020-09-04T15:32:46Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:19:02Z"
   }
 ]
