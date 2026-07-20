@@ -99724,5 +99724,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:43:05Z"
+  },
+  {
+    "id": "buffer-xop-2026-07-20",
+    "display_name": "buffer-xop",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "buffer-xop",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-jqjg-v355-hr9q",
+            "osv_published_at": "2020-09-03T22:11:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:07:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:07:57Z",
+    "osv_earliest_published_at": "2020-09-03T22:11:02Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:43:18Z"
   }
 ]
