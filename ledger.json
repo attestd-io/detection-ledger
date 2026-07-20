@@ -93860,5 +93860,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:13:35Z"
+  },
+  {
+    "id": "js-sja3-2026-07-20",
+    "display_name": "js-sja3",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "js-sja3",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-6343-m2qr-66gf",
+            "osv_published_at": "2020-09-03T23:10:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:23Z",
+    "osv_earliest_published_at": "2020-09-03T23:10:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:13:43Z"
   }
 ]
