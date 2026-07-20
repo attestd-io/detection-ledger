@@ -100721,5 +100721,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:47:50Z"
+  },
+  {
+    "id": "fangrong-xoc-2026-07-20",
+    "display_name": "@fangrong/xoc",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@fangrong/xoc",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-pjxp-f379-6284",
+            "osv_published_at": "2020-09-03T19:13:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:08:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:08:41Z",
+    "osv_earliest_published_at": "2020-09-03T19:13:27Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:48:10Z"
   }
 ]
