@@ -1,0 +1,32 @@
+{
+  "id": "radic-util-2026-07-20",
+  "display_name": "radic-util",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "radic-util",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-8qh7-xw58-3ww7",
+          "osv_published_at": "2020-09-11T21:25:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:03:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:03:50Z",
+  "osv_earliest_published_at": "2020-09-11T21:25:37Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:23:29Z"
+}
