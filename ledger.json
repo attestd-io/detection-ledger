@@ -93988,5 +93988,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:14:13Z"
+  },
+  {
+    "id": "babel-traverse-2026-07-20",
+    "display_name": "@babel/traverse",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@babel/traverse",
+        "ecosystem": "npm",
+        "versions": [
+          "8.0.0-alpha.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-67hx-6x53-jw92",
+            "osv_published_at": "2023-10-16T13:55:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:29Z",
+    "osv_earliest_published_at": "2023-10-16T13:55:36Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:14:21Z"
   }
 ]
