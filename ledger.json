@@ -98440,5 +98440,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:37:27Z"
+  },
+  {
+    "id": "coinstrng-2026-07-20",
+    "display_name": "coinstrng",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "coinstrng",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-hj5w-xgw9-w4rj",
+            "osv_published_at": "2020-09-03T19:41:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:06:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:06:16Z",
+    "osv_earliest_published_at": "2020-09-03T19:41:44Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:37:36Z"
   }
 ]
