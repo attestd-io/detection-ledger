@@ -93476,5 +93476,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:11:47Z"
+  },
+  {
+    "id": "radicjs-2026-07-20",
+    "display_name": "radicjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "radicjs",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-56r9-v65c-34jm",
+            "osv_published_at": "2020-09-03T02:33:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:07Z",
+    "osv_earliest_published_at": "2020-09-03T02:33:37Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:11:55Z"
   }
 ]
