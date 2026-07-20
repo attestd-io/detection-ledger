@@ -94480,5 +94480,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:16:44Z"
+  },
+  {
+    "id": "babelcli-2026-07-20",
+    "display_name": "babelcli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "babelcli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-72hv-rp4q-q7f3",
+            "osv_published_at": "2018-08-29T23:57:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:52Z",
+    "osv_earliest_published_at": "2018-08-29T23:57:14Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:16:52Z"
   }
 ]
