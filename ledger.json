@@ -92996,5 +92996,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:09:32Z"
+  },
+  {
+    "id": "multer-2026-07-20",
+    "display_name": "multer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "multer",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.4-lts.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-4pg4-qvpc-4q3h",
+            "osv_published_at": "2025-05-19T22:16:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:01:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:01:47Z",
+    "osv_earliest_published_at": "2025-05-19T22:16:30Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:09:40Z"
   }
 ]
