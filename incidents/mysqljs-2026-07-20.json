@@ -1,0 +1,32 @@
+{
+  "id": "mysqljs-2026-07-20",
+  "display_name": "mysqljs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mysqljs",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-8gv6-g7vp-hr34",
+          "osv_published_at": "2020-09-01T18:58:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:03:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:03:38Z",
+  "osv_earliest_published_at": "2020-09-01T18:58:47Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:22:09Z"
+}
