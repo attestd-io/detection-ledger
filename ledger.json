@@ -93444,5 +93444,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:11:38Z"
+  },
+  {
+    "id": "react-dates-sc-2026-07-20",
+    "display_name": "react-dates-sc",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-dates-sc",
+        "ecosystem": "npm",
+        "versions": [
+          "0.3.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-5645-gc7h-98h8",
+            "osv_published_at": "2020-09-01T20:32:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:05Z",
+    "osv_earliest_published_at": "2020-09-01T20:32:07Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:11:47Z"
   }
 ]
