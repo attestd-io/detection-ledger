@@ -99463,5 +99463,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:41:43Z"
+  },
+  {
+    "id": "mogobd-2026-07-20",
+    "display_name": "mogobd",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mogobd",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-jchg-g94r-64qg",
+            "osv_published_at": "2020-09-03T19:50:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:07:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:07:44Z",
+    "osv_earliest_published_at": "2020-09-03T19:50:10Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:41:53Z"
   }
 ]
