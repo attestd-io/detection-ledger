@@ -98081,5 +98081,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:35:39Z"
+  },
+  {
+    "id": "juffer-xor-2026-07-20",
+    "display_name": "juffer-xor",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "juffer-xor",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-gqq4-937c-2282",
+            "osv_published_at": "2020-09-03T22:49:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:05:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:05:59Z",
+    "osv_earliest_published_at": "2020-09-03T22:49:42Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:35:47Z"
   }
 ]
