@@ -93540,5 +93540,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:12:03Z"
+  },
+  {
+    "id": "noderequest-2026-07-20",
+    "display_name": "noderequest",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "noderequest",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-5cv7-r488-wc5x",
+            "osv_published_at": "2018-09-17T20:39:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:09Z",
+    "osv_earliest_published_at": "2018-09-17T20:39:17Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:12:12Z"
   }
 ]
