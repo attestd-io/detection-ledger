@@ -102993,5 +102993,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:59:13Z"
+  },
+  {
+    "id": "node-sqlite-2026-07-20",
+    "display_name": "node-sqlite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "node-sqlite",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-x52f-h74p-9jh8",
+            "osv_published_at": "2018-07-23T21:00:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:10:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:10:24Z",
+    "osv_earliest_published_at": "2018-07-23T21:00:07Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:59:22Z"
   }
 ]
