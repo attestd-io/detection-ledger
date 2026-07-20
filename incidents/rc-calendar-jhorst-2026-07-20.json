@@ -1,0 +1,32 @@
+{
+  "id": "rc-calendar-jhorst-2026-07-20",
+  "display_name": "rc-calendar-jhorst",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rc-calendar-jhorst",
+      "ecosystem": "npm",
+      "versions": [
+        "8.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-4c87-gg2q-fc6m",
+          "osv_published_at": "2020-09-01T20:31:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:01:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:01:31Z",
+  "osv_earliest_published_at": "2020-09-01T20:31:04Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:07:51Z"
+}
