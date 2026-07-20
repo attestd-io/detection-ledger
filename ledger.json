@@ -91839,5 +91839,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:04:16Z"
+  },
+  {
+    "id": "bitcoijns-lib-2026-07-20",
+    "display_name": "bitcoijns-lib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bitcoijns-lib",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-37vc-gwvp-6cgv",
+            "osv_published_at": "2020-09-04T15:42:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:01:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:01:02Z",
+    "osv_earliest_published_at": "2020-09-04T15:42:49Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:04:24Z"
   }
 ]
