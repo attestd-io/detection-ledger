@@ -92516,5 +92516,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:07:24Z"
+  },
+  {
+    "id": "mx-nested-menu-2026-07-20",
+    "display_name": "mx-nested-menu",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mx-nested-menu",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.30"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-48hw-37g6-3gw4",
+            "osv_published_at": "2020-09-03T02:35:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:01:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:01:28Z",
+    "osv_earliest_published_at": "2020-09-03T02:35:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:07:32Z"
   }
 ]
