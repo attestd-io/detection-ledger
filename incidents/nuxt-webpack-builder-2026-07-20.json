@@ -1,0 +1,32 @@
+{
+  "id": "nuxt-webpack-builder-2026-07-20",
+  "display_name": "@nuxt/webpack-builder",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@nuxt/webpack-builder",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-4gf7-ff8x-hq99",
+          "osv_published_at": "2025-01-27T11:31:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:01:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:01:36Z",
+  "osv_earliest_published_at": "2025-01-27T11:31:41Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:08:23Z"
+}
