@@ -92900,5 +92900,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:09:05Z"
+  },
+  {
+    "id": "matrix-js-sdk-2026-07-20",
+    "display_name": "matrix-js-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "matrix-js-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "9.11.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-4jf8-g8wp-cx7c",
+            "osv_published_at": "2024-10-15T18:07:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:01:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:01:43Z",
+    "osv_earliest_published_at": "2024-10-15T18:07:26Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:09:13Z"
   }
 ]
