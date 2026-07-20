@@ -96760,5 +96760,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:27:31Z"
+  },
+  {
+    "id": "impala-bmap-2026-07-20",
+    "display_name": "@impala/bmap",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@impala/bmap",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-c82c-8pjw-6829",
+            "osv_published_at": "2020-09-01T19:41:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:04:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:04:27Z",
+    "osv_earliest_published_at": "2020-09-01T19:41:45Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:27:39Z"
   }
 ]
