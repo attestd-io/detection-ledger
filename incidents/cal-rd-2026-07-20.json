@@ -1,0 +1,32 @@
+{
+  "id": "cal-rd-2026-07-20",
+  "display_name": "cal_rd",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cal_rd",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-226w-6hhj-69hp",
+          "osv_published_at": "2020-09-03T19:06:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:00:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:00:25Z",
+  "osv_earliest_published_at": "2020-09-03T19:06:52Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:00:27Z"
+}
