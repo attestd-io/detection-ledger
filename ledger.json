@@ -97241,5 +97241,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:30:15Z"
+  },
+  {
+    "id": "yeoman-genrator-2026-07-20",
+    "display_name": "yeoman-genrator",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "yeoman-genrator",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-f7g4-fm4c-54m9",
+            "osv_published_at": "2020-09-03T21:06:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:04:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:04:56Z",
+    "osv_earliest_published_at": "2020-09-03T21:06:31Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:30:23Z"
   }
 ]
