@@ -97401,5 +97401,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:30:58Z"
+  },
+  {
+    "id": "kraken-api-2026-07-20",
+    "display_name": "kraken-api",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "kraken-api",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-fgfj-rj24-mj7q",
+            "osv_published_at": "2020-09-02T21:47:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:05:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:05:02Z",
+    "osv_earliest_published_at": "2020-09-02T21:47:08Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:31:07Z"
   }
 ]
