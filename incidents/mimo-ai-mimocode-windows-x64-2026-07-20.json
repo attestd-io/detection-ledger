@@ -1,0 +1,30 @@
+{
+  "id": "mimo-ai-mimocode-windows-x64-2026-07-20",
+  "display_name": "@mimo-ai/mimocode-windows-x64",
+  "campaign": "anthropic-ai",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@mimo-ai/mimocode-windows-x64",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.1.0-preview.1",
+        "0.1.1-preview.0",
+        "0.1.1-preview.1"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:07:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:07:12Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40mimo-ai%2Fmimocode-windows-x64",
+  "ledger_commit_at": "2026-07-20T03:39:40Z"
+}
