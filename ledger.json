@@ -96888,5 +96888,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:28:07Z"
+  },
+  {
+    "id": "conistring-2026-07-20",
+    "display_name": "conistring",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "conistring",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-cfc5-x58f-869w",
+            "osv_published_at": "2020-09-03T19:40:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:04:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:04:34Z",
+    "osv_earliest_published_at": "2020-09-03T19:40:55Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:28:18Z"
   }
 ]
