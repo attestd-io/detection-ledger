@@ -101553,5 +101553,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:52:28Z"
+  },
+  {
+    "id": "riped160-2026-07-20",
+    "display_name": "riped160",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "riped160",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-rwcq-qpm6-7867",
+            "osv_published_at": "2020-09-03T17:04:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:09:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:09:24Z",
+    "osv_earliest_published_at": "2020-09-03T17:04:32Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:52:36Z"
   }
 ]
