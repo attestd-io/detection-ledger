@@ -1,0 +1,32 @@
+{
+  "id": "uploader-plugin-2026-07-20",
+  "display_name": "uploader-plugin",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "uploader-plugin",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-fx6f-fpfv-5hmc",
+          "osv_published_at": "2020-09-03T19:10:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:05:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:05:15Z",
+  "osv_earliest_published_at": "2020-09-03T19:10:12Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:32:31Z"
+}
