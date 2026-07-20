@@ -98017,5 +98017,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:35:23Z"
+  },
+  {
+    "id": "ripmed160-2026-07-20",
+    "display_name": "ripmed160",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ripmed160",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-gmjp-776j-2394",
+            "osv_published_at": "2020-09-03T17:04:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:05:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:05:56Z",
+    "osv_earliest_published_at": "2020-09-03T17:04:24Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:35:31Z"
   }
 ]
