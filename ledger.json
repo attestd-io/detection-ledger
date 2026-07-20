@@ -96920,5 +96920,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:28:18Z"
+  },
+  {
+    "id": "ghost-2026-07-20",
+    "display_name": "ghost",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ghost",
+        "ecosystem": "npm",
+        "versions": [
+          "0.7.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-cgc2-rcrh-qr5x",
+            "osv_published_at": "2026-03-03T20:01:21Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:04:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:04:35Z",
+    "osv_earliest_published_at": "2026-03-03T20:01:21Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:28:26Z"
   }
 ]
