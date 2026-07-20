@@ -97209,5 +97209,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:30:05Z"
+  },
+  {
+    "id": "buffer-xo2-2026-07-20",
+    "display_name": "buffer-xo2",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "buffer-xo2",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-f72h-wf57-7xwh",
+            "osv_published_at": "2020-09-03T21:58:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:04:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:04:55Z",
+    "osv_earliest_published_at": "2020-09-03T21:58:34Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:30:15Z"
   }
 ]
