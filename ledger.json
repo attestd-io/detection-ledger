@@ -95765,5 +95765,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:22:36Z"
+  },
+  {
+    "id": "uglyfi-js-2026-07-20",
+    "display_name": "uglyfi.js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "uglyfi.js",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-8jf2-cq6v-w234",
+            "osv_published_at": "2020-09-03T21:10:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:03:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:03:43Z",
+    "osv_earliest_published_at": "2020-09-03T21:10:53Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:22:46Z"
   }
 ]
