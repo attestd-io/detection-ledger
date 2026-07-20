@@ -1,0 +1,32 @@
+{
+  "id": "pdfjs-dist-2026-07-20",
+  "display_name": "pdfjs-dist",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pdfjs-dist",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-7jg2-jgv3-fmr4",
+          "osv_published_at": "2022-05-14T01:22:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:03:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:03:12Z",
+  "osv_earliest_published_at": "2022-05-14T01:22:02Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:19:10Z"
+}
