@@ -98568,5 +98568,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:38:02Z"
+  },
+  {
+    "id": "cross-env-js-2026-07-20",
+    "display_name": "cross-env.js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cross-env.js",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-hwhq-3hrj-v6v5",
+            "osv_published_at": "2020-09-01T19:00:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:06:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:06:20Z",
+    "osv_earliest_published_at": "2020-09-01T19:00:54Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:38:10Z"
   }
 ]
