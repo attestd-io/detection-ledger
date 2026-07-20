@@ -98949,5 +98949,32 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40mimo-ai%2Fmimocode-windows-x64",
     "ledger_commit_at": "2026-07-20T03:39:40Z"
+  },
+  {
+    "id": "parallel-web-ai-sdk-tools-2026-07-20",
+    "display_name": "@parallel-web/ai-sdk-tools",
+    "campaign": "anthropic-ai",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@parallel-web/ai-sdk-tools",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1-canary.80bf7f3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:07:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:07:15Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40parallel-web%2Fai-sdk-tools",
+    "ledger_commit_at": "2026-07-20T03:39:46Z"
   }
 ]
