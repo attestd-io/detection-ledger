@@ -91166,5 +91166,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:01:02Z"
+  },
+  {
+    "id": "rrgod-2026-07-20",
+    "display_name": "rrgod",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rrgod",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-277p-xwpp-3jf7",
+            "osv_published_at": "2020-09-02T15:49:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:00:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:00:33Z",
+    "osv_earliest_published_at": "2020-09-02T15:49:22Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:01:12Z"
   }
 ]
