@@ -8,12 +8,17 @@
       "package": "renovate",
       "ecosystem": "npm",
       "versions": [
+        "31.51.0",
         "32.135.0"
       ],
       "osv_entries": [
         {
           "osv_id": "GHSA-36j9-mx87-2cff",
           "osv_published_at": "2026-01-13T20:28:41Z"
+        },
+        {
+          "osv_id": "GHSA-3f44-xw83-3pmg",
+          "osv_published_at": "2026-01-13T20:29:12Z"
         }
       ]
     }
@@ -28,5 +33,5 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "",
-  "ledger_commit_at": "2026-07-20T03:03:58Z"
+  "ledger_commit_at": "2026-07-20T03:05:07Z"
 }
