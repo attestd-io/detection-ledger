@@ -93028,5 +93028,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:09:40Z"
+  },
+  {
+    "id": "css-transform-step-2026-07-20",
+    "display_name": "css_transform_step",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "css_transform_step",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-4rx9-58m7-gr8w",
+            "osv_published_at": "2020-09-01T19:53:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:01:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:01:48Z",
+    "osv_earliest_published_at": "2020-09-01T19:53:40Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:09:50Z"
   }
 ]
