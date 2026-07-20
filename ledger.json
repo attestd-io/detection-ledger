@@ -97433,5 +97433,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:31:07Z"
+  },
+  {
+    "id": "ecruve-2026-07-20",
+    "display_name": "ecruve",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ecruve",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-fpf2-pr3j-4cm3",
+            "osv_published_at": "2020-09-03T17:06:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:05:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:05:04Z",
+    "osv_earliest_published_at": "2020-09-03T17:06:06Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:31:19Z"
   }
 ]
