@@ -1,0 +1,32 @@
+{
+  "id": "bb-builder-2026-07-20",
+  "display_name": "bb-builder",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bb-builder",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-vm6v-w6q2-mrrq",
+          "osv_published_at": "2020-09-03T19:20:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:09:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:09:37Z",
+  "osv_earliest_published_at": "2020-09-03T19:20:05Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:54:04Z"
+}
