@@ -98664,5 +98664,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:38:26Z"
+  },
+  {
+    "id": "coffe-script-2026-07-20",
+    "display_name": "coffe-script",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "coffe-script",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-j49g-mp79-5vm5",
+            "osv_published_at": "2018-08-06T20:06:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:06:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:06:24Z",
+    "osv_earliest_published_at": "2018-08-06T20:06:29Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:38:37Z"
   }
 ]
