@@ -1,0 +1,32 @@
+{
+  "id": "discordi-js-2026-07-20",
+  "display_name": "discordi.js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "discordi.js",
+      "ecosystem": "npm",
+      "versions": [
+        "14.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-fv9m-f7w4-889c",
+          "osv_published_at": "2018-08-06T21:43:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:05:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:05:11Z",
+  "osv_earliest_published_at": "2018-08-06T21:43:03Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:31:59Z"
+}
