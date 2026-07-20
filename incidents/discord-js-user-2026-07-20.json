@@ -1,0 +1,32 @@
+{
+  "id": "discord-js-user-2026-07-20",
+  "display_name": "discord.js-user",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "discord.js-user",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-69r6-7h4f-9p7q",
+          "osv_published_at": "2020-09-03T20:41:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:02:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:02:36Z",
+  "osv_earliest_published_at": "2020-09-03T20:41:01Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:15:06Z"
+}
