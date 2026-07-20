@@ -93700,5 +93700,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:12:49Z"
+  },
+  {
+    "id": "mssql-js-2026-07-20",
+    "display_name": "mssql.js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mssql.js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-5mhv-9qw8-j63g",
+            "osv_published_at": "2018-11-09T17:43:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:16Z",
+    "osv_earliest_published_at": "2018-11-09T17:43:03Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:12:57Z"
   }
 ]
