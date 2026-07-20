@@ -101105,5 +101105,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:50:10Z"
+  },
+  {
+    "id": "angular-material-sidenav-rnd-2026-07-20",
+    "display_name": "angular-material-sidenav-rnd",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "angular-material-sidenav-rnd",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-qmxf-fxq7-w59f",
+            "osv_published_at": "2020-09-01T19:43:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:09:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:09:04Z",
+    "osv_earliest_published_at": "2020-09-01T19:43:53Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:50:19Z"
   }
 ]
