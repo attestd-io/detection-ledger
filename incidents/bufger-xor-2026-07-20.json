@@ -1,0 +1,32 @@
+{
+  "id": "bufger-xor-2026-07-20",
+  "display_name": "bufger-xor",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bufger-xor",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-2w8q-69fh-9gq6",
+          "osv_published_at": "2020-09-03T22:25:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:00:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:00:51Z",
+  "osv_earliest_published_at": "2020-09-03T22:25:09Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:03:16Z"
+}
