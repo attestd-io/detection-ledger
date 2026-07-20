@@ -1,0 +1,32 @@
+{
+  "id": "nginxbeautifier-2026-07-20",
+  "display_name": "nginxbeautifier",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nginxbeautifier",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.14"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-28xx-8j99-m32j",
+          "osv_published_at": "2020-09-01T20:37:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:00:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:00:38Z",
+  "osv_earliest_published_at": "2020-09-01T20:37:25Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:01:49Z"
+}
