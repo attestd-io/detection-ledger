@@ -1,0 +1,32 @@
+{
+  "id": "fastify-2026-07-20",
+  "display_name": "fastify",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fastify",
+      "ecosystem": "npm",
+      "versions": [
+        "4.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-455w-c45v-86rg",
+          "osv_published_at": "2022-10-11T13:45:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:01:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:01:24Z",
+  "osv_earliest_published_at": "2022-10-11T13:45:14Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:07:05Z"
+}
