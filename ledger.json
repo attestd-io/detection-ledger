@@ -102769,5 +102769,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:58:16Z"
+  },
+  {
+    "id": "deepseek-tui-2026-07-20",
+    "display_name": "deepseek-tui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "deepseek-tui",
+        "ecosystem": "npm",
+        "versions": [
+          "0.3.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-wx44-2q6h-j6p8",
+            "osv_published_at": "2026-05-14T20:29:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:10:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:10:16Z",
+    "osv_earliest_published_at": "2026-05-14T20:29:33Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:58:24Z"
   }
 ]
