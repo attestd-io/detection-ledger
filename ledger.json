@@ -93508,5 +93508,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:11:55Z"
+  },
+  {
+    "id": "secure-identity-login-module-2026-07-20",
+    "display_name": "secure_identity_login_module",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "secure_identity_login_module",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-59x8-7wx6-4hj9",
+            "osv_published_at": "2020-09-03T17:47:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:08Z",
+    "osv_earliest_published_at": "2020-09-03T17:47:52Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:12:03Z"
   }
 ]
