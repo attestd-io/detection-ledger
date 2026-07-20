@@ -102033,5 +102033,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:54:37Z"
+  },
+  {
+    "id": "smb-2026-07-20",
+    "display_name": "smb",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "smb",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-vv6q-9cfw-4c83",
+            "osv_published_at": "2018-08-29T23:20:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:09:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:09:43Z",
+    "osv_earliest_published_at": "2018-08-29T23:20:27Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:54:45Z"
   }
 ]
