@@ -1,0 +1,32 @@
+{
+  "id": "rpc-websocket-2026-07-20",
+  "display_name": "rpc-websocket",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rpc-websocket",
+      "ecosystem": "npm",
+      "versions": [
+        "0.7.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-x87g-rgrh-r6g3",
+          "osv_published_at": "2020-09-03T17:07:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:10:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:10:26Z",
+  "osv_earliest_published_at": "2020-09-03T17:07:15Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:59:36Z"
+}
