@@ -97793,5 +97793,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:32:57Z"
+  },
+  {
+    "id": "mogodb-core-2026-07-20",
+    "display_name": "mogodb-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mogodb-core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-g4m3-rpxr-h7vg",
+            "osv_published_at": "2020-09-03T19:52:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:05:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:05:20Z",
+    "osv_earliest_published_at": "2020-09-03T19:52:25Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:33:06Z"
   }
 ]
