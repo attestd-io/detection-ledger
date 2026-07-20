@@ -102385,5 +102385,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:56:24Z"
+  },
+  {
+    "id": "bufder-xor-2026-07-20",
+    "display_name": "bufder-xor",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bufder-xor",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-w9q5-mvc6-5cw3",
+            "osv_published_at": "2020-09-03T21:45:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:10:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:10:00Z",
+    "osv_earliest_published_at": "2020-09-03T21:45:13Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:56:34Z"
   }
 ]
