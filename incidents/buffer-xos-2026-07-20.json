@@ -1,0 +1,32 @@
+{
+  "id": "buffer-xos-2026-07-20",
+  "display_name": "buffer-xos",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "buffer-xos",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-h2j3-gg8w-4858",
+          "osv_published_at": "2020-09-03T22:12:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:06:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:06:07Z",
+  "osv_earliest_published_at": "2020-09-03T22:12:09Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:36:39Z"
+}
