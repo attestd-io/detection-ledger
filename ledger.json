@@ -100913,5 +100913,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:49:19Z"
+  },
+  {
+    "id": "metamask-sdk-communication-layer-2026-07-20",
+    "display_name": "@metamask/sdk-communication-layer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@metamask/sdk-communication-layer",
+        "ecosystem": "npm",
+        "versions": [
+          "0.16.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-qj3p-xc97-xw74",
+            "osv_published_at": "2025-09-15T13:55:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:08:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:08:56Z",
+    "osv_earliest_published_at": "2025-09-15T13:55:56Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:49:29Z"
   }
 ]
