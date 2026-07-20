@@ -1,0 +1,32 @@
+{
+  "id": "baes-x-2026-07-20",
+  "display_name": "baes-x",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "baes-x",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-2jm5-2cqf-6vw9",
+          "osv_published_at": "2020-09-04T15:30:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:00:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:00:44Z",
+  "osv_earliest_published_at": "2020-09-04T15:30:32Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:02:29Z"
+}
