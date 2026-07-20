@@ -97112,5 +97112,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:29:11Z"
+  },
+  {
+    "id": "undici-2026-07-20",
+    "display_name": "undici",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "undici",
+        "ecosystem": "npm",
+        "versions": [
+          "6.0.0",
+          "7.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-f269-vfmq-vjvj",
+            "osv_published_at": "2026-03-13T20:07:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:04:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:04:48Z",
+    "osv_earliest_published_at": "2026-03-13T20:07:26Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:29:34Z"
   }
 ]
