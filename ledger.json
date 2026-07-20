@@ -95669,5 +95669,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:22:09Z"
+  },
+  {
+    "id": "harmlesspackage-2026-07-20",
+    "display_name": "harmlesspackage",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "harmlesspackage",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-8hmr-w35f-3qgj",
+            "osv_published_at": "2020-09-03T21:07:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:03:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:03:39Z",
+    "osv_earliest_published_at": "2020-09-03T21:07:37Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:22:18Z"
   }
 ]
