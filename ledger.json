@@ -94320,5 +94320,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:15:59Z"
+  },
+  {
+    "id": "hs-sha3-2026-07-20",
+    "display_name": "hs-sha3",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hs-sha3",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-6mrq-7r7m-hh4p",
+            "osv_published_at": "2020-09-03T22:52:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:46Z",
+    "osv_earliest_published_at": "2020-09-03T22:52:58Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:16:07Z"
   }
 ]
