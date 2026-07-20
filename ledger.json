@@ -101233,5 +101233,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:50:50Z"
+  },
+  {
+    "id": "baileys-2026-07-20",
+    "display_name": "baileys",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "baileys",
+        "ecosystem": "npm",
+        "versions": [
+          "7.0.0-rc.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-qvv5-jq5g-4cgg",
+            "osv_published_at": "2026-06-10T19:33:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:09:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:09:10Z",
+    "osv_earliest_published_at": "2026-06-10T19:33:20Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:50:58Z"
   }
 ]
