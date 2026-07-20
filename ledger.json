@@ -92292,5 +92292,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:06:23Z"
+  },
+  {
+    "id": "ffmepg-2026-07-20",
+    "display_name": "ffmepg",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ffmepg",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-3wxq-7r8m-qpmg",
+            "osv_published_at": "2018-08-29T23:56:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:01:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:01:19Z",
+    "osv_earliest_published_at": "2018-08-29T23:56:30Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:06:31Z"
   }
 ]
