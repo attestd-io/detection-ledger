@@ -91755,6 +91755,7 @@
         "ecosystem": "npm",
         "versions": [
           "31.51.0",
+          "32.124.0",
           "32.135.0",
           "35.63.0"
         ],
@@ -91770,6 +91771,10 @@
           {
             "osv_id": "GHSA-fr4j-65pv-gjjj",
             "osv_published_at": "2026-01-13T20:28:16Z"
+          },
+          {
+            "osv_id": "GHSA-pfq2-hh62-7m96",
+            "osv_published_at": "2026-01-13T19:54:29Z"
           }
         ]
       }
@@ -91778,13 +91783,13 @@
     "attestd_detected_at": "2026-07-20T03:00:58Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-20T03:00:58Z",
-    "osv_earliest_published_at": "2026-01-13T20:28:16Z",
+    "osv_earliest_published_at": "2026-01-13T19:54:29Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-20T03:31:38Z"
+    "ledger_commit_at": "2026-07-20T03:47:58Z"
   },
   {
     "id": "we3b-2026-07-20",
