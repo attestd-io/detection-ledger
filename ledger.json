@@ -101745,5 +101745,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:53:18Z"
+  },
+  {
+    "id": "bitcoin-osp-2026-07-20",
+    "display_name": "bitcoin-osp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bitcoin-osp",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-v8g7-9qv2-j865",
+            "osv_published_at": "2020-09-04T16:38:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:09:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:09:31Z",
+    "osv_earliest_published_at": "2020-09-04T16:38:55Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:53:26Z"
   }
 ]
