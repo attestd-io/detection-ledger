@@ -103513,5 +103513,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T16:07:27Z"
+  },
+  {
+    "id": "vantrala-2026-07-20",
+    "display_name": "vantrala",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vantrala",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10867",
+            "osv_published_at": "2026-07-20T05:19:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T06:15:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T06:15:01Z",
+    "osv_earliest_published_at": "2026-07-20T05:19:03Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T16:11:02Z"
   }
 ]
