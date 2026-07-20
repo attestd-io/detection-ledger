@@ -91710,5 +91710,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:03:34Z"
+  },
+  {
+    "id": "xrpl-2026-07-20",
+    "display_name": "xrpl",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "xrpl",
+        "ecosystem": "npm",
+        "versions": [
+          "2.14.2",
+          "4.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-33qr-m49q-rxfx",
+            "osv_published_at": "2025-04-22T18:57:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:00:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:00:56Z",
+    "osv_earliest_published_at": "2025-04-22T18:57:48Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:03:46Z"
   }
 ]
