@@ -94180,5 +94180,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:15:06Z"
+  },
+  {
+    "id": "sqlite-js-2026-07-20",
+    "display_name": "sqlite.js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sqlite.js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-6f34-pq9f-36vf",
+            "osv_published_at": "2018-07-23T20:50:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:02:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:02:38Z",
+    "osv_earliest_published_at": "2018-07-23T20:50:29Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:15:17Z"
   }
 ]
