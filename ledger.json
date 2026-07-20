@@ -99031,5 +99031,33 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40strands-agents%2Fsdk",
     "ledger_commit_at": "2026-07-20T03:39:59Z"
+  },
+  {
+    "id": "ai-retry-2026-07-20",
+    "display_name": "ai-retry",
+    "campaign": "anthropic-ai",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "ai-retry",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "0.0.1-alpha.5"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:07:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:07:24Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/ai-retry",
+    "ledger_commit_at": "2026-07-20T03:40:05Z"
   }
 ]
