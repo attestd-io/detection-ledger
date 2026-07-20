@@ -101425,5 +101425,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:51:43Z"
+  },
+  {
+    "id": "alipayjsapi-2026-07-20",
+    "display_name": "alipayjsapi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "alipayjsapi",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-rjhc-w3fj-j6x9",
+            "osv_published_at": "2020-09-03T17:32:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:09:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:09:18Z",
+    "osv_earliest_published_at": "2020-09-03T17:32:45Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:51:55Z"
   }
 ]
