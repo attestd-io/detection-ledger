@@ -92260,5 +92260,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:06:16Z"
+  },
+  {
+    "id": "s3asy-2026-07-20",
+    "display_name": "s3asy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "s3asy",
+        "ecosystem": "npm",
+        "versions": [
+          "0.4.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-3wjm-33mw-h388",
+            "osv_published_at": "2020-09-01T20:34:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:01:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:01:18Z",
+    "osv_earliest_published_at": "2020-09-01T20:34:14Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:06:23Z"
   }
 ]
