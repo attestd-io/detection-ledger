@@ -99089,5 +99089,32 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/ai-sdk-ollama",
     "ledger_commit_at": "2026-07-20T03:40:12Z"
+  },
+  {
+    "id": "mastra-2026-07-20",
+    "display_name": "mastra",
+    "campaign": "anthropic-ai",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "mastra",
+        "ecosystem": "npm",
+        "versions": [
+          "1.13.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:07:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:07:27Z",
+    "osv_earliest_published_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/mastra",
+    "ledger_commit_at": "2026-07-20T03:40:19Z"
   }
 ]
