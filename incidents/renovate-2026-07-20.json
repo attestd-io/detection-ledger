@@ -1,0 +1,32 @@
+{
+  "id": "renovate-2026-07-20",
+  "display_name": "renovate",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "renovate",
+      "ecosystem": "npm",
+      "versions": [
+        "32.135.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-36j9-mx87-2cff",
+          "osv_published_at": "2026-01-13T20:28:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:00:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:00:58Z",
+  "osv_earliest_published_at": "2026-01-13T20:28:41Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:03:58Z"
+}
