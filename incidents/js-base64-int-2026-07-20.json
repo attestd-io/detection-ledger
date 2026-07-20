@@ -1,0 +1,32 @@
+{
+  "id": "js-base64-int-2026-07-20",
+  "display_name": "js-base64-int",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "js-base64-int",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-76qf-6mvw-c5hm",
+          "osv_published_at": "2020-09-03T19:45:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:03:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:03:02Z",
+  "osv_earliest_published_at": "2020-09-03T19:45:42Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:17:59Z"
+}
