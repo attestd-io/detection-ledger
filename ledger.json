@@ -97953,5 +97953,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:35:07Z"
+  },
+  {
+    "id": "node-fabric-2026-07-20",
+    "display_name": "node-fabric",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "node-fabric",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-gfv4-2vhm-486m",
+            "osv_published_at": "2018-07-23T20:50:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:05:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:05:54Z",
+    "osv_earliest_published_at": "2018-07-23T20:50:10Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:35:15Z"
   }
 ]
