@@ -1,0 +1,32 @@
+{
+  "id": "nodemailer-js-2026-07-20",
+  "display_name": "nodemailer.js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nodemailer.js",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-j866-8vxx-27hx",
+          "osv_published_at": "2018-08-29T23:43:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:07:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:07:40Z",
+  "osv_earliest_published_at": "2018-08-29T23:43:53Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:41:26Z"
+}
