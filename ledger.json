@@ -99527,5 +99527,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-20T03:42:01Z"
+  },
+  {
+    "id": "iie-viz-2026-07-20",
+    "display_name": "iie-viz",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "iie-viz",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-jf55-rgpx-p6rx",
+            "osv_published_at": "2020-09-03T19:12:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T03:07:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T03:07:47Z",
+    "osv_earliest_published_at": "2020-09-03T19:12:22Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-20T03:42:12Z"
   }
 ]
