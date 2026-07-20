@@ -1,0 +1,33 @@
+{
+  "id": "tryghost-portal-2026-07-20",
+  "display_name": "@tryghost/portal",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@tryghost/portal",
+      "ecosystem": "npm",
+      "versions": [
+        "2.29.1",
+        "2.52.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-gv6q-2m97-882h",
+          "osv_published_at": "2026-01-28T16:11:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:06:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:06:00Z",
+  "osv_earliest_published_at": "2026-01-28T16:11:59Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:35:56Z"
+}
