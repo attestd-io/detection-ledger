@@ -104759,5 +104759,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-21T23:24:17Z"
+  },
+  {
+    "id": "flow-eslint-oxidized-2026-07-20",
+    "display_name": "flow-eslint-oxidized",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "flow-eslint-oxidized",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "74.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10896",
+            "osv_published_at": "2026-07-20T10:43:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T13:35:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T13:35:28Z",
+    "osv_earliest_published_at": "2026-07-20T10:43:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-21T23:25:12Z"
   }
 ]
