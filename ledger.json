@@ -103617,5 +103617,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-21T10:32:31Z"
+  },
+  {
+    "id": "atlaskit-internal--smart-card-hover-card-2026-07-20",
+    "display_name": "@atlaskit-internal_.smart-card/hover-card",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@atlaskit-internal_.smart-card/hover-card",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10870",
+            "osv_published_at": "2026-07-20T10:17:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T13:23:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T13:23:04Z",
+    "osv_earliest_published_at": "2026-07-20T10:17:11Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-21T22:25:17Z"
   }
 ]
