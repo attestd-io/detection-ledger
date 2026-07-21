@@ -104351,5 +104351,45 @@
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Fts-types",
     "ledger_commit_at": "2026-07-21T23:07:21Z"
+  },
+  {
+    "id": "solana-labs-spl-toke-2026-07-20",
+    "display_name": "@solana-labs/spl-toke",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@solana-labs/spl-toke",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.98.103",
+          "1.98.105",
+          "1.98.107",
+          "1.98.108",
+          "1.98.109",
+          "1.98.110"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5787",
+            "osv_published_at": "2026-06-15T17:15:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T13:33:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T13:33:06Z",
+    "osv_earliest_published_at": "2026-06-15T17:15:36Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-21T23:10:47Z"
   }
 ]
