@@ -1,0 +1,32 @@
+{
+  "id": "dxcl-http-common-js-2026-07-20",
+  "display_name": "@dxcl/http-common-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@dxcl/http-common-js",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10875",
+          "osv_published_at": "2026-07-20T10:19:31Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T13:26:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T13:26:45Z",
+  "osv_earliest_published_at": "2026-07-20T10:19:31Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-21T22:41:18Z"
+}
