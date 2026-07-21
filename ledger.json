@@ -44758,16 +44758,25 @@
         "package": "chai-smart-assert",
         "ecosystem": "npm",
         "versions": [
+          "1.1.5",
+          "1.1.6",
+          "1.1.7",
+          "1.1.8",
           "1.1.9"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5843",
+            "osv_published_at": "2026-06-15T23:33:01Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-07-09T04:42:14Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-09T04:42:14Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-15T23:33:01Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": "2026-07-09T04:43:24Z",
@@ -44775,7 +44784,7 @@
       "https://osv.dev/vulnerability/MAL-2026-5843"
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5843",
-    "ledger_commit_at": "2026-07-09T04:43:24Z"
+    "ledger_commit_at": "2026-07-21T23:20:46Z"
   },
   {
     "id": "ioredis-typed-2026-07-09",
