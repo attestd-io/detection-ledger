@@ -104694,5 +104694,37 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-21T23:23:31Z"
+  },
+  {
+    "id": "exodus-checkout-2026-07-20",
+    "display_name": "exodus-checkout",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "exodus-checkout",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0-canary.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10894",
+            "osv_published_at": "2026-07-20T10:42:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T13:35:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T13:35:19Z",
+    "osv_earliest_published_at": "2026-07-20T10:42:41Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-21T23:24:03Z"
   }
 ]
