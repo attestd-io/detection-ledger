@@ -104254,5 +104254,48 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-21T23:02:29Z"
+  },
+  {
+    "id": "solana-labs-ancor-2026-07-20",
+    "display_name": "@solana-labs/ancor",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@solana-labs/ancor",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.98.103",
+          "1.98.105",
+          "1.98.107",
+          "1.98.108",
+          "1.98.109",
+          "1.98.110",
+          "1.98.111",
+          "1.98.112"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5786",
+            "osv_published_at": "2026-06-15T17:17:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T13:31:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T13:31:43Z",
+    "osv_earliest_published_at": "2026-06-15T17:17:17Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-21T23:04:42Z"
   }
 ]
