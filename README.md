@@ -18,16 +18,23 @@ Each incident is one JSON object in `incidents/{id}.json` and one row in `ledger
 | `detection_source` | string | `osv`, `registry`, `npm_deprecation`, `pypi_yank`, `npm_registry`, `news_monitor`, `agent`, … |
 | `packages` | array | Affected packages (see below) |
 | `malware_type` | string | e.g. `malware`, `backdoor` |
-| `attestd_detected_at` | ISO UTC \| null | When Attestd first registered the detection |
+| `attestd_detected_at` | ISO UTC \| null | When Attestd first registered the detection (alias of `observed_at`) |
 | `flagged_at` | ISO UTC \| null | When flagged before full confirmation (worker-written entries) |
 | `confirmed_at` | ISO UTC \| null | When corroborated or human-approved |
 | `osv_earliest_published_at` | ISO UTC \| null | Earliest OSV publish timestamp (citation context) |
+| `source_published_at` | ISO UTC \| null | When the originating source first published the signal/advisory |
+| `observed_at` | ISO UTC \| null | When Attestd's pipeline first observed the signal |
+| `ingested_at` | ISO UTC \| null | When the signal entered Attestd's production database |
+| `first_served_at` | ISO UTC \| null | When the production API first returned `compromised: true` for an affected version |
 | `hours_ahead_of_osv` | float \| null | **Deprecated.** Always null on new writes. Kept for schema compatibility. |
 | `hours_ahead_of_press` | float \| null | **Deprecated.** Always null on new writes. Kept for schema compatibility. |
 | `press_coverage_at` | ISO UTC \| null | First public press or advisory timestamp when recorded |
 | `press_urls` | string[] | Citation URLs (press or advisory) |
 | `advisory_url` | string | Primary advisory link when available |
 | `ledger_commit_at` | ISO UTC \| null | Git commit timestamp when this entry was last pushed |
+| `ledger_committed_at` | ISO UTC \| null | Alias of `ledger_commit_at` (canonical name for lead-time reporting) |
+
+These timestamp fields are intentionally separate. Do not treat `source_published_at` as artifact publish time when the source is an OSV advisory that reused an older ID. Lead-time reporting should use `source_published_at`, `observed_at` / `first_served_at`, and `press_coverage_at` as distinct clocks.
 
 Each element of `packages[]`:
 
