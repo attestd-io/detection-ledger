@@ -1,0 +1,35 @@
+{
+  "id": "whalent-agent-core-2026-07-16",
+  "display_name": "@whalent/agent-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@whalent/agent-core",
+      "ecosystem": "npm",
+      "versions": [
+        "0.3.230",
+        "0.3.231",
+        "0.3.232",
+        "0.3.233"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10722",
+          "osv_published_at": "2026-07-16T18:41:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:13:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:13:54Z",
+  "osv_earliest_published_at": "2026-07-16T18:41:02Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:14:39Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hibachi-xyz-sdk-2026-07-16",
+  "display_name": "@hibachi-xyz/sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@hibachi-xyz/sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10714",
+          "osv_published_at": "2026-07-16T18:34:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:12:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:12:53Z",
+  "osv_earliest_published_at": "2026-07-16T18:34:17Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:12:57Z"
+}

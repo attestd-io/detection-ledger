@@ -1,0 +1,38 @@
+{
+  "id": "nuxt-rspack-builder-2026-07-20",
+  "display_name": "@nuxt/rspack-builder",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@nuxt/rspack-builder",
+      "ecosystem": "npm",
+      "versions": [
+        "3.12.2",
+        "3.15.4",
+        "4.0.0-alpha.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-4gf7-ff8x-hq99",
+          "osv_published_at": "2025-01-27T11:31:41Z"
+        },
+        {
+          "osv_id": "GHSA-6m52-m754-pw2g",
+          "osv_published_at": "2026-05-19T15:51:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:01:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:01:34Z",
+  "osv_earliest_published_at": "2025-01-27T11:31:41Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:15:43Z"
+}

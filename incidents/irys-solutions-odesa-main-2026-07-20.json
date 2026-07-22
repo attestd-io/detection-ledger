@@ -1,0 +1,32 @@
+{
+  "id": "irys-solutions-odesa-main-2026-07-20",
+  "display_name": "@irys-solutions/odesa-main",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@irys-solutions/odesa-main",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10881",
+          "osv_published_at": "2026-07-20T10:22:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T13:27:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T13:27:06Z",
+  "osv_earliest_published_at": "2026-07-20T10:22:26Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-21T22:43:53Z"
+}

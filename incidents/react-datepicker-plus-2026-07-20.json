@@ -1,0 +1,32 @@
+{
+  "id": "react-datepicker-plus-2026-07-20",
+  "display_name": "react-datepicker-plus",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react-datepicker-plus",
+      "ecosystem": "npm",
+      "versions": [
+        "2.4.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-4wcx-c9c4-89p2",
+          "osv_published_at": "2020-09-11T21:23:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:01:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:01:50Z",
+  "osv_earliest_published_at": "2020-09-11T21:23:30Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:10:00Z"
+}

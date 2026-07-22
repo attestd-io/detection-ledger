@@ -1,0 +1,33 @@
+{
+  "id": "bvm-core-2026-07-16",
+  "display_name": "bvm-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bvm-core",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.42",
+        "1.1.43"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10728",
+          "osv_published_at": "2026-07-16T18:46:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:14:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:14:08Z",
+  "osv_earliest_published_at": "2026-07-16T18:46:49Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:16:16Z"
+}

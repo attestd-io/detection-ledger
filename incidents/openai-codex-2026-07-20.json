@@ -1,0 +1,32 @@
+{
+  "id": "openai-codex-2026-07-20",
+  "display_name": "@openai/codex",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@openai/codex",
+      "ecosystem": "npm",
+      "versions": [
+        "0.23.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-xrxf-jgv3-qmrm",
+          "osv_published_at": "2026-04-14T15:30:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:10:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:10:38Z",
+  "osv_earliest_published_at": "2026-04-14T15:30:34Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T04:01:05Z"
+}

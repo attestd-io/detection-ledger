@@ -1,0 +1,32 @@
+{
+  "id": "buffev-xor-2026-07-20",
+  "display_name": "buffev-xor",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "buffev-xor",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-x3w4-mrmv-cw2x",
+          "osv_published_at": "2020-09-03T22:19:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:10:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:10:21Z",
+  "osv_earliest_published_at": "2020-09-03T22:19:44Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:58:57Z"
+}

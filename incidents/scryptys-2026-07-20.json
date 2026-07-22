@@ -1,0 +1,32 @@
+{
+  "id": "scryptys-2026-07-20",
+  "display_name": "scryptys",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "scryptys",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-vrxj-4qhw-5vwq",
+          "osv_published_at": "2020-09-03T17:03:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:09:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:09:40Z",
+  "osv_earliest_published_at": "2020-09-03T17:03:41Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:54:29Z"
+}

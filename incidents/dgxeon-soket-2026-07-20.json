@@ -1,0 +1,40 @@
+{
+  "id": "dgxeon-soket-2026-07-20",
+  "display_name": "dgxeon-soket",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dgxeon-soket",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0",
+        "3.0.0",
+        "4.0.0",
+        "5.0.0",
+        "6.0.0",
+        "7.0.0",
+        "7.0.1",
+        "7.0.2",
+        "7.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-1074",
+          "osv_published_at": "2026-02-27T16:29:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T13:35:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T13:35:12Z",
+  "osv_earliest_published_at": "2026-02-27T16:29:27Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-21T23:23:10Z"
+}

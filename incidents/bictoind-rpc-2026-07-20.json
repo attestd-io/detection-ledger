@@ -1,0 +1,32 @@
+{
+  "id": "bictoind-rpc-2026-07-20",
+  "display_name": "bictoind-rpc",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bictoind-rpc",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-jqvv-r4w3-8f7w",
+          "osv_published_at": "2020-09-04T15:35:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:07:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:07:58Z",
+  "osv_earliest_published_at": "2020-09-04T15:35:00Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:43:27Z"
+}

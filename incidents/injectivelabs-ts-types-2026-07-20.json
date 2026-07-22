@@ -1,0 +1,27 @@
+{
+  "id": "injectivelabs-ts-types-2026-07-20",
+  "display_name": "@injectivelabs/ts-types",
+  "campaign": "solana-labs",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@injectivelabs/ts-types",
+      "ecosystem": "npm",
+      "versions": [
+        "1.20.21"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T13:32:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T13:32:18Z",
+  "osv_earliest_published_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Fts-types",
+  "ledger_commit_at": "2026-07-21T23:07:21Z"
+}

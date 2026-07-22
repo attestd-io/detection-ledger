@@ -1,0 +1,32 @@
+{
+  "id": "housecall-ui-2026-07-20",
+  "display_name": "housecall-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "housecall-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5446",
+          "osv_published_at": "2026-06-09T17:23:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T13:35:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T13:35:41Z",
+  "osv_earliest_published_at": "2026-06-09T17:23:49Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-21T23:26:39Z"
+}

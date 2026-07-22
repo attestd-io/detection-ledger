@@ -1,0 +1,32 @@
+{
+  "id": "fast-requests-2026-07-20",
+  "display_name": "fast-requests",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fast-requests",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-wjf2-7f9g-86f5",
+          "osv_published_at": "2020-09-03T18:23:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:10:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:10:07Z",
+  "osv_earliest_published_at": "2020-09-03T18:23:38Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:57:21Z"
+}

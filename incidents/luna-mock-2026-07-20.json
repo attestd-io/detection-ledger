@@ -1,0 +1,32 @@
+{
+  "id": "luna-mock-2026-07-20",
+  "display_name": "luna-mock",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "luna-mock",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-qm4q-f956-fg64",
+          "osv_published_at": "2020-09-03T17:39:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:09:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:09:00Z",
+  "osv_earliest_published_at": "2020-09-03T17:39:13Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:49:55Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "awesome-react-utility-2026-07-20",
+  "display_name": "awesome_react_utility",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "awesome_react_utility",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-m25q-fwg4-9v2p",
+          "osv_published_at": "2020-09-01T19:47:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:08:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:08:02Z",
+  "osv_earliest_published_at": "2020-09-01T19:47:07Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:43:54Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "renovate-2026-07-20",
+  "display_name": "renovate",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "renovate",
+      "ecosystem": "npm",
+      "versions": [
+        "31.51.0",
+        "32.124.0",
+        "32.135.0",
+        "35.63.0",
+        "39.218.0",
+        "39.53.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-36j9-mx87-2cff",
+          "osv_published_at": "2026-01-13T20:28:41Z"
+        },
+        {
+          "osv_id": "GHSA-3f44-xw83-3pmg",
+          "osv_published_at": "2026-01-13T20:29:12Z"
+        },
+        {
+          "osv_id": "GHSA-fr4j-65pv-gjjj",
+          "osv_published_at": "2026-01-13T20:28:16Z"
+        },
+        {
+          "osv_id": "GHSA-pfq2-hh62-7m96",
+          "osv_published_at": "2026-01-13T19:54:29Z"
+        },
+        {
+          "osv_id": "GHSA-xjr7-3c3g-m763",
+          "osv_published_at": "2026-01-13T20:29:00Z"
+        },
+        {
+          "osv_id": "GHSA-xv56-3wq5-9997",
+          "osv_published_at": "2026-01-13T19:57:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:00:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:00:58Z",
+  "osv_earliest_published_at": "2026-01-13T19:54:29Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T04:01:16Z"
+}

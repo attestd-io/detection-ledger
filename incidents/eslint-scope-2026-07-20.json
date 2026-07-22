@@ -1,0 +1,32 @@
+{
+  "id": "eslint-scope-2026-07-20",
+  "display_name": "eslint-scope",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eslint-scope",
+      "ecosystem": "npm",
+      "versions": [
+        "3.7.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-hxxf-q3w9-4xgw",
+          "osv_published_at": "2018-07-12T19:52:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:06:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:06:23Z",
+  "osv_earliest_published_at": "2018-07-12T19:52:02Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:38:26Z"
+}

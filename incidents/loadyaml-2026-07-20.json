@@ -1,0 +1,32 @@
+{
+  "id": "loadyaml-2026-07-20",
+  "display_name": "loadyaml",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "loadyaml",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-mfc2-93pr-jf92",
+          "osv_published_at": "2020-10-01T17:10:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:08:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:08:16Z",
+  "osv_earliest_published_at": "2020-10-01T17:10:15Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:45:27Z"
+}

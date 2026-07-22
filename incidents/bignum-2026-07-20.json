@@ -1,0 +1,32 @@
+{
+  "id": "bignum-2026-07-20",
+  "display_name": "bignum",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bignum",
+      "ecosystem": "npm",
+      "versions": [
+        "0.12.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-7cgc-fjv4-52x6",
+          "osv_published_at": "2023-05-24T16:43:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:03:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:03:07Z",
+  "osv_earliest_published_at": "2023-05-24T16:43:58Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:18:34Z"
+}

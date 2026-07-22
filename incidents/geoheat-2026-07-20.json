@@ -1,0 +1,32 @@
+{
+  "id": "geoheat-2026-07-20",
+  "display_name": "geoheat",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "geoheat",
+      "ecosystem": "npm",
+      "versions": [
+        "1.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-p32g-242c-76h3",
+          "osv_published_at": "2020-09-11T21:14:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:08:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:08:25Z",
+  "osv_earliest_published_at": "2020-09-11T21:14:49Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:46:25Z"
+}

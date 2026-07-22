@@ -1,0 +1,32 @@
+{
+  "id": "malicious-npm-package-2026-07-20",
+  "display_name": "malicious-npm-package",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "malicious-npm-package",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-49c6-3wr4-8jr4",
+          "osv_published_at": "2020-09-04T15:05:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:01:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:01:29Z",
+  "osv_earliest_published_at": "2020-09-04T15:05:26Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:07:42Z"
+}

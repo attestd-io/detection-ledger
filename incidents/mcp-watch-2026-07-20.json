@@ -1,0 +1,32 @@
+{
+  "id": "mcp-watch-2026-07-20",
+  "display_name": "mcp-watch",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mcp-watch",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-27m7-ffhq-jqrm",
+          "osv_published_at": "2025-12-02T00:38:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:00:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:00:35Z",
+  "osv_earliest_published_at": "2025-12-02T00:38:14Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:01:23Z"
+}

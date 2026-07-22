@@ -1,0 +1,32 @@
+{
+  "id": "github-jquery-widgets-2026-07-20",
+  "display_name": "github-jquery-widgets",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "github-jquery-widgets",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-c722-pv5w-cfg2",
+          "osv_published_at": "2020-09-11T21:20:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:04:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:04:26Z",
+  "osv_earliest_published_at": "2020-09-11T21:20:14Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:27:31Z"
+}

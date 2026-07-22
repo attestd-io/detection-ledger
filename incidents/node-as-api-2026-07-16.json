@@ -1,0 +1,32 @@
+{
+  "id": "node-as-api-2026-07-16",
+  "display_name": "node-as-api",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "node-as-api",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10742",
+          "osv_published_at": "2026-07-16T18:33:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:14:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:14:33Z",
+  "osv_earliest_published_at": "2026-07-16T18:33:15Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:19:04Z"
+}

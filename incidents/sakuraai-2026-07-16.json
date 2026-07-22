@@ -1,0 +1,32 @@
+{
+  "id": "sakuraai-2026-07-16",
+  "display_name": "sakuraai",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sakuraai",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10746",
+          "osv_published_at": "2026-07-16T18:44:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:14:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:14:39Z",
+  "osv_earliest_published_at": "2026-07-16T18:44:06Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:19:43Z"
+}

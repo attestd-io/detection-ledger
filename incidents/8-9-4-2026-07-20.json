@@ -1,0 +1,32 @@
+{
+  "id": "8-9-4-2026-07-20",
+  "display_name": "8.9.4",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "8.9.4",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-725f-3pw7-rq6x",
+          "osv_published_at": "2020-09-03T21:09:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:02:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:02:51Z",
+  "osv_earliest_published_at": "2020-09-03T21:09:47Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:16:44Z"
+}

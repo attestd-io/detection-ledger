@@ -1,0 +1,32 @@
+{
+  "id": "yeaft-webchat-agent-2026-07-16",
+  "display_name": "@yeaft/webchat-agent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@yeaft/webchat-agent",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.171"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10723",
+          "osv_published_at": "2026-07-16T18:44:35Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-16T19:13:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-16T19:13:57Z",
+  "osv_earliest_published_at": "2026-07-16T18:44:35Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-16T19:15:00Z"
+}

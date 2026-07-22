@@ -1,0 +1,32 @@
+{
+  "id": "node-openssl-2026-07-20",
+  "display_name": "node-openssl",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "node-openssl",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-j68r-23hj-xf9c",
+          "osv_published_at": "2018-10-10T17:28:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:07:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:07:38Z",
+  "osv_earliest_published_at": "2018-10-10T17:28:14Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:41:10Z"
+}

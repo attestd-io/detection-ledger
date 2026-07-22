@@ -1,0 +1,32 @@
+{
+  "id": "sj-labc-2026-07-20",
+  "display_name": "sj-labc",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sj-labc",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-4fqg-89cc-5pv5",
+          "osv_published_at": "2020-09-04T14:58:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:01:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:01:32Z",
+  "osv_earliest_published_at": "2020-09-04T14:58:44Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:07:59Z"
+}

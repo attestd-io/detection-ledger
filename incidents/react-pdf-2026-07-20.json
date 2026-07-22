@@ -1,0 +1,32 @@
+{
+  "id": "react-pdf-2026-07-20",
+  "display_name": "react-pdf",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react-pdf",
+      "ecosystem": "npm",
+      "versions": [
+        "8.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-87hq-q4gp-9wr4",
+          "osv_published_at": "2024-05-07T16:48:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:03:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:03:30Z",
+  "osv_earliest_published_at": "2024-05-07T16:48:59Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:21:20Z"
+}

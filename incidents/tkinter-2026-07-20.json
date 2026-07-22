@@ -1,0 +1,32 @@
+{
+  "id": "tkinter-2026-07-20",
+  "display_name": "tkinter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tkinter",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-rwg6-3fmj-w4wx",
+          "osv_published_at": "2018-11-01T14:47:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:09:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:09:25Z",
+  "osv_earliest_published_at": "2018-11-01T14:47:21Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:52:45Z"
+}

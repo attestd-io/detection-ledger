@@ -1,0 +1,32 @@
+{
+  "id": "maybemaliciouspackage-2026-07-20",
+  "display_name": "maybemaliciouspackage",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "maybemaliciouspackage",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-m9r7-q9fc-qwx5",
+          "osv_published_at": "2020-09-03T17:22:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:08:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:08:14Z",
+  "osv_earliest_published_at": "2020-09-03T17:22:24Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:45:12Z"
+}

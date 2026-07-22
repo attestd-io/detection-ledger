@@ -1,0 +1,32 @@
+{
+  "id": "malicious-do-not-install-2026-07-20",
+  "display_name": "malicious-do-not-install",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "malicious-do-not-install",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-6879-xr95-5gf4",
+          "osv_published_at": "2020-09-03T17:20:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-20T03:02:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-20T03:02:33Z",
+  "osv_earliest_published_at": "2020-09-03T17:20:15Z",
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-20T03:14:42Z"
+}
