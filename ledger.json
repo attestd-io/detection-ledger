@@ -105049,5 +105049,38 @@
     "press_urls": [],
     "advisory_url": "",
     "ledger_commit_at": "2026-07-22T04:42:35Z"
+  },
+  {
+    "id": "make-helper-2026-07-22",
+    "display_name": "make-helper",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "make-helper",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.0",
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10991",
+            "osv_published_at": "2026-07-22T09:26:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-22T10:27:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-22T10:27:47Z",
+    "osv_earliest_published_at": "2026-07-22T09:26:25Z",
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-22T10:27:49Z"
   }
 ]
