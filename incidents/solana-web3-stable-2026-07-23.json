@@ -1,0 +1,37 @@
+{
+  "id": "solana-web3-stable-2026-07-23",
+  "display_name": "solana-web3-stable",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "solana-web3-stable",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10903",
+          "osv_published_at": "2026-07-20T10:59:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-23T08:35:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-23T08:35:31Z",
+  "osv_earliest_published_at": "2026-07-20T10:59:24Z",
+  "source_published_at": "2026-07-20T10:59:24Z",
+  "observed_at": "2026-07-23T08:35:31Z",
+  "ingested_at": "2026-07-23T08:35:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-23T08:39:44Z",
+  "ledger_committed_at": "2026-07-23T08:39:44Z"
+}
