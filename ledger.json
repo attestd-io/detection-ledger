@@ -107285,5 +107285,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-23T08:46:13Z",
     "ledger_committed_at": "2026-07-23T08:46:13Z"
+  },
+  {
+    "id": "sea-bound-siren-2026-07-23",
+    "display_name": "sea-bound-siren",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sea-bound-siren",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.0.0",
+          "9999.0.1",
+          "9999.0.2",
+          "9999.0.3",
+          "9999.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5693",
+            "osv_published_at": "2026-06-12T14:32:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-23T08:37:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-23T08:37:34Z",
+    "osv_earliest_published_at": "2026-06-12T14:32:51Z",
+    "source_published_at": "2026-06-12T14:32:51Z",
+    "observed_at": "2026-07-23T08:37:34Z",
+    "ingested_at": "2026-07-23T08:37:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-23T08:46:53Z",
+    "ledger_committed_at": "2026-07-23T08:46:53Z"
   }
 ]
