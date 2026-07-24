@@ -107769,5 +107769,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-24T10:31:48Z",
     "ledger_committed_at": "2026-07-24T10:31:48Z"
+  },
+  {
+    "id": "roles-royce-2026-07-24",
+    "display_name": "roles-royce",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "roles-royce",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10927",
+            "osv_published_at": "2026-07-20T17:53:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-24T10:31:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-24T10:31:31Z",
+    "osv_earliest_published_at": "2026-07-20T17:53:19Z",
+    "source_published_at": "2026-07-20T17:53:19Z",
+    "observed_at": "2026-07-24T10:31:31Z",
+    "ingested_at": "2026-07-24T10:31:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-24T10:31:58Z",
+    "ledger_committed_at": "2026-07-24T10:31:58Z"
   }
 ]
