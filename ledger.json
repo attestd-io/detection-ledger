@@ -107656,5 +107656,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-24T08:32:31Z",
     "ledger_committed_at": "2026-07-24T08:32:31Z"
+  },
+  {
+    "id": "intel-cicd-repo-infrastructure-2026-07-24",
+    "display_name": "intel-cicd-repo-infrastructure",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "intel-cicd-repo-infrastructure",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.0",
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11046",
+            "osv_published_at": "2026-07-24T10:10:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-24T10:31:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-24T10:31:26Z",
+    "osv_earliest_published_at": "2026-07-24T10:10:17Z",
+    "source_published_at": "2026-07-24T10:10:17Z",
+    "observed_at": "2026-07-24T10:31:26Z",
+    "ingested_at": "2026-07-24T10:31:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-24T10:31:30Z",
+    "ledger_committed_at": "2026-07-24T10:31:30Z"
   }
 ]
