@@ -1,0 +1,37 @@
+{
+  "id": "react-tabulix-extended-2026-07-24",
+  "display_name": "react-tabulix-extended",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react-tabulix-extended",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11040",
+          "osv_published_at": "2026-07-22T13:00:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-24T00:52:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-24T00:52:55Z",
+  "osv_earliest_published_at": "2026-07-22T13:00:59Z",
+  "source_published_at": "2026-07-22T13:00:59Z",
+  "observed_at": "2026-07-24T00:52:55Z",
+  "ingested_at": "2026-07-24T00:52:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-24T00:52:58Z",
+  "ledger_committed_at": "2026-07-24T00:52:58Z"
+}
