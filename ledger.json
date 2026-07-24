@@ -107731,5 +107731,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-24T10:31:39Z",
     "ledger_committed_at": "2026-07-24T10:31:39Z"
+  },
+  {
+    "id": "karpatkit-2026-07-24",
+    "display_name": "karpatkit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "karpatkit",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.1.0",
+          "2.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11048",
+            "osv_published_at": "2026-07-24T09:22:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-24T10:31:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-24T10:31:29Z",
+    "osv_earliest_published_at": "2026-07-24T09:22:28Z",
+    "source_published_at": "2026-07-24T09:22:28Z",
+    "observed_at": "2026-07-24T10:31:29Z",
+    "ingested_at": "2026-07-24T10:31:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-24T10:31:48Z",
+    "ledger_committed_at": "2026-07-24T10:31:48Z"
   }
 ]
