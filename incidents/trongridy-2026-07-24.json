@@ -1,0 +1,37 @@
+{
+  "id": "trongridy-2026-07-24",
+  "display_name": "trongridy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "trongridy",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11051",
+          "osv_published_at": "2026-07-24T21:59:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-24T22:42:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-24T22:42:59Z",
+  "osv_earliest_published_at": "2026-07-24T21:59:44Z",
+  "source_published_at": "2026-07-24T21:59:44Z",
+  "observed_at": "2026-07-24T22:42:59Z",
+  "ingested_at": "2026-07-24T22:42:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-24T22:43:01Z",
+  "ledger_committed_at": "2026-07-24T22:43:01Z"
+}
