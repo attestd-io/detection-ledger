@@ -1,0 +1,37 @@
+{
+  "id": "fundraiserserv-2026-07-25",
+  "display_name": "fundraiserserv",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fundraiserserv",
+      "ecosystem": "npm",
+      "versions": [
+        "28.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5172",
+          "osv_published_at": "2026-06-02T17:30:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-25T09:55:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-25T09:55:56Z",
+  "osv_earliest_published_at": "2026-06-02T17:30:53Z",
+  "source_published_at": "2026-06-02T17:30:53Z",
+  "observed_at": "2026-07-25T09:55:56Z",
+  "ingested_at": "2026-07-25T09:55:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-25T09:56:16Z",
+  "ledger_committed_at": "2026-07-25T09:56:16Z"
+}
