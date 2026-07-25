@@ -107991,5 +107991,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-25T09:55:56Z",
     "ledger_committed_at": "2026-07-25T09:55:56Z"
+  },
+  {
+    "id": "f0-fpti-tracking-manager-2026-07-25",
+    "display_name": "f0-fpti-tracking-manager",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "f0-fpti-tracking-manager",
+        "ecosystem": "npm",
+        "versions": [
+          "28.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8293",
+            "osv_published_at": "2023-10-05T16:01:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-25T09:55:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-25T09:55:54Z",
+    "osv_earliest_published_at": "2023-10-05T16:01:10Z",
+    "source_published_at": "2023-10-05T16:01:10Z",
+    "observed_at": "2026-07-25T09:55:54Z",
+    "ingested_at": "2026-07-25T09:55:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-25T09:56:05Z",
+    "ledger_committed_at": "2026-07-25T09:56:05Z"
   }
 ]
