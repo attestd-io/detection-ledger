@@ -1,0 +1,37 @@
+{
+  "id": "ks-radar-radar-2026-07-25",
+  "display_name": "@ks-radar/radar",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ks-radar/radar",
+      "ecosystem": "npm",
+      "versions": [
+        "22.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11066",
+          "osv_published_at": "2026-07-25T21:45:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-25T22:04:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-25T22:04:52Z",
+  "osv_earliest_published_at": "2026-07-25T21:45:33Z",
+  "source_published_at": "2026-07-25T21:45:33Z",
+  "observed_at": "2026-07-25T22:04:52Z",
+  "ingested_at": "2026-07-25T22:04:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-25T22:04:54Z",
+  "ledger_committed_at": "2026-07-25T22:04:54Z"
+}
