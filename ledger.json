@@ -108580,5 +108580,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-26T20:31:04Z",
     "ledger_committed_at": "2026-07-26T20:31:04Z"
+  },
+  {
+    "id": "semantic-router-2026-07-26",
+    "display_name": "semantic-router",
+    "campaign": null,
+    "detection_source": "pypi_yank",
+    "packages": [
+      {
+        "package": "semantic-router",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.10",
+          "0.1.11",
+          "0.1.12",
+          "0.1.13",
+          "0.1.14",
+          "0.1.8",
+          "0.1.9"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "yanked_release",
+    "attestd_detected_at": "2026-07-26T23:16:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-26T23:16:42Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-07-26T23:16:42Z",
+    "ingested_at": "2026-07-26T23:16:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://pypi.org/pypi/semantic-router/json",
+    "ledger_commit_at": "2026-07-26T23:16:45Z",
+    "ledger_committed_at": "2026-07-26T23:16:45Z"
   }
 ]
