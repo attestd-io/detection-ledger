@@ -108618,5 +108618,43 @@
     "advisory_url": "https://pypi.org/pypi/semantic-router/json",
     "ledger_commit_at": "2026-07-26T23:16:45Z",
     "ledger_committed_at": "2026-07-26T23:16:45Z"
+  },
+  {
+    "id": "clerk-next-fix-auth-protection-2026-07-27",
+    "display_name": "clerk-next-fix-auth-protection",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "clerk-next-fix-auth-protection",
+        "ecosystem": "npm",
+        "versions": [
+          "7.7.7",
+          "8.8.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11069",
+            "osv_published_at": "2026-07-24T21:48:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-27T01:51:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-27T01:51:12Z",
+    "osv_earliest_published_at": "2026-07-24T21:48:05Z",
+    "source_published_at": "2026-07-24T21:48:05Z",
+    "observed_at": "2026-07-27T01:51:12Z",
+    "ingested_at": "2026-07-27T01:51:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-27T01:51:14Z",
+    "ledger_committed_at": "2026-07-27T01:51:14Z"
   }
 ]
