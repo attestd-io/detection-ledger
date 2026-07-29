@@ -109856,5 +109856,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:19:11Z",
     "ledger_committed_at": "2026-07-29T00:19:11Z"
+  },
+  {
+    "id": "heartlandone-private-fontawesome-pro-2026-07-27",
+    "display_name": "@heartlandone-private/fontawesome-pro",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@heartlandone-private/fontawesome-pro",
+        "ecosystem": "npm",
+        "versions": [
+          "6.3.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11093",
+            "osv_published_at": "2026-07-27T16:19:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-27T16:32:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-27T16:32:19Z",
+    "osv_earliest_published_at": "2026-07-27T16:19:52Z",
+    "source_published_at": "2026-07-27T16:19:52Z",
+    "observed_at": "2026-07-27T16:32:19Z",
+    "ingested_at": "2026-07-27T16:32:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:19:16Z",
+    "ledger_committed_at": "2026-07-29T00:19:16Z"
   }
 ]
