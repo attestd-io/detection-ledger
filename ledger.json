@@ -112974,114 +112974,77 @@
     "ledger_committed_at": "2026-07-29T00:26:00Z"
   },
   {
-    "id": "trongridmy-2026-07-20",
-    "display_name": "trongridmy",
+    "id": "marketfront-advertisingdevtool-2026-07-21",
+    "display_name": "@marketfront/advertisingdevtool",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "trongridmy",
-        "ecosystem": "pypi",
-        "versions": [
-          "0.0.1"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10930",
-            "osv_published_at": "2026-07-20T20:44:54Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-20T21:45:35Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-20T21:45:35Z",
-    "osv_earliest_published_at": "2026-07-20T20:44:54Z",
-    "source_published_at": "2026-07-20T20:44:54Z",
-    "observed_at": "2026-07-20T21:45:35Z",
-    "ingested_at": "2026-07-20T21:45:35Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:26:28Z",
-    "ledger_committed_at": "2026-07-29T00:26:28Z"
-  },
-  {
-    "id": "wagni-bot-bsc-sdk-2026-07-28",
-    "display_name": "@wagni_bot/bsc-sdk",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@wagni_bot/bsc-sdk",
+        "package": "@marketfront/advertisingdevtool",
         "ecosystem": "npm",
         "versions": [
-          "1.1.2"
+          "7.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10023",
-            "osv_published_at": "2026-07-09T00:00:00Z"
+            "osv_id": "MAL-2026-6764",
+            "osv_published_at": "2026-07-02T00:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T08:04:25Z",
+    "attestd_detected_at": "2026-07-21T08:45:00Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T08:04:25Z",
-    "osv_earliest_published_at": "2026-07-09T00:00:00Z",
-    "source_published_at": "2026-07-09T00:00:00Z",
-    "observed_at": "2026-07-28T08:04:25Z",
-    "ingested_at": "2026-07-28T08:04:25Z",
+    "confirmed_at": "2026-07-21T08:45:00Z",
+    "osv_earliest_published_at": "2026-07-02T00:00:00Z",
+    "source_published_at": "2026-07-02T00:00:00Z",
+    "observed_at": "2026-07-21T08:45:00Z",
+    "ingested_at": "2026-07-21T08:45:00Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:26:34Z",
-    "ledger_committed_at": "2026-07-29T00:26:34Z"
+    "advisory_url": "https://safedep.io/marketfront-dependency-confusion-campaign/",
+    "ledger_commit_at": "2026-07-29T00:26:27Z",
+    "ledger_committed_at": "2026-07-29T00:26:27Z"
   },
   {
-    "id": "streak-daily-lib-2026-07-28",
-    "display_name": "streak-daily-lib",
+    "id": "app-soda-layer-2026-07-28",
+    "display_name": "app-soda-layer",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "streak-daily-lib",
+        "package": "app-soda-layer",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0"
+          "2.1.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11150",
-            "osv_published_at": "2026-07-28T13:34:25Z"
+            "osv_id": "MAL-2026-11128",
+            "osv_published_at": "2026-07-28T13:29:26Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:27:30Z",
+    "attestd_detected_at": "2026-07-28T14:26:36Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:27:30Z",
-    "osv_earliest_published_at": "2026-07-28T13:34:25Z",
-    "source_published_at": "2026-07-28T13:34:25Z",
-    "observed_at": "2026-07-28T14:27:30Z",
-    "ingested_at": "2026-07-28T14:27:30Z",
+    "confirmed_at": "2026-07-28T14:26:36Z",
+    "osv_earliest_published_at": "2026-07-28T13:29:26Z",
+    "source_published_at": "2026-07-28T13:29:26Z",
+    "observed_at": "2026-07-28T14:26:36Z",
+    "ingested_at": "2026-07-28T14:26:36Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:26:42Z",
-    "ledger_committed_at": "2026-07-29T00:26:42Z"
+    "ledger_commit_at": "2026-07-29T00:26:38Z",
+    "ledger_committed_at": "2026-07-29T00:26:38Z"
   }
 ]
