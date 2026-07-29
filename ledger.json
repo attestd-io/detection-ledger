@@ -91061,7 +91061,6 @@
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
-          "1.0.1",
           "1.0.2",
           "1.0.3",
           "1.0.4",
@@ -91087,11 +91086,11 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:22:38Z",
+    "ledger_commit_at": "2026-07-22T21:09:23Z",
     "observed_at": "2026-07-18T07:14:56Z",
     "ingested_at": "2026-07-18T07:14:56Z",
     "source_published_at": "2026-07-17T13:26:34Z",
-    "ledger_committed_at": "2026-07-29T00:22:38Z"
+    "ledger_committed_at": "2026-07-22T21:09:23Z"
   },
   {
     "id": "n8n-nodes-final-mile-2026-07-18",
@@ -105620,12 +105619,6 @@
         "versions": [
           "1.0.0",
           "1.0.1",
-          "1.0.10",
-          "1.0.11",
-          "1.0.12",
-          "1.0.13",
-          "1.0.14",
-          "1.0.15",
           "1.0.16",
           "1.0.2",
           "1.0.3",
@@ -105658,8 +105651,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:22:45Z",
-    "ledger_committed_at": "2026-07-29T00:22:45Z"
+    "ledger_commit_at": "2026-07-22T21:10:36Z",
+    "ledger_committed_at": "2026-07-22T21:10:36Z"
   },
   {
     "id": "application-util-2026-07-22",
@@ -111076,78 +111069,77 @@
     "ledger_committed_at": "2026-07-29T00:22:29Z"
   },
   {
-    "id": "korvica-2026-07-28",
-    "display_name": "korvica",
+    "id": "lib-streak-math-2026-07-28",
+    "display_name": "lib-streak-math",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "korvica",
+        "package": "lib-streak-math",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11140",
-            "osv_published_at": "2026-07-28T13:42:51Z"
+            "osv_id": "MAL-2026-11141",
+            "osv_published_at": "2026-07-28T13:30:11Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:27:01Z",
+    "attestd_detected_at": "2026-07-28T14:27:03Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:27:01Z",
-    "osv_earliest_published_at": "2026-07-28T13:42:51Z",
-    "source_published_at": "2026-07-28T13:42:51Z",
-    "observed_at": "2026-07-28T14:27:01Z",
-    "ingested_at": "2026-07-28T14:27:01Z",
+    "confirmed_at": "2026-07-28T14:27:03Z",
+    "osv_earliest_published_at": "2026-07-28T13:30:11Z",
+    "source_published_at": "2026-07-28T13:30:11Z",
+    "observed_at": "2026-07-28T14:27:03Z",
+    "ingested_at": "2026-07-28T14:27:03Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:22:34Z",
-    "ledger_committed_at": "2026-07-29T00:22:34Z"
+    "ledger_commit_at": "2026-07-29T00:22:33Z",
+    "ledger_committed_at": "2026-07-29T00:22:33Z"
   },
   {
-    "id": "nolby-2026-07-28",
-    "display_name": "nolby",
+    "id": "node-array-plus-2026-07-28",
+    "display_name": "node-array-plus",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "nolby",
+        "package": "node-array-plus",
         "ecosystem": "npm",
         "versions": [
-          "1.0.2",
-          "1.0.3"
+          "1.0.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10980",
-            "osv_published_at": "2026-07-21T17:03:30Z"
+            "osv_id": "MAL-2026-11142",
+            "osv_published_at": "2026-07-28T13:35:08Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:27:10Z",
+    "attestd_detected_at": "2026-07-28T14:27:09Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:27:10Z",
-    "osv_earliest_published_at": "2026-07-21T17:03:30Z",
-    "source_published_at": "2026-07-21T17:03:30Z",
-    "observed_at": "2026-07-28T14:27:10Z",
-    "ingested_at": "2026-07-28T14:27:10Z",
+    "confirmed_at": "2026-07-28T14:27:09Z",
+    "osv_earliest_published_at": "2026-07-28T13:35:08Z",
+    "source_published_at": "2026-07-28T13:35:08Z",
+    "observed_at": "2026-07-28T14:27:09Z",
+    "ingested_at": "2026-07-28T14:27:09Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:22:53Z",
-    "ledger_committed_at": "2026-07-29T00:22:53Z"
+    "ledger_commit_at": "2026-07-29T00:22:47Z",
+    "ledger_committed_at": "2026-07-29T00:22:47Z"
   }
 ]
