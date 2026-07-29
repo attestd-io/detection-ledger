@@ -47567,14 +47567,19 @@
         "versions": [
           "1.0.0"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6442",
+            "osv_published_at": "2026-06-25T05:49:06Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-07-08T22:58:26Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-08T22:58:26Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-25T05:49:06Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": "2026-07-08T23:01:08Z",
@@ -47582,7 +47587,11 @@
       "https://osv.dev/vulnerability/MAL-2026-6442"
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6442",
-    "ledger_commit_at": "2026-07-08T23:01:08Z"
+    "ledger_commit_at": "2026-07-29T00:17:09Z",
+    "source_published_at": "2026-06-25T05:49:06Z",
+    "observed_at": "2026-07-08T22:58:26Z",
+    "ingested_at": "2026-07-08T22:58:26Z",
+    "ledger_committed_at": "2026-07-29T00:17:09Z"
   },
   {
     "id": "marketfront-bannerpopup-2026-07-08",
@@ -109227,42 +109236,84 @@
     "ledger_committed_at": "2026-07-29T00:16:18Z"
   },
   {
-    "id": "base58-core-2026-07-21",
-    "display_name": "base58-core",
+    "id": "ollama-helpers-2026-07-21",
+    "display_name": "ollama-helpers",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "base58-core",
+        "package": "ollama-helpers",
         "ecosystem": "npm",
         "versions": [
-          "1.0.10",
-          "1.0.11",
-          "1.0.12"
+          "0.2.1",
+          "0.3.1",
+          "0.4.1",
+          "0.5.1",
+          "0.7.0",
+          "0.8.0",
+          "1.2.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6445",
-            "osv_published_at": "2026-06-25T06:43:58Z"
+            "osv_id": "MAL-2026-6581",
+            "osv_published_at": "2026-06-29T05:51:09Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-21T08:41:30Z",
+    "attestd_detected_at": "2026-07-21T08:42:58Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-21T08:41:30Z",
-    "osv_earliest_published_at": "2026-06-25T06:43:58Z",
-    "source_published_at": "2026-06-25T06:43:58Z",
-    "observed_at": "2026-07-21T08:41:30Z",
-    "ingested_at": "2026-07-21T08:41:30Z",
+    "confirmed_at": "2026-07-21T08:42:58Z",
+    "osv_earliest_published_at": "2026-06-29T05:51:09Z",
+    "source_published_at": "2026-06-29T05:51:09Z",
+    "observed_at": "2026-07-21T08:42:58Z",
+    "ingested_at": "2026-07-21T08:42:58Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:17:09Z",
-    "ledger_committed_at": "2026-07-29T00:17:09Z"
+    "ledger_commit_at": "2026-07-29T00:17:15Z",
+    "ledger_committed_at": "2026-07-29T00:17:15Z"
+  },
+  {
+    "id": "yastatic-s3-2026-07-21",
+    "display_name": "yastatic-s3",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "yastatic-s3",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.10",
+          "0.1.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6586",
+            "osv_published_at": "2026-06-29T05:25:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-21T08:43:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-21T08:43:04Z",
+    "osv_earliest_published_at": "2026-06-29T05:25:30Z",
+    "source_published_at": "2026-06-29T05:25:30Z",
+    "observed_at": "2026-07-21T08:43:04Z",
+    "ingested_at": "2026-07-21T08:43:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:17:20Z",
+    "ledger_committed_at": "2026-07-29T00:17:20Z"
   }
 ]
