@@ -90751,8 +90751,17 @@
         "package": "easyway2",
         "ecosystem": "npm",
         "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.10",
+          "1.0.11",
+          "1.0.2",
           "1.0.3",
-          "1.0.7"
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.0.9"
         ],
         "osv_entries": [
           {
@@ -90772,7 +90781,11 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-17T14:53:31Z"
+    "ledger_commit_at": "2026-07-29T00:22:07Z",
+    "observed_at": "2026-07-17T13:01:02Z",
+    "ingested_at": "2026-07-17T13:01:02Z",
+    "source_published_at": "2026-07-17T12:44:58Z",
+    "ledger_committed_at": "2026-07-29T00:22:07Z"
   },
   {
     "id": "govpkg-2026-07-17",
@@ -110904,40 +110917,77 @@
     "ledger_committed_at": "2026-07-29T00:22:02Z"
   },
   {
-    "id": "encryptstringadmincore-2026-07-28",
-    "display_name": "encryptstringadmincore",
+    "id": "ethers-secure-2026-07-28",
+    "display_name": "ethers-secure",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "encryptstringadmincore",
+        "package": "ethers-secure",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1"
+          "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11013",
-            "osv_published_at": "2026-07-22T20:39:04Z"
+            "osv_id": "MAL-2026-11135",
+            "osv_published_at": "2026-07-28T13:33:23Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:26:51Z",
+    "attestd_detected_at": "2026-07-28T14:26:53Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:26:51Z",
-    "osv_earliest_published_at": "2026-07-22T20:39:04Z",
-    "source_published_at": "2026-07-22T20:39:04Z",
-    "observed_at": "2026-07-28T14:26:51Z",
-    "ingested_at": "2026-07-28T14:26:51Z",
+    "confirmed_at": "2026-07-28T14:26:53Z",
+    "osv_earliest_published_at": "2026-07-28T13:33:23Z",
+    "source_published_at": "2026-07-28T13:33:23Z",
+    "observed_at": "2026-07-28T14:26:53Z",
+    "ingested_at": "2026-07-28T14:26:53Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:22:06Z",
-    "ledger_committed_at": "2026-07-29T00:22:06Z"
+    "ledger_commit_at": "2026-07-29T00:22:11Z",
+    "ledger_committed_at": "2026-07-29T00:22:11Z"
+  },
+  {
+    "id": "fluid-type-ui-2026-07-28",
+    "display_name": "fluid-type-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fluid-type-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11136",
+            "osv_published_at": "2026-07-28T13:28:21Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T14:26:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T14:26:54Z",
+    "osv_earliest_published_at": "2026-07-28T13:28:21Z",
+    "source_published_at": "2026-07-28T13:28:21Z",
+    "observed_at": "2026-07-28T14:26:54Z",
+    "ingested_at": "2026-07-28T14:26:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:22:17Z",
+    "ledger_committed_at": "2026-07-29T00:22:17Z"
   }
 ]
