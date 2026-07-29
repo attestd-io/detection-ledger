@@ -1,0 +1,37 @@
+{
+  "id": "marketfront-customdealsfeed-2026-07-21",
+  "display_name": "@marketfront/customdealsfeed",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@marketfront/customdealsfeed",
+      "ecosystem": "npm",
+      "versions": [
+        "7.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6772",
+          "osv_published_at": "2026-07-02T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-21T08:45:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-21T08:45:09Z",
+  "osv_earliest_published_at": "2026-07-02T00:00:00Z",
+  "source_published_at": "2026-07-02T00:00:00Z",
+  "observed_at": "2026-07-21T08:45:09Z",
+  "ingested_at": "2026-07-21T08:45:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://safedep.io/marketfront-dependency-confusion-campaign/",
+  "ledger_commit_at": "2026-07-29T00:25:23Z",
+  "ledger_committed_at": "2026-07-29T00:25:23Z"
+}
