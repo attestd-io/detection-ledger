@@ -1,0 +1,37 @@
+{
+  "id": "encryptstringadmincore-2026-07-28",
+  "display_name": "encryptstringadmincore",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "encryptstringadmincore",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11013",
+          "osv_published_at": "2026-07-22T20:39:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-28T14:26:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-28T14:26:51Z",
+  "osv_earliest_published_at": "2026-07-22T20:39:04Z",
+  "source_published_at": "2026-07-22T20:39:04Z",
+  "observed_at": "2026-07-28T14:26:51Z",
+  "ingested_at": "2026-07-28T14:26:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-29T00:22:06Z",
+  "ledger_committed_at": "2026-07-29T00:22:06Z"
+}
