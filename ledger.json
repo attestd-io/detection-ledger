@@ -110198,189 +110198,115 @@
     "ledger_committed_at": "2026-07-29T00:19:57Z"
   },
   {
-    "id": "wagni-bot-opensea-2026-07-28",
-    "display_name": "@wagni_bot/opensea",
+    "id": "wagni-bot-opensea-sdk-2026-07-28",
+    "display_name": "@wagni_bot/opensea-sdk",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@wagni_bot/opensea",
+        "package": "@wagni_bot/opensea-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.1.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10030",
+            "osv_published_at": "2026-07-09T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T08:04:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T08:04:43Z",
+    "osv_earliest_published_at": "2026-07-09T00:00:00Z",
+    "source_published_at": "2026-07-09T00:00:00Z",
+    "observed_at": "2026-07-28T08:04:43Z",
+    "ingested_at": "2026-07-28T08:04:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:20:02Z",
+    "ledger_committed_at": "2026-07-29T00:20:02Z"
+  },
+  {
+    "id": "wagni-bot-polygon-2026-07-28",
+    "display_name": "@wagni_bot/polygon",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wagni_bot/polygon",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11113",
+            "osv_id": "MAL-2026-11114",
             "osv_published_at": "2026-07-09T00:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T08:04:45Z",
+    "attestd_detected_at": "2026-07-28T08:04:49Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T08:04:45Z",
+    "confirmed_at": "2026-07-28T08:04:49Z",
     "osv_earliest_published_at": "2026-07-09T00:00:00Z",
     "source_published_at": "2026-07-09T00:00:00Z",
-    "observed_at": "2026-07-28T08:04:45Z",
-    "ingested_at": "2026-07-28T08:04:45Z",
+    "observed_at": "2026-07-28T08:04:49Z",
+    "ingested_at": "2026-07-28T08:04:49Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:20:07Z",
-    "ledger_committed_at": "2026-07-29T00:20:07Z"
+    "ledger_commit_at": "2026-07-29T00:20:16Z",
+    "ledger_committed_at": "2026-07-29T00:20:16Z"
   },
   {
-    "id": "wagni-bot-polygon-sdk-2026-07-28",
-    "display_name": "@wagni_bot/polygon-sdk",
+    "id": "wagni-bot-wagni-2026-07-28",
+    "display_name": "@wagni_bot/wagni",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@wagni_bot/polygon-sdk",
-        "ecosystem": "npm",
-        "versions": [
-          "1.1.2"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10032",
-            "osv_published_at": "2026-07-09T00:00:00Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T08:04:48Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-28T08:04:48Z",
-    "osv_earliest_published_at": "2026-07-09T00:00:00Z",
-    "source_published_at": "2026-07-09T00:00:00Z",
-    "observed_at": "2026-07-28T08:04:48Z",
-    "ingested_at": "2026-07-28T08:04:48Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:20:13Z",
-    "ledger_committed_at": "2026-07-29T00:20:13Z"
-  },
-  {
-    "id": "wagni-bot-polymarket-sdk-2026-07-28",
-    "display_name": "@wagni_bot/polymarket-sdk",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@wagni_bot/polymarket-sdk",
-        "ecosystem": "npm",
-        "versions": [
-          "1.1.2"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10033",
-            "osv_published_at": "2026-07-09T00:00:00Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T08:04:52Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-28T08:04:52Z",
-    "osv_earliest_published_at": "2026-07-09T00:00:00Z",
-    "source_published_at": "2026-07-09T00:00:00Z",
-    "observed_at": "2026-07-28T08:04:52Z",
-    "ingested_at": "2026-07-28T08:04:52Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:20:21Z",
-    "ledger_committed_at": "2026-07-29T00:20:21Z"
-  },
-  {
-    "id": "wagni-bot-polymarket-2026-07-28",
-    "display_name": "@wagni_bot/polymarket",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@wagni_bot/polymarket",
+        "package": "@wagni_bot/wagni",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11115",
+            "osv_id": "MAL-2026-11116",
             "osv_published_at": "2026-07-09T00:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T08:04:53Z",
+    "attestd_detected_at": "2026-07-28T08:04:57Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T08:04:53Z",
+    "confirmed_at": "2026-07-28T08:04:57Z",
     "osv_earliest_published_at": "2026-07-09T00:00:00Z",
     "source_published_at": "2026-07-09T00:00:00Z",
-    "observed_at": "2026-07-28T08:04:53Z",
-    "ingested_at": "2026-07-28T08:04:53Z",
+    "observed_at": "2026-07-28T08:04:57Z",
+    "ingested_at": "2026-07-28T08:04:57Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:20:25Z",
-    "ledger_committed_at": "2026-07-29T00:20:25Z"
-  },
-  {
-    "id": "wagni-bot-web3-agent-2026-07-28",
-    "display_name": "@wagni_bot/web3-agent",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@wagni_bot/web3-agent",
-        "ecosystem": "npm",
-        "versions": [
-          "1.1.2",
-          "1.2.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10036",
-            "osv_published_at": "2026-07-09T00:00:00Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T08:04:59Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-28T08:04:59Z",
-    "osv_earliest_published_at": "2026-07-09T00:00:00Z",
-    "source_published_at": "2026-07-09T00:00:00Z",
-    "observed_at": "2026-07-28T08:04:59Z",
-    "ingested_at": "2026-07-28T08:04:59Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:20:35Z",
-    "ledger_committed_at": "2026-07-29T00:20:35Z"
+    "ledger_commit_at": "2026-07-29T00:20:30Z",
+    "ledger_committed_at": "2026-07-29T00:20:30Z"
   }
 ]
