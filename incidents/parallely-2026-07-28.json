@@ -1,0 +1,37 @@
+{
+  "id": "parallely-2026-07-28",
+  "display_name": "parallely",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "parallely",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11143",
+          "osv_published_at": "2026-07-28T13:33:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-28T14:27:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-28T14:27:12Z",
+  "osv_earliest_published_at": "2026-07-28T13:33:43Z",
+  "source_published_at": "2026-07-28T13:33:43Z",
+  "observed_at": "2026-07-28T14:27:12Z",
+  "ingested_at": "2026-07-28T14:27:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-29T00:22:58Z",
+  "ledger_committed_at": "2026-07-29T00:22:58Z"
+}
