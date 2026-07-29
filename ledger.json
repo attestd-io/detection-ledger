@@ -110085,5 +110085,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:19:43Z",
     "ledger_committed_at": "2026-07-29T00:19:43Z"
+  },
+  {
+    "id": "wagni-bot-eth-2026-07-28",
+    "display_name": "@wagni_bot/eth",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wagni_bot/eth",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11110",
+            "osv_published_at": "2026-07-09T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T08:04:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T08:04:30Z",
+    "osv_earliest_published_at": "2026-07-09T00:00:00Z",
+    "source_published_at": "2026-07-09T00:00:00Z",
+    "observed_at": "2026-07-28T08:04:30Z",
+    "ingested_at": "2026-07-28T08:04:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:19:48Z",
+    "ledger_committed_at": "2026-07-29T00:19:48Z"
   }
 ]
