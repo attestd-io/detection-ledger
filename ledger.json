@@ -111029,5 +111029,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:22:24Z",
     "ledger_committed_at": "2026-07-29T00:22:24Z"
+  },
+  {
+    "id": "kordyn-2026-07-28",
+    "display_name": "kordyn",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "kordyn",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9.16",
+          "0.9.18"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11139",
+            "osv_published_at": "2026-07-28T13:39:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T14:27:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T14:27:00Z",
+    "osv_earliest_published_at": "2026-07-28T13:39:51Z",
+    "source_published_at": "2026-07-28T13:39:51Z",
+    "observed_at": "2026-07-28T14:27:00Z",
+    "ingested_at": "2026-07-28T14:27:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:22:29Z",
+    "ledger_committed_at": "2026-07-29T00:22:29Z"
   }
 ]
