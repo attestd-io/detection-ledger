@@ -109893,5 +109893,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:19:16Z",
     "ledger_committed_at": "2026-07-29T00:19:16Z"
+  },
+  {
+    "id": "cfgzen-2026-07-27",
+    "display_name": "cfgzen",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cfgzen",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11094",
+            "osv_published_at": "2026-07-27T22:02:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-27T22:39:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-27T22:39:54Z",
+    "osv_earliest_published_at": "2026-07-27T22:02:50Z",
+    "source_published_at": "2026-07-27T22:02:50Z",
+    "observed_at": "2026-07-27T22:39:54Z",
+    "ingested_at": "2026-07-27T22:39:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:19:21Z",
+    "ledger_committed_at": "2026-07-29T00:19:21Z"
   }
 ]
