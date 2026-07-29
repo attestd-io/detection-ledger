@@ -1,0 +1,37 @@
+{
+  "id": "date-sanitize-helper-2026-07-28",
+  "display_name": "date-sanitize-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "date-sanitize-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11106",
+          "osv_published_at": "2026-07-28T07:15:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-28T07:33:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-28T07:33:40Z",
+  "osv_earliest_published_at": "2026-07-28T07:15:55Z",
+  "source_published_at": "2026-07-28T07:15:55Z",
+  "observed_at": "2026-07-28T07:33:40Z",
+  "ingested_at": "2026-07-28T07:33:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-29T00:19:20Z",
+  "ledger_committed_at": "2026-07-29T00:19:20Z"
+}
