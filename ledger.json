@@ -108781,40 +108781,42 @@
     "ledger_committed_at": "2026-07-27T01:51:40Z"
   },
   {
-    "id": "dwh-kafka-client-2026-07-20",
-    "display_name": "dwh-kafka-client",
+    "id": "python-devplatform-client-2026-07-20",
+    "display_name": "python-devplatform-client",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "dwh-kafka-client",
+        "package": "python-devplatform-client",
         "ecosystem": "pypi",
         "versions": [
-          "0.0.1"
+          "0.0.1",
+          "8.5.3",
+          "8.5.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10915",
-            "osv_published_at": "2026-07-17T22:48:25Z"
+            "osv_id": "MAL-2026-10916",
+            "osv_published_at": "2026-07-18T14:13:52Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-20T16:08:57Z",
+    "attestd_detected_at": "2026-07-20T16:08:58Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-20T16:08:57Z",
-    "osv_earliest_published_at": "2026-07-17T22:48:25Z",
-    "source_published_at": "2026-07-17T22:48:25Z",
-    "observed_at": "2026-07-20T16:08:57Z",
-    "ingested_at": "2026-07-20T16:08:57Z",
+    "confirmed_at": "2026-07-20T16:08:58Z",
+    "osv_earliest_published_at": "2026-07-18T14:13:52Z",
+    "source_published_at": "2026-07-18T14:13:52Z",
+    "observed_at": "2026-07-20T16:08:58Z",
+    "ingested_at": "2026-07-20T16:08:58Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:14:54Z",
-    "ledger_committed_at": "2026-07-29T00:14:54Z"
+    "ledger_commit_at": "2026-07-29T00:14:58Z",
+    "ledger_committed_at": "2026-07-29T00:14:58Z"
   }
 ]
