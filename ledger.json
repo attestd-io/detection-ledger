@@ -107597,7 +107597,8 @@
         "versions": [
           "1.0.0",
           "1.0.1",
-          "1.1.1"
+          "1.1.1",
+          "1.1.2"
         ],
         "osv_entries": [
           {
@@ -107621,8 +107622,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-24T04:42:38Z",
-    "ledger_committed_at": "2026-07-24T04:42:38Z"
+    "ledger_commit_at": "2026-07-29T00:21:03Z",
+    "ledger_committed_at": "2026-07-29T00:21:03Z"
   },
   {
     "id": "faust-cont-2026-07-24",
@@ -110495,38 +110496,34 @@
     "ledger_committed_at": "2026-07-29T00:20:53Z"
   },
   {
-    "id": "crbrc-xbt-2026-07-28",
-    "display_name": "@crbrc/xbt",
+    "id": "apexfnd-apex-2026-07-28",
+    "display_name": "@apexfnd/apex",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@crbrc/xbt",
+        "package": "@apexfnd/apex",
         "ecosystem": "npm",
         "versions": [
-          "1.1.0",
-          "1.1.1",
-          "1.1.2",
-          "1.1.3",
-          "1.1.4",
-          "1.2.1"
+          "1.0.0",
+          "1.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11122",
-            "osv_published_at": "2026-07-28T13:40:07Z"
+            "osv_id": "MAL-2026-11121",
+            "osv_published_at": "2026-07-28T13:35:21Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:26:20Z",
+    "attestd_detected_at": "2026-07-28T14:26:17Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:26:20Z",
-    "osv_earliest_published_at": "2026-07-28T13:40:07Z",
-    "source_published_at": "2026-07-28T13:40:07Z",
-    "observed_at": "2026-07-28T14:26:20Z",
-    "ingested_at": "2026-07-28T14:26:20Z",
+    "confirmed_at": "2026-07-28T14:26:17Z",
+    "osv_earliest_published_at": "2026-07-28T13:35:21Z",
+    "source_published_at": "2026-07-28T13:35:21Z",
+    "observed_at": "2026-07-28T14:26:17Z",
+    "ingested_at": "2026-07-28T14:26:17Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -110535,5 +110532,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:20:58Z",
     "ledger_committed_at": "2026-07-29T00:20:58Z"
+  },
+  {
+    "id": "yancyyu-agentcli-2026-07-28",
+    "display_name": "@yancyyu/agentcli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@yancyyu/agentcli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.9.32"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11123",
+            "osv_published_at": "2026-07-28T13:30:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T14:26:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T14:26:24Z",
+    "osv_earliest_published_at": "2026-07-28T13:30:51Z",
+    "source_published_at": "2026-07-28T13:30:51Z",
+    "observed_at": "2026-07-28T14:26:24Z",
+    "ingested_at": "2026-07-28T14:26:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:21:07Z",
+    "ledger_committed_at": "2026-07-29T00:21:07Z"
   }
 ]
