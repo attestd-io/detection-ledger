@@ -1,0 +1,34 @@
+{
+  "id": "bike4mind-cli-2026-07-29",
+  "display_name": "@bike4mind/cli",
+  "campaign": null,
+  "detection_source": "npm_deprecation",
+  "packages": [
+    {
+      "package": "@bike4mind/cli",
+      "ecosystem": "npm",
+      "versions": [
+        "0.2.67-feat-secops-auto-triage-owasp-zap.21900",
+        "0.2.67-fix-tool-context-dist-export.21884",
+        "0.2.67-refactor-7536-flatten-b4m-core-packages.21885"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "deprecated_release",
+  "attestd_detected_at": "2026-07-29T01:17:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-29T01:17:26Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-07-29T01:17:26Z",
+  "ingested_at": "2026-07-29T01:17:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40bike4mind%2Fcli",
+  "ledger_commit_at": "2026-07-29T01:17:34Z",
+  "ledger_committed_at": "2026-07-29T01:17:34Z"
+}
