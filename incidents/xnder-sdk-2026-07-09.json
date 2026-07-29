@@ -11,14 +11,19 @@
         "11.0.2",
         "11.0.3"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5491",
+          "osv_published_at": "2026-06-10T06:43:00Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-07-09T04:42:03Z",
   "flagged_at": null,
   "confirmed_at": "2026-07-09T04:42:03Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-10T06:43:00Z",
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": "2026-07-09T04:42:50Z",
@@ -26,5 +31,9 @@
     "https://osv.dev/vulnerability/MAL-2026-5491"
   ],
   "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5491",
-  "ledger_commit_at": "2026-07-09T04:42:50Z"
+  "ledger_commit_at": "2026-07-29T00:16:32Z",
+  "source_published_at": "2026-06-10T06:43:00Z",
+  "observed_at": "2026-07-09T04:42:03Z",
+  "ingested_at": "2026-07-09T04:42:03Z",
+  "ledger_committed_at": "2026-07-29T00:16:32Z"
 }

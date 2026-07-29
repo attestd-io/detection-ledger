@@ -44920,14 +44920,19 @@
           "11.0.2",
           "11.0.3"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5491",
+            "osv_published_at": "2026-06-10T06:43:00Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-07-09T04:42:03Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-09T04:42:03Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-10T06:43:00Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": "2026-07-09T04:42:50Z",
@@ -44935,7 +44940,11 @@
       "https://osv.dev/vulnerability/MAL-2026-5491"
     ],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-5491",
-    "ledger_commit_at": "2026-07-09T04:42:50Z"
+    "ledger_commit_at": "2026-07-29T00:16:32Z",
+    "source_published_at": "2026-06-10T06:43:00Z",
+    "observed_at": "2026-07-09T04:42:03Z",
+    "ingested_at": "2026-07-09T04:42:03Z",
+    "ledger_committed_at": "2026-07-29T00:16:32Z"
   },
   {
     "id": "ulid-os-2026-07-09",
@@ -109127,42 +109136,40 @@
     "ledger_committed_at": "2026-07-29T00:16:13Z"
   },
   {
-    "id": "rasterkit-2026-07-21",
-    "display_name": "rasterkit",
+    "id": "fluffy-octo-broccoli-2026-07-21",
+    "display_name": "fluffy-octo-broccoli",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "rasterkit",
+        "package": "fluffy-octo-broccoli",
         "ecosystem": "pypi",
         "versions": [
-          "1.0.0",
-          "1.0.2",
-          "1.0.4"
+          "0.1.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10974",
-            "osv_published_at": "2026-07-21T06:01:48Z"
+            "osv_id": "MAL-2026-10973",
+            "osv_published_at": "2026-07-21T05:32:56Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-21T07:40:08Z",
+    "attestd_detected_at": "2026-07-21T07:40:05Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-21T07:40:08Z",
-    "osv_earliest_published_at": "2026-07-21T06:01:48Z",
-    "source_published_at": "2026-07-21T06:01:48Z",
-    "observed_at": "2026-07-21T07:40:08Z",
-    "ingested_at": "2026-07-21T07:40:08Z",
+    "confirmed_at": "2026-07-21T07:40:05Z",
+    "osv_earliest_published_at": "2026-07-21T05:32:56Z",
+    "source_published_at": "2026-07-21T05:32:56Z",
+    "observed_at": "2026-07-21T07:40:05Z",
+    "ingested_at": "2026-07-21T07:40:05Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:16:24Z",
-    "ledger_committed_at": "2026-07-29T00:16:24Z"
+    "ledger_commit_at": "2026-07-29T00:16:18Z",
+    "ledger_committed_at": "2026-07-29T00:16:18Z"
   }
 ]
