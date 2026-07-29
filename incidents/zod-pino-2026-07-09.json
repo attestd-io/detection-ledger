@@ -15,14 +15,19 @@
         "1.0.126",
         "1.0.127"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6273",
+          "osv_published_at": "2026-06-22T21:53:45Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-07-09T04:42:24Z",
   "flagged_at": null,
   "confirmed_at": "2026-07-09T04:42:24Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-22T21:53:45Z",
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": "2026-07-09T04:43:58Z",
@@ -30,5 +35,9 @@
     "https://osv.dev/vulnerability/MAL-2026-6273"
   ],
   "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6273",
-  "ledger_commit_at": "2026-07-09T04:43:58Z"
+  "ledger_commit_at": "2026-07-29T00:16:52Z",
+  "source_published_at": "2026-06-22T21:53:45Z",
+  "observed_at": "2026-07-09T04:42:24Z",
+  "ingested_at": "2026-07-09T04:42:24Z",
+  "ledger_committed_at": "2026-07-29T00:16:52Z"
 }
