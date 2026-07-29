@@ -111601,5 +111601,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:24:07Z",
     "ledger_committed_at": "2026-07-29T00:24:07Z"
+  },
+  {
+    "id": "triage-bot-using-sdkv3-2026-07-28",
+    "display_name": "triage_bot_using_sdkv3",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "triage_bot_using_sdkv3",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11153",
+            "osv_published_at": "2026-07-28T13:32:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T14:27:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T14:27:42Z",
+    "osv_earliest_published_at": "2026-07-28T13:32:27Z",
+    "source_published_at": "2026-07-28T13:32:27Z",
+    "observed_at": "2026-07-28T14:27:42Z",
+    "ingested_at": "2026-07-28T14:27:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:24:12Z",
+    "ledger_committed_at": "2026-07-29T00:24:12Z"
   }
 ]
