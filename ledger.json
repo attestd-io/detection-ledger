@@ -99215,20 +99215,26 @@
         "versions": [
           "1.42.1"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-6011",
+            "osv_published_at": "2026-06-17T04:55:41Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-07-20T03:07:10Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-20T03:07:10Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-17T04:55:41Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40mastra%2Fcore",
-    "ledger_commit_at": "2026-07-20T03:39:27Z"
+    "ledger_commit_at": "2026-07-29T12:38:31Z",
+    "ledger_committed_at": "2026-07-29T12:38:31Z"
   },
   {
     "id": "mastra-schema-compat-2026-07-20",
