@@ -108818,5 +108818,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:14:58Z",
     "ledger_committed_at": "2026-07-29T00:14:58Z"
+  },
+  {
+    "id": "tinkoff-cloud-apis-internal-2026-07-20",
+    "display_name": "tinkoff-cloud-apis-internal",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tinkoff-cloud-apis-internal",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.1",
+          "8.5.3",
+          "8.5.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10917",
+            "osv_published_at": "2026-07-18T14:14:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-20T16:09:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-20T16:09:00Z",
+    "osv_earliest_published_at": "2026-07-18T14:14:02Z",
+    "source_published_at": "2026-07-18T14:14:02Z",
+    "observed_at": "2026-07-20T16:09:00Z",
+    "ingested_at": "2026-07-20T16:09:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:15:04Z",
+    "ledger_committed_at": "2026-07-29T00:15:04Z"
   }
 ]
