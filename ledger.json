@@ -112653,5 +112653,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:24:17Z",
     "ledger_committed_at": "2026-07-29T00:24:17Z"
+  },
+  {
+    "id": "syncgrove-2026-07-15",
+    "display_name": "syncgrove",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "syncgrove",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10680",
+            "osv_published_at": "2026-07-15T10:51:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-15T11:42:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-15T11:42:01Z",
+    "osv_earliest_published_at": "2026-07-15T10:51:05Z",
+    "source_published_at": "2026-07-15T10:51:05Z",
+    "observed_at": "2026-07-15T11:42:01Z",
+    "ingested_at": "2026-07-15T11:42:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:25:03Z",
+    "ledger_committed_at": "2026-07-29T00:25:03Z"
   }
 ]
