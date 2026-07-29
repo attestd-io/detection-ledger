@@ -109511,114 +109511,77 @@
     "ledger_committed_at": "2026-07-29T00:17:57Z"
   },
   {
-    "id": "marketfront-digitalherobannercarousel-2026-07-21",
-    "display_name": "@marketfront/digitalherobannercarousel",
+    "id": "marketfront-errorcounter-2026-07-21",
+    "display_name": "@marketfront/errorcounter",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@marketfront/digitalherobannercarousel",
+        "package": "@marketfront/errorcounter",
         "ecosystem": "npm",
         "versions": [
           "7.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6775",
+            "osv_id": "MAL-2026-6777",
             "osv_published_at": "2026-07-02T00:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-21T08:45:13Z",
+    "attestd_detected_at": "2026-07-21T08:45:15Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-21T08:45:13Z",
+    "confirmed_at": "2026-07-21T08:45:15Z",
     "osv_earliest_published_at": "2026-07-02T00:00:00Z",
     "source_published_at": "2026-07-02T00:00:00Z",
-    "observed_at": "2026-07-21T08:45:13Z",
-    "ingested_at": "2026-07-21T08:45:13Z",
+    "observed_at": "2026-07-21T08:45:15Z",
+    "ingested_at": "2026-07-21T08:45:15Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://safedep.io/marketfront-dependency-confusion-campaign/",
-    "ledger_commit_at": "2026-07-29T00:18:02Z",
-    "ledger_committed_at": "2026-07-29T00:18:02Z"
+    "ledger_commit_at": "2026-07-29T00:18:01Z",
+    "ledger_committed_at": "2026-07-29T00:18:01Z"
   },
   {
-    "id": "marketfront-fashiononboardingpopup-2026-07-21",
-    "display_name": "@marketfront/fashiononboardingpopup",
+    "id": "marketfront-gotoauthpopup-2026-07-21",
+    "display_name": "@marketfront/gotoauthpopup",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@marketfront/fashiononboardingpopup",
+        "package": "@marketfront/gotoauthpopup",
         "ecosystem": "npm",
         "versions": [
           "7.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-6778",
+            "osv_id": "MAL-2026-6781",
             "osv_published_at": "2026-07-02T00:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-21T08:45:17Z",
+    "attestd_detected_at": "2026-07-21T08:45:20Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-21T08:45:17Z",
+    "confirmed_at": "2026-07-21T08:45:20Z",
     "osv_earliest_published_at": "2026-07-02T00:00:00Z",
     "source_published_at": "2026-07-02T00:00:00Z",
-    "observed_at": "2026-07-21T08:45:17Z",
-    "ingested_at": "2026-07-21T08:45:17Z",
+    "observed_at": "2026-07-21T08:45:20Z",
+    "ingested_at": "2026-07-21T08:45:20Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://safedep.io/marketfront-dependency-confusion-campaign/",
-    "ledger_commit_at": "2026-07-29T00:18:07Z",
-    "ledger_committed_at": "2026-07-29T00:18:07Z"
-  },
-  {
-    "id": "marketfront-footer-2026-07-21",
-    "display_name": "@marketfront/footer",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@marketfront/footer",
-        "ecosystem": "npm",
-        "versions": [
-          "7.0.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-6780",
-            "osv_published_at": "2026-07-02T00:00:00Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-07-21T08:45:19Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-07-21T08:45:19Z",
-    "osv_earliest_published_at": "2026-07-02T00:00:00Z",
-    "source_published_at": "2026-07-02T00:00:00Z",
-    "observed_at": "2026-07-21T08:45:19Z",
-    "ingested_at": "2026-07-21T08:45:19Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://safedep.io/marketfront-dependency-confusion-campaign/",
-    "ledger_commit_at": "2026-07-29T00:18:12Z",
-    "ledger_committed_at": "2026-07-29T00:18:12Z"
+    "ledger_commit_at": "2026-07-29T00:18:16Z",
+    "ledger_committed_at": "2026-07-29T00:18:16Z"
   }
 ]
