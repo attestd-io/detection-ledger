@@ -1,0 +1,37 @@
+{
+  "id": "text-line-parser-2026-07-28",
+  "display_name": "text-line-parser",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "text-line-parser",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11151",
+          "osv_published_at": "2026-07-28T13:37:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-28T14:27:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-28T14:27:39Z",
+  "osv_earliest_published_at": "2026-07-28T13:37:07Z",
+  "source_published_at": "2026-07-28T13:37:07Z",
+  "observed_at": "2026-07-28T14:27:39Z",
+  "ingested_at": "2026-07-28T14:27:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-29T00:24:03Z",
+  "ledger_committed_at": "2026-07-29T00:24:03Z"
+}
