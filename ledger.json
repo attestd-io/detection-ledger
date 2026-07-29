@@ -91061,6 +91061,7 @@
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
+          "1.0.1",
           "1.0.2",
           "1.0.3",
           "1.0.4",
@@ -91086,11 +91087,11 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-22T21:09:23Z",
+    "ledger_commit_at": "2026-07-29T00:22:38Z",
     "observed_at": "2026-07-18T07:14:56Z",
     "ingested_at": "2026-07-18T07:14:56Z",
     "source_published_at": "2026-07-17T13:26:34Z",
-    "ledger_committed_at": "2026-07-22T21:09:23Z"
+    "ledger_committed_at": "2026-07-29T00:22:38Z"
   },
   {
     "id": "n8n-nodes-final-mile-2026-07-18",
@@ -105130,6 +105131,7 @@
         "package": "react-tabulix-ui",
         "ecosystem": "npm",
         "versions": [
+          "0.1.0",
           "0.1.1"
         ],
         "osv_entries": [
@@ -105150,7 +105152,11 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-22T04:41:51Z"
+    "ledger_commit_at": "2026-07-29T00:23:11Z",
+    "observed_at": "2026-07-22T04:41:41Z",
+    "ingested_at": "2026-07-22T04:41:41Z",
+    "source_published_at": "2026-07-21T16:05:53Z",
+    "ledger_committed_at": "2026-07-29T00:23:11Z"
   },
   {
     "id": "react-tabulix-virtual-2026-07-22",
@@ -105619,6 +105625,12 @@
         "versions": [
           "1.0.0",
           "1.0.1",
+          "1.0.10",
+          "1.0.11",
+          "1.0.12",
+          "1.0.13",
+          "1.0.14",
+          "1.0.15",
           "1.0.16",
           "1.0.2",
           "1.0.3",
@@ -105651,8 +105663,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-22T21:10:36Z",
-    "ledger_committed_at": "2026-07-22T21:10:36Z"
+    "ledger_commit_at": "2026-07-29T00:22:45Z",
+    "ledger_committed_at": "2026-07-29T00:22:45Z"
   },
   {
     "id": "application-util-2026-07-22",
@@ -111069,114 +111081,154 @@
     "ledger_committed_at": "2026-07-29T00:22:29Z"
   },
   {
-    "id": "lib-streak-math-2026-07-28",
-    "display_name": "lib-streak-math",
+    "id": "korvica-2026-07-28",
+    "display_name": "korvica",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "lib-streak-math",
+        "package": "korvica",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11141",
-            "osv_published_at": "2026-07-28T13:30:11Z"
+            "osv_id": "MAL-2026-11140",
+            "osv_published_at": "2026-07-28T13:42:51Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:27:03Z",
+    "attestd_detected_at": "2026-07-28T14:27:01Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:27:03Z",
-    "osv_earliest_published_at": "2026-07-28T13:30:11Z",
-    "source_published_at": "2026-07-28T13:30:11Z",
-    "observed_at": "2026-07-28T14:27:03Z",
-    "ingested_at": "2026-07-28T14:27:03Z",
+    "confirmed_at": "2026-07-28T14:27:01Z",
+    "osv_earliest_published_at": "2026-07-28T13:42:51Z",
+    "source_published_at": "2026-07-28T13:42:51Z",
+    "observed_at": "2026-07-28T14:27:01Z",
+    "ingested_at": "2026-07-28T14:27:01Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:22:33Z",
-    "ledger_committed_at": "2026-07-29T00:22:33Z"
+    "ledger_commit_at": "2026-07-29T00:22:34Z",
+    "ledger_committed_at": "2026-07-29T00:22:34Z"
   },
   {
-    "id": "node-array-plus-2026-07-28",
-    "display_name": "node-array-plus",
+    "id": "nolby-2026-07-28",
+    "display_name": "nolby",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "node-array-plus",
+        "package": "nolby",
         "ecosystem": "npm",
         "versions": [
-          "1.0.9"
+          "1.0.2",
+          "1.0.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11142",
-            "osv_published_at": "2026-07-28T13:35:08Z"
+            "osv_id": "MAL-2026-10980",
+            "osv_published_at": "2026-07-21T17:03:30Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:27:09Z",
+    "attestd_detected_at": "2026-07-28T14:27:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:27:09Z",
-    "osv_earliest_published_at": "2026-07-28T13:35:08Z",
-    "source_published_at": "2026-07-28T13:35:08Z",
-    "observed_at": "2026-07-28T14:27:09Z",
-    "ingested_at": "2026-07-28T14:27:09Z",
+    "confirmed_at": "2026-07-28T14:27:10Z",
+    "osv_earliest_published_at": "2026-07-21T17:03:30Z",
+    "source_published_at": "2026-07-21T17:03:30Z",
+    "observed_at": "2026-07-28T14:27:10Z",
+    "ingested_at": "2026-07-28T14:27:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:22:47Z",
-    "ledger_committed_at": "2026-07-29T00:22:47Z"
+    "ledger_commit_at": "2026-07-29T00:22:53Z",
+    "ledger_committed_at": "2026-07-29T00:22:53Z"
   },
   {
-    "id": "react-puller-2026-07-28",
-    "display_name": "react-puller",
+    "id": "parallely-2026-07-28",
+    "display_name": "parallely",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "react-puller",
+        "package": "parallely",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0"
+          "10.0.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11144",
-            "osv_published_at": "2026-07-28T13:39:15Z"
+            "osv_id": "MAL-2026-11143",
+            "osv_published_at": "2026-07-28T13:33:43Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:27:13Z",
+    "attestd_detected_at": "2026-07-28T14:27:12Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:27:13Z",
-    "osv_earliest_published_at": "2026-07-28T13:39:15Z",
-    "source_published_at": "2026-07-28T13:39:15Z",
-    "observed_at": "2026-07-28T14:27:13Z",
-    "ingested_at": "2026-07-28T14:27:13Z",
+    "confirmed_at": "2026-07-28T14:27:12Z",
+    "osv_earliest_published_at": "2026-07-28T13:33:43Z",
+    "source_published_at": "2026-07-28T13:33:43Z",
+    "observed_at": "2026-07-28T14:27:12Z",
+    "ingested_at": "2026-07-28T14:27:12Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:23:02Z",
-    "ledger_committed_at": "2026-07-29T00:23:02Z"
+    "ledger_commit_at": "2026-07-29T00:22:58Z",
+    "ledger_committed_at": "2026-07-29T00:22:58Z"
+  },
+  {
+    "id": "react-tabulix-query-2026-07-28",
+    "display_name": "react-tabulix-query",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-tabulix-query",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "0.1.2",
+          "0.1.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11015",
+            "osv_published_at": "2026-07-22T16:31:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T14:27:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T14:27:16Z",
+    "osv_earliest_published_at": "2026-07-22T16:31:11Z",
+    "source_published_at": "2026-07-22T16:31:11Z",
+    "observed_at": "2026-07-28T14:27:16Z",
+    "ingested_at": "2026-07-28T14:27:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:23:06Z",
+    "ledger_committed_at": "2026-07-29T00:23:06Z"
   }
 ]
