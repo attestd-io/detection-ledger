@@ -1,0 +1,37 @@
+{
+  "id": "wagni-bot-metemask-sdk-2026-07-28",
+  "display_name": "@wagni_bot/metemask-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@wagni_bot/metemask-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10028",
+          "osv_published_at": "2026-07-09T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-28T08:04:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-28T08:04:40Z",
+  "osv_earliest_published_at": "2026-07-09T00:00:00Z",
+  "source_published_at": "2026-07-09T00:00:00Z",
+  "observed_at": "2026-07-28T08:04:40Z",
+  "ingested_at": "2026-07-28T08:04:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-29T00:20:02Z",
+  "ledger_committed_at": "2026-07-29T00:20:02Z"
+}
