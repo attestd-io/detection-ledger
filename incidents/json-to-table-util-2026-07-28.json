@@ -1,0 +1,37 @@
+{
+  "id": "json-to-table-util-2026-07-28",
+  "display_name": "json-to-table-util",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "json-to-table-util",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11119",
+          "osv_published_at": "2026-07-28T08:16:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-28T08:35:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-28T08:35:40Z",
+  "osv_earliest_published_at": "2026-07-28T08:16:24Z",
+  "source_published_at": "2026-07-28T08:16:24Z",
+  "observed_at": "2026-07-28T08:35:40Z",
+  "ingested_at": "2026-07-28T08:35:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-29T00:20:48Z",
+  "ledger_committed_at": "2026-07-29T00:20:48Z"
+}
