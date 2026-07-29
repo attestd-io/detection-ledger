@@ -107792,8 +107792,7 @@
         "package": "roles-royce",
         "ecosystem": "pypi",
         "versions": [
-          "2.1.0",
-          "2.1.1"
+          "2.1.0"
         ],
         "osv_entries": [
           {
@@ -107804,12 +107803,12 @@
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-20T18:26:50Z",
+    "attestd_detected_at": "2026-07-24T10:31:31Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-24T10:31:31Z",
     "osv_earliest_published_at": "2026-07-20T17:53:19Z",
     "source_published_at": "2026-07-20T17:53:19Z",
-    "observed_at": "2026-07-20T18:26:50Z",
+    "observed_at": "2026-07-24T10:31:31Z",
     "ingested_at": "2026-07-24T10:31:31Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
@@ -107817,8 +107816,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:15:25Z",
-    "ledger_committed_at": "2026-07-29T00:15:25Z"
+    "ledger_commit_at": "2026-07-24T10:31:58Z",
+    "ledger_committed_at": "2026-07-24T10:31:58Z"
   },
   {
     "id": "mrmustard-2026-07-24",
@@ -108897,40 +108896,40 @@
     "ledger_committed_at": "2026-07-29T00:15:14Z"
   },
   {
-    "id": "tilaver-mfa-2026-07-20",
-    "display_name": "tilaver-mfa",
+    "id": "defi-kit-2026-07-20",
+    "display_name": "defi-kit",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tilaver-mfa",
-        "ecosystem": "npm",
+        "package": "defi-kit",
+        "ecosystem": "pypi",
         "versions": [
-          "1.0.0"
+          "2.1.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10925",
-            "osv_published_at": "2026-07-20T17:42:36Z"
+            "osv_id": "MAL-2026-10926",
+            "osv_published_at": "2026-07-20T17:49:55Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-20T18:26:45Z",
+    "attestd_detected_at": "2026-07-20T18:26:49Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-20T18:26:45Z",
-    "osv_earliest_published_at": "2026-07-20T17:42:36Z",
-    "source_published_at": "2026-07-20T17:42:36Z",
-    "observed_at": "2026-07-20T18:26:45Z",
-    "ingested_at": "2026-07-20T18:26:45Z",
+    "confirmed_at": "2026-07-20T18:26:49Z",
+    "osv_earliest_published_at": "2026-07-20T17:49:55Z",
+    "source_published_at": "2026-07-20T17:49:55Z",
+    "observed_at": "2026-07-20T18:26:49Z",
+    "ingested_at": "2026-07-20T18:26:49Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:15:19Z",
-    "ledger_committed_at": "2026-07-29T00:15:19Z"
+    "ledger_commit_at": "2026-07-29T00:15:20Z",
+    "ledger_committed_at": "2026-07-29T00:15:20Z"
   }
 ]
