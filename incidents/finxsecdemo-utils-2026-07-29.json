@@ -1,0 +1,37 @@
+{
+  "id": "finxsecdemo-utils-2026-07-29",
+  "display_name": "@finxsecdemo/utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@finxsecdemo/utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11170",
+          "osv_published_at": "2026-07-29T08:30:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-29T09:40:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-29T09:40:13Z",
+  "osv_earliest_published_at": "2026-07-29T08:30:33Z",
+  "source_published_at": "2026-07-29T08:30:33Z",
+  "observed_at": "2026-07-29T09:40:13Z",
+  "ingested_at": "2026-07-29T09:40:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-29T09:40:15Z",
+  "ledger_committed_at": "2026-07-29T09:40:15Z"
+}
