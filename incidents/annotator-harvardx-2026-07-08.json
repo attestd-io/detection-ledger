@@ -10,14 +10,19 @@
       "versions": [
         "9.0.2"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6930",
+          "osv_published_at": "2026-07-07T15:34:02Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-07-08T22:56:49Z",
   "flagged_at": null,
   "confirmed_at": "2026-07-08T22:56:49Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-07-07T15:34:02Z",
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": "2026-07-08T22:57:17Z",
@@ -25,5 +30,9 @@
     "https://osv.dev/vulnerability/MAL-2026-6930"
   ],
   "advisory_url": "https://osv.dev/vulnerability/MAL-2026-6930",
-  "ledger_commit_at": "2026-07-08T22:57:17Z"
+  "ledger_commit_at": "2026-07-29T00:18:51Z",
+  "source_published_at": "2026-07-07T15:34:02Z",
+  "observed_at": "2026-07-08T22:56:49Z",
+  "ingested_at": "2026-07-08T22:56:49Z",
+  "ledger_committed_at": "2026-07-29T00:18:51Z"
 }
