@@ -111603,33 +111603,33 @@
     "ledger_committed_at": "2026-07-29T00:24:07Z"
   },
   {
-    "id": "xerohub-discord-voice-v2-2026-07-28",
-    "display_name": "xerohub-discord-voice-v2",
+    "id": "triage-bot-using-sdkv3-2026-07-28",
+    "display_name": "triage_bot_using_sdkv3",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "xerohub-discord-voice-v2",
+        "package": "triage_bot_using_sdkv3",
         "ecosystem": "npm",
         "versions": [
-          "1.8.0"
+          "2.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11154",
-            "osv_published_at": "2026-07-28T13:30:27Z"
+            "osv_id": "MAL-2026-11153",
+            "osv_published_at": "2026-07-28T13:32:27Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-28T14:27:44Z",
+    "attestd_detected_at": "2026-07-28T14:27:42Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-28T14:27:44Z",
-    "osv_earliest_published_at": "2026-07-28T13:30:27Z",
-    "source_published_at": "2026-07-28T13:30:27Z",
-    "observed_at": "2026-07-28T14:27:44Z",
-    "ingested_at": "2026-07-28T14:27:44Z",
+    "confirmed_at": "2026-07-28T14:27:42Z",
+    "osv_earliest_published_at": "2026-07-28T13:32:27Z",
+    "source_published_at": "2026-07-28T13:32:27Z",
+    "observed_at": "2026-07-28T14:27:42Z",
+    "ingested_at": "2026-07-28T14:27:42Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -111638,5 +111638,81 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-29T00:24:12Z",
     "ledger_committed_at": "2026-07-29T00:24:12Z"
+  },
+  {
+    "id": "xerohub-discord-voice-v3-2026-07-28",
+    "display_name": "xerohub-discord-voice-v3",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "xerohub-discord-voice-v3",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.0",
+          "3.0.2",
+          "3.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11155",
+            "osv_published_at": "2026-07-28T13:30:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T14:27:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T14:27:45Z",
+    "osv_earliest_published_at": "2026-07-28T13:30:35Z",
+    "source_published_at": "2026-07-28T13:30:35Z",
+    "observed_at": "2026-07-28T14:27:45Z",
+    "ingested_at": "2026-07-28T14:27:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:24:17Z",
+    "ledger_committed_at": "2026-07-29T00:24:17Z"
+  },
+  {
+    "id": "vtranalytic-2026-07-28",
+    "display_name": "vtranalytic",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vtranalytic",
+        "ecosystem": "pypi",
+        "versions": [
+          "9.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11156",
+            "osv_published_at": "2026-07-28T13:42:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-28T14:28:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-28T14:28:19Z",
+    "osv_earliest_published_at": "2026-07-28T13:42:28Z",
+    "source_published_at": "2026-07-28T13:42:28Z",
+    "observed_at": "2026-07-28T14:28:19Z",
+    "ingested_at": "2026-07-28T14:28:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:24:22Z",
+    "ledger_committed_at": "2026-07-29T00:24:22Z"
   }
 ]
