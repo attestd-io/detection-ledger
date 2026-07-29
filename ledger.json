@@ -109127,41 +109127,40 @@
     "ledger_committed_at": "2026-07-29T00:16:13Z"
   },
   {
-    "id": "signzy-field-level-encrypter-2026-07-21",
-    "display_name": "signzy-field-level-encrypter",
+    "id": "fluffy-octo-broccoli-2026-07-21",
+    "display_name": "fluffy-octo-broccoli",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "signzy-field-level-encrypter",
-        "ecosystem": "npm",
+        "package": "fluffy-octo-broccoli",
+        "ecosystem": "pypi",
         "versions": [
-          "12.9.12",
-          "12.9.13"
+          "0.1.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10972",
-            "osv_published_at": "2026-07-21T05:00:53Z"
+            "osv_id": "MAL-2026-10973",
+            "osv_published_at": "2026-07-21T05:32:56Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-07-21T06:04:29Z",
+    "attestd_detected_at": "2026-07-21T07:40:05Z",
     "flagged_at": null,
-    "confirmed_at": "2026-07-21T06:04:29Z",
-    "osv_earliest_published_at": "2026-07-21T05:00:53Z",
-    "source_published_at": "2026-07-21T05:00:53Z",
-    "observed_at": "2026-07-21T06:04:29Z",
-    "ingested_at": "2026-07-21T06:04:29Z",
+    "confirmed_at": "2026-07-21T07:40:05Z",
+    "osv_earliest_published_at": "2026-07-21T05:32:56Z",
+    "source_published_at": "2026-07-21T05:32:56Z",
+    "observed_at": "2026-07-21T07:40:05Z",
+    "ingested_at": "2026-07-21T07:40:05Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:16:19Z",
-    "ledger_committed_at": "2026-07-29T00:16:19Z"
+    "ledger_commit_at": "2026-07-29T00:16:18Z",
+    "ledger_committed_at": "2026-07-29T00:16:18Z"
   }
 ]
