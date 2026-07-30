@@ -114027,14 +114027,19 @@
         "versions": [
           "0.1.15"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5213",
+            "osv_published_at": "2026-06-05T00:53:43Z"
+          }
+        ]
       }
     ],
     "malware_type": "deprecated_release",
     "attestd_detected_at": "2026-07-30T19:51:59Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-30T19:51:59Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-05T00:53:43Z",
     "source_published_at": null,
     "observed_at": "2026-07-30T19:51:59Z",
     "ingested_at": "2026-07-30T19:51:59Z",
@@ -114044,7 +114049,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/autotel-audit",
-    "ledger_commit_at": "2026-07-30T19:52:02Z",
-    "ledger_committed_at": "2026-07-30T19:52:02Z"
+    "ledger_commit_at": "2026-07-30T19:52:11Z",
+    "ledger_committed_at": "2026-07-30T19:52:11Z"
   }
 ]
