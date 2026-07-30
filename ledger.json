@@ -114064,14 +114064,19 @@
         "versions": [
           "0.3.5"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5212",
+            "osv_published_at": "2026-06-05T00:53:43Z"
+          }
+        ]
       }
     ],
     "malware_type": "deprecated_release",
     "attestd_detected_at": "2026-07-30T19:52:12Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-30T19:52:12Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-05T00:53:43Z",
     "source_published_at": null,
     "observed_at": "2026-07-30T19:52:12Z",
     "ingested_at": "2026-07-30T19:52:12Z",
@@ -114081,8 +114086,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/autotel-adapters",
-    "ledger_commit_at": "2026-07-30T19:52:18Z",
-    "ledger_committed_at": "2026-07-30T19:52:18Z"
+    "ledger_commit_at": "2026-07-30T19:52:46Z",
+    "ledger_committed_at": "2026-07-30T19:52:46Z"
   },
   {
     "id": "autotel-edge-2026-07-30",
