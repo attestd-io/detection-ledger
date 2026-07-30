@@ -114014,5 +114014,37 @@
     "advisory_url": "https://registry.npmjs.org/autotel-aws",
     "ledger_commit_at": "2026-07-30T19:51:55Z",
     "ledger_committed_at": "2026-07-30T19:51:55Z"
+  },
+  {
+    "id": "autotel-audit-2026-07-30",
+    "display_name": "autotel-audit",
+    "campaign": null,
+    "detection_source": "npm_deprecation",
+    "packages": [
+      {
+        "package": "autotel-audit",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.15"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "deprecated_release",
+    "attestd_detected_at": "2026-07-30T19:51:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-30T19:51:59Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-07-30T19:51:59Z",
+    "ingested_at": "2026-07-30T19:51:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/autotel-audit",
+    "ledger_commit_at": "2026-07-30T19:52:02Z",
+    "ledger_committed_at": "2026-07-30T19:52:02Z"
   }
 ]
