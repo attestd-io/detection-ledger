@@ -114180,5 +114180,43 @@
     "advisory_url": "https://registry.npmjs.org/autotel",
     "ledger_commit_at": "2026-07-30T19:52:59Z",
     "ledger_committed_at": "2026-07-30T19:52:59Z"
+  },
+  {
+    "id": "ml-data-shared-2026-07-30",
+    "display_name": "ml-data-shared",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ml-data-shared",
+        "ecosystem": "pypi",
+        "versions": [
+          "12.0.1",
+          "16.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11199",
+            "osv_published_at": "2026-07-30T21:51:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-30T22:06:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-30T22:06:28Z",
+    "osv_earliest_published_at": "2026-07-30T21:51:01Z",
+    "source_published_at": "2026-07-30T21:51:01Z",
+    "observed_at": "2026-07-30T22:06:28Z",
+    "ingested_at": "2026-07-30T22:06:28Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-30T22:06:30Z",
+    "ledger_committed_at": "2026-07-30T22:06:30Z"
   }
 ]
