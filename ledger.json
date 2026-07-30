@@ -114101,14 +114101,19 @@
         "versions": [
           "3.16.13"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5220",
+            "osv_published_at": "2026-06-05T00:53:43Z"
+          }
+        ]
       }
     ],
     "malware_type": "deprecated_release",
     "attestd_detected_at": "2026-07-30T19:52:15Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-30T19:52:15Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-05T00:53:43Z",
     "source_published_at": null,
     "observed_at": "2026-07-30T19:52:15Z",
     "ingested_at": "2026-07-30T19:52:15Z",
@@ -114118,8 +114123,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/autotel-edge",
-    "ledger_commit_at": "2026-07-30T19:52:25Z",
-    "ledger_committed_at": "2026-07-30T19:52:25Z"
+    "ledger_commit_at": "2026-07-30T19:52:53Z",
+    "ledger_committed_at": "2026-07-30T19:52:53Z"
   },
   {
     "id": "autotel-2026-07-30",
