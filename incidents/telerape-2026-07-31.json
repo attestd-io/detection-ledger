@@ -1,0 +1,39 @@
+{
+  "id": "telerape-2026-07-31",
+  "display_name": "telerape",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "telerape",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.0.dev0",
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11424",
+          "osv_published_at": "2026-07-31T22:25:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-07-31T23:01:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-31T23:01:40Z",
+  "osv_earliest_published_at": "2026-07-31T22:25:45Z",
+  "source_published_at": "2026-07-31T22:25:45Z",
+  "observed_at": "2026-07-31T23:01:40Z",
+  "ingested_at": "2026-07-31T23:01:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-07-31T23:01:42Z",
+  "ledger_committed_at": "2026-07-31T23:01:42Z"
+}
