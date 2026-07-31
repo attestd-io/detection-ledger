@@ -114443,5 +114443,42 @@
     "advisory_url": "https://github.com/ossf/malicious-packages/issues/1373",
     "ledger_commit_at": "2026-07-31T00:09:09Z",
     "ledger_committed_at": "2026-07-31T00:09:09Z"
+  },
+  {
+    "id": "redis-type-xyz-2026-07-31",
+    "display_name": "redis-type-xyz",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "redis-type-xyz",
+        "ecosystem": "npm",
+        "versions": [
+          "1.10.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11205",
+            "osv_published_at": "2026-06-17T07:56:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-07-31T00:09:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-07-31T00:09:01Z",
+    "osv_earliest_published_at": "2026-06-17T07:56:44Z",
+    "source_published_at": "2026-06-17T07:56:44Z",
+    "observed_at": "2026-07-31T00:09:01Z",
+    "ingested_at": "2026-07-31T00:09:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://github.com/ossf/malicious-packages/issues/1373",
+    "ledger_commit_at": "2026-07-31T00:09:16Z",
+    "ledger_committed_at": "2026-07-31T00:09:16Z"
   }
 ]
