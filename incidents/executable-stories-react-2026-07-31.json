@@ -1,0 +1,32 @@
+{
+  "id": "executable-stories-react-2026-07-31",
+  "display_name": "executable-stories-react",
+  "campaign": null,
+  "detection_source": "npm_deprecation",
+  "packages": [
+    {
+      "package": "executable-stories-react",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.7"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "deprecated_release",
+  "attestd_detected_at": "2026-07-31T19:09:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-07-31T19:09:55Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-07-31T19:09:55Z",
+  "ingested_at": "2026-07-31T19:09:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/executable-stories-react",
+  "ledger_commit_at": "2026-07-31T19:10:02Z",
+  "ledger_committed_at": "2026-07-31T19:10:02Z"
+}
