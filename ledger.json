@@ -115081,5 +115081,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-01T11:58:03Z",
     "ledger_committed_at": "2026-08-01T11:58:03Z"
+  },
+  {
+    "id": "pp-react-worldready-2026-08-01",
+    "display_name": "pp-react-worldready",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pp-react-worldready",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11427",
+            "osv_published_at": "2026-08-01T13:40:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-01T14:56:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-01T14:56:58Z",
+    "osv_earliest_published_at": "2026-08-01T13:40:50Z",
+    "source_published_at": "2026-08-01T13:40:50Z",
+    "observed_at": "2026-08-01T14:56:58Z",
+    "ingested_at": "2026-08-01T14:56:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-01T14:57:01Z",
+    "ledger_committed_at": "2026-08-01T14:57:01Z"
   }
 ]
