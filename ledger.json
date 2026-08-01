@@ -115043,5 +115043,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-07-31T23:01:42Z",
     "ledger_committed_at": "2026-07-31T23:01:42Z"
+  },
+  {
+    "id": "nvtorch-oot-nightly-2026-08-01",
+    "display_name": "nvtorch-oot-nightly",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nvtorch-oot-nightly",
+        "ecosystem": "pypi",
+        "versions": [
+          "99999.0.0",
+          "99999.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11425",
+            "osv_published_at": "2026-08-01T10:58:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-01T11:58:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-01T11:58:01Z",
+    "osv_earliest_published_at": "2026-08-01T10:58:03Z",
+    "source_published_at": "2026-08-01T10:58:03Z",
+    "observed_at": "2026-08-01T11:58:01Z",
+    "ingested_at": "2026-08-01T11:58:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-01T11:58:03Z",
+    "ledger_committed_at": "2026-08-01T11:58:03Z"
   }
 ]
