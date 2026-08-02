@@ -115936,5 +115936,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-02T23:35:40Z",
     "ledger_committed_at": "2026-08-02T23:35:40Z"
+  },
+  {
+    "id": "maximumsats-mcp-2026-08-02",
+    "display_name": "maximumsats-mcp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "maximumsats-mcp",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11471",
+            "osv_published_at": "2026-07-31T21:55:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-02T23:34:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-02T23:34:15Z",
+    "osv_earliest_published_at": "2026-07-31T21:55:27Z",
+    "source_published_at": "2026-07-31T21:55:27Z",
+    "observed_at": "2026-08-02T23:34:15Z",
+    "ingested_at": "2026-08-02T23:34:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-02T23:35:46Z",
+    "ledger_committed_at": "2026-08-02T23:35:46Z"
   }
 ]
