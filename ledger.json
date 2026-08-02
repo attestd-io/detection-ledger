@@ -115118,5 +115118,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-01T14:57:01Z",
     "ledger_committed_at": "2026-08-01T14:57:01Z"
+  },
+  {
+    "id": "wacve-utils-2026-08-02",
+    "display_name": "wacve-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wacve-utils",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11428",
+            "osv_published_at": "2026-08-02T10:33:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-02T11:17:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-02T11:17:41Z",
+    "osv_earliest_published_at": "2026-08-02T10:33:07Z",
+    "source_published_at": "2026-08-02T10:33:07Z",
+    "observed_at": "2026-08-02T11:17:41Z",
+    "ingested_at": "2026-08-02T11:17:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-02T11:17:43Z",
+    "ledger_committed_at": "2026-08-02T11:17:43Z"
   }
 ]
