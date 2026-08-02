@@ -115266,5 +115266,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-02T23:32:44Z",
     "ledger_committed_at": "2026-08-02T23:32:44Z"
+  },
+  {
+    "id": "adpanel-core-2026-08-02",
+    "display_name": "adpanel-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "adpanel-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11453",
+            "osv_published_at": "2026-07-31T21:55:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-02T23:33:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-02T23:33:49Z",
+    "osv_earliest_published_at": "2026-07-31T21:55:22Z",
+    "source_published_at": "2026-07-31T21:55:22Z",
+    "observed_at": "2026-08-02T23:33:49Z",
+    "ingested_at": "2026-08-02T23:33:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-02T23:33:52Z",
+    "ledger_committed_at": "2026-08-02T23:33:52Z"
   }
 ]
