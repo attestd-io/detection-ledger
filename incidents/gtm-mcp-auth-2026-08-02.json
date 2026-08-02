@@ -1,0 +1,37 @@
+{
+  "id": "gtm-mcp-auth-2026-08-02",
+  "display_name": "gtm-mcp-auth",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gtm-mcp-auth",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11464",
+          "osv_published_at": "2026-07-31T21:59:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-02T23:34:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-02T23:34:01Z",
+  "osv_earliest_published_at": "2026-07-31T21:59:48Z",
+  "source_published_at": "2026-07-31T21:59:48Z",
+  "observed_at": "2026-08-02T23:34:01Z",
+  "ingested_at": "2026-08-02T23:34:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-02T23:34:55Z",
+  "ledger_committed_at": "2026-08-02T23:34:55Z"
+}
