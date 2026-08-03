@@ -114834,14 +114834,19 @@
         "versions": [
           "0.3.3"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5255",
+            "osv_published_at": "2026-06-05T00:53:43Z"
+          }
+        ]
       }
     ],
     "malware_type": "deprecated_release",
     "attestd_detected_at": "2026-07-31T19:09:52Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-31T19:09:52Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-05T00:53:43Z",
     "source_published_at": null,
     "observed_at": "2026-07-31T19:09:52Z",
     "ingested_at": "2026-07-31T19:09:52Z",
@@ -114851,8 +114856,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/executable-stories-mcp",
-    "ledger_commit_at": "2026-07-31T19:09:56Z",
-    "ledger_committed_at": "2026-07-31T19:09:56Z"
+    "ledger_commit_at": "2026-08-03T20:29:28Z",
+    "ledger_committed_at": "2026-08-03T20:29:28Z"
   },
   {
     "id": "executable-stories-react-2026-07-31",
