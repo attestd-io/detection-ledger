@@ -116531,5 +116531,39 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-03T17:35:09Z",
     "ledger_committed_at": "2026-08-03T17:35:09Z"
+  },
+  {
+    "id": "lib-mtop-2026-08-03",
+    "display_name": "lib-mtop",
+    "campaign": null,
+    "detection_source": "news_monitor",
+    "packages": [
+      {
+        "package": "lib-mtop",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-03T18:43:53Z",
+    "flagged_at": "2026-08-03T18:43:53Z",
+    "confirmed_at": null,
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-03T18:43:53Z",
+    "ingested_at": "2026-08-03T18:43:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+    "ledger_commit_at": "2026-08-03T19:28:43Z",
+    "ledger_committed_at": "2026-08-03T19:28:43Z"
   }
 ]
