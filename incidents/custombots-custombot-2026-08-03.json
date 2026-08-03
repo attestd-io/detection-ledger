@@ -1,0 +1,37 @@
+{
+  "id": "custombots-custombot-2026-08-03",
+  "display_name": "@custombots/custombot",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@custombots/custombot",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11498",
+          "osv_published_at": "2026-08-02T02:43:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-03T00:05:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-03T00:05:32Z",
+  "osv_earliest_published_at": "2026-08-02T02:43:26Z",
+  "source_published_at": "2026-08-02T02:43:26Z",
+  "observed_at": "2026-08-03T00:05:32Z",
+  "ingested_at": "2026-08-03T00:05:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-03T00:05:35Z",
+  "ledger_committed_at": "2026-08-03T00:05:35Z"
+}
