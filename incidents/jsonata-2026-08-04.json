@@ -1,0 +1,37 @@
+{
+  "id": "jsonata-2026-08-04",
+  "display_name": "jsonata",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jsonata",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-86vw-mfpg-wwv9",
+          "osv_published_at": "2026-07-02T20:13:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T02:33:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T02:33:42Z",
+  "osv_earliest_published_at": "2026-07-02T20:13:55Z",
+  "source_published_at": "2026-07-02T20:13:55Z",
+  "observed_at": "2026-08-04T02:33:42Z",
+  "ingested_at": "2026-08-04T02:33:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T02:33:44Z",
+  "ledger_committed_at": "2026-08-04T02:33:44Z"
+}
