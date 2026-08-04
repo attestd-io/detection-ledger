@@ -118564,5 +118564,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-04T22:42:06Z",
     "ledger_committed_at": "2026-08-04T22:42:06Z"
+  },
+  {
+    "id": "entropyeasybots-2026-08-04",
+    "display_name": "entropyeasybots",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "entropyeasybots",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11539",
+            "osv_published_at": "2026-08-04T22:07:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-04T22:40:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T22:40:48Z",
+    "osv_earliest_published_at": "2026-08-04T22:07:52Z",
+    "source_published_at": "2026-08-04T22:07:52Z",
+    "observed_at": "2026-08-04T22:40:48Z",
+    "ingested_at": "2026-08-04T22:40:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T22:42:16Z",
+    "ledger_committed_at": "2026-08-04T22:42:16Z"
   }
 ]
