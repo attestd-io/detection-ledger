@@ -1,0 +1,39 @@
+{
+  "id": "react-fast-refresh-helper-2026-08-04",
+  "display_name": "react-fast-refresh-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react-fast-refresh-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.4",
+        "1.2.5",
+        "1.2.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11366",
+          "osv_published_at": "2026-07-30T12:29:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T21:48:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T21:48:15Z",
+  "osv_earliest_published_at": "2026-07-30T12:29:38Z",
+  "source_published_at": "2026-07-30T12:29:38Z",
+  "observed_at": "2026-08-04T21:48:15Z",
+  "ingested_at": "2026-08-04T21:48:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T21:50:05Z",
+  "ledger_committed_at": "2026-08-04T21:50:05Z"
+}
