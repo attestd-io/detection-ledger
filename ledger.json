@@ -116913,5 +116913,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-04T10:36:41Z",
     "ledger_committed_at": "2026-08-04T10:36:41Z"
+  },
+  {
+    "id": "psbt-helpers-2026-08-04",
+    "display_name": "psbt-helpers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "psbt-helpers",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11521",
+            "osv_published_at": "2026-08-04T10:17:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-04T11:37:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T11:37:59Z",
+    "osv_earliest_published_at": "2026-08-04T10:17:07Z",
+    "source_published_at": "2026-08-04T10:17:07Z",
+    "observed_at": "2026-08-04T11:37:59Z",
+    "ingested_at": "2026-08-04T11:37:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T11:38:02Z",
+    "ledger_committed_at": "2026-08-04T11:38:02Z"
   }
 ]
