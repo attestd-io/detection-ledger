@@ -116988,7 +116988,7 @@
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-04T13:30:23Z",
     "flagged_at": "2026-08-04T13:30:23Z",
-    "confirmed_at": "2026-08-04T22:38:35Z",
+    "confirmed_at": "2026-08-04T22:38:48Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
     "observed_at": "2026-08-04T13:30:23Z",
@@ -116996,11 +116996,13 @@
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
+    "press_coverage_at": "2026-08-04T13:30:23Z",
+    "press_urls": [
+      "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html"
+    ],
     "advisory_url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-    "ledger_commit_at": "2026-08-04T22:38:35Z",
-    "ledger_committed_at": "2026-08-04T22:38:35Z"
+    "ledger_commit_at": "2026-08-04T22:38:48Z",
+    "ledger_committed_at": "2026-08-04T22:38:48Z"
   },
   {
     "id": "file-entry-cache-2026-08-04",
@@ -117997,43 +117999,5 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-04T22:37:34Z",
     "ledger_committed_at": "2026-08-04T22:37:34Z"
-  },
-  {
-    "id": "peptide-unit-js-unimode-2026-08-04",
-    "display_name": "@peptide-unit/js-unimode",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@peptide-unit/js-unimode",
-        "ecosystem": "npm",
-        "versions": [
-          "1.1.12",
-          "1.1.13"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11177",
-            "osv_published_at": "2026-07-29T16:15:24Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-04T22:38:40Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-04T22:38:40Z",
-    "osv_earliest_published_at": "2026-07-29T16:15:24Z",
-    "source_published_at": "2026-07-29T16:15:24Z",
-    "observed_at": "2026-08-04T22:38:40Z",
-    "ingested_at": "2026-08-04T22:38:40Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T22:38:42Z",
-    "ledger_committed_at": "2026-08-04T22:38:42Z"
   }
 ]
