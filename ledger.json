@@ -118001,40 +118001,115 @@
     "ledger_committed_at": "2026-08-04T22:37:34Z"
   },
   {
-    "id": "zzzgenesis00-crypto-config-2026-08-04",
-    "display_name": "@zzzgenesis00/crypto-config",
+    "id": "vaultflow-update-flow-2026-08-04",
+    "display_name": "@vaultflow/update-flow",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@zzzgenesis00/crypto-config",
+        "package": "@vaultflow/update-flow",
         "ecosystem": "npm",
         "versions": [
-          "2.0.1"
+          "1.0.0",
+          "1.2.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11529",
-            "osv_published_at": "2026-08-04T22:08:55Z"
+            "osv_id": "MAL-2026-11097",
+            "osv_published_at": "2026-07-28T00:41:14Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-04T22:39:59Z",
+    "attestd_detected_at": "2026-08-04T22:39:57Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-04T22:39:59Z",
-    "osv_earliest_published_at": "2026-08-04T22:08:55Z",
-    "source_published_at": "2026-08-04T22:08:55Z",
-    "observed_at": "2026-08-04T22:39:59Z",
-    "ingested_at": "2026-08-04T22:39:59Z",
+    "confirmed_at": "2026-08-04T22:39:57Z",
+    "osv_earliest_published_at": "2026-07-28T00:41:14Z",
+    "source_published_at": "2026-07-28T00:41:14Z",
+    "observed_at": "2026-08-04T22:39:57Z",
+    "ingested_at": "2026-08-04T22:39:57Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T22:40:04Z",
-    "ledger_committed_at": "2026-08-04T22:40:04Z"
+    "ledger_commit_at": "2026-08-04T22:40:00Z",
+    "ledger_committed_at": "2026-08-04T22:40:00Z"
+  },
+  {
+    "id": "zzzgenesis00-etherjs-2026-08-04",
+    "display_name": "@zzzgenesis00/etherjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@zzzgenesis00/etherjs",
+        "ecosystem": "npm",
+        "versions": [
+          "6.15.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11530",
+            "osv_published_at": "2026-08-04T22:09:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-04T22:40:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T22:40:01Z",
+    "osv_earliest_published_at": "2026-08-04T22:09:03Z",
+    "source_published_at": "2026-08-04T22:09:03Z",
+    "observed_at": "2026-08-04T22:40:01Z",
+    "ingested_at": "2026-08-04T22:40:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T22:40:07Z",
+    "ledger_committed_at": "2026-08-04T22:40:07Z"
+  },
+  {
+    "id": "zzzgenesis00-hdkey-wallet-2026-08-04",
+    "display_name": "@zzzgenesis00/hdkey-wallet",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@zzzgenesis00/hdkey-wallet",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11531",
+            "osv_published_at": "2026-08-04T22:07:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-04T22:40:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T22:40:02Z",
+    "osv_earliest_published_at": "2026-08-04T22:07:43Z",
+    "source_published_at": "2026-08-04T22:07:43Z",
+    "observed_at": "2026-08-04T22:40:02Z",
+    "ingested_at": "2026-08-04T22:40:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T22:40:14Z",
+    "ledger_committed_at": "2026-08-04T22:40:14Z"
   }
 ]
