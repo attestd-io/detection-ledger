@@ -1,0 +1,37 @@
+{
+  "id": "syft-acp-util-2026-08-04",
+  "display_name": "syft-acp-util",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "syft-acp-util",
+      "ecosystem": "npm",
+      "versions": [
+        "17.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10767",
+          "osv_published_at": "2026-07-16T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:42:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:42:02Z",
+  "osv_earliest_published_at": "2026-07-16T00:00:00Z",
+  "source_published_at": "2026-07-16T00:00:00Z",
+  "observed_at": "2026-08-04T22:42:02Z",
+  "ingested_at": "2026-08-04T22:42:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:46:01Z",
+  "ledger_committed_at": "2026-08-04T22:46:01Z"
+}
