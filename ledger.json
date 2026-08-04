@@ -117924,44 +117924,41 @@
     "ledger_committed_at": "2026-08-04T22:35:04Z"
   },
   {
-    "id": "fazzcode-baileys-2026-08-04",
-    "display_name": "@fazzcode/baileys",
+    "id": "ks-openclaw-kim-2026-08-04",
+    "display_name": "@ks-openclaw/kim",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@fazzcode/baileys",
+        "package": "@ks-openclaw/kim",
         "ecosystem": "npm",
         "versions": [
-          "2.5.3",
-          "2.5.4",
-          "2.5.5",
-          "2.5.6",
-          "2.5.7"
+          "99.0.0",
+          "99.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11073",
-            "osv_published_at": "2026-07-27T01:03:56Z"
+            "osv_id": "MAL-2026-11528",
+            "osv_published_at": "2026-08-04T22:04:54Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-04T22:36:03Z",
+    "attestd_detected_at": "2026-08-04T22:36:05Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-04T22:36:03Z",
-    "osv_earliest_published_at": "2026-07-27T01:03:56Z",
-    "source_published_at": "2026-07-27T01:03:56Z",
-    "observed_at": "2026-08-04T22:36:03Z",
-    "ingested_at": "2026-08-04T22:36:03Z",
+    "confirmed_at": "2026-08-04T22:36:05Z",
+    "osv_earliest_published_at": "2026-08-04T22:04:54Z",
+    "source_published_at": "2026-08-04T22:04:54Z",
+    "observed_at": "2026-08-04T22:36:05Z",
+    "ingested_at": "2026-08-04T22:36:05Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T22:36:06Z",
-    "ledger_committed_at": "2026-08-04T22:36:06Z"
+    "ledger_commit_at": "2026-08-04T22:36:10Z",
+    "ledger_committed_at": "2026-08-04T22:36:10Z"
   }
 ]
