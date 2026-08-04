@@ -119418,5 +119418,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-04T22:45:38Z",
     "ledger_committed_at": "2026-08-04T22:45:38Z"
+  },
+  {
+    "id": "syft-acp-core-2026-08-04",
+    "display_name": "syft-acp-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "syft-acp-core",
+        "ecosystem": "npm",
+        "versions": [
+          "16.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10765",
+            "osv_published_at": "2026-07-16T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-04T22:42:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T22:42:00Z",
+    "osv_earliest_published_at": "2026-07-16T00:00:00Z",
+    "source_published_at": "2026-07-16T00:00:00Z",
+    "observed_at": "2026-08-04T22:42:00Z",
+    "ingested_at": "2026-08-04T22:42:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T22:45:49Z",
+    "ledger_committed_at": "2026-08-04T22:45:49Z"
   }
 ]
