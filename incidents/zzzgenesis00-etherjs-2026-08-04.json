@@ -1,0 +1,37 @@
+{
+  "id": "zzzgenesis00-etherjs-2026-08-04",
+  "display_name": "@zzzgenesis00/etherjs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@zzzgenesis00/etherjs",
+      "ecosystem": "npm",
+      "versions": [
+        "6.15.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11530",
+          "osv_published_at": "2026-08-04T22:09:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:40:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:40:01Z",
+  "osv_earliest_published_at": "2026-08-04T22:09:03Z",
+  "source_published_at": "2026-08-04T22:09:03Z",
+  "observed_at": "2026-08-04T22:40:01Z",
+  "ingested_at": "2026-08-04T22:40:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:40:07Z",
+  "ledger_committed_at": "2026-08-04T22:40:07Z"
+}
