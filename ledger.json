@@ -117962,35 +117962,40 @@
     "ledger_committed_at": "2026-08-04T22:36:10Z"
   },
   {
-    "id": "storyclaw-assistant-2026-08-04",
-    "display_name": "storyclaw-assistant",
-    "campaign": "ks-openclaw",
-    "detection_source": "npm_registry",
+    "id": "peptide-packets-js-unimode-2026-08-04",
+    "display_name": "@peptide-packets/js-unimode",
+    "campaign": null,
+    "detection_source": "osv",
     "packages": [
       {
-        "package": "storyclaw-assistant",
+        "package": "@peptide-packets/js-unimode",
         "ecosystem": "npm",
         "versions": [
-          "2026.6.11-13"
+          "1.1.1"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11447",
+            "osv_published_at": "2026-07-31T04:49:57Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-04T22:37:29Z",
+    "attestd_detected_at": "2026-08-04T22:37:31Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-04T22:37:29Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-04T22:37:29Z",
-    "ingested_at": "2026-08-04T22:37:29Z",
+    "confirmed_at": "2026-08-04T22:37:31Z",
+    "osv_earliest_published_at": "2026-07-31T04:49:57Z",
+    "source_published_at": "2026-07-31T04:49:57Z",
+    "observed_at": "2026-08-04T22:37:31Z",
+    "ingested_at": "2026-08-04T22:37:31Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/storyclaw-assistant",
-    "ledger_commit_at": "2026-08-04T22:37:31Z",
-    "ledger_committed_at": "2026-08-04T22:37:31Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T22:37:34Z",
+    "ledger_committed_at": "2026-08-04T22:37:34Z"
   }
 ]
