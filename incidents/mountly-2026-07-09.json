@@ -10,18 +10,24 @@
       "versions": [
         "0.2.2"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5260",
+          "osv_published_at": "2026-06-05T00:53:43Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-07-09T13:42:35Z",
   "flagged_at": null,
   "confirmed_at": "2026-07-09T13:42:35Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-05T00:53:43Z",
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/mountly",
-  "ledger_commit_at": "2026-07-09T13:42:37Z"
+  "ledger_commit_at": "2026-08-04T21:56:16Z",
+  "ledger_committed_at": "2026-08-04T21:56:16Z"
 }

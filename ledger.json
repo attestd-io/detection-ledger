@@ -43196,20 +43196,26 @@
         "versions": [
           "0.2.2"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5260",
+            "osv_published_at": "2026-06-05T00:53:43Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-07-09T13:42:35Z",
     "flagged_at": null,
     "confirmed_at": "2026-07-09T13:42:35Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-05T00:53:43Z",
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/mountly",
-    "ledger_commit_at": "2026-07-09T13:42:37Z"
+    "ledger_commit_at": "2026-08-04T21:56:16Z",
+    "ledger_committed_at": "2026-08-04T21:56:16Z"
   },
   {
     "id": "polyfea-service-worker-2026-07-09",
@@ -117846,37 +117852,37 @@
     "ledger_committed_at": "2026-08-04T21:51:46Z"
   },
   {
-    "id": "executable-stories-vitest-2026-08-04",
-    "display_name": "executable-stories-vitest",
+    "id": "executable-stories-playwright-2026-08-04",
+    "display_name": "executable-stories-playwright",
     "campaign": null,
     "detection_source": "npm_deprecation",
     "packages": [
       {
-        "package": "executable-stories-vitest",
+        "package": "executable-stories-playwright",
         "ecosystem": "npm",
         "versions": [
-          "4.0.1",
+          "3.1.1",
           "7.0.3",
-          "8.3.3"
+          "8.4.3"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "deprecated_release",
-    "attestd_detected_at": "2026-08-04T21:56:10Z",
+    "attestd_detected_at": "2026-08-04T21:56:06Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-04T21:56:10Z",
+    "confirmed_at": "2026-08-04T21:56:06Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-04T21:56:10Z",
-    "ingested_at": "2026-08-04T21:56:10Z",
+    "observed_at": "2026-08-04T21:56:06Z",
+    "ingested_at": "2026-08-04T21:56:06Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/executable-stories-vitest",
-    "ledger_commit_at": "2026-08-04T21:56:15Z",
-    "ledger_committed_at": "2026-08-04T21:56:15Z"
+    "advisory_url": "https://registry.npmjs.org/executable-stories-playwright",
+    "ledger_commit_at": "2026-08-04T21:56:09Z",
+    "ledger_committed_at": "2026-08-04T21:56:09Z"
   }
 ]
