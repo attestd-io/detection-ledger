@@ -1,0 +1,37 @@
+{
+  "id": "animated-css-kit-2026-08-04",
+  "display_name": "animated-css-kit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "animated-css-kit",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10432",
+          "osv_published_at": "2026-07-13T09:21:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:40:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:40:12Z",
+  "osv_earliest_published_at": "2026-07-13T09:21:32Z",
+  "source_published_at": "2026-07-13T09:21:32Z",
+  "observed_at": "2026-08-04T22:40:12Z",
+  "ingested_at": "2026-08-04T22:40:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:40:51Z",
+  "ledger_committed_at": "2026-08-04T22:40:51Z"
+}
