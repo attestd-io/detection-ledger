@@ -117504,5 +117504,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-04T21:49:11Z",
     "ledger_committed_at": "2026-08-04T21:49:11Z"
+  },
+  {
+    "id": "nagix-node-2026-08-04",
+    "display_name": "nagix-node",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nagix-node",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11525",
+            "osv_published_at": "2026-08-04T21:10:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-04T21:48:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T21:48:09Z",
+    "osv_earliest_published_at": "2026-08-04T21:10:55Z",
+    "source_published_at": "2026-08-04T21:10:55Z",
+    "observed_at": "2026-08-04T21:48:09Z",
+    "ingested_at": "2026-08-04T21:48:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T21:49:47Z",
+    "ledger_committed_at": "2026-08-04T21:49:47Z"
   }
 ]
