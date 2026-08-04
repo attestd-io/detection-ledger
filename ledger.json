@@ -118222,5 +118222,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-04T22:40:44Z",
     "ledger_committed_at": "2026-08-04T22:40:44Z"
+  },
+  {
+    "id": "axios-native-2026-08-04",
+    "display_name": "axios-native",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "axios-native",
+        "ecosystem": "npm",
+        "versions": [
+          "1.16.1",
+          "1.16.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10772",
+            "osv_published_at": "2026-07-17T23:08:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-04T22:40:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T22:40:14Z",
+    "osv_earliest_published_at": "2026-07-17T23:08:43Z",
+    "source_published_at": "2026-07-17T23:08:43Z",
+    "observed_at": "2026-08-04T22:40:14Z",
+    "ingested_at": "2026-08-04T22:40:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-04T22:40:55Z",
+    "ledger_committed_at": "2026-08-04T22:40:55Z"
   }
 ]
