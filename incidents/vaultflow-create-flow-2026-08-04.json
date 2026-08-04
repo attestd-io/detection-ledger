@@ -1,0 +1,38 @@
+{
+  "id": "vaultflow-create-flow-2026-08-04",
+  "display_name": "@vaultflow/create-flow",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@vaultflow/create-flow",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11096",
+          "osv_published_at": "2026-07-28T00:41:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T21:47:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T21:47:28Z",
+  "osv_earliest_published_at": "2026-07-28T00:41:13Z",
+  "source_published_at": "2026-07-28T00:41:13Z",
+  "observed_at": "2026-08-04T21:47:28Z",
+  "ingested_at": "2026-08-04T21:47:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T21:47:32Z",
+  "ledger_committed_at": "2026-08-04T21:47:32Z"
+}
