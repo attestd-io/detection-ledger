@@ -117844,5 +117844,39 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-04T21:51:46Z",
     "ledger_committed_at": "2026-08-04T21:51:46Z"
+  },
+  {
+    "id": "executable-stories-playwright-2026-08-04",
+    "display_name": "executable-stories-playwright",
+    "campaign": null,
+    "detection_source": "npm_deprecation",
+    "packages": [
+      {
+        "package": "executable-stories-playwright",
+        "ecosystem": "npm",
+        "versions": [
+          "3.1.1",
+          "7.0.3",
+          "8.4.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "deprecated_release",
+    "attestd_detected_at": "2026-08-04T21:56:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-04T21:56:06Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-04T21:56:06Z",
+    "ingested_at": "2026-08-04T21:56:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/executable-stories-playwright",
+    "ledger_commit_at": "2026-08-04T21:56:09Z",
+    "ledger_committed_at": "2026-08-04T21:56:09Z"
   }
 ]
