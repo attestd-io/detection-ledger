@@ -1,0 +1,37 @@
+{
+  "id": "hubert-application-get-document-preview-am-2026-08-04",
+  "display_name": "hubert-application-get-document-preview-am",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hubert-application-get-document-preview-am",
+      "ecosystem": "npm",
+      "versions": [
+        "20.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11540",
+          "osv_published_at": "2026-08-04T22:08:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:41:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:41:05Z",
+  "osv_earliest_published_at": "2026-08-04T22:08:41Z",
+  "source_published_at": "2026-08-04T22:08:41Z",
+  "observed_at": "2026-08-04T22:41:05Z",
+  "ingested_at": "2026-08-04T22:41:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:42:51Z",
+  "ledger_committed_at": "2026-08-04T22:42:51Z"
+}
