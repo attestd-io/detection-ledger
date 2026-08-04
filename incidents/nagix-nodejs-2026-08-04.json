@@ -1,0 +1,37 @@
+{
+  "id": "nagix-nodejs-2026-08-04",
+  "display_name": "nagix-nodejs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nagix-nodejs",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11526",
+          "osv_published_at": "2026-08-04T21:11:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T21:48:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T21:48:10Z",
+  "osv_earliest_published_at": "2026-08-04T21:11:37Z",
+  "source_published_at": "2026-08-04T21:11:37Z",
+  "observed_at": "2026-08-04T21:48:10Z",
+  "ingested_at": "2026-08-04T21:48:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T21:49:54Z",
+  "ledger_committed_at": "2026-08-04T21:49:54Z"
+}
