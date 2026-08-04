@@ -1,0 +1,38 @@
+{
+  "id": "react-hot-svg-2026-08-04",
+  "display_name": "react-hot-svg",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react-hot-svg",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.7",
+        "1.1.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10439",
+          "osv_published_at": "2026-07-13T09:21:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:41:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:41:39Z",
+  "osv_earliest_published_at": "2026-07-13T09:21:48Z",
+  "source_published_at": "2026-07-13T09:21:48Z",
+  "observed_at": "2026-08-04T22:41:39Z",
+  "ingested_at": "2026-08-04T22:41:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:44:40Z",
+  "ledger_committed_at": "2026-08-04T22:44:40Z"
+}
