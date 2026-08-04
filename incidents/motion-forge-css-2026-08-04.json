@@ -1,0 +1,37 @@
+{
+  "id": "motion-forge-css-2026-08-04",
+  "display_name": "motion-forge-css",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "motion-forge-css",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11101",
+          "osv_published_at": "2026-07-27T23:02:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:41:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:41:24Z",
+  "osv_earliest_published_at": "2026-07-27T23:02:28Z",
+  "source_published_at": "2026-07-27T23:02:28Z",
+  "observed_at": "2026-08-04T22:41:24Z",
+  "ingested_at": "2026-08-04T22:41:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:44:13Z",
+  "ledger_committed_at": "2026-08-04T22:44:13Z"
+}
