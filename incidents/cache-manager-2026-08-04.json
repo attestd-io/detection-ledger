@@ -1,0 +1,37 @@
+{
+  "id": "cache-manager-2026-08-04",
+  "display_name": "cache-manager",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cache-manager",
+      "ecosystem": "npm",
+      "versions": [
+        "7.2.10"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11523",
+          "osv_published_at": "2026-08-04T21:08:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T21:47:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T21:47:42Z",
+  "osv_earliest_published_at": "2026-08-04T21:08:26Z",
+  "source_published_at": "2026-08-04T21:08:26Z",
+  "observed_at": "2026-08-04T21:47:42Z",
+  "ingested_at": "2026-08-04T21:47:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T21:48:35Z",
+  "ledger_committed_at": "2026-08-04T21:48:35Z"
+}
