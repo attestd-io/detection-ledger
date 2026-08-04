@@ -1,0 +1,38 @@
+{
+  "id": "telemetry-axios-2026-08-04",
+  "display_name": "telemetry-axios",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "telemetry-axios",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.5",
+        "0.1.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10773",
+          "osv_published_at": "2026-07-17T23:08:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:42:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:42:04Z",
+  "osv_earliest_published_at": "2026-07-17T23:08:43Z",
+  "source_published_at": "2026-07-17T23:08:43Z",
+  "observed_at": "2026-08-04T22:42:04Z",
+  "ingested_at": "2026-08-04T22:42:04Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:46:08Z",
+  "ledger_committed_at": "2026-08-04T22:46:08Z"
+}
