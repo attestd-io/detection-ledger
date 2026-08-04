@@ -1,0 +1,39 @@
+{
+  "id": "encryptstringadmin-2026-08-04",
+  "display_name": "encryptstringadmin",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "encryptstringadmin",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.1",
+        "1.3.0",
+        "1.4.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11012",
+          "osv_published_at": "2026-07-22T20:39:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T22:40:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T22:40:47Z",
+  "osv_earliest_published_at": "2026-07-22T20:39:04Z",
+  "source_published_at": "2026-07-22T20:39:04Z",
+  "observed_at": "2026-08-04T22:40:47Z",
+  "ingested_at": "2026-08-04T22:40:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T22:42:12Z",
+  "ledger_committed_at": "2026-08-04T22:42:12Z"
+}
