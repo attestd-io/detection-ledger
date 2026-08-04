@@ -1,0 +1,40 @@
+{
+  "id": "my-tailwind-gutenberg-block-2026-08-04",
+  "display_name": "my-tailwind-gutenberg-block",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "my-tailwind-gutenberg-block",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.2",
+        "0.1.3",
+        "0.1.4",
+        "0.1.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10761",
+          "osv_published_at": "2026-07-16T22:28:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-04T21:48:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-04T21:48:05Z",
+  "osv_earliest_published_at": "2026-07-16T22:28:42Z",
+  "source_published_at": "2026-07-16T22:28:42Z",
+  "observed_at": "2026-08-04T21:48:05Z",
+  "ingested_at": "2026-08-04T21:48:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-04T21:49:43Z",
+  "ledger_committed_at": "2026-08-04T21:49:43Z"
+}
