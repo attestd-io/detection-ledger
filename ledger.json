@@ -134268,15 +134268,20 @@
         "versions": [
           "20.4.4"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12077",
+            "osv_published_at": "2026-08-05T01:43:41Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T04:39:39Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T04:39:39Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
+    "osv_earliest_published_at": "2026-08-05T01:43:41Z",
+    "source_published_at": "2026-08-05T01:43:41Z",
     "observed_at": "2026-08-05T04:39:39Z",
     "ingested_at": "2026-08-05T04:39:39Z",
     "first_served_at": null,
@@ -134285,8 +134290,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12077",
-    "ledger_commit_at": "2026-08-05T04:40:22Z",
-    "ledger_committed_at": "2026-08-05T04:40:22Z"
+    "ledger_commit_at": "2026-08-05T18:49:32Z",
+    "ledger_committed_at": "2026-08-05T18:49:32Z"
   },
   {
     "id": "trezor-lib-2026-08-05",
