@@ -124986,6 +124986,7 @@
           "0.0.1-rc32",
           "0.0.1-rc33",
           "0.0.1-rc35",
+          "0.0.1-rc36",
           "0.0.1-rc5",
           "0.0.1-rc7",
           "0.0.1-rc8"
@@ -125012,8 +125013,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:19:05Z",
-    "ledger_committed_at": "2026-08-05T15:19:05Z"
+    "ledger_commit_at": "2026-08-05T16:44:13Z",
+    "ledger_committed_at": "2026-08-05T16:44:13Z"
   },
   {
     "id": "specials-mvno-client-2026-08-05",
@@ -158326,6 +158327,7 @@
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
+          "1.0.1",
           "1.0.2",
           "1.0.3"
         ],
@@ -158351,8 +158353,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:35:11Z",
-    "ledger_committed_at": "2026-08-05T15:35:11Z"
+    "ledger_commit_at": "2026-08-05T16:44:06Z",
+    "ledger_committed_at": "2026-08-05T16:44:06Z"
   },
   {
     "id": "npm-groat-2026-08-05",
@@ -167014,42 +167016,5 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:43:58Z",
     "ledger_committed_at": "2026-08-05T16:43:58Z"
-  },
-  {
-    "id": "native-hello-plugin-2026-08-05",
-    "display_name": "native-hello-plugin",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "native-hello-plugin",
-        "ecosystem": "npm",
-        "versions": [
-          "1.2.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13350",
-            "osv_published_at": "2026-08-05T15:50:58Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:31:27Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:31:27Z",
-    "osv_earliest_published_at": "2026-08-05T15:50:58Z",
-    "source_published_at": "2026-08-05T15:50:58Z",
-    "observed_at": "2026-08-05T16:31:27Z",
-    "ingested_at": "2026-08-05T16:31:27Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:44:12Z",
-    "ledger_committed_at": "2026-08-05T16:44:12Z"
   }
 ]
