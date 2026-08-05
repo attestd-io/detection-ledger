@@ -1,0 +1,37 @@
+{
+  "id": "tinkoff-boxy-desktop-features-banner-2026-08-05",
+  "display_name": "tinkoff-boxy-desktop-features-banner",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tinkoff-boxy-desktop-features-banner",
+      "ecosystem": "npm",
+      "versions": [
+        "20.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12048",
+          "osv_published_at": "2026-08-05T01:32:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T01:53:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T01:53:44Z",
+  "osv_earliest_published_at": "2026-08-05T01:32:48Z",
+  "source_published_at": "2026-08-05T01:32:48Z",
+  "observed_at": "2026-08-05T01:53:44Z",
+  "ingested_at": "2026-08-05T01:53:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T01:55:31Z",
+  "ledger_committed_at": "2026-08-05T01:55:31Z"
+}
