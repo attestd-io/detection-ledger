@@ -1,0 +1,37 @@
+{
+  "id": "eslint-plugin-vitest-ts-2026-08-05",
+  "display_name": "eslint-plugin-vitest-ts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eslint-plugin-vitest-ts",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12370",
+          "osv_published_at": "2026-08-05T12:33:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:19:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:19:05Z",
+  "osv_earliest_published_at": "2026-08-05T12:33:24Z",
+  "source_published_at": "2026-08-05T12:33:24Z",
+  "observed_at": "2026-08-05T13:19:05Z",
+  "ingested_at": "2026-08-05T13:19:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:24:39Z",
+  "ledger_committed_at": "2026-08-05T13:24:39Z"
+}
