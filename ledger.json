@@ -123653,9 +123653,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Feslint-plugin-decorators-declare",
-    "ledger_commit_at": "2026-08-05T02:37:30Z",
-    "ledger_committed_at": "2026-08-05T02:37:30Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:52:15Z",
+    "ledger_committed_at": "2026-08-05T00:52:15Z"
   },
   {
     "id": "servicetitan-eslint-plugin-processors-stub-2026-08-05",
@@ -123696,9 +123696,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:52:26Z",
-    "ledger_committed_at": "2026-08-05T00:52:26Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Feslint-plugin-processors-stub",
+    "ledger_commit_at": "2026-08-05T02:38:14Z",
+    "ledger_committed_at": "2026-08-05T02:38:14Z"
   },
   {
     "id": "servicetitan-form-state-2026-08-05",
@@ -123782,9 +123782,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:52:43Z",
-    "ledger_committed_at": "2026-08-05T00:52:43Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fform",
+    "ledger_commit_at": "2026-08-05T02:38:25Z",
+    "ledger_committed_at": "2026-08-05T02:38:25Z"
   },
   {
     "id": "servicetitan-hammer-react-2026-08-05",
@@ -124083,9 +124083,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:54:15Z",
-    "ledger_committed_at": "2026-08-05T00:54:15Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmpa-components",
+    "ledger_commit_at": "2026-08-05T02:38:07Z",
+    "ledger_committed_at": "2026-08-05T02:38:07Z"
   },
   {
     "id": "servicetitan-notifications-2026-08-05",
@@ -124126,9 +124126,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fnotifications",
-    "ledger_commit_at": "2026-08-05T02:38:19Z",
-    "ledger_committed_at": "2026-08-05T02:38:19Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:54:28Z",
+    "ledger_committed_at": "2026-08-05T00:54:28Z"
   },
   {
     "id": "servicetitan-react-ioc-2026-08-05",
@@ -127139,15 +127139,15 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T02:37:19Z",
-    "ledger_committed_at": "2026-08-05T02:37:19Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmicrofront-auth",
+    "ledger_commit_at": "2026-08-05T02:37:26Z",
+    "ledger_committed_at": "2026-08-05T02:37:26Z"
   },
   {
     "id": "servicetitan-microfront-tests-2026-08-05",
     "display_name": "@servicetitan/microfront-tests",
     "campaign": null,
-    "detection_source": "npm_registry",
+    "detection_source": "osv",
     "packages": [
       {
         "package": "@servicetitan/microfront-tests",
@@ -127161,31 +127161,36 @@
           "0.0.16",
           "0.0.17"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11903",
+            "osv_published_at": "2026-08-04T15:31:13Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:36:40Z",
+    "attestd_detected_at": "2026-08-05T02:36:37Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:36:40Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-05T02:36:40Z",
-    "ingested_at": "2026-08-05T02:36:40Z",
+    "confirmed_at": "2026-08-05T02:36:37Z",
+    "osv_earliest_published_at": "2026-08-04T15:31:13Z",
+    "source_published_at": "2026-08-04T15:31:13Z",
+    "observed_at": "2026-08-05T02:36:37Z",
+    "ingested_at": "2026-08-05T02:36:37Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmicrofront-tests",
-    "ledger_commit_at": "2026-08-05T02:37:38Z",
-    "ledger_committed_at": "2026-08-05T02:37:38Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T02:37:33Z",
+    "ledger_committed_at": "2026-08-05T02:37:33Z"
   },
   {
     "id": "servicetitan-eslint-plugin-folder-schema-2026-08-05",
     "display_name": "@servicetitan/eslint-plugin-folder-schema",
     "campaign": null,
-    "detection_source": "npm_registry",
+    "detection_source": "osv",
     "packages": [
       {
         "package": "@servicetitan/eslint-plugin-folder-schema",
@@ -127199,66 +127204,72 @@
           "38.1.6",
           "38.1.7"
         ],
-        "osv_entries": []
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:36:51Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:36:51Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-05T02:36:51Z",
-    "ingested_at": "2026-08-05T02:36:51Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Feslint-plugin-folder-schema",
-    "ledger_commit_at": "2026-08-05T02:37:50Z",
-    "ledger_committed_at": "2026-08-05T02:37:50Z"
-  },
-  {
-    "id": "servicetitan-eslint-plugin-mobx-6-2026-08-05",
-    "display_name": "@servicetitan/eslint-plugin-mobx-6",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@servicetitan/eslint-plugin-mobx-6",
-        "ecosystem": "npm",
-        "versions": [
-          "12.8.15",
-          "12.8.16",
-          "12.8.17",
-          "12.8.18",
-          "12.8.19",
-          "12.8.20"
-        ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11864",
-            "osv_published_at": "2026-08-04T15:27:49Z"
+            "osv_id": "MAL-2026-11863",
+            "osv_published_at": "2026-08-04T15:26:51Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:50:29Z",
+    "attestd_detected_at": "2026-08-05T02:36:48Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:50:29Z",
-    "osv_earliest_published_at": "2026-08-04T15:27:49Z",
-    "source_published_at": "2026-08-04T15:27:49Z",
-    "observed_at": "2026-08-05T00:50:29Z",
-    "ingested_at": "2026-08-05T00:50:29Z",
+    "confirmed_at": "2026-08-05T02:36:48Z",
+    "osv_earliest_published_at": "2026-08-04T15:26:51Z",
+    "source_published_at": "2026-08-04T15:26:51Z",
+    "observed_at": "2026-08-05T02:36:48Z",
+    "ingested_at": "2026-08-05T02:36:48Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Feslint-plugin-mobx-6",
-    "ledger_commit_at": "2026-08-05T02:38:02Z",
-    "ledger_committed_at": "2026-08-05T02:38:02Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T02:37:45Z",
+    "ledger_committed_at": "2026-08-05T02:37:45Z"
+  },
+  {
+    "id": "servicetitan-moneyout-api-client-2026-08-05",
+    "display_name": "@servicetitan/moneyout-api-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@servicetitan/moneyout-api-client",
+        "ecosystem": "npm",
+        "versions": [
+          "1.29.1",
+          "1.29.2",
+          "1.29.3",
+          "1.29.4",
+          "1.29.5",
+          "1.29.6",
+          "1.29.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11906",
+            "osv_published_at": "2026-08-04T13:19:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T01:53:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T01:53:20Z",
+    "osv_earliest_published_at": "2026-08-04T13:19:13Z",
+    "source_published_at": "2026-08-04T13:19:13Z",
+    "observed_at": "2026-08-05T01:53:20Z",
+    "ingested_at": "2026-08-05T01:53:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmoneyout-api-client",
+    "ledger_commit_at": "2026-08-05T02:37:56Z",
+    "ledger_committed_at": "2026-08-05T02:37:56Z"
   }
 ]
