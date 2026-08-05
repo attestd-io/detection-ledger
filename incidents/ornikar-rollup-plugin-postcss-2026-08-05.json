@@ -1,0 +1,47 @@
+{
+  "id": "ornikar-rollup-plugin-postcss-2026-08-05",
+  "display_name": "@ornikar/rollup-plugin-postcss",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ornikar/rollup-plugin-postcss",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.10",
+        "2.0.11",
+        "2.0.12",
+        "2.0.13",
+        "2.0.14",
+        "2.0.15",
+        "2.0.5",
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11775",
+          "osv_published_at": "2026-08-04T15:13:31Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:49:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:49:49Z",
+  "osv_earliest_published_at": "2026-08-04T15:13:31Z",
+  "source_published_at": "2026-08-04T15:13:31Z",
+  "observed_at": "2026-08-05T00:49:49Z",
+  "ingested_at": "2026-08-05T00:49:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:50:33Z",
+  "ledger_committed_at": "2026-08-05T00:50:33Z"
+}
