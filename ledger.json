@@ -151128,40 +151128,40 @@
     "ledger_committed_at": "2026-08-05T14:30:52Z"
   },
   {
-    "id": "cardsmobile-event-emitter-2026-08-05",
-    "display_name": "cardsmobile-event-emitter",
+    "id": "cardsmobile-data-utils-2026-08-05",
+    "display_name": "cardsmobile-data-utils",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "cardsmobile-event-emitter",
+        "package": "cardsmobile-data-utils",
         "ecosystem": "npm",
         "versions": [
-          "35.2.8"
+          "35.6.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12532",
-            "osv_published_at": "2026-08-05T14:16:30Z"
+            "osv_id": "MAL-2026-12531",
+            "osv_published_at": "2026-08-05T14:17:21Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T14:28:34Z",
+    "attestd_detected_at": "2026-08-05T14:28:33Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T14:28:34Z",
-    "osv_earliest_published_at": "2026-08-05T14:16:30Z",
-    "source_published_at": "2026-08-05T14:16:30Z",
-    "observed_at": "2026-08-05T14:28:34Z",
-    "ingested_at": "2026-08-05T14:28:34Z",
+    "confirmed_at": "2026-08-05T14:28:33Z",
+    "osv_earliest_published_at": "2026-08-05T14:17:21Z",
+    "source_published_at": "2026-08-05T14:17:21Z",
+    "observed_at": "2026-08-05T14:28:33Z",
+    "ingested_at": "2026-08-05T14:28:33Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T14:31:00Z",
-    "ledger_committed_at": "2026-08-05T14:31:00Z"
+    "ledger_commit_at": "2026-08-05T14:30:59Z",
+    "ledger_committed_at": "2026-08-05T14:30:59Z"
   }
 ]
