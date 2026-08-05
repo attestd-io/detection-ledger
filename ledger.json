@@ -132543,40 +132543,92 @@
     "ledger_committed_at": "2026-08-05T03:33:00Z"
   },
   {
-    "id": "picasso-plugin-hammer-2026-08-05",
-    "display_name": "picasso-plugin-hammer",
+    "id": "native-frontend-orb-2026-08-05",
+    "display_name": "native-frontend-orb",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "picasso-plugin-hammer",
+        "package": "native-frontend-orb",
         "ecosystem": "npm",
         "versions": [
-          "2.11.6"
+          "1.1.10",
+          "1.1.11",
+          "1.1.12",
+          "1.1.13",
+          "1.1.14",
+          "1.1.15",
+          "1.1.16",
+          "1.1.17",
+          "1.1.18",
+          "1.1.19",
+          "1.1.4",
+          "1.1.5",
+          "1.1.6",
+          "1.1.7",
+          "1.1.8",
+          "1.1.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11977",
-            "osv_published_at": "2026-08-04T15:48:48Z"
+            "osv_id": "MAL-2026-11976",
+            "osv_published_at": "2026-08-04T15:18:28Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T03:30:04Z",
+    "attestd_detected_at": "2026-08-05T03:30:03Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T03:30:04Z",
-    "osv_earliest_published_at": "2026-08-04T15:48:48Z",
-    "source_published_at": "2026-08-04T15:48:48Z",
-    "observed_at": "2026-08-05T03:30:04Z",
-    "ingested_at": "2026-08-05T03:30:04Z",
+    "confirmed_at": "2026-08-05T03:30:03Z",
+    "osv_earliest_published_at": "2026-08-04T15:18:28Z",
+    "source_published_at": "2026-08-04T15:18:28Z",
+    "observed_at": "2026-08-05T03:30:03Z",
+    "ingested_at": "2026-08-05T03:30:03Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T03:33:09Z",
-    "ledger_committed_at": "2026-08-05T03:33:09Z"
+    "ledger_commit_at": "2026-08-05T03:33:08Z",
+    "ledger_committed_at": "2026-08-05T03:33:08Z"
+  },
+  {
+    "id": "picasso-plugin-q-2026-08-05",
+    "display_name": "picasso-plugin-q",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "picasso-plugin-q",
+        "ecosystem": "npm",
+        "versions": [
+          "2.11.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11978",
+            "osv_published_at": "2026-08-04T15:49:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T03:30:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T03:30:05Z",
+    "osv_earliest_published_at": "2026-08-04T15:49:44Z",
+    "source_published_at": "2026-08-04T15:49:44Z",
+    "observed_at": "2026-08-05T03:30:05Z",
+    "ingested_at": "2026-08-05T03:30:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T03:33:16Z",
+    "ledger_committed_at": "2026-08-05T03:33:16Z"
   }
 ]
