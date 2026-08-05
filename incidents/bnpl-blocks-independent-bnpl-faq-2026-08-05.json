@@ -1,0 +1,37 @@
+{
+  "id": "bnpl-blocks-independent-bnpl-faq-2026-08-05",
+  "display_name": "bnpl-blocks-independent-bnpl-faq",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bnpl-blocks-independent-bnpl-faq",
+      "ecosystem": "npm",
+      "versions": [
+        "35.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12955",
+          "osv_published_at": "2026-08-05T14:45:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:37:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:37:37Z",
+  "osv_earliest_published_at": "2026-08-05T14:45:26Z",
+  "source_published_at": "2026-08-05T14:45:26Z",
+  "observed_at": "2026-08-05T15:37:37Z",
+  "ingested_at": "2026-08-05T15:37:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T15:53:22Z",
+  "ledger_committed_at": "2026-08-05T15:53:22Z"
+}
