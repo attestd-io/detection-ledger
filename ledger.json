@@ -150373,151 +150373,114 @@
     "ledger_committed_at": "2026-08-05T13:39:13Z"
   },
   {
-    "id": "viem-toolkit-2026-08-05",
-    "display_name": "viem-toolkit",
+    "id": "voicemail-2026-08-05",
+    "display_name": "voicemail",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "viem-toolkit",
+        "package": "voicemail",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12496",
+            "osv_published_at": "2026-08-05T13:08:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:21:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:21:39Z",
+    "osv_earliest_published_at": "2026-08-05T13:08:12Z",
+    "source_published_at": "2026-08-05T13:08:12Z",
+    "observed_at": "2026-08-05T13:21:39Z",
+    "ingested_at": "2026-08-05T13:21:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:39:24Z",
+    "ledger_committed_at": "2026-08-05T13:39:24Z"
+  },
+  {
+    "id": "wallet-analytics-2026-08-05",
+    "display_name": "wallet-analytics",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wallet-analytics",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12499",
+            "osv_published_at": "2026-08-05T12:53:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:21:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:21:42Z",
+    "osv_earliest_published_at": "2026-08-05T12:53:28Z",
+    "source_published_at": "2026-08-05T12:53:28Z",
+    "observed_at": "2026-08-05T13:21:42Z",
+    "ingested_at": "2026-08-05T13:21:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:39:42Z",
+    "ledger_committed_at": "2026-08-05T13:39:42Z"
+  },
+  {
+    "id": "william-data-formatter-x-2026-08-05",
+    "display_name": "william-data-formatter-x",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "william-data-formatter-x",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12495",
-            "osv_published_at": "2026-08-05T12:50:14Z"
+            "osv_id": "MAL-2026-12501",
+            "osv_published_at": "2026-08-05T12:23:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:21:37Z",
+    "attestd_detected_at": "2026-08-05T13:21:44Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:21:37Z",
-    "osv_earliest_published_at": "2026-08-05T12:50:14Z",
-    "source_published_at": "2026-08-05T12:50:14Z",
-    "observed_at": "2026-08-05T13:21:37Z",
-    "ingested_at": "2026-08-05T13:21:37Z",
+    "confirmed_at": "2026-08-05T13:21:44Z",
+    "osv_earliest_published_at": "2026-08-05T12:23:00Z",
+    "source_published_at": "2026-08-05T12:23:00Z",
+    "observed_at": "2026-08-05T13:21:44Z",
+    "ingested_at": "2026-08-05T13:21:44Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:39:22Z",
-    "ledger_committed_at": "2026-08-05T13:39:22Z"
-  },
-  {
-    "id": "vscode-designer-14-2026-08-05",
-    "display_name": "vscode-designer-14",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "vscode-designer-14",
-        "ecosystem": "npm",
-        "versions": [
-          "14.0.1"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12497",
-            "osv_published_at": "2026-08-05T12:58:36Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:21:40Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:21:40Z",
-    "osv_earliest_published_at": "2026-08-05T12:58:36Z",
-    "source_published_at": "2026-08-05T12:58:36Z",
-    "observed_at": "2026-08-05T13:21:40Z",
-    "ingested_at": "2026-08-05T13:21:40Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:39:29Z",
-    "ledger_committed_at": "2026-08-05T13:39:29Z"
-  },
-  {
-    "id": "wagmi-react-2026-08-05",
-    "display_name": "wagmi-react",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "wagmi-react",
-        "ecosystem": "npm",
-        "versions": [
-          "1.0.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12498",
-            "osv_published_at": "2026-08-05T12:58:28Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:21:41Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:21:41Z",
-    "osv_earliest_published_at": "2026-08-05T12:58:28Z",
-    "source_published_at": "2026-08-05T12:58:28Z",
-    "observed_at": "2026-08-05T13:21:41Z",
-    "ingested_at": "2026-08-05T13:21:41Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:39:36Z",
-    "ledger_committed_at": "2026-08-05T13:39:36Z"
-  },
-  {
-    "id": "warp-drive-internal-tooling-2026-08-05",
-    "display_name": "warp-drive-internal-tooling",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "warp-drive-internal-tooling",
-        "ecosystem": "npm",
-        "versions": [
-          "99.9.9"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12500",
-            "osv_published_at": "2026-08-05T12:25:15Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:21:43Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:21:43Z",
-    "osv_earliest_published_at": "2026-08-05T12:25:15Z",
-    "source_published_at": "2026-08-05T12:25:15Z",
-    "observed_at": "2026-08-05T13:21:43Z",
-    "ingested_at": "2026-08-05T13:21:43Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:39:49Z",
-    "ledger_committed_at": "2026-08-05T13:39:49Z"
+    "ledger_commit_at": "2026-08-05T13:39:56Z",
+    "ledger_committed_at": "2026-08-05T13:39:56Z"
   }
 ]
