@@ -2,7 +2,7 @@
   "id": "servicetitan-kendo-theme-2026-08-05",
   "display_name": "@servicetitan/kendo-theme",
   "campaign": null,
-  "detection_source": "osv",
+  "detection_source": "npm_registry",
   "packages": [
     {
       "package": "@servicetitan/kendo-theme",
@@ -16,28 +16,23 @@
         "0.0.32",
         "0.0.33"
       ],
-      "osv_entries": [
-        {
-          "osv_id": "MAL-2026-11882",
-          "osv_published_at": "2026-08-04T15:27:50Z"
-        }
-      ]
+      "osv_entries": []
     }
   ],
   "malware_type": "malware",
-  "attestd_detected_at": "2026-08-05T02:38:28Z",
+  "attestd_detected_at": "2026-08-05T02:38:31Z",
   "flagged_at": null,
-  "confirmed_at": "2026-08-05T02:38:28Z",
-  "osv_earliest_published_at": "2026-08-04T15:27:50Z",
-  "source_published_at": "2026-08-04T15:27:50Z",
-  "observed_at": "2026-08-05T02:38:28Z",
-  "ingested_at": "2026-08-05T02:38:28Z",
+  "confirmed_at": "2026-08-05T02:38:31Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-05T02:38:31Z",
+  "ingested_at": "2026-08-05T02:38:31Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
-  "advisory_url": "",
-  "ledger_commit_at": "2026-08-05T02:39:40Z",
-  "ledger_committed_at": "2026-08-05T02:39:40Z"
+  "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fkendo-theme",
+  "ledger_commit_at": "2026-08-05T02:39:46Z",
+  "ledger_committed_at": "2026-08-05T02:39:46Z"
 }
