@@ -1,0 +1,37 @@
+{
+  "id": "zzzgenesis00-env-loader-2026-08-05",
+  "display_name": "@zzzgenesis00/env-loader",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@zzzgenesis00/env-loader",
+      "ecosystem": "npm",
+      "versions": [
+        "4.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12120",
+          "osv_published_at": "2026-08-05T08:44:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:35:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:35:14Z",
+  "osv_earliest_published_at": "2026-08-05T08:44:01Z",
+  "source_published_at": "2026-08-05T08:44:01Z",
+  "observed_at": "2026-08-05T09:35:14Z",
+  "ingested_at": "2026-08-05T09:35:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:35:23Z",
+  "ledger_committed_at": "2026-08-05T09:35:23Z"
+}
