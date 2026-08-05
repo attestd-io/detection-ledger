@@ -1,0 +1,37 @@
+{
+  "id": "post-css-transfer-2026-08-05",
+  "display_name": "post-css-transfer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "post-css-transfer",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12417",
+          "osv_published_at": "2026-08-05T12:46:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:20:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:20:02Z",
+  "osv_earliest_published_at": "2026-08-05T12:46:11Z",
+  "source_published_at": "2026-08-05T12:46:11Z",
+  "observed_at": "2026-08-05T13:20:02Z",
+  "ingested_at": "2026-08-05T13:20:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:30:30Z",
+  "ledger_committed_at": "2026-08-05T13:30:30Z"
+}
