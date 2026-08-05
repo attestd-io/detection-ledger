@@ -157453,95 +157453,58 @@
     "ledger_committed_at": "2026-08-05T15:29:53Z"
   },
   {
-    "id": "twork-data-services-aggregator-company-sme-main-timeline-loader-with-customers-2026-08-05",
-    "display_name": "twork-data-services-aggregator-company-sme-main-timeline-loader-with-customers",
+    "id": "trapp-check-logs-2026-08-05",
+    "display_name": "trapp-check-logs",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "twork-data-services-aggregator-company-sme-main-timeline-loader-with-customers",
+        "package": "trapp-check-logs",
         "ecosystem": "npm",
         "versions": [
-          "20.3.8"
+          "20.1.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12287",
-            "osv_published_at": "2026-08-05T09:14:49Z"
+            "osv_id": "MAL-2026-12286",
+            "osv_published_at": "2026-08-05T09:10:20Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:21:11Z",
+    "attestd_detected_at": "2026-08-05T15:21:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:21:11Z",
-    "osv_earliest_published_at": "2026-08-05T09:14:49Z",
-    "source_published_at": "2026-08-05T09:14:49Z",
-    "observed_at": "2026-08-05T15:21:11Z",
-    "ingested_at": "2026-08-05T15:21:11Z",
+    "confirmed_at": "2026-08-05T15:21:10Z",
+    "osv_earliest_published_at": "2026-08-05T09:10:20Z",
+    "source_published_at": "2026-08-05T09:10:20Z",
+    "observed_at": "2026-08-05T15:21:10Z",
+    "ingested_at": "2026-08-05T15:21:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:30:12Z",
-    "ledger_committed_at": "2026-08-05T15:30:12Z"
+    "ledger_commit_at": "2026-08-05T15:30:07Z",
+    "ledger_committed_at": "2026-08-05T15:30:07Z"
   },
   {
-    "id": "twork-data-services-aggregator-sme-task-info-2026-08-05",
-    "display_name": "twork-data-services-aggregator-sme-task-info",
+    "id": "twork-data-services-counterfree-2026-08-05",
+    "display_name": "twork-data-services-counterfree",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "twork-data-services-aggregator-sme-task-info",
+        "package": "twork-data-services-counterfree",
         "ecosystem": "npm",
         "versions": [
-          "20.3.1"
+          "20.1.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12288",
-            "osv_published_at": "2026-08-05T09:15:41Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:21:12Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:21:12Z",
-    "osv_earliest_published_at": "2026-08-05T09:15:41Z",
-    "source_published_at": "2026-08-05T09:15:41Z",
-    "observed_at": "2026-08-05T15:21:12Z",
-    "ingested_at": "2026-08-05T15:21:12Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:30:20Z",
-    "ledger_committed_at": "2026-08-05T15:30:20Z"
-  },
-  {
-    "id": "twork-data-services-customer-api-v2-customer-vip-status-2026-08-05",
-    "display_name": "twork-data-services-customer-api-v2-customer-vip-status",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "twork-data-services-customer-api-v2-customer-vip-status",
-        "ecosystem": "npm",
-        "versions": [
-          "20.9.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12290",
-            "osv_published_at": "2026-08-05T09:13:18Z"
+            "osv_id": "MAL-2026-12289",
+            "osv_published_at": "2026-08-05T09:15:13Z"
           }
         ]
       }
@@ -157550,8 +157513,8 @@
     "attestd_detected_at": "2026-08-05T15:21:13Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T15:21:13Z",
-    "osv_earliest_published_at": "2026-08-05T09:13:18Z",
-    "source_published_at": "2026-08-05T09:13:18Z",
+    "osv_earliest_published_at": "2026-08-05T09:15:13Z",
+    "source_published_at": "2026-08-05T09:15:13Z",
     "observed_at": "2026-08-05T15:21:13Z",
     "ingested_at": "2026-08-05T15:21:13Z",
     "first_served_at": null,
@@ -157560,7 +157523,44 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:30:37Z",
-    "ledger_committed_at": "2026-08-05T15:30:37Z"
+    "ledger_commit_at": "2026-08-05T15:30:29Z",
+    "ledger_committed_at": "2026-08-05T15:30:29Z"
+  },
+  {
+    "id": "twork-data-services-eacq-company-service-v2-api-v1-identifiers-crm-2026-08-05",
+    "display_name": "twork-data-services-eacq-company-service-v2-api-v1-identifiers-crm",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "twork-data-services-eacq-company-service-v2-api-v1-identifiers-crm",
+        "ecosystem": "npm",
+        "versions": [
+          "20.6.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12291",
+            "osv_published_at": "2026-08-05T09:13:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:21:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:21:14Z",
+    "osv_earliest_published_at": "2026-08-05T09:13:54Z",
+    "source_published_at": "2026-08-05T09:13:54Z",
+    "observed_at": "2026-08-05T15:21:14Z",
+    "ingested_at": "2026-08-05T15:21:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:30:44Z",
+    "ledger_committed_at": "2026-08-05T15:30:44Z"
   }
 ]
