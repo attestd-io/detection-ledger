@@ -1,0 +1,46 @@
+{
+  "id": "multi-acct-2026-08-05",
+  "display_name": "multi-acct",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "multi-acct",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "2.0.999",
+        "2.1.999",
+        "2.999.999",
+        "3.0.999",
+        "3.1.0",
+        "3.999.999",
+        "4.0.0",
+        "4.999.999",
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13371",
+          "osv_published_at": "2026-08-05T18:25:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T19:24:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T19:24:07Z",
+  "osv_earliest_published_at": "2026-08-05T18:25:48Z",
+  "source_published_at": "2026-08-05T18:25:48Z",
+  "observed_at": "2026-08-05T19:24:07Z",
+  "ingested_at": "2026-08-05T19:24:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T19:24:46Z",
+  "ledger_committed_at": "2026-08-05T19:24:46Z"
+}
