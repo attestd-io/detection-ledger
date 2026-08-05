@@ -160422,5 +160422,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:46:21Z",
     "ledger_committed_at": "2026-08-05T15:46:21Z"
+  },
+  {
+    "id": "bnpl-blocks-atom-bnpl-store-button-set-2026-08-05",
+    "display_name": "bnpl-blocks-atom-bnpl-store-button-set",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bnpl-blocks-atom-bnpl-store-button-set",
+        "ecosystem": "npm",
+        "versions": [
+          "35.6.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12897",
+            "osv_published_at": "2026-08-05T14:53:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:36:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:36:36Z",
+    "osv_earliest_published_at": "2026-08-05T14:53:44Z",
+    "source_published_at": "2026-08-05T14:53:44Z",
+    "observed_at": "2026-08-05T15:36:36Z",
+    "ingested_at": "2026-08-05T15:36:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:46:28Z",
+    "ledger_committed_at": "2026-08-05T15:46:28Z"
   }
 ]
