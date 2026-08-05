@@ -157939,58 +157939,58 @@
     "ledger_committed_at": "2026-08-05T15:33:16Z"
   },
   {
-    "id": "devplatform-spa-plugin-suspense-2026-08-05",
-    "display_name": "devplatform-spa-plugin-suspense",
+    "id": "devplatform-spa-plugin-sentry-2026-08-05",
+    "display_name": "devplatform-spa-plugin-sentry",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "devplatform-spa-plugin-suspense",
+        "package": "devplatform-spa-plugin-sentry",
         "ecosystem": "npm",
         "versions": [
-          "35.6.2"
+          "35.1.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12781",
-            "osv_published_at": "2026-08-05T13:40:50Z"
+            "osv_id": "MAL-2026-12780",
+            "osv_published_at": "2026-08-05T13:40:11Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:27:12Z",
+    "attestd_detected_at": "2026-08-05T15:27:11Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:27:12Z",
-    "osv_earliest_published_at": "2026-08-05T13:40:50Z",
-    "source_published_at": "2026-08-05T13:40:50Z",
-    "observed_at": "2026-08-05T15:27:12Z",
-    "ingested_at": "2026-08-05T15:27:12Z",
+    "confirmed_at": "2026-08-05T15:27:11Z",
+    "osv_earliest_published_at": "2026-08-05T13:40:11Z",
+    "source_published_at": "2026-08-05T13:40:11Z",
+    "observed_at": "2026-08-05T15:27:11Z",
+    "ingested_at": "2026-08-05T15:27:11Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:33:27Z",
-    "ledger_committed_at": "2026-08-05T15:33:27Z"
+    "ledger_commit_at": "2026-08-05T15:33:25Z",
+    "ledger_committed_at": "2026-08-05T15:33:25Z"
   },
   {
-    "id": "devplatform-spa-route-tree-2026-08-05",
-    "display_name": "devplatform-spa-route-tree",
+    "id": "devplatform-spa-plugin-thermostat-2026-08-05",
+    "display_name": "devplatform-spa-plugin-thermostat",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "devplatform-spa-route-tree",
+        "package": "devplatform-spa-plugin-thermostat",
         "ecosystem": "npm",
         "versions": [
-          "35.1.3"
+          "35.9.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12783",
-            "osv_published_at": "2026-08-05T13:40:59Z"
+            "osv_id": "MAL-2026-12782",
+            "osv_published_at": "2026-08-05T13:40:23Z"
           }
         ]
       }
@@ -157999,8 +157999,8 @@
     "attestd_detected_at": "2026-08-05T15:27:13Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T15:27:13Z",
-    "osv_earliest_published_at": "2026-08-05T13:40:59Z",
-    "source_published_at": "2026-08-05T13:40:59Z",
+    "osv_earliest_published_at": "2026-08-05T13:40:23Z",
+    "source_published_at": "2026-08-05T13:40:23Z",
     "observed_at": "2026-08-05T15:27:13Z",
     "ingested_at": "2026-08-05T15:27:13Z",
     "first_served_at": null,
@@ -158009,7 +158009,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:33:39Z",
-    "ledger_committed_at": "2026-08-05T15:33:39Z"
+    "ledger_commit_at": "2026-08-05T15:33:34Z",
+    "ledger_committed_at": "2026-08-05T15:33:34Z"
   }
 ]
