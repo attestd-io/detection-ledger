@@ -117247,6 +117247,7 @@
         "package": "beaver-ui-form",
         "ecosystem": "npm",
         "versions": [
+          "12.6.1",
           "34.9.1"
         ],
         "osv_entries": [
@@ -117271,8 +117272,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T21:48:04Z",
-    "ledger_committed_at": "2026-08-04T21:48:04Z"
+    "ledger_commit_at": "2026-08-05T09:38:15Z",
+    "ledger_committed_at": "2026-08-05T09:38:15Z"
   },
   {
     "id": "beaver-ui-header-2026-08-04",
@@ -134814,6 +134815,7 @@
         "ecosystem": "npm",
         "versions": [
           "1.0.1",
+          "1.0.5",
           "1.0.6"
         ],
         "osv_entries": [
@@ -134838,8 +134840,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T03:34:39Z",
-    "ledger_committed_at": "2026-08-05T03:34:39Z"
+    "ledger_commit_at": "2026-08-05T09:37:30Z",
+    "ledger_committed_at": "2026-08-05T09:37:30Z"
   },
   {
     "id": "bcryptln-becryptjs-2026-08-05",
@@ -145772,157 +145774,203 @@
     "ledger_committed_at": "2026-08-05T09:37:18Z"
   },
   {
-    "id": "arbocrate-sla-prober-arbocrate-sla-prober-core-2026-08-05",
-    "display_name": "arbocrate-sla-prober-arbocrate-sla-prober-core",
+    "id": "beaver-ui-actions-button-2026-08-05",
+    "display_name": "beaver-ui-actions-button",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "arbocrate-sla-prober-arbocrate-sla-prober-core",
+        "package": "beaver-ui-actions-button",
         "ecosystem": "npm",
         "versions": [
-          "12.7.1",
-          "7.5.6",
-          "7.5.7",
-          "7.5.8",
-          "7.5.9"
+          "12.3.9",
+          "5.4.6",
+          "5.4.7",
+          "5.4.8",
+          "5.4.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12140",
-            "osv_published_at": "2026-08-05T09:16:59Z"
+            "osv_id": "MAL-2026-12141",
+            "osv_published_at": "2026-08-05T08:54:01Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:35:41Z",
+    "attestd_detected_at": "2026-08-05T09:35:43Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:35:41Z",
-    "osv_earliest_published_at": "2026-08-05T09:16:59Z",
-    "source_published_at": "2026-08-05T09:16:59Z",
-    "observed_at": "2026-08-05T09:35:41Z",
-    "ingested_at": "2026-08-05T09:35:41Z",
+    "confirmed_at": "2026-08-05T09:35:43Z",
+    "osv_earliest_published_at": "2026-08-05T08:54:01Z",
+    "source_published_at": "2026-08-05T08:54:01Z",
+    "observed_at": "2026-08-05T09:35:43Z",
+    "ingested_at": "2026-08-05T09:35:43Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:37:37Z",
-    "ledger_committed_at": "2026-08-05T09:37:37Z"
+    "ledger_commit_at": "2026-08-05T09:37:43Z",
+    "ledger_committed_at": "2026-08-05T09:37:43Z"
   },
   {
-    "id": "beaver-ui-ai-chat-layout-2026-08-05",
-    "display_name": "beaver-ui-ai-chat-layout",
+    "id": "beaver-ui-breadcrumbs-2026-08-05",
+    "display_name": "beaver-ui-breadcrumbs",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "beaver-ui-ai-chat-layout",
+        "package": "beaver-ui-breadcrumbs",
         "ecosystem": "npm",
         "versions": [
-          "0.0.1"
+          "0.0.2",
+          "33.1.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12142",
-            "osv_published_at": "2026-08-05T08:55:07Z"
+            "osv_id": "MAL-2026-12143",
+            "osv_published_at": "2026-08-05T08:52:53Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:35:44Z",
+    "attestd_detected_at": "2026-08-05T09:35:45Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:35:44Z",
-    "osv_earliest_published_at": "2026-08-05T08:55:07Z",
-    "source_published_at": "2026-08-05T08:55:07Z",
-    "observed_at": "2026-08-05T09:35:44Z",
-    "ingested_at": "2026-08-05T09:35:44Z",
+    "confirmed_at": "2026-08-05T09:35:45Z",
+    "osv_earliest_published_at": "2026-08-05T08:52:53Z",
+    "source_published_at": "2026-08-05T08:52:53Z",
+    "observed_at": "2026-08-05T09:35:45Z",
+    "ingested_at": "2026-08-05T09:35:45Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:37:50Z",
-    "ledger_committed_at": "2026-08-05T09:37:50Z"
+    "ledger_commit_at": "2026-08-05T09:37:54Z",
+    "ledger_committed_at": "2026-08-05T09:37:54Z"
   },
   {
-    "id": "beaver-ui-form-object-2026-08-05",
-    "display_name": "beaver-ui-form-object",
+    "id": "beaver-ui-drawer-2026-08-05",
+    "display_name": "beaver-ui-drawer",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "beaver-ui-form-object",
+        "package": "beaver-ui-drawer",
         "ecosystem": "npm",
         "versions": [
-          "12.1.7",
-          "34.7.5"
+          "0.0.1",
+          "11.3.5",
+          "11.3.6",
+          "12.5.2",
+          "9.4.10",
+          "9.4.11",
+          "9.4.12",
+          "9.4.7",
+          "9.4.8",
+          "9.4.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12145",
-            "osv_published_at": "2026-08-05T08:53:17Z"
+            "osv_id": "MAL-2026-12144",
+            "osv_published_at": "2026-08-05T08:51:04Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:35:49Z",
+    "attestd_detected_at": "2026-08-05T09:35:47Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:35:49Z",
-    "osv_earliest_published_at": "2026-08-05T08:53:17Z",
-    "source_published_at": "2026-08-05T08:53:17Z",
-    "observed_at": "2026-08-05T09:35:49Z",
-    "ingested_at": "2026-08-05T09:35:49Z",
+    "confirmed_at": "2026-08-05T09:35:47Z",
+    "osv_earliest_published_at": "2026-08-05T08:51:04Z",
+    "source_published_at": "2026-08-05T08:51:04Z",
+    "observed_at": "2026-08-05T09:35:47Z",
+    "ingested_at": "2026-08-05T09:35:47Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:38:09Z",
-    "ledger_committed_at": "2026-08-05T09:38:09Z"
+    "ledger_commit_at": "2026-08-05T09:38:02Z",
+    "ledger_committed_at": "2026-08-05T09:38:02Z"
   },
   {
-    "id": "beaver-ui-icon-lock-2026-08-05",
-    "display_name": "beaver-ui-icon-lock",
+    "id": "beaver-ui-hooks-2026-08-05",
+    "display_name": "beaver-ui-hooks",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "beaver-ui-icon-lock",
+        "package": "beaver-ui-hooks",
         "ecosystem": "npm",
         "versions": [
-          "12.2.3",
-          "34.8.3"
+          "12.6.3",
+          "34.4.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12147",
-            "osv_published_at": "2026-08-05T08:53:07Z"
+            "osv_id": "MAL-2026-12146",
+            "osv_published_at": "2026-08-05T08:53:53Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:35:52Z",
+    "attestd_detected_at": "2026-08-05T09:35:51Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:35:52Z",
-    "osv_earliest_published_at": "2026-08-05T08:53:07Z",
-    "source_published_at": "2026-08-05T08:53:07Z",
-    "observed_at": "2026-08-05T09:35:52Z",
-    "ingested_at": "2026-08-05T09:35:52Z",
+    "confirmed_at": "2026-08-05T09:35:51Z",
+    "osv_earliest_published_at": "2026-08-05T08:53:53Z",
+    "source_published_at": "2026-08-05T08:53:53Z",
+    "observed_at": "2026-08-05T09:35:51Z",
+    "ingested_at": "2026-08-05T09:35:51Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:38:28Z",
-    "ledger_committed_at": "2026-08-05T09:38:28Z"
+    "ledger_commit_at": "2026-08-05T09:38:22Z",
+    "ledger_committed_at": "2026-08-05T09:38:22Z"
+  },
+  {
+    "id": "bigops-api-mobile-2026-08-05",
+    "display_name": "bigops-api-mobile",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bigops-api-mobile",
+        "ecosystem": "npm",
+        "versions": [
+          "35.6.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12148",
+            "osv_published_at": "2026-08-05T08:47:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T09:35:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T09:35:53Z",
+    "osv_earliest_published_at": "2026-08-05T08:47:40Z",
+    "source_published_at": "2026-08-05T08:47:40Z",
+    "observed_at": "2026-08-05T09:35:53Z",
+    "ingested_at": "2026-08-05T09:35:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T09:38:35Z",
+    "ledger_committed_at": "2026-08-05T09:38:35Z"
   }
 ]
