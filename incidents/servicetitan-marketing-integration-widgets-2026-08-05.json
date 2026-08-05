@@ -2,7 +2,7 @@
   "id": "servicetitan-marketing-integration-widgets-2026-08-05",
   "display_name": "@servicetitan/marketing-integration-widgets",
   "campaign": null,
-  "detection_source": "osv",
+  "detection_source": "npm_registry",
   "packages": [
     {
       "package": "@servicetitan/marketing-integration-widgets",
@@ -16,28 +16,23 @@
         "1.0.45",
         "1.0.46"
       ],
-      "osv_entries": [
-        {
-          "osv_id": "MAL-2026-11894",
-          "osv_published_at": "2026-08-04T13:19:03Z"
-        }
-      ]
+      "osv_entries": []
     }
   ],
   "malware_type": "malware",
-  "attestd_detected_at": "2026-08-05T02:40:26Z",
+  "attestd_detected_at": "2026-08-05T02:40:29Z",
   "flagged_at": null,
-  "confirmed_at": "2026-08-05T02:40:26Z",
-  "osv_earliest_published_at": "2026-08-04T13:19:03Z",
-  "source_published_at": "2026-08-04T13:19:03Z",
-  "observed_at": "2026-08-05T02:40:26Z",
-  "ingested_at": "2026-08-05T02:40:26Z",
+  "confirmed_at": "2026-08-05T02:40:29Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-05T02:40:29Z",
+  "ingested_at": "2026-08-05T02:40:29Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
-  "advisory_url": "",
-  "ledger_commit_at": "2026-08-05T02:41:56Z",
-  "ledger_committed_at": "2026-08-05T02:41:56Z"
+  "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmarketing-integration-widgets",
+  "ledger_commit_at": "2026-08-05T02:42:03Z",
+  "ledger_committed_at": "2026-08-05T02:42:03Z"
 }
