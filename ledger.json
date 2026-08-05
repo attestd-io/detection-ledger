@@ -130928,5 +130928,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T03:24:21Z",
     "ledger_committed_at": "2026-08-05T03:24:21Z"
+  },
+  {
+    "id": "ornikar-babel-preset-kitt-universal-2026-08-05",
+    "display_name": "@ornikar/babel-preset-kitt-universal",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@ornikar/babel-preset-kitt-universal",
+        "ecosystem": "npm",
+        "versions": [
+          "8.0.10",
+          "8.0.11",
+          "8.0.12",
+          "8.0.3",
+          "8.0.4",
+          "8.0.5",
+          "8.0.6",
+          "8.0.7",
+          "8.0.8",
+          "8.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11741",
+            "osv_published_at": "2026-08-04T15:13:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T03:25:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T03:25:05Z",
+    "osv_earliest_published_at": "2026-08-04T15:13:05Z",
+    "source_published_at": "2026-08-04T15:13:05Z",
+    "observed_at": "2026-08-05T03:25:05Z",
+    "ingested_at": "2026-08-05T03:25:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T03:25:08Z",
+    "ledger_committed_at": "2026-08-05T03:25:08Z"
   }
 ]
