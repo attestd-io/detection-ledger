@@ -164459,188 +164459,114 @@
     "ledger_committed_at": "2026-08-05T16:30:47Z"
   },
   {
-    "id": "bigops-operator-status-2026-08-05",
-    "display_name": "bigops-operator-status",
+    "id": "bigops-outgoing-call-2026-08-05",
+    "display_name": "bigops-outgoing-call",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bigops-operator-status",
+        "package": "bigops-outgoing-call",
         "ecosystem": "npm",
         "versions": [
-          "35.4.5"
+          "35.1.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13230",
-            "osv_published_at": "2026-08-05T15:36:48Z"
+            "osv_id": "MAL-2026-13231",
+            "osv_published_at": "2026-08-05T15:37:31Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:29:09Z",
+    "attestd_detected_at": "2026-08-05T16:29:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:29:09Z",
-    "osv_earliest_published_at": "2026-08-05T15:36:48Z",
-    "source_published_at": "2026-08-05T15:36:48Z",
-    "observed_at": "2026-08-05T16:29:09Z",
-    "ingested_at": "2026-08-05T16:29:09Z",
+    "confirmed_at": "2026-08-05T16:29:10Z",
+    "osv_earliest_published_at": "2026-08-05T15:37:31Z",
+    "source_published_at": "2026-08-05T15:37:31Z",
+    "observed_at": "2026-08-05T16:29:10Z",
+    "ingested_at": "2026-08-05T16:29:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:31:02Z",
-    "ledger_committed_at": "2026-08-05T16:31:02Z"
+    "ledger_commit_at": "2026-08-05T16:31:11Z",
+    "ledger_committed_at": "2026-08-05T16:31:11Z"
   },
   {
-    "id": "bigops-plugin-notification-builder-2026-08-05",
-    "display_name": "bigops-plugin-notification-builder",
+    "id": "bigops-procedure-player-2026-08-05",
+    "display_name": "bigops-procedure-player",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bigops-plugin-notification-builder",
+        "package": "bigops-procedure-player",
         "ecosystem": "npm",
         "versions": [
-          "35.1.3"
+          "35.8.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13232",
-            "osv_published_at": "2026-08-05T15:36:31Z"
+            "osv_id": "MAL-2026-13234",
+            "osv_published_at": "2026-08-05T15:36:04Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:29:11Z",
+    "attestd_detected_at": "2026-08-05T16:29:13Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:29:11Z",
-    "osv_earliest_published_at": "2026-08-05T15:36:31Z",
-    "source_published_at": "2026-08-05T15:36:31Z",
-    "observed_at": "2026-08-05T16:29:11Z",
-    "ingested_at": "2026-08-05T16:29:11Z",
+    "confirmed_at": "2026-08-05T16:29:13Z",
+    "osv_earliest_published_at": "2026-08-05T15:36:04Z",
+    "source_published_at": "2026-08-05T15:36:04Z",
+    "observed_at": "2026-08-05T16:29:13Z",
+    "ingested_at": "2026-08-05T16:29:13Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:31:12Z",
-    "ledger_committed_at": "2026-08-05T16:31:12Z"
+    "ledger_commit_at": "2026-08-05T16:31:27Z",
+    "ledger_committed_at": "2026-08-05T16:31:27Z"
   },
   {
-    "id": "bigops-procedure-file-handlers-2026-08-05",
-    "display_name": "bigops-procedure-file-handlers",
+    "id": "bigops-products-bnpl-2026-08-05",
+    "display_name": "bigops-products-bnpl",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bigops-procedure-file-handlers",
+        "package": "bigops-products-bnpl",
         "ecosystem": "npm",
         "versions": [
-          "35.7.6"
+          "35.2.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13233",
-            "osv_published_at": "2026-08-05T15:36:25Z"
+            "osv_id": "MAL-2026-13238",
+            "osv_published_at": "2026-08-05T15:35:53Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:29:12Z",
+    "attestd_detected_at": "2026-08-05T16:29:17Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:29:12Z",
-    "osv_earliest_published_at": "2026-08-05T15:36:25Z",
-    "source_published_at": "2026-08-05T15:36:25Z",
-    "observed_at": "2026-08-05T16:29:12Z",
-    "ingested_at": "2026-08-05T16:29:12Z",
+    "confirmed_at": "2026-08-05T16:29:17Z",
+    "osv_earliest_published_at": "2026-08-05T15:35:53Z",
+    "source_published_at": "2026-08-05T15:35:53Z",
+    "observed_at": "2026-08-05T16:29:17Z",
+    "ingested_at": "2026-08-05T16:29:17Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:31:19Z",
-    "ledger_committed_at": "2026-08-05T16:31:19Z"
-  },
-  {
-    "id": "bigops-product-list-2026-08-05",
-    "display_name": "bigops-product-list",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bigops-product-list",
-        "ecosystem": "npm",
-        "versions": [
-          "35.8.5"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13235",
-            "osv_published_at": "2026-08-05T15:36:41Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:29:14Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:29:14Z",
-    "osv_earliest_published_at": "2026-08-05T15:36:41Z",
-    "source_published_at": "2026-08-05T15:36:41Z",
-    "observed_at": "2026-08-05T16:29:14Z",
-    "ingested_at": "2026-08-05T16:29:14Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:31:32Z",
-    "ledger_committed_at": "2026-08-05T16:31:32Z"
-  },
-  {
-    "id": "bigops-products-accounts-and-cards-2026-08-05",
-    "display_name": "bigops-products-accounts-and-cards",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bigops-products-accounts-and-cards",
-        "ecosystem": "npm",
-        "versions": [
-          "35.7.5"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13237",
-            "osv_published_at": "2026-08-05T15:34:51Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:29:15Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:29:15Z",
-    "osv_earliest_published_at": "2026-08-05T15:34:51Z",
-    "source_published_at": "2026-08-05T15:34:51Z",
-    "observed_at": "2026-08-05T16:29:15Z",
-    "ingested_at": "2026-08-05T16:29:15Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:31:42Z",
-    "ledger_committed_at": "2026-08-05T16:31:42Z"
+    "ledger_commit_at": "2026-08-05T16:31:48Z",
+    "ledger_committed_at": "2026-08-05T16:31:48Z"
   }
 ]
