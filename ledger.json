@@ -157712,58 +157712,21 @@
     "ledger_committed_at": "2026-08-05T15:31:24Z"
   },
   {
-    "id": "twork-data-services-proxy-invest-symbols-list-2026-08-05",
-    "display_name": "twork-data-services-proxy-invest-symbols-list",
+    "id": "twork-data-services-proxy-prime-api-v1-account-overdraft-info-2026-08-05",
+    "display_name": "twork-data-services-proxy-prime-api-v1-account-overdraft-info",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "twork-data-services-proxy-invest-symbols-list",
+        "package": "twork-data-services-proxy-prime-api-v1-account-overdraft-info",
         "ecosystem": "npm",
         "versions": [
-          "20.4.6"
+          "20.7.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12298",
-            "osv_published_at": "2026-08-05T09:14:01Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:21:19Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:21:19Z",
-    "osv_earliest_published_at": "2026-08-05T09:14:01Z",
-    "source_published_at": "2026-08-05T09:14:01Z",
-    "observed_at": "2026-08-05T15:21:19Z",
-    "ingested_at": "2026-08-05T15:21:19Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:31:31Z",
-    "ledger_committed_at": "2026-08-05T15:31:31Z"
-  },
-  {
-    "id": "twork-data-services-role-app-2026-08-05",
-    "display_name": "twork-data-services-role-app",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "twork-data-services-role-app",
-        "ecosystem": "npm",
-        "versions": [
-          "20.9.6"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12300",
-            "osv_published_at": "2026-08-05T09:14:09Z"
+            "osv_id": "MAL-2026-12299",
+            "osv_published_at": "2026-08-05T09:15:05Z"
           }
         ]
       }
@@ -157772,8 +157735,8 @@
     "attestd_detected_at": "2026-08-05T15:21:20Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T15:21:20Z",
-    "osv_earliest_published_at": "2026-08-05T09:14:09Z",
-    "source_published_at": "2026-08-05T09:14:09Z",
+    "osv_earliest_published_at": "2026-08-05T09:15:05Z",
+    "source_published_at": "2026-08-05T09:15:05Z",
     "observed_at": "2026-08-05T15:21:20Z",
     "ingested_at": "2026-08-05T15:21:20Z",
     "first_served_at": null,
@@ -157782,7 +157745,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:31:39Z",
-    "ledger_committed_at": "2026-08-05T15:31:39Z"
+    "ledger_commit_at": "2026-08-05T15:31:36Z",
+    "ledger_committed_at": "2026-08-05T15:31:36Z"
   }
 ]
