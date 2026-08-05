@@ -149666,5 +149666,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T13:34:32Z",
     "ledger_committed_at": "2026-08-05T13:34:32Z"
+  },
+  {
+    "id": "statist-browser-typed-client-sme-platform-mobile-voip-common-events-2026-08-05",
+    "display_name": "statist-browser-typed-client-sme.platform.mobile.voip.common.events",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "statist-browser-typed-client-sme.platform.mobile.voip.common.events",
+        "ecosystem": "npm",
+        "versions": [
+          "20.9.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12452",
+            "osv_published_at": "2026-08-05T12:50:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:20:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:20:48Z",
+    "osv_earliest_published_at": "2026-08-05T12:50:56Z",
+    "source_published_at": "2026-08-05T12:50:56Z",
+    "observed_at": "2026-08-05T13:20:48Z",
+    "ingested_at": "2026-08-05T13:20:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:34:43Z",
+    "ledger_committed_at": "2026-08-05T13:34:43Z"
   }
 ]
