@@ -167362,5 +167362,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T18:21:31Z",
     "ledger_committed_at": "2026-08-05T18:21:31Z"
+  },
+  {
+    "id": "mnemonic-py-2026-08-05",
+    "display_name": "mnemonic-py",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mnemonic-py",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.21"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13362",
+            "osv_published_at": "2026-08-05T17:44:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T18:21:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T18:21:07Z",
+    "osv_earliest_published_at": "2026-08-05T17:44:37Z",
+    "source_published_at": "2026-08-05T17:44:37Z",
+    "observed_at": "2026-08-05T18:21:07Z",
+    "ingested_at": "2026-08-05T18:21:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T18:21:43Z",
+    "ledger_committed_at": "2026-08-05T18:21:43Z"
   }
 ]
