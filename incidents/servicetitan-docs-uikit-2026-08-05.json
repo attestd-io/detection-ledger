@@ -2,7 +2,7 @@
   "id": "servicetitan-docs-uikit-2026-08-05",
   "display_name": "@servicetitan/docs-uikit",
   "campaign": null,
-  "detection_source": "osv",
+  "detection_source": "npm_registry",
   "packages": [
     {
       "package": "@servicetitan/docs-uikit",
@@ -16,28 +16,23 @@
         "38.1.6",
         "38.1.7"
       ],
-      "osv_entries": [
-        {
-          "osv_id": "MAL-2026-11854",
-          "osv_published_at": "2026-08-04T13:26:07Z"
-        }
-      ]
+      "osv_entries": []
     }
   ],
   "malware_type": "malware",
-  "attestd_detected_at": "2026-08-05T02:30:10Z",
+  "attestd_detected_at": "2026-08-05T02:30:13Z",
   "flagged_at": null,
-  "confirmed_at": "2026-08-05T02:30:10Z",
-  "osv_earliest_published_at": "2026-08-04T13:26:07Z",
-  "source_published_at": "2026-08-04T13:26:07Z",
-  "observed_at": "2026-08-05T02:30:10Z",
-  "ingested_at": "2026-08-05T02:30:10Z",
+  "confirmed_at": "2026-08-05T02:30:13Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-05T02:30:13Z",
+  "ingested_at": "2026-08-05T02:30:13Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
-  "advisory_url": "",
-  "ledger_commit_at": "2026-08-05T02:30:25Z",
-  "ledger_committed_at": "2026-08-05T02:30:25Z"
+  "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fdocs-uikit",
+  "ledger_commit_at": "2026-08-05T02:30:31Z",
+  "ledger_committed_at": "2026-08-05T02:30:31Z"
 }
