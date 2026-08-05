@@ -130541,13 +130541,13 @@
     "ledger_committed_at": "2026-08-05T03:17:15Z"
   },
   {
-    "id": "twilio-platform-async-data-fetch-2026-08-05",
-    "display_name": "twilio-platform-async-data-fetch",
+    "id": "twiliointernal-messaging-toolbox-2026-08-05",
+    "display_name": "twiliointernal-messaging-toolbox",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "twilio-platform-async-data-fetch",
+        "package": "twiliointernal-messaging-toolbox",
         "ecosystem": "npm",
         "versions": [
           "99.99.100",
@@ -130555,27 +130555,27 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10935",
+            "osv_id": "MAL-2026-10938",
             "osv_published_at": "2026-07-20T00:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T03:17:25Z",
+    "attestd_detected_at": "2026-08-05T03:17:27Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T03:17:25Z",
+    "confirmed_at": "2026-08-05T03:17:27Z",
     "osv_earliest_published_at": "2026-07-20T00:00:00Z",
     "source_published_at": "2026-07-20T00:00:00Z",
-    "observed_at": "2026-08-05T03:17:25Z",
-    "ingested_at": "2026-08-05T03:17:25Z",
+    "observed_at": "2026-08-05T03:17:27Z",
+    "ingested_at": "2026-08-05T03:17:27Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T03:17:27Z",
-    "ledger_committed_at": "2026-08-05T03:17:27Z"
+    "ledger_commit_at": "2026-08-05T03:17:32Z",
+    "ledger_committed_at": "2026-08-05T03:17:32Z"
   }
 ]
