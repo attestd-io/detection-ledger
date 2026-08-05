@@ -108638,7 +108638,8 @@
         "package": "swiper_angular",
         "ecosystem": "npm",
         "versions": [
-          "5.9999.0"
+          "5.9999.0",
+          "5.9999.1"
         ],
         "osv_entries": [
           {
@@ -108662,8 +108663,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-25T17:14:26Z",
-    "ledger_committed_at": "2026-07-25T17:14:26Z"
+    "ledger_commit_at": "2026-08-05T13:36:59Z",
+    "ledger_committed_at": "2026-08-05T13:36:59Z"
   },
   {
     "id": "ks-radar-radar-2026-07-25",
@@ -149999,42 +150000,5 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T13:36:41Z",
     "ledger_committed_at": "2026-08-05T13:36:41Z"
-  },
-  {
-    "id": "sui-migration-audit-rules-2026-08-05",
-    "display_name": "sui-migration-audit-rules",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "sui-migration-audit-rules",
-        "ecosystem": "npm",
-        "versions": [
-          "1.0.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12472",
-            "osv_published_at": "2026-08-05T12:35:42Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:21:10Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:21:10Z",
-    "osv_earliest_published_at": "2026-08-05T12:35:42Z",
-    "source_published_at": "2026-08-05T12:35:42Z",
-    "observed_at": "2026-08-05T13:21:10Z",
-    "ingested_at": "2026-08-05T13:21:10Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:36:55Z",
-    "ledger_committed_at": "2026-08-05T13:36:55Z"
   }
 ]
