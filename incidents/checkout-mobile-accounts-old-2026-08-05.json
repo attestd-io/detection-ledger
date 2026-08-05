@@ -1,0 +1,37 @@
+{
+  "id": "checkout-mobile-accounts-old-2026-08-05",
+  "display_name": "checkout-mobile-accounts-old",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "checkout-mobile-accounts-old",
+      "ecosystem": "npm",
+      "versions": [
+        "35.6.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12571",
+          "osv_published_at": "2026-08-05T14:10:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:29:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:29:14Z",
+  "osv_earliest_published_at": "2026-08-05T14:10:29Z",
+  "source_published_at": "2026-08-05T14:10:29Z",
+  "observed_at": "2026-08-05T14:29:14Z",
+  "ingested_at": "2026-08-05T14:29:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:35:16Z",
+  "ledger_committed_at": "2026-08-05T14:35:16Z"
+}
