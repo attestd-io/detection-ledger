@@ -155658,7 +155658,8 @@
         "package": "telemetry-metrics",
         "ecosystem": "npm",
         "versions": [
-          "0.2.3"
+          "0.2.3",
+          "0.2.4"
         ],
         "osv_entries": [
           {
@@ -155682,8 +155683,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:18:07Z",
-    "ledger_committed_at": "2026-08-05T15:18:07Z"
+    "ledger_commit_at": "2026-08-05T16:44:50Z",
+    "ledger_committed_at": "2026-08-05T16:44:50Z"
   },
   {
     "id": "simple-date-formatter-new-2-2026-08-05",
@@ -156176,9 +156177,7 @@
         "package": "stellarfix",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "1.0.3",
-          "1.0.4"
+          "1.0.3"
         ],
         "osv_entries": [
           {
@@ -156202,8 +156201,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:44:41Z",
-    "ledger_committed_at": "2026-08-05T16:44:41Z"
+    "ledger_commit_at": "2026-08-05T15:22:35Z",
+    "ledger_committed_at": "2026-08-05T15:22:35Z"
   },
   {
     "id": "tailwind-animate-plugin-2026-08-05",
@@ -167055,5 +167054,79 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:44:26Z",
     "ledger_committed_at": "2026-08-05T16:44:26Z"
+  },
+  {
+    "id": "stellar-api-core-2026-08-05",
+    "display_name": "stellar-api-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "stellar-api-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13352",
+            "osv_published_at": "2026-08-05T15:49:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:31:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:31:33Z",
+    "osv_earliest_published_at": "2026-08-05T15:49:02Z",
+    "source_published_at": "2026-08-05T15:49:02Z",
+    "observed_at": "2026-08-05T16:31:33Z",
+    "ingested_at": "2026-08-05T16:31:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:44:34Z",
+    "ledger_committed_at": "2026-08-05T16:44:34Z"
+  },
+  {
+    "id": "stellarfixer-2026-08-05",
+    "display_name": "stellarfixer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "stellarfixer",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13353",
+            "osv_published_at": "2026-08-05T15:55:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:31:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:31:35Z",
+    "osv_earliest_published_at": "2026-08-05T15:55:02Z",
+    "source_published_at": "2026-08-05T15:55:02Z",
+    "observed_at": "2026-08-05T16:31:35Z",
+    "ingested_at": "2026-08-05T16:31:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:44:42Z",
+    "ledger_committed_at": "2026-08-05T16:44:42Z"
   }
 ]
