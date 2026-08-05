@@ -121741,130 +121741,52 @@
     "ledger_committed_at": "2026-08-05T00:11:02Z"
   },
   {
-    "id": "onereach-si-merge-tag-input-2026-08-05",
-    "display_name": "@onereach/si-merge-tag-input",
+    "id": "onereach-si-list-2026-08-05",
+    "display_name": "@onereach/si-list",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@onereach/si-merge-tag-input",
+        "package": "@onereach/si-list",
         "ecosystem": "npm",
         "versions": [
-          "0.4.5",
-          "0.4.6",
-          "0.4.7"
+          "0.7.4",
+          "0.7.5",
+          "0.7.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11641",
+            "osv_id": "MAL-2026-11640",
             "osv_published_at": "2026-08-04T18:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:05:42Z",
+    "attestd_detected_at": "2026-08-05T00:05:41Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:05:42Z",
+    "confirmed_at": "2026-08-05T00:05:41Z",
     "osv_earliest_published_at": "2026-08-04T18:00:00Z",
     "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:05:42Z",
-    "ingested_at": "2026-08-05T00:05:42Z",
+    "observed_at": "2026-08-05T00:05:41Z",
+    "ingested_at": "2026-08-05T00:05:41Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:11:10Z",
-    "ledger_committed_at": "2026-08-05T00:11:10Z"
+    "ledger_commit_at": "2026-08-05T00:11:08Z",
+    "ledger_committed_at": "2026-08-05T00:11:08Z"
   },
   {
-    "id": "onereach-si-select-2026-08-05",
-    "display_name": "@onereach/si-select",
+    "id": "onereach-si-radio-group-2026-08-05",
+    "display_name": "@onereach/si-radio-group",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@onereach/si-select",
-        "ecosystem": "npm",
-        "versions": [
-          "0.1.3",
-          "0.1.4",
-          "0.1.5"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11644",
-            "osv_published_at": "2026-08-04T18:00:00Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:05:47Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:05:47Z",
-    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
-    "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:05:47Z",
-    "ingested_at": "2026-08-05T00:05:47Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:11:27Z",
-    "ledger_committed_at": "2026-08-05T00:11:27Z"
-  },
-  {
-    "id": "onereach-si-switch-2026-08-05",
-    "display_name": "@onereach/si-switch",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@onereach/si-switch",
-        "ecosystem": "npm",
-        "versions": [
-          "0.4.5",
-          "0.4.6",
-          "0.4.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11646",
-            "osv_published_at": "2026-08-04T18:00:00Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:05:50Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:05:50Z",
-    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
-    "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:05:50Z",
-    "ingested_at": "2026-08-05T00:05:50Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:11:39Z",
-    "ledger_committed_at": "2026-08-05T00:11:39Z"
-  },
-  {
-    "id": "onereach-si-validated-timestring-input-2026-08-05",
-    "display_name": "@onereach/si-validated-timestring-input",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@onereach/si-validated-timestring-input",
+        "package": "@onereach/si-radio-group",
         "ecosystem": "npm",
         "versions": [
           "0.3.5",
@@ -121873,115 +121795,427 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11649",
+            "osv_id": "MAL-2026-11642",
             "osv_published_at": "2026-08-04T18:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:05:54Z",
+    "attestd_detected_at": "2026-08-05T00:05:44Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:05:54Z",
+    "confirmed_at": "2026-08-05T00:05:44Z",
     "osv_earliest_published_at": "2026-08-04T18:00:00Z",
     "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:05:54Z",
-    "ingested_at": "2026-08-05T00:05:54Z",
+    "observed_at": "2026-08-05T00:05:44Z",
+    "ingested_at": "2026-08-05T00:05:44Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:11:55Z",
-    "ledger_committed_at": "2026-08-05T00:11:55Z"
+    "ledger_commit_at": "2026-08-05T00:11:15Z",
+    "ledger_committed_at": "2026-08-05T00:11:15Z"
   },
   {
-    "id": "onereach-ssml-editor-2026-08-05",
-    "display_name": "@onereach/ssml-editor",
+    "id": "onereach-si-root-2026-08-05",
+    "display_name": "@onereach/si-root",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@onereach/ssml-editor",
+        "package": "@onereach/si-root",
         "ecosystem": "npm",
         "versions": [
-          "2.0.12",
-          "2.0.13",
-          "2.0.14"
+          "0.9.4",
+          "0.9.5",
+          "0.9.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11651",
+            "osv_id": "MAL-2026-11643",
             "osv_published_at": "2026-08-04T18:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:05:57Z",
+    "attestd_detected_at": "2026-08-05T00:05:45Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:05:57Z",
+    "confirmed_at": "2026-08-05T00:05:45Z",
     "osv_earliest_published_at": "2026-08-04T18:00:00Z",
     "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:05:57Z",
-    "ingested_at": "2026-08-05T00:05:57Z",
+    "observed_at": "2026-08-05T00:05:45Z",
+    "ingested_at": "2026-08-05T00:05:45Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:12:07Z",
-    "ledger_committed_at": "2026-08-05T00:12:07Z"
+    "ledger_commit_at": "2026-08-05T00:11:21Z",
+    "ledger_committed_at": "2026-08-05T00:11:21Z"
   },
   {
-    "id": "onereach-step-run-snowflake-query-2026-08-05",
-    "display_name": "@onereach/step-run-snowflake-query",
+    "id": "onereach-si-step-chooser-2026-08-05",
+    "display_name": "@onereach/si-step-chooser",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@onereach/step-run-snowflake-query",
+        "package": "@onereach/si-step-chooser",
         "ecosystem": "npm",
         "versions": [
-          "0.1.1",
-          "0.1.2",
-          "0.1.3"
+          "0.4.4",
+          "0.4.5",
+          "0.4.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11654",
+            "osv_id": "MAL-2026-11645",
             "osv_published_at": "2026-08-04T18:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:06:01Z",
+    "attestd_detected_at": "2026-08-05T00:05:48Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:06:01Z",
+    "confirmed_at": "2026-08-05T00:05:48Z",
     "osv_earliest_published_at": "2026-08-04T18:00:00Z",
     "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:06:01Z",
-    "ingested_at": "2026-08-05T00:06:01Z",
+    "observed_at": "2026-08-05T00:05:48Z",
+    "ingested_at": "2026-08-05T00:05:48Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:12:24Z",
-    "ledger_committed_at": "2026-08-05T00:12:24Z"
+    "ledger_commit_at": "2026-08-05T00:11:32Z",
+    "ledger_committed_at": "2026-08-05T00:11:32Z"
   },
   {
-    "id": "onereach-styles-2026-08-05",
-    "display_name": "@onereach/styles",
+    "id": "onereach-si-text-message-2026-08-05",
+    "display_name": "@onereach/si-text-message",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@onereach/styles",
+        "package": "@onereach/si-text-message",
+        "ecosystem": "npm",
+        "versions": [
+          "0.4.5",
+          "0.4.6",
+          "0.4.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11647",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:05:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:05:51Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:05:51Z",
+    "ingested_at": "2026-08-05T00:05:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:11:42Z",
+    "ledger_committed_at": "2026-08-05T00:11:42Z"
+  },
+  {
+    "id": "onereach-si-textinput-2026-08-05",
+    "display_name": "@onereach/si-textinput",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/si-textinput",
+        "ecosystem": "npm",
+        "versions": [
+          "0.5.5",
+          "0.5.6",
+          "0.5.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11648",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:05:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:05:53Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:05:53Z",
+    "ingested_at": "2026-08-05T00:05:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:11:49Z",
+    "ledger_committed_at": "2026-08-05T00:11:49Z"
+  },
+  {
+    "id": "onereach-slack-helpers-2026-08-05",
+    "display_name": "@onereach/slack-helpers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/slack-helpers",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3",
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11650",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:05:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:05:55Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:05:55Z",
+    "ingested_at": "2026-08-05T00:05:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:12:00Z",
+    "ledger_committed_at": "2026-08-05T00:12:00Z"
+  },
+  {
+    "id": "onereach-step-components-2026-08-05",
+    "display_name": "@onereach/step-components",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/step-components",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.37",
+          "0.1.38",
+          "0.1.39"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11652",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:05:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:05:58Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:05:58Z",
+    "ingested_at": "2026-08-05T00:05:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:12:10Z",
+    "ledger_committed_at": "2026-08-05T00:12:10Z"
+  },
+  {
+    "id": "onereach-step-conversation-2026-08-05",
+    "display_name": "@onereach/step-conversation",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/step-conversation",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.41",
+          "1.0.42",
+          "1.0.43"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11653",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:06:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:06:00Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:06:00Z",
+    "ingested_at": "2026-08-05T00:06:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:12:17Z",
+    "ledger_committed_at": "2026-08-05T00:12:17Z"
+  },
+  {
+    "id": "onereach-step-voice-2026-08-05",
+    "display_name": "@onereach/step-voice",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/step-voice",
+        "ecosystem": "npm",
+        "versions": [
+          "7.0.32",
+          "7.0.33",
+          "7.0.34"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11655",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:06:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:06:03Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:06:03Z",
+    "ingested_at": "2026-08-05T00:06:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:12:28Z",
+    "ledger_committed_at": "2026-08-05T00:12:28Z"
+  },
+  {
+    "id": "onereach-time-interpreter-2026-08-05",
+    "display_name": "@onereach/time-interpreter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/time-interpreter",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.30",
+          "1.0.31",
+          "1.0.32"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11657",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:06:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:06:06Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:06:06Z",
+    "ingested_at": "2026-08-05T00:06:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:12:39Z",
+    "ledger_committed_at": "2026-08-05T00:12:39Z"
+  },
+  {
+    "id": "onereach-ts-memoize-2026-08-05",
+    "display_name": "@onereach/ts-memoize",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/ts-memoize",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.0.3",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11658",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:06:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:06:07Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:06:07Z",
+    "ingested_at": "2026-08-05T00:06:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:12:46Z",
+    "ledger_committed_at": "2026-08-05T00:12:46Z"
+  },
+  {
+    "id": "onereach-ui-components-common-2026-08-05",
+    "display_name": "@onereach/ui-components-common",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/ui-components-common",
         "ecosystem": "npm",
         "versions": [
           "27.0.2",
@@ -121990,66 +122224,27 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11656",
+            "osv_id": "MAL-2026-11661",
             "osv_published_at": "2026-08-04T18:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:06:04Z",
+    "attestd_detected_at": "2026-08-05T00:06:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:06:04Z",
+    "confirmed_at": "2026-08-05T00:06:10Z",
     "osv_earliest_published_at": "2026-08-04T18:00:00Z",
     "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:06:04Z",
-    "ingested_at": "2026-08-05T00:06:04Z",
+    "observed_at": "2026-08-05T00:06:10Z",
+    "ingested_at": "2026-08-05T00:06:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:12:36Z",
-    "ledger_committed_at": "2026-08-05T00:12:36Z"
-  },
-  {
-    "id": "onereach-types-contacts-api-2026-08-05",
-    "display_name": "@onereach/types-contacts-api",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@onereach/types-contacts-api",
-        "ecosystem": "npm",
-        "versions": [
-          "9.0.10",
-          "9.0.8",
-          "9.0.9"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11659",
-            "osv_published_at": "2026-08-04T18:00:00Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:06:09Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:06:09Z",
-    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
-    "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:06:09Z",
-    "ingested_at": "2026-08-05T00:06:09Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:12:52Z",
-    "ledger_committed_at": "2026-08-05T00:12:52Z"
+    "ledger_commit_at": "2026-08-05T00:12:56Z",
+    "ledger_committed_at": "2026-08-05T00:12:56Z"
   }
 ]
