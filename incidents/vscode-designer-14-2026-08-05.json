@@ -1,0 +1,37 @@
+{
+  "id": "vscode-designer-14-2026-08-05",
+  "display_name": "vscode-designer-14",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vscode-designer-14",
+      "ecosystem": "npm",
+      "versions": [
+        "14.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12497",
+          "osv_published_at": "2026-08-05T12:58:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:21:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:21:40Z",
+  "osv_earliest_published_at": "2026-08-05T12:58:36Z",
+  "source_published_at": "2026-08-05T12:58:36Z",
+  "observed_at": "2026-08-05T13:21:40Z",
+  "ingested_at": "2026-08-05T13:21:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:39:29Z",
+  "ledger_committed_at": "2026-08-05T13:39:29Z"
+}
