@@ -1,0 +1,37 @@
+{
+  "id": "eacq-acq-menu-2026-08-05",
+  "display_name": "eacq-acq-menu",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eacq-acq-menu",
+      "ecosystem": "npm",
+      "versions": [
+        "35.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13205",
+          "osv_published_at": "2026-08-05T15:08:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T21:22:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T21:22:04Z",
+  "osv_earliest_published_at": "2026-08-05T15:08:18Z",
+  "source_published_at": "2026-08-05T15:08:18Z",
+  "observed_at": "2026-08-05T21:22:04Z",
+  "ingested_at": "2026-08-05T21:22:04Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T21:30:39Z",
+  "ledger_committed_at": "2026-08-05T21:30:39Z"
+}
