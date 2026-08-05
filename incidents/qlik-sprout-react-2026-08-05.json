@@ -1,0 +1,37 @@
+{
+  "id": "qlik-sprout-react-2026-08-05",
+  "display_name": "@qlik/sprout-react",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@qlik/sprout-react",
+      "ecosystem": "npm",
+      "versions": [
+        "6.45.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11808",
+          "osv_published_at": "2026-08-04T13:24:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:26:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:26:50Z",
+  "osv_earliest_published_at": "2026-08-04T13:24:21Z",
+  "source_published_at": "2026-08-04T13:24:21Z",
+  "observed_at": "2026-08-05T03:26:50Z",
+  "ingested_at": "2026-08-05T03:26:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:30:17Z",
+  "ledger_committed_at": "2026-08-05T03:30:17Z"
+}
