@@ -10,18 +10,24 @@
       "versions": [
         "1.2.12"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5963",
+          "osv_published_at": "2026-06-17T03:11:45Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-07-20T03:07:11Z",
   "flagged_at": null,
   "confirmed_at": "2026-07-20T03:07:11Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-17T03:11:45Z",
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40mastra%2Fschema-compat",
-  "ledger_commit_at": "2026-07-20T03:39:34Z"
+  "ledger_commit_at": "2026-08-05T16:51:35Z",
+  "ledger_committed_at": "2026-08-05T16:51:35Z"
 }
