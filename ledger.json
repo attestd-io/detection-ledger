@@ -127348,19 +127348,14 @@
           "6.1.6",
           "6.1.7"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11914",
-            "osv_published_at": "2026-08-04T13:19:13Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:37:42Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:37:42Z",
-    "osv_earliest_published_at": "2026-08-04T13:19:13Z",
+    "osv_earliest_published_at": null,
     "source_published_at": null,
     "observed_at": "2026-08-05T02:37:42Z",
     "ingested_at": "2026-08-05T02:37:42Z",
@@ -127370,8 +127365,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fresponsive",
-    "ledger_commit_at": "2026-08-05T03:43:57Z",
-    "ledger_committed_at": "2026-08-05T03:43:57Z"
+    "ledger_commit_at": "2026-08-05T02:38:52Z",
+    "ledger_committed_at": "2026-08-05T02:38:52Z"
   },
   {
     "id": "servicetitan-help-center-2026-08-05",
@@ -128580,14 +128575,19 @@
           "7.7.6",
           "7.7.7"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11912",
+            "osv_published_at": "2026-08-04T15:27:34Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:43:22Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:43:22Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T15:27:34Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T02:43:22Z",
     "ingested_at": "2026-08-05T02:43:22Z",
@@ -128597,8 +128597,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Freact-hooks",
-    "ledger_commit_at": "2026-08-05T02:45:06Z",
-    "ledger_committed_at": "2026-08-05T02:45:06Z"
+    "ledger_commit_at": "2026-08-05T03:43:55Z",
+    "ledger_committed_at": "2026-08-05T03:43:55Z"
   },
   {
     "id": "servicetitan-skeleton-2026-08-05",
