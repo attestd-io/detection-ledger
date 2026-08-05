@@ -127348,19 +127348,14 @@
           "6.1.6",
           "6.1.7"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11914",
-            "osv_published_at": "2026-08-04T13:19:13Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:37:42Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:37:42Z",
-    "osv_earliest_published_at": "2026-08-04T13:19:13Z",
+    "osv_earliest_published_at": null,
     "source_published_at": null,
     "observed_at": "2026-08-05T02:37:42Z",
     "ingested_at": "2026-08-05T02:37:42Z",
@@ -127370,8 +127365,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fresponsive",
-    "ledger_commit_at": "2026-08-05T03:43:57Z",
-    "ledger_committed_at": "2026-08-05T03:43:57Z"
+    "ledger_commit_at": "2026-08-05T02:38:52Z",
+    "ledger_committed_at": "2026-08-05T02:38:52Z"
   },
   {
     "id": "servicetitan-help-center-2026-08-05",
@@ -127434,19 +127429,14 @@
           "38.1.6",
           "38.1.7"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11915",
-            "osv_published_at": "2026-08-04T15:25:38Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:38:00Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:38:00Z",
-    "osv_earliest_published_at": "2026-08-04T15:25:38Z",
+    "osv_earliest_published_at": null,
     "source_published_at": null,
     "observed_at": "2026-08-05T02:38:00Z",
     "ingested_at": "2026-08-05T02:38:00Z",
@@ -127456,8 +127446,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Frestrict-imports",
-    "ledger_commit_at": "2026-08-05T03:44:03Z",
-    "ledger_committed_at": "2026-08-05T03:44:03Z"
+    "ledger_commit_at": "2026-08-05T02:39:10Z",
+    "ledger_committed_at": "2026-08-05T02:39:10Z"
   },
   {
     "id": "servicetitan-intl-2026-08-05",
@@ -127520,14 +127510,19 @@
           "0.1.8",
           "0.1.9"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11916",
+            "osv_published_at": "2026-08-04T15:29:30Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:38:20Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:38:20Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T15:29:30Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T02:38:20Z",
     "ingested_at": "2026-08-05T02:38:20Z",
@@ -127537,8 +127532,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fschema-comparison",
-    "ledger_commit_at": "2026-08-05T02:39:32Z",
-    "ledger_committed_at": "2026-08-05T02:39:32Z"
+    "ledger_commit_at": "2026-08-05T03:44:09Z",
+    "ledger_committed_at": "2026-08-05T03:44:09Z"
   },
   {
     "id": "servicetitan-kendo-theme-2026-08-05",
@@ -128585,14 +128580,19 @@
           "7.7.6",
           "7.7.7"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11912",
+            "osv_published_at": "2026-08-04T15:27:34Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:43:22Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:43:22Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T15:27:34Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T02:43:22Z",
     "ingested_at": "2026-08-05T02:43:22Z",
@@ -128602,8 +128602,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Freact-hooks",
-    "ledger_commit_at": "2026-08-05T02:45:06Z",
-    "ledger_committed_at": "2026-08-05T02:45:06Z"
+    "ledger_commit_at": "2026-08-05T03:43:55Z",
+    "ledger_committed_at": "2026-08-05T03:43:55Z"
   },
   {
     "id": "servicetitan-skeleton-2026-08-05",
@@ -128623,19 +128623,14 @@
           "9.2.8",
           "9.2.9"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11917",
-            "osv_published_at": "2026-08-04T15:31:22Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:43:37Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:43:37Z",
-    "osv_earliest_published_at": "2026-08-04T15:31:22Z",
+    "osv_earliest_published_at": null,
     "source_published_at": null,
     "observed_at": "2026-08-05T02:43:37Z",
     "ingested_at": "2026-08-05T02:43:37Z",
@@ -128645,8 +128640,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fskeleton",
-    "ledger_commit_at": "2026-08-05T03:44:15Z",
-    "ledger_committed_at": "2026-08-05T03:44:15Z"
+    "ledger_commit_at": "2026-08-05T02:45:18Z",
+    "ledger_committed_at": "2026-08-05T02:45:18Z"
   },
   {
     "id": "servicetitan-standalone-feature-flags-2026-08-05",
@@ -128666,14 +128661,19 @@
           "2.3.7",
           "2.3.8"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11919",
+            "osv_published_at": "2026-08-04T15:42:00Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:43:48Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:43:48Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T15:42:00Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T02:43:48Z",
     "ingested_at": "2026-08-05T02:43:48Z",
@@ -128683,8 +128683,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fstandalone-feature-flags",
-    "ledger_commit_at": "2026-08-05T02:45:29Z",
-    "ledger_committed_at": "2026-08-05T02:45:29Z"
+    "ledger_commit_at": "2026-08-05T03:44:24Z",
+    "ledger_committed_at": "2026-08-05T03:44:24Z"
   },
   {
     "id": "servicetitan-startup-mfe-compat-2026-08-05",
