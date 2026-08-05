@@ -1,0 +1,37 @@
+{
+  "id": "dp-owners-2026-08-05",
+  "display_name": "dp-owners",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dp-owners",
+      "ecosystem": "npm",
+      "versions": [
+        "35.2.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13200",
+          "osv_published_at": "2026-08-05T15:07:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T21:22:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T21:22:00Z",
+  "osv_earliest_published_at": "2026-08-05T15:07:43Z",
+  "source_published_at": "2026-08-05T15:07:43Z",
+  "observed_at": "2026-08-05T21:22:00Z",
+  "ingested_at": "2026-08-05T21:22:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T21:30:08Z",
+  "ledger_committed_at": "2026-08-05T21:30:08Z"
+}
