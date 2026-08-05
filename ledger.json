@@ -154461,40 +154461,77 @@
     "ledger_committed_at": "2026-08-05T14:52:11Z"
   },
   {
-    "id": "devplatform-nx-react-2026-08-05",
-    "display_name": "devplatform-nx-react",
+    "id": "devplatform-nx-pvm-2026-08-05",
+    "display_name": "devplatform-nx-pvm",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "devplatform-nx-react",
+        "package": "devplatform-nx-pvm",
         "ecosystem": "npm",
         "versions": [
-          "35.9.4"
+          "35.2.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12726",
-            "osv_published_at": "2026-08-05T13:49:57Z"
+            "osv_id": "MAL-2026-12725",
+            "osv_published_at": "2026-08-05T13:50:22Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T14:32:16Z",
+    "attestd_detected_at": "2026-08-05T14:32:15Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T14:32:16Z",
-    "osv_earliest_published_at": "2026-08-05T13:49:57Z",
-    "source_published_at": "2026-08-05T13:49:57Z",
-    "observed_at": "2026-08-05T14:32:16Z",
-    "ingested_at": "2026-08-05T14:32:16Z",
+    "confirmed_at": "2026-08-05T14:32:15Z",
+    "osv_earliest_published_at": "2026-08-05T13:50:22Z",
+    "source_published_at": "2026-08-05T13:50:22Z",
+    "observed_at": "2026-08-05T14:32:15Z",
+    "ingested_at": "2026-08-05T14:32:15Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T14:52:22Z",
-    "ledger_committed_at": "2026-08-05T14:52:22Z"
+    "ledger_commit_at": "2026-08-05T14:52:20Z",
+    "ledger_committed_at": "2026-08-05T14:52:20Z"
+  },
+  {
+    "id": "devplatform-nx-spa-2026-08-05",
+    "display_name": "devplatform-nx-spa",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "devplatform-nx-spa",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12727",
+            "osv_published_at": "2026-08-05T13:49:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:32:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:32:18Z",
+    "osv_earliest_published_at": "2026-08-05T13:49:07Z",
+    "source_published_at": "2026-08-05T13:49:07Z",
+    "observed_at": "2026-08-05T14:32:18Z",
+    "ingested_at": "2026-08-05T14:32:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:52:28Z",
+    "ledger_committed_at": "2026-08-05T14:52:28Z"
   }
 ]
