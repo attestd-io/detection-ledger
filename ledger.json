@@ -148004,6 +148004,7 @@
         "package": "croft-node",
         "ecosystem": "npm",
         "versions": [
+          "1.1.2",
           "1.1.3"
         ],
         "osv_entries": [
@@ -148028,8 +148029,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:23:10Z",
-    "ledger_committed_at": "2026-08-05T13:23:10Z"
+    "ledger_commit_at": "2026-08-05T16:34:26Z",
+    "ledger_committed_at": "2026-08-05T16:34:26Z"
   },
   {
     "id": "crypto-javas-2026-08-05",
@@ -165160,42 +165161,5 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:34:18Z",
     "ledger_committed_at": "2026-08-05T16:34:18Z"
-  },
-  {
-    "id": "devplatform-spa-plugin-s3-router-2026-08-05",
-    "display_name": "devplatform-spa-plugin-s3-router",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "devplatform-spa-plugin-s3-router",
-        "ecosystem": "npm",
-        "versions": [
-          "35.1.3"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13261",
-            "osv_published_at": "2026-08-05T15:30:54Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:29:43Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:29:43Z",
-    "osv_earliest_published_at": "2026-08-05T15:30:54Z",
-    "source_published_at": "2026-08-05T15:30:54Z",
-    "observed_at": "2026-08-05T16:29:43Z",
-    "ingested_at": "2026-08-05T16:29:43Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:34:26Z",
-    "ledger_committed_at": "2026-08-05T16:34:26Z"
   }
 ]
