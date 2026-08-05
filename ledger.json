@@ -151903,5 +151903,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T14:35:46Z",
     "ledger_committed_at": "2026-08-05T14:35:46Z"
+  },
+  {
+    "id": "checkout-mobile-input-card-2026-08-05",
+    "display_name": "checkout-mobile-input-card",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "checkout-mobile-input-card",
+        "ecosystem": "npm",
+        "versions": [
+          "35.7.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12575",
+            "osv_published_at": "2026-08-05T14:11:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:29:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:29:19Z",
+    "osv_earliest_published_at": "2026-08-05T14:11:27Z",
+    "source_published_at": "2026-08-05T14:11:27Z",
+    "observed_at": "2026-08-05T14:29:19Z",
+    "ingested_at": "2026-08-05T14:29:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:35:55Z",
+    "ledger_committed_at": "2026-08-05T14:35:55Z"
   }
 ]
