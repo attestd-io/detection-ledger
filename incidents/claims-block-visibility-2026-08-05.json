@@ -1,0 +1,37 @@
+{
+  "id": "claims-block-visibility-2026-08-05",
+  "display_name": "claims-block-visibility",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "claims-block-visibility",
+      "ecosystem": "npm",
+      "versions": [
+        "35.3.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12609",
+          "osv_published_at": "2026-08-05T14:06:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:30:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:30:05Z",
+  "osv_earliest_published_at": "2026-08-05T14:06:50Z",
+  "source_published_at": "2026-08-05T14:06:50Z",
+  "observed_at": "2026-08-05T14:30:05Z",
+  "ingested_at": "2026-08-05T14:30:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:39:35Z",
+  "ledger_committed_at": "2026-08-05T14:39:35Z"
+}
