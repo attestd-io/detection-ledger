@@ -143917,5 +143917,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T09:23:21Z",
     "ledger_committed_at": "2026-08-05T09:23:21Z"
+  },
+  {
+    "id": "bs58-88-2026-08-05",
+    "display_name": "bs58-88",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bs58-88",
+        "ecosystem": "npm",
+        "versions": [
+          "6.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11023",
+            "osv_published_at": "2026-07-23T01:01:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T09:21:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T09:21:39Z",
+    "osv_earliest_published_at": "2026-07-23T01:01:28Z",
+    "source_published_at": "2026-07-23T01:01:28Z",
+    "observed_at": "2026-08-05T09:21:39Z",
+    "ingested_at": "2026-08-05T09:21:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T09:23:32Z",
+    "ledger_committed_at": "2026-08-05T09:23:32Z"
   }
 ]
