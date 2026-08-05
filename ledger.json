@@ -125497,7 +125497,7 @@
     "id": "servicetitan-anvil2-ext-charts-2026-08-05",
     "display_name": "@servicetitan/anvil2-ext-charts",
     "campaign": null,
-    "detection_source": "npm_registry",
+    "detection_source": "osv",
     "packages": [
       {
         "package": "@servicetitan/anvil2-ext-charts",
@@ -125511,24 +125511,72 @@
           "0.2.8",
           "0.2.9"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11825",
+            "osv_published_at": "2026-08-04T15:28:07Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:27:50Z",
+    "attestd_detected_at": "2026-08-05T02:27:48Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:27:50Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-05T02:27:50Z",
-    "ingested_at": "2026-08-05T02:27:50Z",
+    "confirmed_at": "2026-08-05T02:27:48Z",
+    "osv_earliest_published_at": "2026-08-04T15:28:07Z",
+    "source_published_at": "2026-08-04T15:28:07Z",
+    "observed_at": "2026-08-05T02:27:48Z",
+    "ingested_at": "2026-08-05T02:27:48Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fanvil2-ext-charts",
-    "ledger_commit_at": "2026-08-05T02:28:00Z",
-    "ledger_committed_at": "2026-08-05T02:28:00Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T02:27:57Z",
+    "ledger_committed_at": "2026-08-05T02:27:57Z"
+  },
+  {
+    "id": "servicetitan-anvil2-ext-common-2026-08-05",
+    "display_name": "@servicetitan/anvil2-ext-common",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@servicetitan/anvil2-ext-common",
+        "ecosystem": "npm",
+        "versions": [
+          "0.7.1",
+          "0.7.2",
+          "0.7.3",
+          "0.7.4",
+          "0.7.5",
+          "0.7.6",
+          "0.7.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11826",
+            "osv_published_at": "2026-08-04T15:30:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:50:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:50:01Z",
+    "osv_earliest_published_at": "2026-08-04T15:30:23Z",
+    "source_published_at": "2026-08-04T15:30:23Z",
+    "observed_at": "2026-08-05T00:50:01Z",
+    "ingested_at": "2026-08-05T00:50:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fanvil2-ext-common",
+    "ledger_commit_at": "2026-08-05T02:28:05Z",
+    "ledger_committed_at": "2026-08-05T02:28:05Z"
   }
 ]
