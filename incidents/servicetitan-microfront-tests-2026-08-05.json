@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-microfront-tests-2026-08-05",
+  "display_name": "@servicetitan/microfront-tests",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/microfront-tests",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.11",
+        "0.0.12",
+        "0.0.13",
+        "0.0.14",
+        "0.0.15",
+        "0.0.16",
+        "0.0.17"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11903",
+          "osv_published_at": "2026-08-04T15:31:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T02:36:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T02:36:37Z",
+  "osv_earliest_published_at": "2026-08-04T15:31:13Z",
+  "source_published_at": "2026-08-04T15:31:13Z",
+  "observed_at": "2026-08-05T02:36:37Z",
+  "ingested_at": "2026-08-05T02:36:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T02:37:33Z",
+  "ledger_committed_at": "2026-08-05T02:37:33Z"
+}
