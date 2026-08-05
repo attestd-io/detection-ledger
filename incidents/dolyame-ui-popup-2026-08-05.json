@@ -1,0 +1,37 @@
+{
+  "id": "dolyame-ui-popup-2026-08-05",
+  "display_name": "dolyame-ui-popup",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dolyame-ui-popup",
+      "ecosystem": "npm",
+      "versions": [
+        "35.8.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13175",
+          "osv_published_at": "2026-08-05T15:11:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T21:21:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T21:21:43Z",
+  "osv_earliest_published_at": "2026-08-05T15:11:29Z",
+  "source_published_at": "2026-08-05T15:11:29Z",
+  "observed_at": "2026-08-05T21:21:43Z",
+  "ingested_at": "2026-08-05T21:21:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T21:27:45Z",
+  "ledger_committed_at": "2026-08-05T21:27:45Z"
+}
