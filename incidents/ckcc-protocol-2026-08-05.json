@@ -8,17 +8,25 @@
       "package": "ckcc-protocol",
       "ecosystem": "npm",
       "versions": [
-        "1.0.0"
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12064",
+          "osv_published_at": "2026-08-05T01:47:56Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-05T04:38:59Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-05T04:38:59Z",
-  "osv_earliest_published_at": null,
-  "source_published_at": null,
+  "osv_earliest_published_at": "2026-08-05T01:47:56Z",
+  "source_published_at": "2026-08-05T01:47:56Z",
   "observed_at": "2026-08-05T04:38:59Z",
   "ingested_at": "2026-08-05T04:38:59Z",
   "first_served_at": null,
@@ -27,6 +35,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12064",
-  "ledger_commit_at": "2026-08-05T04:39:14Z",
-  "ledger_committed_at": "2026-08-05T04:39:14Z"
+  "ledger_commit_at": "2026-08-05T09:29:21Z",
+  "ledger_committed_at": "2026-08-05T09:29:21Z"
 }
