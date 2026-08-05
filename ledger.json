@@ -133664,5 +133664,42 @@
     "advisory_url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
     "ledger_commit_at": "2026-08-05T03:38:21Z",
     "ledger_committed_at": "2026-08-05T03:38:21Z"
+  },
+  {
+    "id": "osinthell-2026-08-05",
+    "display_name": "osinthell",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "osinthell",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.5",
+          "1.6.6",
+          "1.6.9",
+          "1.9.1",
+          "1.9.5"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T04:38:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T04:38:18Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T04:38:18Z",
+    "ingested_at": "2026-08-05T04:38:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-11542",
+    "ledger_commit_at": "2026-08-05T04:38:21Z",
+    "ledger_committed_at": "2026-08-05T04:38:21Z"
   }
 ]
