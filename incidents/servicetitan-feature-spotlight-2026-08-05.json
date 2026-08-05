@@ -16,14 +16,19 @@
         "3.9.6",
         "3.9.7"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11867",
+          "osv_published_at": "2026-08-04T15:43:17Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-05T02:31:32Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-05T02:31:32Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-08-04T15:43:17Z",
   "source_published_at": null,
   "observed_at": "2026-08-05T02:31:32Z",
   "ingested_at": "2026-08-05T02:31:32Z",
@@ -33,6 +38,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Ffeature-spotlight",
-  "ledger_commit_at": "2026-08-05T02:32:03Z",
-  "ledger_committed_at": "2026-08-05T02:32:03Z"
+  "ledger_commit_at": "2026-08-05T03:42:42Z",
+  "ledger_committed_at": "2026-08-05T03:42:42Z"
 }
