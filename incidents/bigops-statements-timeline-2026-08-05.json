@@ -1,0 +1,37 @@
+{
+  "id": "bigops-statements-timeline-2026-08-05",
+  "display_name": "bigops-statements-timeline",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bigops-statements-timeline",
+      "ecosystem": "npm",
+      "versions": [
+        "35.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13250",
+          "osv_published_at": "2026-08-05T15:34:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T16:29:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T16:29:31Z",
+  "osv_earliest_published_at": "2026-08-05T15:34:01Z",
+  "source_published_at": "2026-08-05T15:34:01Z",
+  "observed_at": "2026-08-05T16:29:31Z",
+  "ingested_at": "2026-08-05T16:29:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:33:17Z",
+  "ledger_committed_at": "2026-08-05T16:33:17Z"
+}
