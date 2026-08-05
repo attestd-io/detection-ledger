@@ -128996,14 +128996,19 @@
           "3.11.7",
           "3.11.8"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11692",
+            "osv_published_at": "2026-08-04T15:22:38Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:57:45Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:57:45Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T15:22:38Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T02:57:45Z",
     "ingested_at": "2026-08-05T02:57:45Z",
@@ -129013,8 +129018,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Ffiles",
-    "ledger_commit_at": "2026-08-05T02:57:59Z",
-    "ledger_committed_at": "2026-08-05T02:57:59Z"
+    "ledger_commit_at": "2026-08-05T02:58:36Z",
+    "ledger_committed_at": "2026-08-05T02:58:36Z"
   },
   {
     "id": "or-sdk-idw-2026-08-05",
@@ -129090,8 +129095,47 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fidw-skill",
-    "ledger_commit_at": "2026-08-05T02:58:39Z",
-    "ledger_committed_at": "2026-08-05T02:58:39Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T02:58:21Z",
+    "ledger_committed_at": "2026-08-05T02:58:21Z"
+  },
+  {
+    "id": "or-sdk-knowledge-models-2026-08-05",
+    "display_name": "@or-sdk/knowledge-models",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@or-sdk/knowledge-models",
+        "ecosystem": "npm",
+        "versions": [
+          "0.25.5",
+          "0.25.6",
+          "0.25.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11705",
+            "osv_published_at": "2026-08-04T13:19:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T02:58:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T02:58:41Z",
+    "osv_earliest_published_at": "2026-08-04T13:19:59Z",
+    "source_published_at": "2026-08-04T13:19:59Z",
+    "observed_at": "2026-08-05T02:58:41Z",
+    "ingested_at": "2026-08-05T02:58:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T02:58:44Z",
+    "ledger_committed_at": "2026-08-05T02:58:44Z"
   }
 ]
