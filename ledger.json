@@ -143516,34 +143516,33 @@
     "ledger_committed_at": "2026-08-05T09:19:15Z"
   },
   {
-    "id": "eslint-angular-react-2026-08-05",
-    "display_name": "eslint-angular-react",
+    "id": "permcserver-2026-08-05",
+    "display_name": "permcserver",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "eslint-angular-react",
+        "package": "permcserver",
         "ecosystem": "npm",
         "versions": [
-          "110.0.0",
-          "110.0.2"
+          "1.0.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10498",
-            "osv_published_at": "2026-07-13T21:32:29Z"
+            "osv_id": "MAL-2026-10489",
+            "osv_published_at": "2026-07-13T20:49:47Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:19:18Z",
+    "attestd_detected_at": "2026-08-05T09:19:17Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:19:18Z",
-    "osv_earliest_published_at": "2026-07-13T21:32:29Z",
-    "source_published_at": "2026-07-13T21:32:29Z",
-    "observed_at": "2026-08-05T09:19:18Z",
-    "ingested_at": "2026-08-05T09:19:18Z",
+    "confirmed_at": "2026-08-05T09:19:17Z",
+    "osv_earliest_published_at": "2026-07-13T20:49:47Z",
+    "source_published_at": "2026-07-13T20:49:47Z",
+    "observed_at": "2026-08-05T09:19:17Z",
+    "ingested_at": "2026-08-05T09:19:17Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
