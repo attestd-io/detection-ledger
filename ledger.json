@@ -149518,5 +149518,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T13:33:46Z",
     "ledger_committed_at": "2026-08-05T13:33:46Z"
+  },
+  {
+    "id": "statist-browser-typed-client-eventea-projects-pfpacquiring-2026-08-05",
+    "display_name": "statist-browser-typed-client-eventea.projects.pfpacquiring",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "statist-browser-typed-client-eventea.projects.pfpacquiring",
+        "ecosystem": "npm",
+        "versions": [
+          "20.5.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12445",
+            "osv_published_at": "2026-08-05T12:27:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:20:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:20:40Z",
+    "osv_earliest_published_at": "2026-08-05T12:27:03Z",
+    "source_published_at": "2026-08-05T12:27:03Z",
+    "observed_at": "2026-08-05T13:20:40Z",
+    "ingested_at": "2026-08-05T13:20:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:33:59Z",
+    "ledger_committed_at": "2026-08-05T13:33:59Z"
   }
 ]
