@@ -162124,5 +162124,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:57:44Z",
     "ledger_committed_at": "2026-08-05T15:57:44Z"
+  },
+  {
+    "id": "bnpl-blocks-mobile-bnpl-news-cards-2026-08-05",
+    "display_name": "bnpl-blocks-mobile-bnpl-news-cards",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bnpl-blocks-mobile-bnpl-news-cards",
+        "ecosystem": "npm",
+        "versions": [
+          "35.6.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12998",
+            "osv_published_at": "2026-08-05T14:39:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:38:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:38:23Z",
+    "osv_earliest_published_at": "2026-08-05T14:39:43Z",
+    "source_published_at": "2026-08-05T14:39:43Z",
+    "observed_at": "2026-08-05T15:38:23Z",
+    "ingested_at": "2026-08-05T15:38:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:57:57Z",
+    "ledger_committed_at": "2026-08-05T15:57:57Z"
   }
 ]
