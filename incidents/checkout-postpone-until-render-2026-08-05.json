@@ -1,0 +1,37 @@
+{
+  "id": "checkout-postpone-until-render-2026-08-05",
+  "display_name": "checkout-postpone-until-render",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "checkout-postpone-until-render",
+      "ecosystem": "npm",
+      "versions": [
+        "35.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12587",
+          "osv_published_at": "2026-08-05T14:08:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:29:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:29:34Z",
+  "osv_earliest_published_at": "2026-08-05T14:08:34Z",
+  "source_published_at": "2026-08-05T14:08:34Z",
+  "observed_at": "2026-08-05T14:29:34Z",
+  "ingested_at": "2026-08-05T14:29:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:37:19Z",
+  "ledger_committed_at": "2026-08-05T14:37:19Z"
+}
