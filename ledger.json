@@ -144814,35 +144814,37 @@
     "ledger_committed_at": "2026-08-05T09:31:34Z"
   },
   {
-    "id": "mnemonic-utils-2026-08-05",
-    "display_name": "mnemonic-utils",
+    "id": "ethers-lib-2026-08-05",
+    "display_name": "ethers-lib",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "mnemonic-utils",
+        "package": "ethers-lib",
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
           "1.0.1",
-          "1.0.2"
+          "1.0.2",
+          "1.0.3",
+          "1.0.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12112",
-            "osv_published_at": "2026-08-05T06:18:00Z"
+            "osv_id": "MAL-2026-12111",
+            "osv_published_at": "2026-08-05T06:17:24Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:29:50Z",
+    "attestd_detected_at": "2026-08-05T09:29:49Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:29:50Z",
-    "osv_earliest_published_at": "2026-08-05T06:18:00Z",
-    "source_published_at": "2026-08-05T06:18:00Z",
-    "observed_at": "2026-08-05T09:29:50Z",
-    "ingested_at": "2026-08-05T09:29:50Z",
+    "confirmed_at": "2026-08-05T09:29:49Z",
+    "osv_earliest_published_at": "2026-08-05T06:17:24Z",
+    "source_published_at": "2026-08-05T06:17:24Z",
+    "observed_at": "2026-08-05T09:29:49Z",
+    "ingested_at": "2026-08-05T09:29:49Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
