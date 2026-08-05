@@ -122362,9 +122362,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:14:38Z",
-    "ledger_committed_at": "2026-08-05T00:14:38Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fbot-templates",
+    "ledger_commit_at": "2026-08-05T03:06:21Z",
+    "ledger_committed_at": "2026-08-05T03:06:21Z"
   },
   {
     "id": "or-sdk-cards-2026-08-05",
@@ -129797,47 +129797,47 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T03:05:54Z",
-    "ledger_committed_at": "2026-08-05T03:05:54Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fweb-search",
+    "ledger_commit_at": "2026-08-05T03:06:13Z",
+    "ledger_committed_at": "2026-08-05T03:06:13Z"
   },
   {
-    "id": "or-sdk-card-templates-2026-08-05",
-    "display_name": "@or-sdk/card-templates",
+    "id": "or-sdk-deployments-2026-08-05",
+    "display_name": "@or-sdk/deployments",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@or-sdk/card-templates",
+        "package": "@or-sdk/deployments",
         "ecosystem": "npm",
         "versions": [
-          "2.2.5",
-          "2.2.6",
-          "2.2.7"
+          "2.1.5",
+          "2.1.6",
+          "2.1.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11679",
-            "osv_published_at": "2026-08-04T18:00:00Z"
+            "osv_id": "MAL-2026-11688",
+            "osv_published_at": "2026-08-04T15:24:03Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:11:09Z",
+    "attestd_detected_at": "2026-08-05T00:13:55Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:11:09Z",
-    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
-    "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:11:09Z",
-    "ingested_at": "2026-08-05T00:11:09Z",
+    "confirmed_at": "2026-08-05T00:13:55Z",
+    "osv_earliest_published_at": "2026-08-04T15:24:03Z",
+    "source_published_at": "2026-08-04T15:24:03Z",
+    "observed_at": "2026-08-05T00:13:55Z",
+    "ingested_at": "2026-08-05T00:13:55Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fcard-templates",
-    "ledger_commit_at": "2026-08-05T03:06:18Z",
-    "ledger_committed_at": "2026-08-05T03:06:18Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fdeployments",
+    "ledger_commit_at": "2026-08-05T03:06:29Z",
+    "ledger_committed_at": "2026-08-05T03:06:29Z"
   }
 ]
