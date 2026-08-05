@@ -1,0 +1,37 @@
+{
+  "id": "checkout-mobile-pay-widget-2026-08-05",
+  "display_name": "checkout-mobile-pay-widget",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "checkout-mobile-pay-widget",
+      "ecosystem": "npm",
+      "versions": [
+        "35.9.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12578",
+          "osv_published_at": "2026-08-05T14:09:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:29:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:29:22Z",
+  "osv_earliest_published_at": "2026-08-05T14:09:55Z",
+  "source_published_at": "2026-08-05T14:09:55Z",
+  "observed_at": "2026-08-05T14:29:22Z",
+  "ingested_at": "2026-08-05T14:29:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:36:14Z",
+  "ledger_committed_at": "2026-08-05T14:36:14Z"
+}
