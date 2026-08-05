@@ -1,0 +1,37 @@
+{
+  "id": "bpm-foundation-api-2026-08-05",
+  "display_name": "bpm-foundation-api",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bpm-foundation-api",
+      "ecosystem": "npm",
+      "versions": [
+        "35.4.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13102",
+          "osv_published_at": "2026-08-05T14:23:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:40:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:40:15Z",
+  "osv_earliest_published_at": "2026-08-05T14:23:14Z",
+  "source_published_at": "2026-08-05T14:23:14Z",
+  "observed_at": "2026-08-05T15:40:15Z",
+  "ingested_at": "2026-08-05T15:40:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:09:15Z",
+  "ledger_committed_at": "2026-08-05T16:09:15Z"
+}
