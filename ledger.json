@@ -150222,5 +150222,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T13:38:18Z",
     "ledger_committed_at": "2026-08-05T13:38:18Z"
+  },
+  {
+    "id": "travel-core-utils-object-2026-08-05",
+    "display_name": "travel-core-utils-object",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "travel-core-utils-object",
+        "ecosystem": "npm",
+        "versions": [
+          "20.3.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12487",
+            "osv_published_at": "2026-08-05T12:23:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:21:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:21:29Z",
+    "osv_earliest_published_at": "2026-08-05T12:23:12Z",
+    "source_published_at": "2026-08-05T12:23:12Z",
+    "observed_at": "2026-08-05T13:21:29Z",
+    "ingested_at": "2026-08-05T13:21:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:38:31Z",
+    "ledger_committed_at": "2026-08-05T13:38:31Z"
   }
 ]
