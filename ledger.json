@@ -156266,40 +156266,117 @@
     "ledger_committed_at": "2026-08-05T15:22:56Z"
   },
   {
-    "id": "tailwind-custom-forms-2026-08-05",
-    "display_name": "tailwind-custom-forms",
+    "id": "tailwind-animationpack-2026-08-05",
+    "display_name": "tailwind-animationpack",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tailwind-custom-forms",
+        "package": "tailwind-animationpack",
         "ecosystem": "npm",
         "versions": [
-          "0.5.2"
+          "2.3.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12221",
-            "osv_published_at": "2026-08-05T09:05:24Z"
+            "osv_id": "MAL-2026-12220",
+            "osv_published_at": "2026-08-05T09:05:16Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:20:24Z",
+    "attestd_detected_at": "2026-08-05T15:20:23Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:20:24Z",
-    "osv_earliest_published_at": "2026-08-05T09:05:24Z",
-    "source_published_at": "2026-08-05T09:05:24Z",
-    "observed_at": "2026-08-05T15:20:24Z",
-    "ingested_at": "2026-08-05T15:20:24Z",
+    "confirmed_at": "2026-08-05T15:20:23Z",
+    "osv_earliest_published_at": "2026-08-05T09:05:16Z",
+    "source_published_at": "2026-08-05T09:05:16Z",
+    "observed_at": "2026-08-05T15:20:23Z",
+    "ingested_at": "2026-08-05T15:20:23Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:23:09Z",
-    "ledger_committed_at": "2026-08-05T15:23:09Z"
+    "ledger_commit_at": "2026-08-05T15:23:05Z",
+    "ledger_committed_at": "2026-08-05T15:23:05Z"
+  },
+  {
+    "id": "tailwind-opentype-2026-08-05",
+    "display_name": "tailwind-opentype",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tailwind-opentype",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12222",
+            "osv_published_at": "2026-08-05T09:05:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:20:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:20:25Z",
+    "osv_earliest_published_at": "2026-08-05T09:05:34Z",
+    "source_published_at": "2026-08-05T09:05:34Z",
+    "observed_at": "2026-08-05T15:20:25Z",
+    "ingested_at": "2026-08-05T15:20:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:23:14Z",
+    "ledger_committed_at": "2026-08-05T15:23:14Z"
+  },
+  {
+    "id": "tailwindcss-form-components-2026-08-05",
+    "display_name": "tailwindcss-form-components",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tailwindcss-form-components",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.0",
+          "1.4.1",
+          "1.5.0",
+          "1.5.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12223",
+            "osv_published_at": "2026-08-05T09:05:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:20:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:20:26Z",
+    "osv_earliest_published_at": "2026-08-05T09:05:44Z",
+    "source_published_at": "2026-08-05T09:05:44Z",
+    "observed_at": "2026-08-05T15:20:26Z",
+    "ingested_at": "2026-08-05T15:20:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:23:21Z",
+    "ledger_committed_at": "2026-08-05T15:23:21Z"
   }
 ]
