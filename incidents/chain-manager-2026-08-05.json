@@ -1,0 +1,39 @@
+{
+  "id": "chain-manager-2026-08-05",
+  "display_name": "chain-manager",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chain-manager",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.10",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11181",
+          "osv_published_at": "2026-07-29T05:25:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:22:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:22:23Z",
+  "osv_earliest_published_at": "2026-07-29T05:25:40Z",
+  "source_published_at": "2026-07-29T05:25:40Z",
+  "observed_at": "2026-08-05T09:22:23Z",
+  "ingested_at": "2026-08-05T09:22:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:27:07Z",
+  "ledger_committed_at": "2026-08-05T09:27:07Z"
+}
