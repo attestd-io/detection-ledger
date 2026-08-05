@@ -147875,40 +147875,114 @@
     "ledger_committed_at": "2026-08-05T13:21:40Z"
   },
   {
-    "id": "chart-data-utils-2026-08-05",
-    "display_name": "chart-data-utils",
+    "id": "checkout-common-tokens-2026-08-05",
+    "display_name": "checkout-common-tokens",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "chart-data-utils",
+        "package": "checkout-common-tokens",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0"
+          "20.1.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12350",
-            "osv_published_at": "2026-08-05T12:31:46Z"
+            "osv_id": "MAL-2026-12351",
+            "osv_published_at": "2026-08-05T12:36:29Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:18:42Z",
+    "attestd_detected_at": "2026-08-05T13:18:43Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:18:42Z",
-    "osv_earliest_published_at": "2026-08-05T12:31:46Z",
-    "source_published_at": "2026-08-05T12:31:46Z",
-    "observed_at": "2026-08-05T13:18:42Z",
-    "ingested_at": "2026-08-05T13:18:42Z",
+    "confirmed_at": "2026-08-05T13:18:43Z",
+    "osv_earliest_published_at": "2026-08-05T12:36:29Z",
+    "source_published_at": "2026-08-05T12:36:29Z",
+    "observed_at": "2026-08-05T13:18:43Z",
+    "ingested_at": "2026-08-05T13:18:43Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:21:51Z",
-    "ledger_committed_at": "2026-08-05T13:21:51Z"
+    "ledger_commit_at": "2026-08-05T13:22:00Z",
+    "ledger_committed_at": "2026-08-05T13:22:00Z"
+  },
+  {
+    "id": "clover-codelab-remote-pay-cloud-2026-08-05",
+    "display_name": "clover-codelab-remote-pay-cloud",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "clover-codelab-remote-pay-cloud",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12353",
+            "osv_published_at": "2026-08-05T13:03:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:18:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:18:45Z",
+    "osv_earliest_published_at": "2026-08-05T13:03:41Z",
+    "source_published_at": "2026-08-05T13:03:41Z",
+    "observed_at": "2026-08-05T13:18:45Z",
+    "ingested_at": "2026-08-05T13:18:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:22:20Z",
+    "ledger_committed_at": "2026-08-05T13:22:20Z"
+  },
+  {
+    "id": "code-analyzer-mcp-2026-08-05",
+    "display_name": "code-analyzer-mcp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "code-analyzer-mcp",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12354",
+            "osv_published_at": "2026-08-05T12:38:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:18:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:18:46Z",
+    "osv_earliest_published_at": "2026-08-05T12:38:16Z",
+    "source_published_at": "2026-08-05T12:38:16Z",
+    "observed_at": "2026-08-05T13:18:46Z",
+    "ingested_at": "2026-08-05T13:18:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:22:29Z",
+    "ledger_committed_at": "2026-08-05T13:22:29Z"
   }
 ]
