@@ -157895,5 +157895,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:32:08Z",
     "ledger_committed_at": "2026-08-05T15:32:08Z"
+  },
+  {
+    "id": "twork-products-taiga2-products-timeline-2026-08-05",
+    "display_name": "twork-products-taiga2-products-timeline",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "twork-products-taiga2-products-timeline",
+        "ecosystem": "npm",
+        "versions": [
+          "20.6.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12307",
+            "osv_published_at": "2026-08-05T09:14:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:21:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:21:25Z",
+    "osv_earliest_published_at": "2026-08-05T09:14:17Z",
+    "source_published_at": "2026-08-05T09:14:17Z",
+    "observed_at": "2026-08-05T15:21:25Z",
+    "ingested_at": "2026-08-05T15:21:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:32:21Z",
+    "ledger_committed_at": "2026-08-05T15:32:21Z"
   }
 ]
