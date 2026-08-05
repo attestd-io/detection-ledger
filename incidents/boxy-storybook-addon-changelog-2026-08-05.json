@@ -1,0 +1,37 @@
+{
+  "id": "boxy-storybook-addon-changelog-2026-08-05",
+  "display_name": "boxy-storybook-addon-changelog",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "boxy-storybook-addon-changelog",
+      "ecosystem": "npm",
+      "versions": [
+        "35.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13086",
+          "osv_published_at": "2026-08-05T14:24:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:39:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:39:59Z",
+  "osv_earliest_published_at": "2026-08-05T14:24:24Z",
+  "source_published_at": "2026-08-05T14:24:24Z",
+  "observed_at": "2026-08-05T15:39:59Z",
+  "ingested_at": "2026-08-05T15:39:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:07:56Z",
+  "ledger_committed_at": "2026-08-05T16:07:56Z"
+}
