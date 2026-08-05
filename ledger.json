@@ -134229,5 +134229,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T06:08:01Z",
     "ledger_committed_at": "2026-08-05T06:08:01Z"
+  },
+  {
+    "id": "403name-ether-js-2026-08-05",
+    "display_name": "@403name/ether-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@403name/ether-js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5548",
+            "osv_published_at": "2026-06-11T03:14:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T06:08:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T06:08:43Z",
+    "osv_earliest_published_at": "2026-06-11T03:14:52Z",
+    "source_published_at": "2026-06-11T03:14:52Z",
+    "observed_at": "2026-08-05T06:08:43Z",
+    "ingested_at": "2026-08-05T06:08:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T06:08:46Z",
+    "ledger_committed_at": "2026-08-05T06:08:46Z"
   }
 ]
