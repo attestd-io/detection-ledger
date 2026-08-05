@@ -1,0 +1,37 @@
+{
+  "id": "qlik-object-conversion-2026-08-05",
+  "display_name": "qlik-object-conversion",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "qlik-object-conversion",
+      "ecosystem": "npm",
+      "versions": [
+        "0.17.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11984",
+          "osv_published_at": "2026-08-04T15:53:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:30:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:30:12Z",
+  "osv_earliest_published_at": "2026-08-04T15:53:25Z",
+  "source_published_at": "2026-08-04T15:53:25Z",
+  "observed_at": "2026-08-05T03:30:12Z",
+  "ingested_at": "2026-08-05T03:30:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:33:39Z",
+  "ledger_committed_at": "2026-08-05T03:33:39Z"
+}
