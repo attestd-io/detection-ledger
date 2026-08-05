@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-quick-actions-2026-08-05",
+  "display_name": "@servicetitan/quick-actions",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/quick-actions",
+      "ecosystem": "npm",
+      "versions": [
+        "1.15.2",
+        "1.15.3",
+        "1.15.4",
+        "1.15.5",
+        "1.15.6",
+        "1.15.7",
+        "1.15.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11911",
+          "osv_published_at": "2026-08-04T15:27:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:51:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:51:17Z",
+  "osv_earliest_published_at": "2026-08-04T15:27:50Z",
+  "source_published_at": "2026-08-04T15:27:50Z",
+  "observed_at": "2026-08-05T00:51:17Z",
+  "ingested_at": "2026-08-05T00:51:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:54:31Z",
+  "ledger_committed_at": "2026-08-05T00:54:31Z"
+}
