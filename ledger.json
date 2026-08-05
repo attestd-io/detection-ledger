@@ -147726,77 +147726,114 @@
     "ledger_committed_at": "2026-08-05T13:20:50Z"
   },
   {
-    "id": "bpm-foundation-feature-flags-2026-08-05",
-    "display_name": "bpm-foundation-feature-flags",
+    "id": "caldora-2026-08-05",
+    "display_name": "caldora",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bpm-foundation-feature-flags",
-        "ecosystem": "npm",
-        "versions": [
-          "20.4.2"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12343",
-            "osv_published_at": "2026-08-05T12:44:58Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:18:34Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:18:34Z",
-    "osv_earliest_published_at": "2026-08-05T12:44:58Z",
-    "source_published_at": "2026-08-05T12:44:58Z",
-    "observed_at": "2026-08-05T13:18:34Z",
-    "ingested_at": "2026-08-05T13:18:34Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:21:01Z",
-    "ledger_committed_at": "2026-08-05T13:21:01Z"
-  },
-  {
-    "id": "calendar-streak-core-2026-08-05",
-    "display_name": "calendar-streak-core",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "calendar-streak-core",
+        "package": "caldora",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12345",
-            "osv_published_at": "2026-08-05T12:24:56Z"
+            "osv_id": "MAL-2026-12344",
+            "osv_published_at": "2026-08-05T12:55:53Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:18:37Z",
+    "attestd_detected_at": "2026-08-05T13:18:36Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:18:37Z",
-    "osv_earliest_published_at": "2026-08-05T12:24:56Z",
-    "source_published_at": "2026-08-05T12:24:56Z",
-    "observed_at": "2026-08-05T13:18:37Z",
-    "ingested_at": "2026-08-05T13:18:37Z",
+    "confirmed_at": "2026-08-05T13:18:36Z",
+    "osv_earliest_published_at": "2026-08-05T12:55:53Z",
+    "source_published_at": "2026-08-05T12:55:53Z",
+    "observed_at": "2026-08-05T13:18:36Z",
+    "ingested_at": "2026-08-05T13:18:36Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:21:12Z",
-    "ledger_committed_at": "2026-08-05T13:21:12Z"
+    "ledger_commit_at": "2026-08-05T13:21:02Z",
+    "ledger_committed_at": "2026-08-05T13:21:02Z"
+  },
+  {
+    "id": "cardsmobile-collection-2026-08-05",
+    "display_name": "cardsmobile-collection",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cardsmobile-collection",
+        "ecosystem": "npm",
+        "versions": [
+          "20.4.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12346",
+            "osv_published_at": "2026-08-05T12:38:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:18:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:18:38Z",
+    "osv_earliest_published_at": "2026-08-05T12:38:31Z",
+    "source_published_at": "2026-08-05T12:38:31Z",
+    "observed_at": "2026-08-05T13:18:38Z",
+    "ingested_at": "2026-08-05T13:18:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:21:18Z",
+    "ledger_committed_at": "2026-08-05T13:21:18Z"
+  },
+  {
+    "id": "ccxt-trading-2026-08-05",
+    "display_name": "ccxt-trading",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ccxt-trading",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12347",
+            "osv_published_at": "2026-08-05T12:24:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:18:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:18:39Z",
+    "osv_earliest_published_at": "2026-08-05T12:24:48Z",
+    "source_published_at": "2026-08-05T12:24:48Z",
+    "observed_at": "2026-08-05T13:18:39Z",
+    "ingested_at": "2026-08-05T13:18:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:21:26Z",
+    "ledger_committed_at": "2026-08-05T13:21:26Z"
   }
 ]
