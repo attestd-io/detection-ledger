@@ -152127,40 +152127,77 @@
     "ledger_committed_at": "2026-08-05T14:36:49Z"
   },
   {
-    "id": "checkout-pay-widget-logic-2026-08-05",
-    "display_name": "checkout-pay-widget-logic",
+    "id": "checkout-pay-button-logic-2026-08-05",
+    "display_name": "checkout-pay-button-logic",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "checkout-pay-widget-logic",
+        "package": "checkout-pay-button-logic",
         "ecosystem": "npm",
         "versions": [
-          "35.3.2"
+          "35.3.8"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12585",
-            "osv_published_at": "2026-08-05T14:09:46Z"
+            "osv_id": "MAL-2026-12584",
+            "osv_published_at": "2026-08-05T14:10:14Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T14:29:32Z",
+    "attestd_detected_at": "2026-08-05T14:29:31Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T14:29:32Z",
-    "osv_earliest_published_at": "2026-08-05T14:09:46Z",
-    "source_published_at": "2026-08-05T14:09:46Z",
-    "observed_at": "2026-08-05T14:29:32Z",
-    "ingested_at": "2026-08-05T14:29:32Z",
+    "confirmed_at": "2026-08-05T14:29:31Z",
+    "osv_earliest_published_at": "2026-08-05T14:10:14Z",
+    "source_published_at": "2026-08-05T14:10:14Z",
+    "observed_at": "2026-08-05T14:29:31Z",
+    "ingested_at": "2026-08-05T14:29:31Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T14:37:04Z",
-    "ledger_committed_at": "2026-08-05T14:37:04Z"
+    "ledger_commit_at": "2026-08-05T14:36:57Z",
+    "ledger_committed_at": "2026-08-05T14:36:57Z"
+  },
+  {
+    "id": "checkout-post-installment-client-agreement-accept-am-2026-08-05",
+    "display_name": "checkout-post-installment-client-agreement-accept-am",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "checkout-post-installment-client-agreement-accept-am",
+        "ecosystem": "npm",
+        "versions": [
+          "35.2.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12586",
+            "osv_published_at": "2026-08-05T14:08:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:29:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:29:33Z",
+    "osv_earliest_published_at": "2026-08-05T14:08:52Z",
+    "source_published_at": "2026-08-05T14:08:52Z",
+    "observed_at": "2026-08-05T14:29:33Z",
+    "ingested_at": "2026-08-05T14:29:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:37:10Z",
+    "ledger_committed_at": "2026-08-05T14:37:10Z"
   }
 ]
