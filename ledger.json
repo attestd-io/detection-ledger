@@ -124040,9 +124040,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmfe-quick-actions",
-    "ledger_commit_at": "2026-08-05T02:43:23Z",
-    "ledger_committed_at": "2026-08-05T02:43:23Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:53:59Z",
+    "ledger_committed_at": "2026-08-05T00:53:59Z"
   },
   {
     "id": "servicetitan-mpa-components-2026-08-05",
@@ -127979,15 +127979,58 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Ftitan-chat-ui",
-    "ledger_commit_at": "2026-08-05T02:42:30Z",
-    "ledger_committed_at": "2026-08-05T02:42:30Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T02:42:24Z",
+    "ledger_committed_at": "2026-08-05T02:42:24Z"
+  },
+  {
+    "id": "servicetitan-titan-chat-ui-anvil2-2026-08-05",
+    "display_name": "@servicetitan/titan-chat-ui-anvil2",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@servicetitan/titan-chat-ui-anvil2",
+        "ecosystem": "npm",
+        "versions": [
+          "9.0.1",
+          "9.0.2",
+          "9.0.3",
+          "9.0.4",
+          "9.0.5",
+          "9.0.6",
+          "9.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11936",
+            "osv_published_at": "2026-08-04T15:31:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:51:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:51:45Z",
+    "osv_earliest_published_at": "2026-08-04T15:31:13Z",
+    "source_published_at": "2026-08-04T15:31:13Z",
+    "observed_at": "2026-08-05T00:51:45Z",
+    "ingested_at": "2026-08-05T00:51:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Ftitan-chat-ui-anvil2",
+    "ledger_commit_at": "2026-08-05T02:42:36Z",
+    "ledger_committed_at": "2026-08-05T02:42:36Z"
   },
   {
     "id": "servicetitan-marketing-widgets-2026-08-05",
     "display_name": "@servicetitan/marketing-widgets",
     "campaign": null,
-    "detection_source": "osv",
+    "detection_source": "npm_registry",
     "packages": [
       {
         "package": "@servicetitan/marketing-widgets",
@@ -128001,36 +128044,31 @@
           "1.0.6",
           "1.0.7"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11897",
-            "osv_published_at": "2026-08-04T13:23:56Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:41:11Z",
+    "attestd_detected_at": "2026-08-05T02:41:14Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:41:11Z",
-    "osv_earliest_published_at": "2026-08-04T13:23:56Z",
-    "source_published_at": "2026-08-04T13:23:56Z",
-    "observed_at": "2026-08-05T02:41:11Z",
-    "ingested_at": "2026-08-05T02:41:11Z",
+    "confirmed_at": "2026-08-05T02:41:14Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:41:14Z",
+    "ingested_at": "2026-08-05T02:41:14Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T02:42:37Z",
-    "ledger_committed_at": "2026-08-05T02:42:37Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmarketing-widgets",
+    "ledger_commit_at": "2026-08-05T02:42:43Z",
+    "ledger_committed_at": "2026-08-05T02:42:43Z"
   },
   {
     "id": "servicetitan-measure-sheet-data-2026-08-05",
     "display_name": "@servicetitan/measure-sheet-data",
     "campaign": null,
-    "detection_source": "osv",
+    "detection_source": "npm_registry",
     "packages": [
       {
         "package": "@servicetitan/measure-sheet-data",
@@ -128044,36 +128082,31 @@
           "2.6.6",
           "2.6.7"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11898",
-            "osv_published_at": "2026-08-04T15:27:17Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:41:21Z",
+    "attestd_detected_at": "2026-08-05T02:41:24Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:41:21Z",
-    "osv_earliest_published_at": "2026-08-04T15:27:17Z",
-    "source_published_at": "2026-08-04T15:27:17Z",
-    "observed_at": "2026-08-05T02:41:21Z",
-    "ingested_at": "2026-08-05T02:41:21Z",
+    "confirmed_at": "2026-08-05T02:41:24Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:41:24Z",
+    "ingested_at": "2026-08-05T02:41:24Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T02:42:48Z",
-    "ledger_committed_at": "2026-08-05T02:42:48Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmeasure-sheet-data",
+    "ledger_commit_at": "2026-08-05T02:42:55Z",
+    "ledger_committed_at": "2026-08-05T02:42:55Z"
   },
   {
     "id": "servicetitan-titan-chatbot-client-2026-08-05",
     "display_name": "@servicetitan/titan-chatbot-client",
     "campaign": null,
-    "detection_source": "osv",
+    "detection_source": "npm_registry",
     "packages": [
       {
         "package": "@servicetitan/titan-chatbot-client",
@@ -128087,36 +128120,31 @@
           "2.1.8",
           "2.1.9"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11940",
-            "osv_published_at": "2026-08-04T15:31:13Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:41:32Z",
+    "attestd_detected_at": "2026-08-05T02:41:34Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:41:32Z",
-    "osv_earliest_published_at": "2026-08-04T15:31:13Z",
-    "source_published_at": "2026-08-04T15:31:13Z",
-    "observed_at": "2026-08-05T02:41:32Z",
-    "ingested_at": "2026-08-05T02:41:32Z",
+    "confirmed_at": "2026-08-05T02:41:34Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:41:34Z",
+    "ingested_at": "2026-08-05T02:41:34Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T02:42:59Z",
-    "ledger_committed_at": "2026-08-05T02:42:59Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Ftitan-chatbot-client",
+    "ledger_commit_at": "2026-08-05T02:43:07Z",
+    "ledger_committed_at": "2026-08-05T02:43:07Z"
   },
   {
     "id": "servicetitan-titan-chatbot-ui-2026-08-05",
     "display_name": "@servicetitan/titan-chatbot-ui",
     "campaign": null,
-    "detection_source": "osv",
+    "detection_source": "npm_registry",
     "packages": [
       {
         "package": "@servicetitan/titan-chatbot-ui",
@@ -128130,36 +128158,31 @@
           "7.1.8",
           "7.1.9"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11941",
-            "osv_published_at": "2026-08-04T15:31:41Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:41:42Z",
+    "attestd_detected_at": "2026-08-05T02:41:45Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:41:42Z",
-    "osv_earliest_published_at": "2026-08-04T15:31:41Z",
-    "source_published_at": "2026-08-04T15:31:41Z",
-    "observed_at": "2026-08-05T02:41:42Z",
-    "ingested_at": "2026-08-05T02:41:42Z",
+    "confirmed_at": "2026-08-05T02:41:45Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:41:45Z",
+    "ingested_at": "2026-08-05T02:41:45Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T02:43:11Z",
-    "ledger_committed_at": "2026-08-05T02:43:11Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Ftitan-chatbot-ui",
+    "ledger_commit_at": "2026-08-05T02:43:19Z",
+    "ledger_committed_at": "2026-08-05T02:43:19Z"
   },
   {
     "id": "servicetitan-titan-chatbot-ui-cypress-2026-08-05",
     "display_name": "@servicetitan/titan-chatbot-ui-cypress",
     "campaign": null,
-    "detection_source": "osv",
+    "detection_source": "npm_registry",
     "packages": [
       {
         "package": "@servicetitan/titan-chatbot-ui-cypress",
@@ -128173,79 +128196,74 @@
           "9.0.6",
           "9.0.7"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11943",
-            "osv_published_at": "2026-08-04T15:31:13Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:41:57Z",
+    "attestd_detected_at": "2026-08-05T02:42:00Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:41:57Z",
-    "osv_earliest_published_at": "2026-08-04T15:31:13Z",
-    "source_published_at": "2026-08-04T15:31:13Z",
-    "observed_at": "2026-08-05T02:41:57Z",
-    "ingested_at": "2026-08-05T02:41:57Z",
+    "confirmed_at": "2026-08-05T02:42:00Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:42:00Z",
+    "ingested_at": "2026-08-05T02:42:00Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T02:43:31Z",
-    "ledger_committed_at": "2026-08-05T02:43:31Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Ftitan-chatbot-ui-cypress",
+    "ledger_commit_at": "2026-08-05T02:43:36Z",
+    "ledger_committed_at": "2026-08-05T02:43:36Z"
   },
   {
-    "id": "servicetitan-microfront-utils-2026-08-05",
-    "display_name": "@servicetitan/microfront-utils",
+    "id": "servicetitan-tokens-2026-08-05",
+    "display_name": "@servicetitan/tokens",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@servicetitan/microfront-utils",
+        "package": "@servicetitan/tokens",
         "ecosystem": "npm",
         "versions": [
-          "1.4.1",
-          "1.4.2",
-          "1.4.3",
-          "1.4.4",
-          "1.4.5",
-          "1.4.6",
-          "1.4.7"
+          "12.9.1",
+          "12.9.2",
+          "12.9.3",
+          "12.9.4",
+          "12.9.5",
+          "12.9.6",
+          "12.9.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11904",
-            "osv_published_at": "2026-08-04T15:31:22Z"
+            "osv_id": "MAL-2026-11944",
+            "osv_published_at": "2026-08-04T13:18:47Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:51:09Z",
+    "attestd_detected_at": "2026-08-05T00:51:51Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:51:09Z",
-    "osv_earliest_published_at": "2026-08-04T15:31:22Z",
-    "source_published_at": "2026-08-04T15:31:22Z",
-    "observed_at": "2026-08-05T00:51:09Z",
-    "ingested_at": "2026-08-05T00:51:09Z",
+    "confirmed_at": "2026-08-05T00:51:51Z",
+    "osv_earliest_published_at": "2026-08-04T13:18:47Z",
+    "source_published_at": "2026-08-04T13:18:47Z",
+    "observed_at": "2026-08-05T00:51:51Z",
+    "ingested_at": "2026-08-05T00:51:51Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmicrofront-utils",
-    "ledger_commit_at": "2026-08-05T02:43:43Z",
-    "ledger_committed_at": "2026-08-05T02:43:43Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Ftokens",
+    "ledger_commit_at": "2026-08-05T02:43:48Z",
+    "ledger_committed_at": "2026-08-05T02:43:48Z"
   },
   {
     "id": "servicetitan-modularpayments-webfields-2026-08-05",
     "display_name": "@servicetitan/modularpayments-webfields",
     "campaign": null,
-    "detection_source": "osv",
+    "detection_source": "npm_registry",
     "packages": [
       {
         "package": "@servicetitan/modularpayments-webfields",
@@ -128259,29 +128277,24 @@
           "1.0.58",
           "1.0.59"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11905",
-            "osv_published_at": "2026-08-04T15:31:02Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:42:17Z",
+    "attestd_detected_at": "2026-08-05T02:42:20Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:42:17Z",
-    "osv_earliest_published_at": "2026-08-04T15:31:02Z",
-    "source_published_at": "2026-08-04T15:31:02Z",
-    "observed_at": "2026-08-05T02:42:17Z",
-    "ingested_at": "2026-08-05T02:42:17Z",
+    "confirmed_at": "2026-08-05T02:42:20Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:42:20Z",
+    "ingested_at": "2026-08-05T02:42:20Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T02:43:54Z",
-    "ledger_committed_at": "2026-08-05T02:43:54Z"
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fmodularpayments-webfields",
+    "ledger_commit_at": "2026-08-05T02:44:00Z",
+    "ledger_committed_at": "2026-08-05T02:44:00Z"
   }
 ]
