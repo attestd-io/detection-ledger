@@ -165567,5 +165567,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:36:15Z",
     "ledger_committed_at": "2026-08-05T16:36:15Z"
+  },
+  {
+    "id": "docflow-cryptopro-2026-08-05",
+    "display_name": "docflow-cryptopro",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "docflow-cryptopro",
+        "ecosystem": "npm",
+        "versions": [
+          "35.1.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13279",
+            "osv_published_at": "2026-08-05T15:28:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:30:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:30:04Z",
+    "osv_earliest_published_at": "2026-08-05T15:28:41Z",
+    "source_published_at": "2026-08-05T15:28:41Z",
+    "observed_at": "2026-08-05T16:30:04Z",
+    "ingested_at": "2026-08-05T16:30:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:36:23Z",
+    "ledger_committed_at": "2026-08-05T16:36:23Z"
   }
 ]
