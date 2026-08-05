@@ -165569,40 +165569,77 @@
     "ledger_committed_at": "2026-08-05T16:36:15Z"
   },
   {
-    "id": "docker-api-client-2026-08-05",
-    "display_name": "docker-api-client",
+    "id": "docflow-cryptopro-2026-08-05",
+    "display_name": "docflow-cryptopro",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "docker-api-client",
+        "package": "docflow-cryptopro",
         "ecosystem": "npm",
         "versions": [
-          "2.0.2"
+          "35.1.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13280",
-            "osv_published_at": "2026-08-05T15:32:51Z"
+            "osv_id": "MAL-2026-13279",
+            "osv_published_at": "2026-08-05T15:28:41Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:30:05Z",
+    "attestd_detected_at": "2026-08-05T16:30:04Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:30:05Z",
-    "osv_earliest_published_at": "2026-08-05T15:32:51Z",
-    "source_published_at": "2026-08-05T15:32:51Z",
-    "observed_at": "2026-08-05T16:30:05Z",
-    "ingested_at": "2026-08-05T16:30:05Z",
+    "confirmed_at": "2026-08-05T16:30:04Z",
+    "osv_earliest_published_at": "2026-08-05T15:28:41Z",
+    "source_published_at": "2026-08-05T15:28:41Z",
+    "observed_at": "2026-08-05T16:30:04Z",
+    "ingested_at": "2026-08-05T16:30:04Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:36:30Z",
-    "ledger_committed_at": "2026-08-05T16:36:30Z"
+    "ledger_commit_at": "2026-08-05T16:36:23Z",
+    "ledger_committed_at": "2026-08-05T16:36:23Z"
+  },
+  {
+    "id": "docsmate-docsmate-core-2026-08-05",
+    "display_name": "docsmate-docsmate-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "docsmate-docsmate-core",
+        "ecosystem": "npm",
+        "versions": [
+          "35.9.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13281",
+            "osv_published_at": "2026-08-05T15:29:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:30:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:30:06Z",
+    "osv_earliest_published_at": "2026-08-05T15:29:07Z",
+    "source_published_at": "2026-08-05T15:29:07Z",
+    "observed_at": "2026-08-05T16:30:06Z",
+    "ingested_at": "2026-08-05T16:30:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:36:32Z",
+    "ledger_committed_at": "2026-08-05T16:36:32Z"
   }
 ]
