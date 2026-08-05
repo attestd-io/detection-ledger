@@ -163826,5 +163826,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:07:56Z",
     "ledger_committed_at": "2026-08-05T16:07:56Z"
+  },
+  {
+    "id": "boxy-tokens-2026-08-05",
+    "display_name": "boxy-tokens",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "boxy-tokens",
+        "ecosystem": "npm",
+        "versions": [
+          "35.5.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13092",
+            "osv_published_at": "2026-08-05T14:26:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:40:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:40:04Z",
+    "osv_earliest_published_at": "2026-08-05T14:26:01Z",
+    "source_published_at": "2026-08-05T14:26:01Z",
+    "observed_at": "2026-08-05T15:40:04Z",
+    "ingested_at": "2026-08-05T15:40:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:08:10Z",
+    "ledger_committed_at": "2026-08-05T16:08:10Z"
   }
 ]
