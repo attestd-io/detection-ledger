@@ -1,0 +1,37 @@
+{
+  "id": "checkout-mobile-input-email-2026-08-05",
+  "display_name": "checkout-mobile-input-email",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "checkout-mobile-input-email",
+      "ecosystem": "npm",
+      "versions": [
+        "35.6.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12576",
+          "osv_published_at": "2026-08-05T14:11:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:29:20Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:29:20Z",
+  "osv_earliest_published_at": "2026-08-05T14:11:10Z",
+  "source_published_at": "2026-08-05T14:11:10Z",
+  "observed_at": "2026-08-05T14:29:20Z",
+  "ingested_at": "2026-08-05T14:29:20Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:36:04Z",
+  "ledger_committed_at": "2026-08-05T14:36:04Z"
+}
