@@ -1,0 +1,38 @@
+{
+  "id": "ventrix-kit-2026-08-05",
+  "display_name": "ventrix-kit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ventrix-kit",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.2",
+        "1.5.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12494",
+          "osv_published_at": "2026-08-05T12:53:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:21:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:21:36Z",
+  "osv_earliest_published_at": "2026-08-05T12:53:02Z",
+  "source_published_at": "2026-08-05T12:53:02Z",
+  "observed_at": "2026-08-05T13:21:36Z",
+  "ingested_at": "2026-08-05T13:21:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:39:13Z",
+  "ledger_committed_at": "2026-08-05T13:39:13Z"
+}
