@@ -151385,5 +151385,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T14:32:17Z",
     "ledger_committed_at": "2026-08-05T14:32:17Z"
+  },
+  {
+    "id": "checkout-cashback-logic-2026-08-05",
+    "display_name": "checkout-cashback-logic",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "checkout-cashback-logic",
+        "ecosystem": "npm",
+        "versions": [
+          "35.4.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12546",
+            "osv_published_at": "2026-08-05T14:15:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:28:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:28:48Z",
+    "osv_earliest_published_at": "2026-08-05T14:15:48Z",
+    "source_published_at": "2026-08-05T14:15:48Z",
+    "observed_at": "2026-08-05T14:28:48Z",
+    "ingested_at": "2026-08-05T14:28:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:32:30Z",
+    "ledger_committed_at": "2026-08-05T14:32:30Z"
   }
 ]
