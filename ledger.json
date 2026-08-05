@@ -159349,5 +159349,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:41:07Z",
     "ledger_committed_at": "2026-08-05T15:41:07Z"
+  },
+  {
+    "id": "bigops-ui-kit-styles-2026-08-05",
+    "display_name": "bigops-ui-kit-styles",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bigops-ui-kit-styles",
+        "ecosystem": "npm",
+        "versions": [
+          "35.5.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12850",
+            "osv_published_at": "2026-08-05T15:00:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:35:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:35:51Z",
+    "osv_earliest_published_at": "2026-08-05T15:00:39Z",
+    "source_published_at": "2026-08-05T15:00:39Z",
+    "observed_at": "2026-08-05T15:35:51Z",
+    "ingested_at": "2026-08-05T15:35:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:41:16Z",
+    "ledger_committed_at": "2026-08-05T15:41:16Z"
   }
 ]
