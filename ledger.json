@@ -165310,40 +165310,77 @@
     "ledger_committed_at": "2026-08-05T16:34:55Z"
   },
   {
-    "id": "devplatform-table-2026-08-05",
-    "display_name": "devplatform-table",
+    "id": "devplatform-supafetch-2026-08-05",
+    "display_name": "devplatform-supafetch",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "devplatform-table",
+        "package": "devplatform-supafetch",
         "ecosystem": "npm",
         "versions": [
-          "35.7.6"
+          "35.2.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13266",
-            "osv_published_at": "2026-08-05T15:31:02Z"
+            "osv_id": "MAL-2026-13265",
+            "osv_published_at": "2026-08-05T15:30:44Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:29:50Z",
+    "attestd_detected_at": "2026-08-05T16:29:49Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:29:50Z",
-    "osv_earliest_published_at": "2026-08-05T15:31:02Z",
-    "source_published_at": "2026-08-05T15:31:02Z",
-    "observed_at": "2026-08-05T16:29:50Z",
-    "ingested_at": "2026-08-05T16:29:50Z",
+    "confirmed_at": "2026-08-05T16:29:49Z",
+    "osv_earliest_published_at": "2026-08-05T15:30:44Z",
+    "source_published_at": "2026-08-05T15:30:44Z",
+    "observed_at": "2026-08-05T16:29:49Z",
+    "ingested_at": "2026-08-05T16:29:49Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:35:05Z",
-    "ledger_committed_at": "2026-08-05T16:35:05Z"
+    "ledger_commit_at": "2026-08-05T16:35:03Z",
+    "ledger_committed_at": "2026-08-05T16:35:03Z"
+  },
+  {
+    "id": "devplatform-ui-kit-2026-08-05",
+    "display_name": "devplatform-ui-kit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "devplatform-ui-kit",
+        "ecosystem": "npm",
+        "versions": [
+          "35.6.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13269",
+            "osv_published_at": "2026-08-05T15:29:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:29:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:29:52Z",
+    "osv_earliest_published_at": "2026-08-05T15:29:49Z",
+    "source_published_at": "2026-08-05T15:29:49Z",
+    "observed_at": "2026-08-05T16:29:52Z",
+    "ingested_at": "2026-08-05T16:29:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:35:12Z",
+    "ledger_committed_at": "2026-08-05T16:35:12Z"
   }
 ]
