@@ -167449,5 +167449,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T19:22:46Z",
     "ledger_committed_at": "2026-08-05T19:22:46Z"
+  },
+  {
+    "id": "workoscalif-sudoku-2026-08-05",
+    "display_name": "@workoscalif/sudoku",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@workoscalif/sudoku",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13366",
+            "osv_published_at": "2026-08-05T18:08:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T19:23:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T19:23:51Z",
+    "osv_earliest_published_at": "2026-08-05T18:08:10Z",
+    "source_published_at": "2026-08-05T18:08:10Z",
+    "observed_at": "2026-08-05T19:23:51Z",
+    "ingested_at": "2026-08-05T19:23:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T19:23:55Z",
+    "ledger_committed_at": "2026-08-05T19:23:55Z"
   }
 ]
