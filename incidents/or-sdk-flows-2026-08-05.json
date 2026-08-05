@@ -1,0 +1,39 @@
+{
+  "id": "or-sdk-flows-2026-08-05",
+  "display_name": "@or-sdk/flows",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@or-sdk/flows",
+      "ecosystem": "npm",
+      "versions": [
+        "2.7.10",
+        "2.7.8",
+        "2.7.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11695",
+          "osv_published_at": "2026-08-04T15:21:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:16:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:16:06Z",
+  "osv_earliest_published_at": "2026-08-04T15:21:34Z",
+  "source_published_at": "2026-08-04T15:21:34Z",
+  "observed_at": "2026-08-05T00:16:06Z",
+  "ingested_at": "2026-08-05T00:16:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:16:22Z",
+  "ledger_committed_at": "2026-08-05T00:16:22Z"
+}
