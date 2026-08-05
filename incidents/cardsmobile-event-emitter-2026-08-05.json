@@ -1,0 +1,37 @@
+{
+  "id": "cardsmobile-event-emitter-2026-08-05",
+  "display_name": "cardsmobile-event-emitter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cardsmobile-event-emitter",
+      "ecosystem": "npm",
+      "versions": [
+        "35.2.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12532",
+          "osv_published_at": "2026-08-05T14:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:28:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:28:34Z",
+  "osv_earliest_published_at": "2026-08-05T14:16:30Z",
+  "source_published_at": "2026-08-05T14:16:30Z",
+  "observed_at": "2026-08-05T14:28:34Z",
+  "ingested_at": "2026-08-05T14:28:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:31:00Z",
+  "ledger_committed_at": "2026-08-05T14:31:00Z"
+}
