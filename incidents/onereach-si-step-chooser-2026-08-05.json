@@ -1,0 +1,39 @@
+{
+  "id": "onereach-si-step-chooser-2026-08-05",
+  "display_name": "@onereach/si-step-chooser",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@onereach/si-step-chooser",
+      "ecosystem": "npm",
+      "versions": [
+        "0.4.4",
+        "0.4.5",
+        "0.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11645",
+          "osv_published_at": "2026-08-04T18:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:05:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:05:48Z",
+  "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+  "source_published_at": "2026-08-04T18:00:00Z",
+  "observed_at": "2026-08-05T00:05:48Z",
+  "ingested_at": "2026-08-05T00:05:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:11:32Z",
+  "ledger_committed_at": "2026-08-05T00:11:32Z"
+}
