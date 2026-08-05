@@ -1,0 +1,37 @@
+{
+  "id": "boxy-use-calls-2026-08-05",
+  "display_name": "boxy-use-calls",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "boxy-use-calls",
+      "ecosystem": "npm",
+      "versions": [
+        "35.1.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13094",
+          "osv_published_at": "2026-08-05T14:23:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:40:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:40:06Z",
+  "osv_earliest_published_at": "2026-08-05T14:23:06Z",
+  "source_published_at": "2026-08-05T14:23:06Z",
+  "observed_at": "2026-08-05T15:40:06Z",
+  "ingested_at": "2026-08-05T15:40:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:08:25Z",
+  "ledger_committed_at": "2026-08-05T16:08:25Z"
+}
