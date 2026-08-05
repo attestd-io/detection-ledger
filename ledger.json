@@ -130577,5 +130577,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T03:17:32Z",
     "ledger_committed_at": "2026-08-05T03:17:32Z"
+  },
+  {
+    "id": "vectormark-2026-08-05",
+    "display_name": "vectormark",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vectormark",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11017",
+            "osv_published_at": "2026-07-22T16:38:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T03:17:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T03:17:48Z",
+    "osv_earliest_published_at": "2026-07-22T16:38:53Z",
+    "source_published_at": "2026-07-22T16:38:53Z",
+    "observed_at": "2026-08-05T03:17:48Z",
+    "ingested_at": "2026-08-05T03:17:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T03:17:51Z",
+    "ledger_committed_at": "2026-08-05T03:17:51Z"
   }
 ]
