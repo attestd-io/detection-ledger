@@ -134192,5 +134192,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T06:06:48Z",
     "ledger_committed_at": "2026-08-05T06:06:48Z"
+  },
+  {
+    "id": "403name-electron-buidler-2026-08-05",
+    "display_name": "@403name/electron-buidler",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@403name/electron-buidler",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5547",
+            "osv_published_at": "2026-06-11T03:15:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T06:07:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T06:07:57Z",
+    "osv_earliest_published_at": "2026-06-11T03:15:04Z",
+    "source_published_at": "2026-06-11T03:15:04Z",
+    "observed_at": "2026-08-05T06:07:57Z",
+    "ingested_at": "2026-08-05T06:07:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T06:08:01Z",
+    "ledger_committed_at": "2026-08-05T06:08:01Z"
   }
 ]
