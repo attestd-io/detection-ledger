@@ -121114,5 +121114,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T00:08:45Z",
     "ledger_committed_at": "2026-08-05T00:08:45Z"
+  },
+  {
+    "id": "onereach-orest-input-cli-2026-08-05",
+    "display_name": "@onereach/orest-input-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@onereach/orest-input-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.18.1",
+          "1.18.2",
+          "1.18.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11615",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:05:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:05:03Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:05:03Z",
+    "ingested_at": "2026-08-05T00:05:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:08:55Z",
+    "ledger_committed_at": "2026-08-05T00:08:55Z"
   }
 ]
