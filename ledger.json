@@ -133899,100 +133899,163 @@
     "ledger_committed_at": "2026-08-05T04:39:27Z"
   },
   {
-    "id": "hwi-lib-2026-08-05",
-    "display_name": "hwi-lib",
+    "id": "ledger-lib-2026-08-05",
+    "display_name": "ledger-lib",
     "campaign": null,
     "detection_source": "agent",
     "packages": [
       {
-        "package": "hwi-lib",
+        "package": "ledger-lib",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "1.0.1"
+          "1.0.0"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T04:39:09Z",
+    "attestd_detected_at": "2026-08-05T04:39:12Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T04:39:09Z",
+    "confirmed_at": "2026-08-05T04:39:12Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-05T04:39:09Z",
-    "ingested_at": "2026-08-05T04:39:09Z",
+    "observed_at": "2026-08-05T04:39:12Z",
+    "ingested_at": "2026-08-05T04:39:12Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12067",
-    "ledger_commit_at": "2026-08-05T04:39:35Z",
-    "ledger_committed_at": "2026-08-05T04:39:35Z"
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12068",
+    "ledger_commit_at": "2026-08-05T04:39:34Z",
+    "ledger_committed_at": "2026-08-05T04:39:34Z"
   },
   {
-    "id": "shopping-shared-atom-mobile-cart-counter-2026-08-05",
-    "display_name": "shopping-shared-atom-mobile-cart-counter",
+    "id": "nxify-unic-2026-08-05",
+    "display_name": "nxify-unic",
     "campaign": null,
     "detection_source": "agent",
     "packages": [
       {
-        "package": "shopping-shared-atom-mobile-cart-counter",
+        "package": "nxify-unic",
         "ecosystem": "npm",
         "versions": [
-          "20.6.6"
+          "20.3.2"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T04:39:18Z",
+    "attestd_detected_at": "2026-08-05T04:39:15Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T04:39:18Z",
+    "confirmed_at": "2026-08-05T04:39:15Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-05T04:39:18Z",
-    "ingested_at": "2026-08-05T04:39:18Z",
+    "observed_at": "2026-08-05T04:39:15Z",
+    "ingested_at": "2026-08-05T04:39:15Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12070",
-    "ledger_commit_at": "2026-08-05T04:39:47Z",
-    "ledger_committed_at": "2026-08-05T04:39:47Z"
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12069",
+    "ledger_commit_at": "2026-08-05T04:39:41Z",
+    "ledger_committed_at": "2026-08-05T04:39:41Z"
   },
   {
-    "id": "sso-tramvai-module-context-auth-2026-08-05",
-    "display_name": "sso-tramvai-module-context-auth",
+    "id": "specials-obid-webpack-2026-08-05",
+    "display_name": "specials-obid-webpack",
     "campaign": null,
     "detection_source": "agent",
     "packages": [
       {
-        "package": "sso-tramvai-module-context-auth",
+        "package": "specials-obid-webpack",
         "ecosystem": "npm",
         "versions": [
-          "20.4.5"
+          "20.5.4"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T04:39:26Z",
+    "attestd_detected_at": "2026-08-05T04:39:23Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T04:39:26Z",
+    "confirmed_at": "2026-08-05T04:39:23Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-05T04:39:26Z",
-    "ingested_at": "2026-08-05T04:39:26Z",
+    "observed_at": "2026-08-05T04:39:23Z",
+    "ingested_at": "2026-08-05T04:39:23Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12073",
-    "ledger_commit_at": "2026-08-05T04:39:59Z",
-    "ledger_committed_at": "2026-08-05T04:39:59Z"
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12072",
+    "ledger_commit_at": "2026-08-05T04:39:52Z",
+    "ledger_committed_at": "2026-08-05T04:39:52Z"
+  },
+  {
+    "id": "statist-browser-typed-client-nfs-grocery-mobile-events-2026-08-05",
+    "display_name": "statist-browser-typed-client-nfs.grocery.mobile.events",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "statist-browser-typed-client-nfs.grocery.mobile.events",
+        "ecosystem": "npm",
+        "versions": [
+          "20.3.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T04:39:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T04:39:30Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T04:39:30Z",
+    "ingested_at": "2026-08-05T04:39:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12074",
+    "ledger_commit_at": "2026-08-05T04:40:04Z",
+    "ledger_committed_at": "2026-08-05T04:40:04Z"
+  },
+  {
+    "id": "tinkoff-boxy-mobile-vivid-heading-2026-08-05",
+    "display_name": "tinkoff-boxy-mobile-vivid-heading",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "tinkoff-boxy-mobile-vivid-heading",
+        "ecosystem": "npm",
+        "versions": [
+          "20.7.5"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T04:39:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T04:39:33Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T04:39:33Z",
+    "ingested_at": "2026-08-05T04:39:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12075",
+    "ledger_commit_at": "2026-08-05T04:40:10Z",
+    "ledger_committed_at": "2026-08-05T04:40:10Z"
   }
 ]
