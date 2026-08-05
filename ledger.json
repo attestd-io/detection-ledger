@@ -150980,40 +150980,40 @@
     "ledger_committed_at": "2026-08-05T14:30:08Z"
   },
   {
-    "id": "cards-forms-clone-credit-clone-2026-08-05",
-    "display_name": "cards-forms-clone-credit-clone",
+    "id": "cards-forms-clone-debit-clone-2026-08-05",
+    "display_name": "cards-forms-clone-debit-clone",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "cards-forms-clone-credit-clone",
+        "package": "cards-forms-clone-debit-clone",
         "ecosystem": "npm",
         "versions": [
-          "35.7.1"
+          "35.8.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12525",
-            "osv_published_at": "2026-08-05T14:18:06Z"
+            "osv_id": "MAL-2026-12526",
+            "osv_published_at": "2026-08-05T14:19:21Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T14:28:27Z",
+    "attestd_detected_at": "2026-08-05T14:28:28Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T14:28:27Z",
-    "osv_earliest_published_at": "2026-08-05T14:18:06Z",
-    "source_published_at": "2026-08-05T14:18:06Z",
-    "observed_at": "2026-08-05T14:28:27Z",
-    "ingested_at": "2026-08-05T14:28:27Z",
+    "confirmed_at": "2026-08-05T14:28:28Z",
+    "osv_earliest_published_at": "2026-08-05T14:19:21Z",
+    "source_published_at": "2026-08-05T14:19:21Z",
+    "observed_at": "2026-08-05T14:28:28Z",
+    "ingested_at": "2026-08-05T14:28:28Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T14:30:16Z",
-    "ledger_committed_at": "2026-08-05T14:30:16Z"
+    "ledger_commit_at": "2026-08-05T14:30:22Z",
+    "ledger_committed_at": "2026-08-05T14:30:22Z"
   }
 ]
