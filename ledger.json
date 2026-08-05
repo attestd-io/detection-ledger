@@ -157939,40 +157939,40 @@
     "ledger_committed_at": "2026-08-05T15:33:16Z"
   },
   {
-    "id": "devplatform-spa-plugin-sentry-2026-08-05",
-    "display_name": "devplatform-spa-plugin-sentry",
+    "id": "devplatform-spa-plugin-suspense-2026-08-05",
+    "display_name": "devplatform-spa-plugin-suspense",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "devplatform-spa-plugin-sentry",
+        "package": "devplatform-spa-plugin-suspense",
         "ecosystem": "npm",
         "versions": [
-          "35.1.1"
+          "35.6.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12780",
-            "osv_published_at": "2026-08-05T13:40:11Z"
+            "osv_id": "MAL-2026-12781",
+            "osv_published_at": "2026-08-05T13:40:50Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:27:11Z",
+    "attestd_detected_at": "2026-08-05T15:27:12Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:27:11Z",
-    "osv_earliest_published_at": "2026-08-05T13:40:11Z",
-    "source_published_at": "2026-08-05T13:40:11Z",
-    "observed_at": "2026-08-05T15:27:11Z",
-    "ingested_at": "2026-08-05T15:27:11Z",
+    "confirmed_at": "2026-08-05T15:27:12Z",
+    "osv_earliest_published_at": "2026-08-05T13:40:50Z",
+    "source_published_at": "2026-08-05T13:40:50Z",
+    "observed_at": "2026-08-05T15:27:12Z",
+    "ingested_at": "2026-08-05T15:27:12Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:33:25Z",
-    "ledger_committed_at": "2026-08-05T15:33:25Z"
+    "ledger_commit_at": "2026-08-05T15:33:27Z",
+    "ledger_committed_at": "2026-08-05T15:33:27Z"
   }
 ]
