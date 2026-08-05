@@ -1,0 +1,46 @@
+{
+  "id": "ornikar-jest-config-react-2026-08-05",
+  "display_name": "@ornikar/jest-config-react",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ornikar/jest-config-react",
+      "ecosystem": "npm",
+      "versions": [
+        "18.0.10",
+        "18.0.11",
+        "18.0.2",
+        "18.0.3",
+        "18.0.4",
+        "18.0.5",
+        "18.0.6",
+        "18.0.7",
+        "18.0.8",
+        "18.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11759",
+          "osv_published_at": "2026-08-04T15:13:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:49:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:49:34Z",
+  "osv_earliest_published_at": "2026-08-04T15:13:52Z",
+  "source_published_at": "2026-08-04T15:13:52Z",
+  "observed_at": "2026-08-05T00:49:34Z",
+  "ingested_at": "2026-08-05T00:49:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:49:58Z",
+  "ledger_committed_at": "2026-08-05T00:49:58Z"
+}
