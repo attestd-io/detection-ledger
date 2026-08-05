@@ -164163,40 +164163,40 @@
     "ledger_committed_at": "2026-08-05T16:27:22Z"
   },
   {
-    "id": "sheltr--agent-2026-08-05",
-    "display_name": "@sheltr_/agent",
+    "id": "zzzcrypto-bitcoin-lib-2026-08-05",
+    "display_name": "@zzzcrypto/bitcoin-lib",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@sheltr_/agent",
+        "package": "@zzzcrypto/bitcoin-lib",
         "ecosystem": "npm",
         "versions": [
-          "1.0.4"
+          "6.1.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-10469",
-            "osv_published_at": "2026-07-13T18:25:10Z"
+            "osv_id": "MAL-2026-13211",
+            "osv_published_at": "2026-08-05T15:32:11Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:28:46Z",
+    "attestd_detected_at": "2026-08-05T16:28:47Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:28:46Z",
-    "osv_earliest_published_at": "2026-07-13T18:25:10Z",
-    "source_published_at": "2026-07-13T18:25:10Z",
-    "observed_at": "2026-08-05T16:28:46Z",
-    "ingested_at": "2026-08-05T16:28:46Z",
+    "confirmed_at": "2026-08-05T16:28:47Z",
+    "osv_earliest_published_at": "2026-08-05T15:32:11Z",
+    "source_published_at": "2026-08-05T15:32:11Z",
+    "observed_at": "2026-08-05T16:28:47Z",
+    "ingested_at": "2026-08-05T16:28:47Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:28:49Z",
-    "ledger_committed_at": "2026-08-05T16:28:49Z"
+    "ledger_commit_at": "2026-08-05T16:28:51Z",
+    "ledger_committed_at": "2026-08-05T16:28:51Z"
   }
 ]
