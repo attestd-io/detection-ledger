@@ -1,0 +1,47 @@
+{
+  "id": "ornikar-jest-config-react-native-web-2026-08-05",
+  "display_name": "@ornikar/jest-config-react-native-web",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ornikar/jest-config-react-native-web",
+      "ecosystem": "npm",
+      "versions": [
+        "12.0.10",
+        "12.0.11",
+        "12.0.12",
+        "12.0.13",
+        "12.0.3",
+        "12.0.4",
+        "12.0.5",
+        "12.0.6",
+        "12.0.7",
+        "12.0.8",
+        "12.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11761",
+          "osv_published_at": "2026-08-04T15:17:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:25:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:25:45Z",
+  "osv_earliest_published_at": "2026-08-04T15:17:37Z",
+  "source_published_at": "2026-08-04T15:17:37Z",
+  "observed_at": "2026-08-05T03:25:45Z",
+  "ingested_at": "2026-08-05T03:25:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:26:17Z",
+  "ledger_committed_at": "2026-08-05T03:26:17Z"
+}
