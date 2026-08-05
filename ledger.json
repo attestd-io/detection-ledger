@@ -133765,5 +133765,41 @@
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12057",
     "ledger_commit_at": "2026-08-05T04:38:38Z",
     "ledger_committed_at": "2026-08-05T04:38:38Z"
+  },
+  {
+    "id": "bcore-bravo-eslint-config-2026-08-05",
+    "display_name": "bcore-bravo-eslint-config",
+    "campaign": null,
+    "detection_source": "agent",
+    "packages": [
+      {
+        "package": "bcore-bravo-eslint-config",
+        "ecosystem": "npm",
+        "versions": [
+          "12.5.7",
+          "9.5.6",
+          "9.5.7",
+          "9.5.8",
+          "9.5.9"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T04:38:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T04:38:40Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T04:38:40Z",
+    "ingested_at": "2026-08-05T04:38:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12059",
+    "ledger_commit_at": "2026-08-05T04:38:49Z",
+    "ledger_committed_at": "2026-08-05T04:38:49Z"
   }
 ]
