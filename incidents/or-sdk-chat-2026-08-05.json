@@ -1,0 +1,39 @@
+{
+  "id": "or-sdk-chat-2026-08-05",
+  "display_name": "@or-sdk/chat",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@or-sdk/chat",
+      "ecosystem": "npm",
+      "versions": [
+        "0.3.1",
+        "0.3.2",
+        "0.3.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11682",
+          "osv_published_at": "2026-08-04T18:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:12:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:12:05Z",
+  "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+  "source_published_at": "2026-08-04T18:00:00Z",
+  "observed_at": "2026-08-05T00:12:05Z",
+  "ingested_at": "2026-08-05T00:12:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:15:01Z",
+  "ledger_committed_at": "2026-08-05T00:15:01Z"
+}
