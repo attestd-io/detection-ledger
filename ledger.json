@@ -145197,5 +145197,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T09:33:39Z",
     "ledger_committed_at": "2026-08-05T09:33:39Z"
+  },
+  {
+    "id": "express-mongo-limit-2026-08-05",
+    "display_name": "express-mongo-limit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "express-mongo-limit",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-7012",
+            "osv_published_at": "2026-07-07T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T09:30:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T09:30:35Z",
+    "osv_earliest_published_at": "2026-07-07T00:00:00Z",
+    "source_published_at": "2026-07-07T00:00:00Z",
+    "observed_at": "2026-08-05T09:30:35Z",
+    "ingested_at": "2026-08-05T09:30:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T09:33:51Z",
+    "ledger_committed_at": "2026-08-05T09:33:51Z"
   }
 ]
