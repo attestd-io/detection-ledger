@@ -166825,5 +166825,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:42:54Z",
     "ledger_committed_at": "2026-08-05T16:42:54Z"
+  },
+  {
+    "id": "ethers-signer-2026-08-05",
+    "display_name": "ethers-signer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ethers-signer",
+        "ecosystem": "npm",
+        "versions": [
+          "3.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13343",
+            "osv_published_at": "2026-08-05T15:40:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:31:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:31:15Z",
+    "osv_earliest_published_at": "2026-08-05T15:40:13Z",
+    "source_published_at": "2026-08-05T15:40:13Z",
+    "observed_at": "2026-08-05T16:31:15Z",
+    "ingested_at": "2026-08-05T16:31:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:43:11Z",
+    "ledger_committed_at": "2026-08-05T16:43:11Z"
   }
 ]
