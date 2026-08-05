@@ -163569,70 +163569,33 @@
     "ledger_committed_at": "2026-08-05T16:06:28Z"
   },
   {
-    "id": "boxy-pkg-path-2026-08-05",
-    "display_name": "boxy-pkg-path",
+    "id": "boxy-pkg-deps-hash-2026-08-05",
+    "display_name": "boxy-pkg-deps-hash",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-pkg-path",
+        "package": "boxy-pkg-deps-hash",
         "ecosystem": "npm",
         "versions": [
-          "35.3.5"
+          "35.1.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13076",
-            "osv_published_at": "2026-08-05T14:26:37Z"
+            "osv_id": "MAL-2026-13075",
+            "osv_published_at": "2026-08-05T14:27:03Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:39:48Z",
+    "attestd_detected_at": "2026-08-05T15:39:47Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:39:48Z",
-    "osv_earliest_published_at": "2026-08-05T14:26:37Z",
-    "source_published_at": "2026-08-05T14:26:37Z",
-    "observed_at": "2026-08-05T15:39:48Z",
-    "ingested_at": "2026-08-05T15:39:48Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:06:41Z",
-    "ledger_committed_at": "2026-08-05T16:06:41Z"
-  },
-  {
-    "id": "boxy-render-unwrap-2026-08-05",
-    "display_name": "boxy-render-unwrap",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "boxy-render-unwrap",
-        "ecosystem": "npm",
-        "versions": [
-          "35.7.9"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13077",
-            "osv_published_at": "2026-08-05T14:28:16Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:39:49Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:39:49Z",
-    "osv_earliest_published_at": "2026-08-05T14:28:16Z",
-    "source_published_at": "2026-08-05T14:28:16Z",
-    "observed_at": "2026-08-05T15:39:49Z",
-    "ingested_at": "2026-08-05T15:39:49Z",
+    "confirmed_at": "2026-08-05T15:39:47Z",
+    "osv_earliest_published_at": "2026-08-05T14:27:03Z",
+    "source_published_at": "2026-08-05T14:27:03Z",
+    "observed_at": "2026-08-05T15:39:47Z",
+    "ingested_at": "2026-08-05T15:39:47Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -163643,225 +163606,373 @@
     "ledger_committed_at": "2026-08-05T16:06:51Z"
   },
   {
-    "id": "boxy-search-workspace-substrings-2026-08-05",
-    "display_name": "boxy-search-workspace-substrings",
+    "id": "boxy-rspack-optimize-sharing-runtime-2026-08-05",
+    "display_name": "boxy-rspack-optimize-sharing-runtime",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-search-workspace-substrings",
+        "package": "boxy-rspack-optimize-sharing-runtime",
         "ecosystem": "npm",
         "versions": [
-          "35.8.6"
+          "35.2.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13080",
-            "osv_published_at": "2026-08-05T14:26:21Z"
+            "osv_id": "MAL-2026-13078",
+            "osv_published_at": "2026-08-05T14:25:44Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:39:53Z",
+    "attestd_detected_at": "2026-08-05T15:39:50Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:39:53Z",
-    "osv_earliest_published_at": "2026-08-05T14:26:21Z",
-    "source_published_at": "2026-08-05T14:26:21Z",
-    "observed_at": "2026-08-05T15:39:53Z",
-    "ingested_at": "2026-08-05T15:39:53Z",
+    "confirmed_at": "2026-08-05T15:39:50Z",
+    "osv_earliest_published_at": "2026-08-05T14:25:44Z",
+    "source_published_at": "2026-08-05T14:25:44Z",
+    "observed_at": "2026-08-05T15:39:50Z",
+    "ingested_at": "2026-08-05T15:39:50Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:07:14Z",
-    "ledger_committed_at": "2026-08-05T16:07:14Z"
+    "ledger_commit_at": "2026-08-05T16:06:59Z",
+    "ledger_committed_at": "2026-08-05T16:06:59Z"
   },
   {
-    "id": "boxy-service-2026-08-05",
-    "display_name": "boxy-service",
+    "id": "boxy-scroll-providers-2026-08-05",
+    "display_name": "boxy-scroll-providers",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-service",
+        "package": "boxy-scroll-providers",
         "ecosystem": "npm",
         "versions": [
-          "35.6.4"
+          "35.5.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13082",
-            "osv_published_at": "2026-08-05T14:25:15Z"
+            "osv_id": "MAL-2026-13079",
+            "osv_published_at": "2026-08-05T14:26:28Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:39:55Z",
+    "attestd_detected_at": "2026-08-05T15:39:51Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:39:55Z",
-    "osv_earliest_published_at": "2026-08-05T14:25:15Z",
-    "source_published_at": "2026-08-05T14:25:15Z",
-    "observed_at": "2026-08-05T15:39:55Z",
-    "ingested_at": "2026-08-05T15:39:55Z",
+    "confirmed_at": "2026-08-05T15:39:51Z",
+    "osv_earliest_published_at": "2026-08-05T14:26:28Z",
+    "source_published_at": "2026-08-05T14:26:28Z",
+    "observed_at": "2026-08-05T15:39:51Z",
+    "ingested_at": "2026-08-05T15:39:51Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:07:28Z",
-    "ledger_committed_at": "2026-08-05T16:07:28Z"
+    "ledger_commit_at": "2026-08-05T16:07:07Z",
+    "ledger_committed_at": "2026-08-05T16:07:07Z"
   },
   {
-    "id": "boxy-story-header-2026-08-05",
-    "display_name": "boxy-story-header",
+    "id": "boxy-semver-2026-08-05",
+    "display_name": "boxy-semver",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-story-header",
+        "package": "boxy-semver",
         "ecosystem": "npm",
         "versions": [
-          "35.7.2"
+          "35.3.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13085",
-            "osv_published_at": "2026-08-05T14:24:15Z"
+            "osv_id": "MAL-2026-13081",
+            "osv_published_at": "2026-08-05T14:24:51Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:39:58Z",
+    "attestd_detected_at": "2026-08-05T15:39:54Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:39:58Z",
-    "osv_earliest_published_at": "2026-08-05T14:24:15Z",
-    "source_published_at": "2026-08-05T14:24:15Z",
-    "observed_at": "2026-08-05T15:39:58Z",
-    "ingested_at": "2026-08-05T15:39:58Z",
+    "confirmed_at": "2026-08-05T15:39:54Z",
+    "osv_earliest_published_at": "2026-08-05T14:24:51Z",
+    "source_published_at": "2026-08-05T14:24:51Z",
+    "observed_at": "2026-08-05T15:39:54Z",
+    "ingested_at": "2026-08-05T15:39:54Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:07:50Z",
-    "ledger_committed_at": "2026-08-05T16:07:50Z"
+    "ledger_commit_at": "2026-08-05T16:07:20Z",
+    "ledger_committed_at": "2026-08-05T16:07:20Z"
   },
   {
-    "id": "boxy-temper-2026-08-05",
-    "display_name": "boxy-temper",
+    "id": "boxy-sitree-2026-08-05",
+    "display_name": "boxy-sitree",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-temper",
+        "package": "boxy-sitree",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13083",
+            "osv_published_at": "2026-08-05T14:25:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:39:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:39:56Z",
+    "osv_earliest_published_at": "2026-08-05T14:25:52Z",
+    "source_published_at": "2026-08-05T14:25:52Z",
+    "observed_at": "2026-08-05T15:39:56Z",
+    "ingested_at": "2026-08-05T15:39:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:07:34Z",
+    "ledger_committed_at": "2026-08-05T16:07:34Z"
+  },
+  {
+    "id": "boxy-sticky-providers-2026-08-05",
+    "display_name": "boxy-sticky-providers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "boxy-sticky-providers",
         "ecosystem": "npm",
         "versions": [
           "35.1.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13087",
-            "osv_published_at": "2026-08-05T14:25:27Z"
+            "osv_id": "MAL-2026-13084",
+            "osv_published_at": "2026-08-05T14:27:21Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:40:00Z",
+    "attestd_detected_at": "2026-08-05T15:39:57Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:40:00Z",
-    "osv_earliest_published_at": "2026-08-05T14:25:27Z",
-    "source_published_at": "2026-08-05T14:25:27Z",
-    "observed_at": "2026-08-05T15:40:00Z",
-    "ingested_at": "2026-08-05T15:40:00Z",
+    "confirmed_at": "2026-08-05T15:39:57Z",
+    "osv_earliest_published_at": "2026-08-05T14:27:21Z",
+    "source_published_at": "2026-08-05T14:27:21Z",
+    "observed_at": "2026-08-05T15:39:57Z",
+    "ingested_at": "2026-08-05T15:39:57Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:08:04Z",
-    "ledger_committed_at": "2026-08-05T16:08:04Z"
+    "ledger_commit_at": "2026-08-05T16:07:42Z",
+    "ledger_committed_at": "2026-08-05T16:07:42Z"
   },
   {
-    "id": "boxy-use-calls-2026-08-05",
-    "display_name": "boxy-use-calls",
+    "id": "boxy-storybook-addon-changelog-2026-08-05",
+    "display_name": "boxy-storybook-addon-changelog",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-use-calls",
+        "package": "boxy-storybook-addon-changelog",
         "ecosystem": "npm",
         "versions": [
-          "35.1.8"
+          "35.1.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13094",
-            "osv_published_at": "2026-08-05T14:23:06Z"
+            "osv_id": "MAL-2026-13086",
+            "osv_published_at": "2026-08-05T14:24:24Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:40:06Z",
+    "attestd_detected_at": "2026-08-05T15:39:59Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:40:06Z",
-    "osv_earliest_published_at": "2026-08-05T14:23:06Z",
-    "source_published_at": "2026-08-05T14:23:06Z",
-    "observed_at": "2026-08-05T15:40:06Z",
-    "ingested_at": "2026-08-05T15:40:06Z",
+    "confirmed_at": "2026-08-05T15:39:59Z",
+    "osv_earliest_published_at": "2026-08-05T14:24:24Z",
+    "source_published_at": "2026-08-05T14:24:24Z",
+    "observed_at": "2026-08-05T15:39:59Z",
+    "ingested_at": "2026-08-05T15:39:59Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:08:25Z",
-    "ledger_committed_at": "2026-08-05T16:08:25Z"
+    "ledger_commit_at": "2026-08-05T16:07:56Z",
+    "ledger_committed_at": "2026-08-05T16:07:56Z"
   },
   {
-    "id": "boxy-validate-implicit-deps-2026-08-05",
-    "display_name": "boxy-validate-implicit-deps",
+    "id": "boxy-tokens-2026-08-05",
+    "display_name": "boxy-tokens",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-validate-implicit-deps",
+        "package": "boxy-tokens",
         "ecosystem": "npm",
         "versions": [
-          "35.2.6"
+          "35.5.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13096",
-            "osv_published_at": "2026-08-05T14:24:59Z"
+            "osv_id": "MAL-2026-13092",
+            "osv_published_at": "2026-08-05T14:26:01Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:40:08Z",
+    "attestd_detected_at": "2026-08-05T15:40:04Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:40:08Z",
-    "osv_earliest_published_at": "2026-08-05T14:24:59Z",
-    "source_published_at": "2026-08-05T14:24:59Z",
-    "observed_at": "2026-08-05T15:40:08Z",
-    "ingested_at": "2026-08-05T15:40:08Z",
+    "confirmed_at": "2026-08-05T15:40:04Z",
+    "osv_earliest_published_at": "2026-08-05T14:26:01Z",
+    "source_published_at": "2026-08-05T14:26:01Z",
+    "observed_at": "2026-08-05T15:40:04Z",
+    "ingested_at": "2026-08-05T15:40:04Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:08:40Z",
-    "ledger_committed_at": "2026-08-05T16:08:40Z"
+    "ledger_commit_at": "2026-08-05T16:08:10Z",
+    "ledger_committed_at": "2026-08-05T16:08:10Z"
+  },
+  {
+    "id": "boxy-tree-providers-2026-08-05",
+    "display_name": "boxy-tree-providers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "boxy-tree-providers",
+        "ecosystem": "npm",
+        "versions": [
+          "35.3.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13093",
+            "osv_published_at": "2026-08-05T14:24:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:40:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:40:05Z",
+    "osv_earliest_published_at": "2026-08-05T14:24:43Z",
+    "source_published_at": "2026-08-05T14:24:43Z",
+    "observed_at": "2026-08-05T15:40:05Z",
+    "ingested_at": "2026-08-05T15:40:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:08:18Z",
+    "ledger_committed_at": "2026-08-05T16:08:18Z"
+  },
+  {
+    "id": "boxy-use-what-changed-2026-08-05",
+    "display_name": "boxy-use-what-changed",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "boxy-use-what-changed",
+        "ecosystem": "npm",
+        "versions": [
+          "35.4.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13095",
+            "osv_published_at": "2026-08-05T14:24:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:40:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:40:07Z",
+    "osv_earliest_published_at": "2026-08-05T14:24:05Z",
+    "source_published_at": "2026-08-05T14:24:05Z",
+    "observed_at": "2026-08-05T15:40:07Z",
+    "ingested_at": "2026-08-05T15:40:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:08:32Z",
+    "ledger_committed_at": "2026-08-05T16:08:32Z"
+  },
+  {
+    "id": "boxy-wrapper-rspack-plugin-2026-08-05",
+    "display_name": "boxy-wrapper-rspack-plugin",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "boxy-wrapper-rspack-plugin",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13098",
+            "osv_published_at": "2026-08-05T14:22:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:40:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:40:10Z",
+    "osv_earliest_published_at": "2026-08-05T14:22:49Z",
+    "source_published_at": "2026-08-05T14:22:49Z",
+    "observed_at": "2026-08-05T15:40:10Z",
+    "ingested_at": "2026-08-05T15:40:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:08:46Z",
+    "ledger_committed_at": "2026-08-05T16:08:46Z"
   }
 ]
