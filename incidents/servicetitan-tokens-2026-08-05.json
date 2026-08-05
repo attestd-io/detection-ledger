@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-tokens-2026-08-05",
+  "display_name": "@servicetitan/tokens",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/tokens",
+      "ecosystem": "npm",
+      "versions": [
+        "12.9.1",
+        "12.9.2",
+        "12.9.3",
+        "12.9.4",
+        "12.9.5",
+        "12.9.6",
+        "12.9.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11944",
+          "osv_published_at": "2026-08-04T13:18:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:51:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:51:51Z",
+  "osv_earliest_published_at": "2026-08-04T13:18:47Z",
+  "source_published_at": "2026-08-04T13:18:47Z",
+  "observed_at": "2026-08-05T00:51:51Z",
+  "ingested_at": "2026-08-05T00:51:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:55:57Z",
+  "ledger_committed_at": "2026-08-05T00:55:57Z"
+}
