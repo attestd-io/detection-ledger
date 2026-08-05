@@ -157120,33 +157120,33 @@
     "ledger_committed_at": "2026-08-05T15:27:51Z"
   },
   {
-    "id": "tinkoff-statist-browser-typed-client-itsa-corporatemessenger-clientv1-web-events-2026-08-05",
-    "display_name": "tinkoff-statist-browser-typed-client-itsa.corporatemessenger.clientv1.web.events",
+    "id": "tinkoff-statist-browser-typed-client-jumptaxi-feature-contacts-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-jumptaxi.feature.contacts",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tinkoff-statist-browser-typed-client-itsa.corporatemessenger.clientv1.web.events",
+        "package": "tinkoff-statist-browser-typed-client-jumptaxi.feature.contacts",
         "ecosystem": "npm",
         "versions": [
-          "20.9.9"
+          "20.6.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12264",
-            "osv_published_at": "2026-08-05T09:02:54Z"
+            "osv_id": "MAL-2026-12265",
+            "osv_published_at": "2026-08-05T09:04:27Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:20:55Z",
+    "attestd_detected_at": "2026-08-05T15:20:56Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:20:55Z",
-    "osv_earliest_published_at": "2026-08-05T09:02:54Z",
-    "source_published_at": "2026-08-05T09:02:54Z",
-    "observed_at": "2026-08-05T15:20:55Z",
-    "ingested_at": "2026-08-05T15:20:55Z",
+    "confirmed_at": "2026-08-05T15:20:56Z",
+    "osv_earliest_published_at": "2026-08-05T09:04:27Z",
+    "source_published_at": "2026-08-05T09:04:27Z",
+    "observed_at": "2026-08-05T15:20:56Z",
+    "ingested_at": "2026-08-05T15:20:56Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -157157,21 +157157,21 @@
     "ledger_committed_at": "2026-08-05T15:28:00Z"
   },
   {
-    "id": "tinkoff-statist-browser-typed-client-mb-product-restrictions-arrestments-2026-08-05",
-    "display_name": "tinkoff-statist-browser-typed-client-mb.product.restrictions.arrestments",
+    "id": "tinkoff-statist-browser-typed-client-leasing-admin-events-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-leasing.admin.events",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tinkoff-statist-browser-typed-client-mb.product.restrictions.arrestments",
+        "package": "tinkoff-statist-browser-typed-client-leasing.admin.events",
         "ecosystem": "npm",
         "versions": [
-          "20.8.3"
+          "20.7.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12267",
-            "osv_published_at": "2026-08-05T09:00:59Z"
+            "osv_id": "MAL-2026-12266",
+            "osv_published_at": "2026-08-05T09:03:52Z"
           }
         ]
       }
@@ -157180,8 +157180,8 @@
     "attestd_detected_at": "2026-08-05T15:20:57Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T15:20:57Z",
-    "osv_earliest_published_at": "2026-08-05T09:00:59Z",
-    "source_published_at": "2026-08-05T09:00:59Z",
+    "osv_earliest_published_at": "2026-08-05T09:03:52Z",
+    "source_published_at": "2026-08-05T09:03:52Z",
     "observed_at": "2026-08-05T15:20:57Z",
     "ingested_at": "2026-08-05T15:20:57Z",
     "first_served_at": null,
@@ -157190,44 +157190,81 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:28:15Z",
-    "ledger_committed_at": "2026-08-05T15:28:15Z"
+    "ledger_commit_at": "2026-08-05T15:28:08Z",
+    "ledger_committed_at": "2026-08-05T15:28:08Z"
   },
   {
-    "id": "tinkoff-statist-browser-typed-client-mb-reliability-android-events-2026-08-05",
-    "display_name": "tinkoff-statist-browser-typed-client-mb.reliability.android.events",
+    "id": "tinkoff-statist-browser-typed-client-mb-product-tgeofencing-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-mb.product.tgeofencing",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tinkoff-statist-browser-typed-client-mb.reliability.android.events",
+        "package": "tinkoff-statist-browser-typed-client-mb.product.tgeofencing",
         "ecosystem": "npm",
         "versions": [
-          "20.5.4"
+          "20.9.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12269",
-            "osv_published_at": "2026-08-05T08:52:23Z"
+            "osv_id": "MAL-2026-12268",
+            "osv_published_at": "2026-08-05T09:01:53Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:20:59Z",
+    "attestd_detected_at": "2026-08-05T15:20:58Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:20:59Z",
-    "osv_earliest_published_at": "2026-08-05T08:52:23Z",
-    "source_published_at": "2026-08-05T08:52:23Z",
-    "observed_at": "2026-08-05T15:20:59Z",
-    "ingested_at": "2026-08-05T15:20:59Z",
+    "confirmed_at": "2026-08-05T15:20:58Z",
+    "osv_earliest_published_at": "2026-08-05T09:01:53Z",
+    "source_published_at": "2026-08-05T09:01:53Z",
+    "observed_at": "2026-08-05T15:20:58Z",
+    "ingested_at": "2026-08-05T15:20:58Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:28:29Z",
-    "ledger_committed_at": "2026-08-05T15:28:29Z"
+    "ledger_commit_at": "2026-08-05T15:28:21Z",
+    "ledger_committed_at": "2026-08-05T15:28:21Z"
+  },
+  {
+    "id": "tinkoff-statist-browser-typed-client-sme-platform-mobile-dynamicteasers-common-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-sme.platform.mobile.dynamicteasers.common",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tinkoff-statist-browser-typed-client-sme.platform.mobile.dynamicteasers.common",
+        "ecosystem": "npm",
+        "versions": [
+          "20.8.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12270",
+            "osv_published_at": "2026-08-05T09:00:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:21:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:21:00Z",
+    "osv_earliest_published_at": "2026-08-05T09:00:12Z",
+    "source_published_at": "2026-08-05T09:00:12Z",
+    "observed_at": "2026-08-05T15:21:00Z",
+    "ingested_at": "2026-08-05T15:21:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:28:35Z",
+    "ledger_committed_at": "2026-08-05T15:28:35Z"
   }
 ]
