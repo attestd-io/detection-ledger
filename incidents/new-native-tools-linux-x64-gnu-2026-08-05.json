@@ -1,0 +1,38 @@
+{
+  "id": "new-native-tools-linux-x64-gnu-2026-08-05",
+  "display_name": "new-native-tools-linux-x64-gnu",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "new-native-tools-linux-x64-gnu",
+      "ecosystem": "npm",
+      "versions": [
+        "3.1.40-browser-release-151-380-1785161758",
+        "3.1.41-origin-chrom-468-delete-windows-32-bit-changelog-fix-408-1785838091"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12402",
+          "osv_published_at": "2026-08-05T12:52:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:19:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:19:44Z",
+  "osv_earliest_published_at": "2026-08-05T12:52:14Z",
+  "source_published_at": "2026-08-05T12:52:14Z",
+  "observed_at": "2026-08-05T13:19:44Z",
+  "ingested_at": "2026-08-05T13:19:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:28:38Z",
+  "ledger_committed_at": "2026-08-05T13:28:38Z"
+}
