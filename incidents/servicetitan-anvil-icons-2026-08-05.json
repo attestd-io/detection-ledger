@@ -16,14 +16,19 @@
         "14.5.8",
         "14.5.9"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11818",
+          "osv_published_at": "2026-08-04T13:24:52Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-05T02:31:08Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-05T02:31:08Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-08-04T13:24:52Z",
   "source_published_at": null,
   "observed_at": "2026-08-05T02:31:08Z",
   "ingested_at": "2026-08-05T02:31:08Z",
@@ -33,6 +38,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fanvil-icons",
-  "ledger_commit_at": "2026-08-05T02:31:35Z",
-  "ledger_committed_at": "2026-08-05T02:31:35Z"
+  "ledger_commit_at": "2026-08-05T03:41:00Z",
+  "ledger_committed_at": "2026-08-05T03:41:00Z"
 }
