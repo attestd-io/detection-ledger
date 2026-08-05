@@ -132504,5 +132504,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T03:32:48Z",
     "ledger_committed_at": "2026-08-05T03:32:48Z"
+  },
+  {
+    "id": "http-metrics-middleware-2026-08-05",
+    "display_name": "http-metrics-middleware",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "http-metrics-middleware",
+        "ecosystem": "npm",
+        "versions": [
+          "2.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11975",
+            "osv_published_at": "2026-08-04T15:54:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T03:30:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T03:30:01Z",
+    "osv_earliest_published_at": "2026-08-04T15:54:33Z",
+    "source_published_at": "2026-08-04T15:54:33Z",
+    "observed_at": "2026-08-05T03:30:01Z",
+    "ingested_at": "2026-08-05T03:30:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T03:33:00Z",
+    "ledger_committed_at": "2026-08-05T03:33:00Z"
   }
 ]
