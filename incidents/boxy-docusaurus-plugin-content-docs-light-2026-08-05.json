@@ -1,0 +1,37 @@
+{
+  "id": "boxy-docusaurus-plugin-content-docs-light-2026-08-05",
+  "display_name": "boxy-docusaurus-plugin-content-docs-light",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "boxy-docusaurus-plugin-content-docs-light",
+      "ecosystem": "npm",
+      "versions": [
+        "35.3.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13041",
+          "osv_published_at": "2026-08-05T14:33:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:39:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:39:09Z",
+  "osv_earliest_published_at": "2026-08-05T14:33:17Z",
+  "source_published_at": "2026-08-05T14:33:17Z",
+  "observed_at": "2026-08-05T15:39:09Z",
+  "ingested_at": "2026-08-05T15:39:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:02:45Z",
+  "ledger_committed_at": "2026-08-05T16:02:45Z"
+}
