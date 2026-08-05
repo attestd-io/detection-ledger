@@ -1,0 +1,37 @@
+{
+  "id": "peter-desktop-peter-big-column-2026-08-05",
+  "display_name": "peter-desktop-peter-big-column",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "peter-desktop-peter-big-column",
+      "ecosystem": "npm",
+      "versions": [
+        "20.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12184",
+          "osv_published_at": "2026-08-05T08:55:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:36:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:36:35Z",
+  "osv_earliest_published_at": "2026-08-05T08:55:48Z",
+  "source_published_at": "2026-08-05T08:55:48Z",
+  "observed_at": "2026-08-05T09:36:35Z",
+  "ingested_at": "2026-08-05T09:36:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:42:14Z",
+  "ledger_committed_at": "2026-08-05T09:42:14Z"
+}
