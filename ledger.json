@@ -156861,58 +156861,95 @@
     "ledger_committed_at": "2026-08-05T15:25:44Z"
   },
   {
-    "id": "tinkoff-pfp-block-desktop-tabs-2026-08-05",
-    "display_name": "tinkoff-pfp-block-desktop-tabs",
+    "id": "tinkoff-pfp-atom-styles-tiles-2026-08-05",
+    "display_name": "tinkoff-pfp-atom-styles-tiles",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tinkoff-pfp-block-desktop-tabs",
+        "package": "tinkoff-pfp-atom-styles-tiles",
         "ecosystem": "npm",
         "versions": [
-          "20.5.3"
+          "20.2.8"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12247",
-            "osv_published_at": "2026-08-05T09:01:29Z"
+            "osv_id": "MAL-2026-12246",
+            "osv_published_at": "2026-08-05T08:52:45Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:20:43Z",
+    "attestd_detected_at": "2026-08-05T15:20:42Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:20:43Z",
-    "osv_earliest_published_at": "2026-08-05T09:01:29Z",
-    "source_published_at": "2026-08-05T09:01:29Z",
-    "observed_at": "2026-08-05T15:20:43Z",
-    "ingested_at": "2026-08-05T15:20:43Z",
+    "confirmed_at": "2026-08-05T15:20:42Z",
+    "osv_earliest_published_at": "2026-08-05T08:52:45Z",
+    "source_published_at": "2026-08-05T08:52:45Z",
+    "observed_at": "2026-08-05T15:20:42Z",
+    "ingested_at": "2026-08-05T15:20:42Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:26:02Z",
-    "ledger_committed_at": "2026-08-05T15:26:02Z"
+    "ledger_commit_at": "2026-08-05T15:25:56Z",
+    "ledger_committed_at": "2026-08-05T15:25:56Z"
   },
   {
-    "id": "tinkoff-pfp-block-mobile-panels-2026-08-05",
-    "display_name": "tinkoff-pfp-block-mobile-panels",
+    "id": "tinkoff-pfp-block-mobile-advert-footer-2026-08-05",
+    "display_name": "tinkoff-pfp-block-mobile-advert-footer",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tinkoff-pfp-block-mobile-panels",
+        "package": "tinkoff-pfp-block-mobile-advert-footer",
         "ecosystem": "npm",
         "versions": [
-          "20.2.7"
+          "20.3.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12249",
-            "osv_published_at": "2026-08-05T08:57:00Z"
+            "osv_id": "MAL-2026-12248",
+            "osv_published_at": "2026-08-05T08:58:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:20:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:20:44Z",
+    "osv_earliest_published_at": "2026-08-05T08:58:10Z",
+    "source_published_at": "2026-08-05T08:58:10Z",
+    "observed_at": "2026-08-05T15:20:44Z",
+    "ingested_at": "2026-08-05T15:20:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:26:09Z",
+    "ledger_committed_at": "2026-08-05T15:26:09Z"
+  },
+  {
+    "id": "tinkoff-pfp-integration-mobile-slider-icons-2026-08-05",
+    "display_name": "tinkoff-pfp-integration-mobile-slider-icons",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tinkoff-pfp-integration-mobile-slider-icons",
+        "ecosystem": "npm",
+        "versions": [
+          "20.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12250",
+            "osv_published_at": "2026-08-05T08:56:19Z"
           }
         ]
       }
@@ -156921,8 +156958,8 @@
     "attestd_detected_at": "2026-08-05T15:20:45Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T15:20:45Z",
-    "osv_earliest_published_at": "2026-08-05T08:57:00Z",
-    "source_published_at": "2026-08-05T08:57:00Z",
+    "osv_earliest_published_at": "2026-08-05T08:56:19Z",
+    "source_published_at": "2026-08-05T08:56:19Z",
     "observed_at": "2026-08-05T15:20:45Z",
     "ingested_at": "2026-08-05T15:20:45Z",
     "first_served_at": null,
@@ -156931,7 +156968,44 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:26:17Z",
-    "ledger_committed_at": "2026-08-05T15:26:17Z"
+    "ledger_commit_at": "2026-08-05T15:26:22Z",
+    "ledger_committed_at": "2026-08-05T15:26:22Z"
+  },
+  {
+    "id": "tinkoff-pfpa-tools-2026-08-05",
+    "display_name": "tinkoff-pfpa-tools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tinkoff-pfpa-tools",
+        "ecosystem": "npm",
+        "versions": [
+          "20.3.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12251",
+            "osv_published_at": "2026-08-05T08:59:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:20:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:20:46Z",
+    "osv_earliest_published_at": "2026-08-05T08:59:03Z",
+    "source_published_at": "2026-08-05T08:59:03Z",
+    "observed_at": "2026-08-05T15:20:46Z",
+    "ingested_at": "2026-08-05T15:20:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:26:31Z",
+    "ledger_committed_at": "2026-08-05T15:26:31Z"
   }
 ]
