@@ -1,0 +1,43 @@
+{
+  "id": "cdk-insights-2026-08-05",
+  "display_name": "cdk-insights",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cdk-insights",
+      "ecosystem": "npm",
+      "versions": [
+        "1.58.1",
+        "1.59.1",
+        "1.59.2",
+        "1.59.3",
+        "1.60.0",
+        "1.60.1",
+        "1.61.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4508",
+          "osv_published_at": "2026-05-22T16:27:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T19:23:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T19:23:54Z",
+  "osv_earliest_published_at": "2026-05-22T16:27:47Z",
+  "source_published_at": "2026-05-22T16:27:47Z",
+  "observed_at": "2026-08-05T19:23:54Z",
+  "ingested_at": "2026-08-05T19:23:54Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T19:24:00Z",
+  "ledger_committed_at": "2026-08-05T19:24:00Z"
+}
