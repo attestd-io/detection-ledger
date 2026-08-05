@@ -122167,9 +122167,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Faccount-settings",
-    "ledger_commit_at": "2026-08-05T03:08:46Z",
-    "ledger_committed_at": "2026-08-05T03:08:46Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:13:28Z",
+    "ledger_committed_at": "2026-08-05T00:13:28Z"
   },
   {
     "id": "or-sdk-agents-2026-08-05",
@@ -122557,9 +122557,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:16:01Z",
-    "ledger_committed_at": "2026-08-05T00:16:01Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Ffiles-sync-node",
+    "ledger_commit_at": "2026-08-05T03:08:42Z",
+    "ledger_committed_at": "2026-08-05T03:08:42Z"
   },
   {
     "id": "or-sdk-flow-templates-2026-08-05",
@@ -130073,5 +130073,44 @@
     "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fpermissions-cli",
     "ledger_commit_at": "2026-08-05T03:08:34Z",
     "ledger_committed_at": "2026-08-05T03:08:34Z"
+  },
+  {
+    "id": "or-sdk-accounts-2026-08-05",
+    "display_name": "@or-sdk/accounts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@or-sdk/accounts",
+        "ecosystem": "npm",
+        "versions": [
+          "2.3.5",
+          "2.3.6",
+          "2.3.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11666",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:07:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:07:12Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:07:12Z",
+    "ingested_at": "2026-08-05T00:07:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Faccounts",
+    "ledger_commit_at": "2026-08-05T03:08:53Z",
+    "ledger_committed_at": "2026-08-05T03:08:53Z"
   }
 ]
