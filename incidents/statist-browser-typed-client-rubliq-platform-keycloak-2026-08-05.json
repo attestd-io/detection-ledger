@@ -1,0 +1,37 @@
+{
+  "id": "statist-browser-typed-client-rubliq-platform-keycloak-2026-08-05",
+  "display_name": "statist-browser-typed-client-rubliq.platform.keycloak",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "statist-browser-typed-client-rubliq.platform.keycloak",
+      "ecosystem": "npm",
+      "versions": [
+        "20.2.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12451",
+          "osv_published_at": "2026-08-05T12:36:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:20:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:20:47Z",
+  "osv_earliest_published_at": "2026-08-05T12:36:57Z",
+  "source_published_at": "2026-08-05T12:36:57Z",
+  "observed_at": "2026-08-05T13:20:47Z",
+  "ingested_at": "2026-08-05T13:20:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:34:39Z",
+  "ledger_committed_at": "2026-08-05T13:34:39Z"
+}
