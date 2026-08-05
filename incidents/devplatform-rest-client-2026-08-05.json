@@ -1,0 +1,37 @@
+{
+  "id": "devplatform-rest-client-2026-08-05",
+  "display_name": "devplatform-rest-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "devplatform-rest-client",
+      "ecosystem": "npm",
+      "versions": [
+        "35.7.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12744",
+          "osv_published_at": "2026-08-05T13:45:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:32:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:32:36Z",
+  "osv_earliest_published_at": "2026-08-05T13:45:58Z",
+  "source_published_at": "2026-08-05T13:45:58Z",
+  "observed_at": "2026-08-05T14:32:36Z",
+  "ingested_at": "2026-08-05T14:32:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:54:13Z",
+  "ledger_committed_at": "2026-08-05T14:54:13Z"
+}
