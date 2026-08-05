@@ -1,0 +1,41 @@
+{
+  "id": "accounts-timeline-2026-08-05",
+  "display_name": "accounts-timeline",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "accounts-timeline",
+      "ecosystem": "npm",
+      "versions": [
+        "12.3.7",
+        "9.6.10",
+        "9.6.11",
+        "9.6.12",
+        "9.6.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12137",
+          "osv_published_at": "2026-08-05T08:50:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:35:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:35:36Z",
+  "osv_earliest_published_at": "2026-08-05T08:50:09Z",
+  "source_published_at": "2026-08-05T08:50:09Z",
+  "observed_at": "2026-08-05T09:35:36Z",
+  "ingested_at": "2026-08-05T09:35:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:37:11Z",
+  "ledger_committed_at": "2026-08-05T09:37:11Z"
+}
