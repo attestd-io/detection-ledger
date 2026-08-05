@@ -1,0 +1,52 @@
+{
+  "id": "editable-contracts-2026-08-05",
+  "display_name": "editable-contracts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "editable-contracts",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.12",
+        "0.0.13",
+        "0.0.14",
+        "0.0.15",
+        "0.0.16",
+        "0.0.17",
+        "0.0.18",
+        "0.0.19",
+        "0.0.20",
+        "0.0.21",
+        "0.0.22",
+        "0.0.23",
+        "0.0.24",
+        "0.0.25",
+        "0.0.26",
+        "0.0.27"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11967",
+          "osv_published_at": "2026-08-04T15:41:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:29:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:29:48Z",
+  "osv_earliest_published_at": "2026-08-04T15:41:44Z",
+  "source_published_at": "2026-08-04T15:41:44Z",
+  "observed_at": "2026-08-05T03:29:48Z",
+  "ingested_at": "2026-08-05T03:29:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:32:11Z",
+  "ledger_committed_at": "2026-08-05T03:32:11Z"
+}
