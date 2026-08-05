@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-toolbelt-shared-registry-2026-08-05",
+  "display_name": "@servicetitan/toolbelt-shared-registry",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/toolbelt-shared-registry",
+      "ecosystem": "npm",
+      "versions": [
+        "1.14.1",
+        "1.14.2",
+        "1.14.3",
+        "1.14.4",
+        "1.14.5",
+        "1.14.6",
+        "1.14.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11945",
+          "osv_published_at": "2026-08-04T13:21:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T02:44:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T02:44:53Z",
+  "osv_earliest_published_at": "2026-08-04T13:21:30Z",
+  "source_published_at": "2026-08-04T13:21:30Z",
+  "observed_at": "2026-08-05T02:44:53Z",
+  "ingested_at": "2026-08-05T02:44:53Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T02:46:35Z",
+  "ledger_committed_at": "2026-08-05T02:46:35Z"
+}
