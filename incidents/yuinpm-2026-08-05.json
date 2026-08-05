@@ -1,0 +1,37 @@
+{
+  "id": "yuinpm-2026-08-05",
+  "display_name": "yuinpm",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "yuinpm",
+      "ecosystem": "npm",
+      "versions": [
+        "2026.7.19-2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11039",
+          "osv_published_at": "2026-07-23T18:47:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:21:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:21:43Z",
+  "osv_earliest_published_at": "2026-07-23T18:47:54Z",
+  "source_published_at": "2026-07-23T18:47:54Z",
+  "observed_at": "2026-08-05T09:21:43Z",
+  "ingested_at": "2026-08-05T09:21:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:24:18Z",
+  "ledger_committed_at": "2026-08-05T09:24:18Z"
+}
