@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-forge-2026-08-05",
+  "display_name": "@servicetitan/forge",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/forge",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.1",
+        "0.5.2",
+        "0.5.3",
+        "0.5.4",
+        "0.5.5",
+        "0.5.6",
+        "0.5.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11869",
+          "osv_published_at": "2026-08-04T13:17:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T02:32:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T02:32:07Z",
+  "osv_earliest_published_at": "2026-08-04T13:17:51Z",
+  "source_published_at": "2026-08-04T13:17:51Z",
+  "observed_at": "2026-08-05T02:32:07Z",
+  "ingested_at": "2026-08-05T02:32:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T02:32:32Z",
+  "ledger_committed_at": "2026-08-05T02:32:32Z"
+}
