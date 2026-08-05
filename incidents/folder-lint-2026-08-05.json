@@ -1,0 +1,52 @@
+{
+  "id": "folder-lint-2026-08-05",
+  "display_name": "folder-lint",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "folder-lint",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.10",
+        "1.0.11",
+        "1.0.12",
+        "1.0.13",
+        "1.0.14",
+        "1.0.15",
+        "1.0.16",
+        "1.0.17",
+        "1.0.18",
+        "1.0.19",
+        "1.0.20",
+        "1.0.21",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11972",
+          "osv_published_at": "2026-08-04T15:42:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:29:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:29:56Z",
+  "osv_earliest_published_at": "2026-08-04T15:42:13Z",
+  "source_published_at": "2026-08-04T15:42:13Z",
+  "observed_at": "2026-08-05T03:29:56Z",
+  "ingested_at": "2026-08-05T03:29:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:32:40Z",
+  "ledger_committed_at": "2026-08-05T03:32:40Z"
+}
