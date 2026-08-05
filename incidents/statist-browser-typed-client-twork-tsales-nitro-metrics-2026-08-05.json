@@ -1,0 +1,37 @@
+{
+  "id": "statist-browser-typed-client-twork-tsales-nitro-metrics-2026-08-05",
+  "display_name": "statist-browser-typed-client-twork.tsales.nitro.metrics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "statist-browser-typed-client-twork.tsales.nitro.metrics",
+      "ecosystem": "npm",
+      "versions": [
+        "20.6.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12455",
+          "osv_published_at": "2026-08-05T12:30:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:20:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:20:51Z",
+  "osv_earliest_published_at": "2026-08-05T12:30:57Z",
+  "source_published_at": "2026-08-05T12:30:57Z",
+  "observed_at": "2026-08-05T13:20:51Z",
+  "ingested_at": "2026-08-05T13:20:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:35:03Z",
+  "ledger_committed_at": "2026-08-05T13:35:03Z"
+}
