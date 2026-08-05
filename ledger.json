@@ -148470,5 +148470,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T13:26:51Z",
     "ledger_committed_at": "2026-08-05T13:26:51Z"
+  },
+  {
+    "id": "hyper-kube-config-2026-08-05",
+    "display_name": "hyper-kube-config",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hyper-kube-config",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12392",
+            "osv_published_at": "2026-08-05T13:01:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:19:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:19:29Z",
+    "osv_earliest_published_at": "2026-08-05T13:01:07Z",
+    "source_published_at": "2026-08-05T13:01:07Z",
+    "observed_at": "2026-08-05T13:19:29Z",
+    "ingested_at": "2026-08-05T13:19:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:27:24Z",
+    "ledger_committed_at": "2026-08-05T13:27:24Z"
   }
 ]
