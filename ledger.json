@@ -148021,5 +148021,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T13:22:44Z",
     "ledger_committed_at": "2026-08-05T13:22:44Z"
+  },
+  {
+    "id": "cors-security-2026-08-05",
+    "display_name": "cors-security",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cors-security",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12357",
+            "osv_published_at": "2026-08-05T12:57:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:18:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:18:50Z",
+    "osv_earliest_published_at": "2026-08-05T12:57:59Z",
+    "source_published_at": "2026-08-05T12:57:59Z",
+    "observed_at": "2026-08-05T13:18:50Z",
+    "ingested_at": "2026-08-05T13:18:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:22:55Z",
+    "ledger_committed_at": "2026-08-05T13:22:55Z"
   }
 ]
