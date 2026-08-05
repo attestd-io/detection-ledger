@@ -134814,6 +134814,7 @@
         "ecosystem": "npm",
         "versions": [
           "1.0.1",
+          "1.0.5",
           "1.0.6"
         ],
         "osv_entries": [
@@ -134838,8 +134839,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T03:34:39Z",
-    "ledger_committed_at": "2026-08-05T03:34:39Z"
+    "ledger_commit_at": "2026-08-05T09:37:30Z",
+    "ledger_committed_at": "2026-08-05T09:37:30Z"
   },
   {
     "id": "bcryptln-becryptjs-2026-08-05",
@@ -145772,44 +145773,44 @@
     "ledger_committed_at": "2026-08-05T09:37:18Z"
   },
   {
-    "id": "arbocrate-sla-prober-arbocrate-sla-prober-core-2026-08-05",
-    "display_name": "arbocrate-sla-prober-arbocrate-sla-prober-core",
+    "id": "beaver-ui-actions-button-2026-08-05",
+    "display_name": "beaver-ui-actions-button",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "arbocrate-sla-prober-arbocrate-sla-prober-core",
+        "package": "beaver-ui-actions-button",
         "ecosystem": "npm",
         "versions": [
-          "12.7.1",
-          "7.5.6",
-          "7.5.7",
-          "7.5.8",
-          "7.5.9"
+          "12.3.9",
+          "5.4.6",
+          "5.4.7",
+          "5.4.8",
+          "5.4.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12140",
-            "osv_published_at": "2026-08-05T09:16:59Z"
+            "osv_id": "MAL-2026-12141",
+            "osv_published_at": "2026-08-05T08:54:01Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:35:41Z",
+    "attestd_detected_at": "2026-08-05T09:35:43Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:35:41Z",
-    "osv_earliest_published_at": "2026-08-05T09:16:59Z",
-    "source_published_at": "2026-08-05T09:16:59Z",
-    "observed_at": "2026-08-05T09:35:41Z",
-    "ingested_at": "2026-08-05T09:35:41Z",
+    "confirmed_at": "2026-08-05T09:35:43Z",
+    "osv_earliest_published_at": "2026-08-05T08:54:01Z",
+    "source_published_at": "2026-08-05T08:54:01Z",
+    "observed_at": "2026-08-05T09:35:43Z",
+    "ingested_at": "2026-08-05T09:35:43Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:37:37Z",
-    "ledger_committed_at": "2026-08-05T09:37:37Z"
+    "ledger_commit_at": "2026-08-05T09:37:43Z",
+    "ledger_committed_at": "2026-08-05T09:37:43Z"
   }
 ]
