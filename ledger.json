@@ -120155,77 +120155,151 @@
     "ledger_committed_at": "2026-08-05T00:05:11Z"
   },
   {
-    "id": "nebula-js-sn-listbox-2026-08-05",
-    "display_name": "@nebula.js/sn-listbox",
+    "id": "nebula-js-sn-line-chart-2026-08-05",
+    "display_name": "@nebula.js/sn-line-chart",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@nebula.js/sn-listbox",
+        "package": "@nebula.js/sn-line-chart",
         "ecosystem": "npm",
         "versions": [
-          "0.19.3"
+          "2.7.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11576",
+            "osv_id": "MAL-2026-11575",
             "osv_published_at": "2026-08-04T18:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:04:10Z",
+    "attestd_detected_at": "2026-08-05T00:04:08Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:04:10Z",
+    "confirmed_at": "2026-08-05T00:04:08Z",
     "osv_earliest_published_at": "2026-08-04T18:00:00Z",
     "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:04:10Z",
-    "ingested_at": "2026-08-05T00:04:10Z",
+    "observed_at": "2026-08-05T00:04:08Z",
+    "ingested_at": "2026-08-05T00:04:08Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:05:25Z",
-    "ledger_committed_at": "2026-08-05T00:05:25Z"
+    "ledger_commit_at": "2026-08-05T00:05:20Z",
+    "ledger_committed_at": "2026-08-05T00:05:20Z"
   },
   {
-    "id": "nebula-js-sn-nav-menu-2026-08-05",
-    "display_name": "@nebula.js/sn-nav-menu",
+    "id": "nebula-js-sn-map-2026-08-05",
+    "display_name": "@nebula.js/sn-map",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@nebula.js/sn-nav-menu",
+        "package": "@nebula.js/sn-map",
         "ecosystem": "npm",
         "versions": [
-          "0.14.2"
+          "0.12.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11578",
+            "osv_id": "MAL-2026-11577",
             "osv_published_at": "2026-08-04T18:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:04:12Z",
+    "attestd_detected_at": "2026-08-05T00:04:11Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:04:12Z",
+    "confirmed_at": "2026-08-05T00:04:11Z",
     "osv_earliest_published_at": "2026-08-04T18:00:00Z",
     "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:04:12Z",
-    "ingested_at": "2026-08-05T00:04:12Z",
+    "observed_at": "2026-08-05T00:04:11Z",
+    "ingested_at": "2026-08-05T00:04:11Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:05:33Z",
-    "ledger_committed_at": "2026-08-05T00:05:33Z"
+    "ledger_commit_at": "2026-08-05T00:05:26Z",
+    "ledger_committed_at": "2026-08-05T00:05:26Z"
+  },
+  {
+    "id": "nebula-js-sn-org-chart-2026-08-05",
+    "display_name": "@nebula.js/sn-org-chart",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@nebula.js/sn-org-chart",
+        "ecosystem": "npm",
+        "versions": [
+          "1.7.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11579",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:04:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:04:13Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:04:13Z",
+    "ingested_at": "2026-08-05T00:04:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:05:37Z",
+    "ledger_committed_at": "2026-08-05T00:05:37Z"
+  },
+  {
+    "id": "nebula-js-sn-shape-2026-08-05",
+    "display_name": "@nebula.js/sn-shape",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@nebula.js/sn-shape",
+        "ecosystem": "npm",
+        "versions": [
+          "1.5.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11580",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:04:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:04:14Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:04:14Z",
+    "ingested_at": "2026-08-05T00:04:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:05:43Z",
+    "ledger_committed_at": "2026-08-05T00:05:43Z"
   }
 ]
