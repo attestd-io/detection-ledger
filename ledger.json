@@ -125367,19 +125367,14 @@
           "14.5.8",
           "14.5.9"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11816",
-            "osv_published_at": "2026-08-04T13:20:45Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:26:58Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:26:58Z",
-    "osv_earliest_published_at": "2026-08-04T13:20:45Z",
+    "osv_earliest_published_at": null,
     "source_published_at": null,
     "observed_at": "2026-08-05T02:26:58Z",
     "ingested_at": "2026-08-05T02:26:58Z",
@@ -125389,8 +125384,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fanvil-fonts",
-    "ledger_commit_at": "2026-08-05T05:02:28Z",
-    "ledger_committed_at": "2026-08-05T05:02:28Z"
+    "ledger_commit_at": "2026-08-05T02:27:07Z",
+    "ledger_committed_at": "2026-08-05T02:27:07Z"
   },
   {
     "id": "servicetitan-anvil-themes-2026-08-05",
@@ -126083,14 +126078,19 @@
           "14.5.8",
           "14.5.9"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11818",
+            "osv_published_at": "2026-08-04T13:24:52Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:31:08Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:31:08Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T13:24:52Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T02:31:08Z",
     "ingested_at": "2026-08-05T02:31:08Z",
@@ -126100,8 +126100,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fanvil-icons",
-    "ledger_commit_at": "2026-08-05T02:31:35Z",
-    "ledger_committed_at": "2026-08-05T02:31:35Z"
+    "ledger_commit_at": "2026-08-05T05:02:34Z",
+    "ledger_committed_at": "2026-08-05T05:02:34Z"
   },
   {
     "id": "servicetitan-examples-2026-08-05",
