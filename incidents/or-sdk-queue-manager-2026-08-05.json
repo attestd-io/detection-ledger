@@ -1,0 +1,39 @@
+{
+  "id": "or-sdk-queue-manager-2026-08-05",
+  "display_name": "@or-sdk/queue-manager",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@or-sdk/queue-manager",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.6",
+        "1.4.7",
+        "1.4.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11723",
+          "osv_published_at": "2026-08-04T13:20:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:11:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:11:46Z",
+  "osv_earliest_published_at": "2026-08-04T13:20:45Z",
+  "source_published_at": "2026-08-04T13:20:45Z",
+  "observed_at": "2026-08-05T03:11:46Z",
+  "ingested_at": "2026-08-05T03:11:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:11:51Z",
+  "ledger_committed_at": "2026-08-05T03:11:51Z"
+}
