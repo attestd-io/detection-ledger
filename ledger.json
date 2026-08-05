@@ -159092,132 +159092,206 @@
     "ledger_committed_at": "2026-08-05T15:39:06Z"
   },
   {
-    "id": "bigops-stylelint-2026-08-05",
-    "display_name": "bigops-stylelint",
+    "id": "bigops-api-2026-08-05",
+    "display_name": "bigops-api",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bigops-stylelint",
+        "package": "bigops-api",
         "ecosystem": "npm",
         "versions": [
-          "35.4.3"
+          "35.8.8"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12834",
-            "osv_published_at": "2026-08-05T15:02:59Z"
+            "osv_id": "MAL-2026-12832",
+            "osv_published_at": "2026-08-05T15:03:27Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:35:36Z",
+    "attestd_detected_at": "2026-08-05T15:35:35Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:35:36Z",
-    "osv_earliest_published_at": "2026-08-05T15:02:59Z",
-    "source_published_at": "2026-08-05T15:02:59Z",
-    "observed_at": "2026-08-05T15:35:36Z",
-    "ingested_at": "2026-08-05T15:35:36Z",
+    "confirmed_at": "2026-08-05T15:35:35Z",
+    "osv_earliest_published_at": "2026-08-05T15:03:27Z",
+    "source_published_at": "2026-08-05T15:03:27Z",
+    "observed_at": "2026-08-05T15:35:35Z",
+    "ingested_at": "2026-08-05T15:35:35Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:39:27Z",
-    "ledger_committed_at": "2026-08-05T15:39:27Z"
+    "ledger_commit_at": "2026-08-05T15:39:19Z",
+    "ledger_committed_at": "2026-08-05T15:39:19Z"
   },
   {
-    "id": "bigops-tasks-2026-08-05",
-    "display_name": "bigops-tasks",
+    "id": "bigops-tasks-client-2026-08-05",
+    "display_name": "bigops-tasks-client",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bigops-tasks",
+        "package": "bigops-tasks-client",
         "ecosystem": "npm",
         "versions": [
-          "35.1.4"
+          "35.1.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12835",
-            "osv_published_at": "2026-08-05T15:02:11Z"
+            "osv_id": "MAL-2026-12836",
+            "osv_published_at": "2026-08-05T15:03:35Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:35:38Z",
+    "attestd_detected_at": "2026-08-05T15:35:37Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:35:38Z",
-    "osv_earliest_published_at": "2026-08-05T15:02:11Z",
-    "source_published_at": "2026-08-05T15:02:11Z",
-    "observed_at": "2026-08-05T15:35:38Z",
-    "ingested_at": "2026-08-05T15:35:38Z",
+    "confirmed_at": "2026-08-05T15:35:37Z",
+    "osv_earliest_published_at": "2026-08-05T15:03:35Z",
+    "source_published_at": "2026-08-05T15:03:35Z",
+    "observed_at": "2026-08-05T15:35:37Z",
+    "ingested_at": "2026-08-05T15:35:37Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:39:41Z",
-    "ledger_committed_at": "2026-08-05T15:39:41Z"
+    "ledger_commit_at": "2026-08-05T15:39:32Z",
+    "ledger_committed_at": "2026-08-05T15:39:32Z"
   },
   {
-    "id": "bigops-tcrm-permissions-2026-08-05",
-    "display_name": "bigops-tcrm-permissions",
+    "id": "bigops-tcrm-auth-2026-08-05",
+    "display_name": "bigops-tcrm-auth",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bigops-tcrm-permissions",
+        "package": "bigops-tcrm-auth",
         "ecosystem": "npm",
         "versions": [
-          "35.5.1"
+          "35.8.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12839",
-            "osv_published_at": "2026-08-05T15:01:52Z"
+            "osv_id": "MAL-2026-12837",
+            "osv_published_at": "2026-08-05T15:01:42Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:35:41Z",
+    "attestd_detected_at": "2026-08-05T15:35:39Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:35:41Z",
-    "osv_earliest_published_at": "2026-08-05T15:01:52Z",
-    "source_published_at": "2026-08-05T15:01:52Z",
-    "observed_at": "2026-08-05T15:35:41Z",
-    "ingested_at": "2026-08-05T15:35:41Z",
+    "confirmed_at": "2026-08-05T15:35:39Z",
+    "osv_earliest_published_at": "2026-08-05T15:01:42Z",
+    "source_published_at": "2026-08-05T15:01:42Z",
+    "observed_at": "2026-08-05T15:35:39Z",
+    "ingested_at": "2026-08-05T15:35:39Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:40:00Z",
-    "ledger_committed_at": "2026-08-05T15:40:00Z"
+    "ledger_commit_at": "2026-08-05T15:39:45Z",
+    "ledger_committed_at": "2026-08-05T15:39:45Z"
   },
   {
-    "id": "bigops-telephony-ui-adapter-2026-08-05",
-    "display_name": "bigops-telephony-ui-adapter",
+    "id": "bigops-tcrm-identity-auth-2026-08-05",
+    "display_name": "bigops-tcrm-identity-auth",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bigops-telephony-ui-adapter",
+        "package": "bigops-tcrm-identity-auth",
         "ecosystem": "npm",
         "versions": [
-          "35.6.4"
+          "35.9.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12843",
-            "osv_published_at": "2026-08-05T15:02:48Z"
+            "osv_id": "MAL-2026-12838",
+            "osv_published_at": "2026-08-05T15:02:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:35:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:35:40Z",
+    "osv_earliest_published_at": "2026-08-05T15:02:30Z",
+    "source_published_at": "2026-08-05T15:02:30Z",
+    "observed_at": "2026-08-05T15:35:40Z",
+    "ingested_at": "2026-08-05T15:35:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:39:53Z",
+    "ledger_committed_at": "2026-08-05T15:39:53Z"
+  },
+  {
+    "id": "bigops-telephony-client-2026-08-05",
+    "display_name": "bigops-telephony-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bigops-telephony-client",
+        "ecosystem": "npm",
+        "versions": [
+          "35.7.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12841",
+            "osv_published_at": "2026-08-05T15:00:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:35:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:35:42Z",
+    "osv_earliest_published_at": "2026-08-05T15:00:32Z",
+    "source_published_at": "2026-08-05T15:00:32Z",
+    "observed_at": "2026-08-05T15:35:42Z",
+    "ingested_at": "2026-08-05T15:35:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:40:06Z",
+    "ledger_committed_at": "2026-08-05T15:40:06Z"
+  },
+  {
+    "id": "bigops-telephony-ui-2026-08-05",
+    "display_name": "bigops-telephony-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bigops-telephony-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "35.7.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12842",
+            "osv_published_at": "2026-08-05T15:01:34Z"
           }
         ]
       }
@@ -159226,8 +159300,8 @@
     "attestd_detected_at": "2026-08-05T15:35:44Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T15:35:44Z",
-    "osv_earliest_published_at": "2026-08-05T15:02:48Z",
-    "source_published_at": "2026-08-05T15:02:48Z",
+    "osv_earliest_published_at": "2026-08-05T15:01:34Z",
+    "source_published_at": "2026-08-05T15:01:34Z",
     "observed_at": "2026-08-05T15:35:44Z",
     "ingested_at": "2026-08-05T15:35:44Z",
     "first_served_at": null,
@@ -159236,7 +159310,44 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:40:15Z",
-    "ledger_committed_at": "2026-08-05T15:40:15Z"
+    "ledger_commit_at": "2026-08-05T15:40:19Z",
+    "ledger_committed_at": "2026-08-05T15:40:19Z"
+  },
+  {
+    "id": "bigops-telephony-2026-08-05",
+    "display_name": "bigops-telephony",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bigops-telephony",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12840",
+            "osv_published_at": "2026-08-05T15:02:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:35:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:35:45Z",
+    "osv_earliest_published_at": "2026-08-05T15:02:40Z",
+    "source_published_at": "2026-08-05T15:02:40Z",
+    "observed_at": "2026-08-05T15:35:45Z",
+    "ingested_at": "2026-08-05T15:35:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:40:27Z",
+    "ledger_committed_at": "2026-08-05T15:40:27Z"
   }
 ]
