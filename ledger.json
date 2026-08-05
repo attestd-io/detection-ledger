@@ -105914,6 +105914,7 @@
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
+          "1.0.4",
           "1.0.5",
           "1.0.6",
           "1.0.7",
@@ -105941,8 +105942,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-22T21:10:18Z",
-    "ledger_committed_at": "2026-07-22T21:10:18Z"
+    "ledger_commit_at": "2026-08-05T15:18:15Z",
+    "ledger_committed_at": "2026-08-05T15:18:15Z"
   },
   {
     "id": "n8n-nodes-quick-utils-2026-07-22",
@@ -108153,8 +108154,7 @@
         "package": "fundraiserservicepp",
         "ecosystem": "npm",
         "versions": [
-          "1.5.0",
-          "1.7.0"
+          "1.5.0"
         ],
         "osv_entries": [
           {
@@ -108178,8 +108178,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:18:20Z",
-    "ledger_committed_at": "2026-08-05T15:18:20Z"
+    "ledger_commit_at": "2026-07-25T08:58:38Z",
+    "ledger_committed_at": "2026-07-25T08:58:38Z"
   },
   {
     "id": "f0-data-constructor-2026-07-25",
@@ -113021,6 +113021,8 @@
         "package": "rollup-packages-polyfill-core",
         "ecosystem": "npm",
         "versions": [
+          "0.13.9",
+          "0.14.0",
           "0.14.1"
         ],
         "osv_entries": [
@@ -113045,8 +113047,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-07-29T00:26:00Z",
-    "ledger_committed_at": "2026-07-29T00:26:00Z"
+    "ledger_commit_at": "2026-08-05T15:18:06Z",
+    "ledger_committed_at": "2026-08-05T15:18:06Z"
   },
   {
     "id": "marketfront-advertisingdevtool-2026-07-21",
@@ -155608,42 +155610,5 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:13:49Z",
     "ledger_committed_at": "2026-08-05T15:13:49Z"
-  },
-  {
-    "id": "telemetry-metrics-2026-08-05",
-    "display_name": "telemetry-metrics",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "telemetry-metrics",
-        "ecosystem": "npm",
-        "versions": [
-          "0.2.3"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-10750",
-            "osv_published_at": "2026-07-16T18:45:17Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:18:04Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:18:04Z",
-    "osv_earliest_published_at": "2026-07-16T18:45:17Z",
-    "source_published_at": "2026-07-16T18:45:17Z",
-    "observed_at": "2026-08-05T15:18:04Z",
-    "ingested_at": "2026-08-05T15:18:04Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:18:07Z",
-    "ledger_committed_at": "2026-08-05T15:18:07Z"
   }
 ]
