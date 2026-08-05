@@ -1,0 +1,37 @@
+{
+  "id": "wethenorth12-solana-web3-2026-08-05",
+  "display_name": "@wethenorth12/solana-web3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@wethenorth12/solana-web3",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12102",
+          "osv_published_at": "2026-08-05T06:25:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:29:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:29:40Z",
+  "osv_earliest_published_at": "2026-08-05T06:25:34Z",
+  "source_published_at": "2026-08-05T06:25:34Z",
+  "observed_at": "2026-08-05T09:29:40Z",
+  "ingested_at": "2026-08-05T09:29:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:30:49Z",
+  "ledger_committed_at": "2026-08-05T09:30:49Z"
+}
