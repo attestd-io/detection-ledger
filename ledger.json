@@ -119672,15 +119672,20 @@
           "1.6.1",
           "1.6.2"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11555",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T00:01:11Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T00:01:11Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
     "observed_at": "2026-08-05T00:01:11Z",
     "ingested_at": "2026-08-05T00:01:11Z",
     "first_served_at": null,
@@ -119689,8 +119694,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40arv-bedrock%2Fauth-sso",
-    "ledger_commit_at": "2026-08-05T00:01:14Z",
-    "ledger_committed_at": "2026-08-05T00:01:14Z"
+    "ledger_commit_at": "2026-08-05T00:02:53Z",
+    "ledger_committed_at": "2026-08-05T00:02:53Z"
   },
   {
     "id": "arv-bedrock-auth-sso-backend-2026-08-05",
