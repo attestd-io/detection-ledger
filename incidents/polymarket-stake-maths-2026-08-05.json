@@ -1,0 +1,39 @@
+{
+  "id": "polymarket-stake-maths-2026-08-05",
+  "display_name": "polymarket-stake-maths",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "polymarket-stake-maths",
+      "ecosystem": "npm",
+      "versions": [
+        "3.1.0",
+        "3.2.0",
+        "3.3.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6439",
+          "osv_published_at": "2026-06-25T05:56:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:30:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:30:27Z",
+  "osv_earliest_published_at": "2026-06-25T05:56:40Z",
+  "source_published_at": "2026-06-25T05:56:40Z",
+  "observed_at": "2026-08-05T09:30:27Z",
+  "ingested_at": "2026-08-05T09:30:27Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:33:20Z",
+  "ledger_committed_at": "2026-08-05T09:33:20Z"
+}
