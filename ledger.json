@@ -153496,5 +153496,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T14:45:53Z",
     "ledger_committed_at": "2026-08-05T14:45:53Z"
+  },
+  {
+    "id": "dc-dc-core-2026-08-05",
+    "display_name": "dc-dc-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dc-dc-core",
+        "ecosystem": "npm",
+        "versions": [
+          "35.3.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12670",
+            "osv_published_at": "2026-08-05T13:58:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:31:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:31:15Z",
+    "osv_earliest_published_at": "2026-08-05T13:58:09Z",
+    "source_published_at": "2026-08-05T13:58:09Z",
+    "observed_at": "2026-08-05T14:31:15Z",
+    "ingested_at": "2026-08-05T14:31:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:46:24Z",
+    "ledger_committed_at": "2026-08-05T14:46:24Z"
   }
 ]
