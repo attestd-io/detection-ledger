@@ -122284,9 +122284,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fbase",
-    "ledger_commit_at": "2026-08-05T02:57:17Z",
-    "ledger_committed_at": "2026-08-05T02:57:17Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:14:17Z",
+    "ledger_committed_at": "2026-08-05T00:14:17Z"
   },
   {
     "id": "or-sdk-billing-2026-08-05",
@@ -128942,5 +128942,83 @@
     "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fapi-tokens-lambda",
     "ledger_commit_at": "2026-08-05T02:56:16Z",
     "ledger_committed_at": "2026-08-05T02:56:16Z"
+  },
+  {
+    "id": "or-sdk-permissions-lambda-2026-08-05",
+    "display_name": "@or-sdk/permissions-lambda",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@or-sdk/permissions-lambda",
+        "ecosystem": "npm",
+        "versions": [
+          "2.5.1",
+          "2.5.2",
+          "2.5.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11719",
+            "osv_published_at": "2026-08-04T13:20:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T02:56:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T02:56:16Z",
+    "osv_earliest_published_at": "2026-08-04T13:20:39Z",
+    "source_published_at": "2026-08-04T13:20:39Z",
+    "observed_at": "2026-08-05T02:56:16Z",
+    "ingested_at": "2026-08-05T02:56:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fpermissions-lambda",
+    "ledger_commit_at": "2026-08-05T02:57:13Z",
+    "ledger_committed_at": "2026-08-05T02:57:13Z"
+  },
+  {
+    "id": "or-sdk-api-tokens-2026-08-05",
+    "display_name": "@or-sdk/api-tokens",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@or-sdk/api-tokens",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.2",
+          "1.4.3",
+          "1.4.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11669",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:08:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:08:25Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:08:25Z",
+    "ingested_at": "2026-08-05T00:08:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fapi-tokens",
+    "ledger_commit_at": "2026-08-05T02:57:23Z",
+    "ledger_committed_at": "2026-08-05T02:57:23Z"
   }
 ]
