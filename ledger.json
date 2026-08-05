@@ -153681,5 +153681,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T14:47:06Z",
     "ledger_committed_at": "2026-08-05T14:47:06Z"
+  },
+  {
+    "id": "delivery-ci-sage-2026-08-05",
+    "display_name": "delivery-ci-sage",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "delivery-ci-sage",
+        "ecosystem": "npm",
+        "versions": [
+          "35.6.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12680",
+            "osv_published_at": "2026-08-05T13:54:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:31:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:31:25Z",
+    "osv_earliest_published_at": "2026-08-05T13:54:50Z",
+    "source_published_at": "2026-08-05T13:54:50Z",
+    "observed_at": "2026-08-05T14:31:25Z",
+    "ingested_at": "2026-08-05T14:31:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:47:20Z",
+    "ledger_committed_at": "2026-08-05T14:47:20Z"
   }
 ]
