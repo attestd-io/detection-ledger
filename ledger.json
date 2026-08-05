@@ -164237,114 +164237,77 @@
     "ledger_committed_at": "2026-08-05T16:29:04Z"
   },
   {
-    "id": "zzzcrypto-solana-spl-token-2026-08-05",
-    "display_name": "@zzzcrypto/solana-spl-token",
+    "id": "zzzcrypto-xrp-lib-2026-08-05",
+    "display_name": "@zzzcrypto/xrp-lib",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@zzzcrypto/solana-spl-token",
+        "package": "@zzzcrypto/xrp-lib",
         "ecosystem": "npm",
         "versions": [
-          "0.4.0"
+          "2.14.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13214",
-            "osv_published_at": "2026-08-05T15:32:40Z"
+            "osv_id": "MAL-2026-13215",
+            "osv_published_at": "2026-08-05T15:32:31Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:28:51Z",
+    "attestd_detected_at": "2026-08-05T16:28:52Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:28:51Z",
-    "osv_earliest_published_at": "2026-08-05T15:32:40Z",
-    "source_published_at": "2026-08-05T15:32:40Z",
-    "observed_at": "2026-08-05T16:28:51Z",
-    "ingested_at": "2026-08-05T16:28:51Z",
+    "confirmed_at": "2026-08-05T16:28:52Z",
+    "osv_earliest_published_at": "2026-08-05T15:32:31Z",
+    "source_published_at": "2026-08-05T15:32:31Z",
+    "observed_at": "2026-08-05T16:28:52Z",
+    "ingested_at": "2026-08-05T16:28:52Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:29:12Z",
-    "ledger_committed_at": "2026-08-05T16:29:12Z"
+    "ledger_commit_at": "2026-08-05T16:29:19Z",
+    "ledger_committed_at": "2026-08-05T16:29:19Z"
   },
   {
-    "id": "akamai-sensorv1-2026-08-05",
-    "display_name": "akamai-sensorv1",
+    "id": "akamai-sensorv2-2026-08-05",
+    "display_name": "akamai-sensorv2",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "akamai-sensorv1",
+        "package": "akamai-sensorv2",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13216",
-            "osv_published_at": "2026-08-05T15:49:26Z"
+            "osv_id": "MAL-2026-13217",
+            "osv_published_at": "2026-08-05T15:49:44Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:28:54Z",
+    "attestd_detected_at": "2026-08-05T16:28:55Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:28:54Z",
-    "osv_earliest_published_at": "2026-08-05T15:49:26Z",
-    "source_published_at": "2026-08-05T15:49:26Z",
-    "observed_at": "2026-08-05T16:28:54Z",
-    "ingested_at": "2026-08-05T16:28:54Z",
+    "confirmed_at": "2026-08-05T16:28:55Z",
+    "osv_earliest_published_at": "2026-08-05T15:49:44Z",
+    "source_published_at": "2026-08-05T15:49:44Z",
+    "observed_at": "2026-08-05T16:28:55Z",
+    "ingested_at": "2026-08-05T16:28:55Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:29:20Z",
-    "ledger_committed_at": "2026-08-05T16:29:20Z"
-  },
-  {
-    "id": "aws-sdk-v4-2026-08-05",
-    "display_name": "aws-sdk-v4",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "aws-sdk-v4",
-        "ecosystem": "npm",
-        "versions": [
-          "3.650.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13218",
-            "osv_published_at": "2026-08-05T15:31:41Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:28:56Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:28:56Z",
-    "osv_earliest_published_at": "2026-08-05T15:31:41Z",
-    "source_published_at": "2026-08-05T15:31:41Z",
-    "observed_at": "2026-08-05T16:28:56Z",
-    "ingested_at": "2026-08-05T16:28:56Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:29:32Z",
-    "ledger_committed_at": "2026-08-05T16:29:32Z"
+    "ledger_commit_at": "2026-08-05T16:29:27Z",
+    "ledger_committed_at": "2026-08-05T16:29:27Z"
   }
 ]
