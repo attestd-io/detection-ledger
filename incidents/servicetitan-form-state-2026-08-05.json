@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-form-state-2026-08-05",
+  "display_name": "@servicetitan/form-state",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/form-state",
+      "ecosystem": "npm",
+      "versions": [
+        "41.3.1",
+        "41.3.2",
+        "41.3.3",
+        "41.3.4",
+        "41.3.5",
+        "41.3.6",
+        "41.3.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11871",
+          "osv_published_at": "2026-08-04T13:18:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:50:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:50:35Z",
+  "osv_earliest_published_at": "2026-08-04T13:18:27Z",
+  "source_published_at": "2026-08-04T13:18:27Z",
+  "observed_at": "2026-08-05T00:50:35Z",
+  "ingested_at": "2026-08-05T00:50:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:52:36Z",
+  "ledger_committed_at": "2026-08-05T00:52:36Z"
+}
