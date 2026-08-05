@@ -1,0 +1,37 @@
+{
+  "id": "sheltr--agent-2026-08-05",
+  "display_name": "@sheltr_/agent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sheltr_/agent",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10469",
+          "osv_published_at": "2026-07-13T18:25:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T16:28:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T16:28:46Z",
+  "osv_earliest_published_at": "2026-07-13T18:25:10Z",
+  "source_published_at": "2026-07-13T18:25:10Z",
+  "observed_at": "2026-08-05T16:28:46Z",
+  "ingested_at": "2026-08-05T16:28:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:28:49Z",
+  "ledger_committed_at": "2026-08-05T16:28:49Z"
+}
