@@ -123787,261 +123787,175 @@
     "ledger_committed_at": "2026-08-05T00:52:43Z"
   },
   {
-    "id": "servicetitan-grid-2026-08-05",
-    "display_name": "@servicetitan/grid",
+    "id": "servicetitan-hammer-react-2026-08-05",
+    "display_name": "@servicetitan/hammer-react",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@servicetitan/grid",
+        "package": "@servicetitan/hammer-react",
         "ecosystem": "npm",
         "versions": [
-          "0.0.63",
-          "0.0.64",
-          "0.0.65",
-          "0.0.66",
-          "0.0.67",
-          "0.0.68",
-          "0.0.69"
+          "1.42.2",
+          "1.42.3",
+          "1.42.4",
+          "1.42.5",
+          "1.42.6",
+          "1.42.7",
+          "1.42.8"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11872",
-            "osv_published_at": "2026-08-04T15:41:55Z"
+            "osv_id": "MAL-2026-11874",
+            "osv_published_at": "2026-08-04T13:21:05Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:50:39Z",
+    "attestd_detected_at": "2026-08-05T00:50:41Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:50:39Z",
-    "osv_earliest_published_at": "2026-08-04T15:41:55Z",
-    "source_published_at": "2026-08-04T15:41:55Z",
-    "observed_at": "2026-08-05T00:50:39Z",
-    "ingested_at": "2026-08-05T00:50:39Z",
+    "confirmed_at": "2026-08-05T00:50:41Z",
+    "osv_earliest_published_at": "2026-08-04T13:21:05Z",
+    "source_published_at": "2026-08-04T13:21:05Z",
+    "observed_at": "2026-08-05T00:50:41Z",
+    "ingested_at": "2026-08-05T00:50:41Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:52:49Z",
-    "ledger_committed_at": "2026-08-05T00:52:49Z"
+    "ledger_commit_at": "2026-08-05T00:52:50Z",
+    "ledger_committed_at": "2026-08-05T00:52:50Z"
   },
   {
-    "id": "servicetitan-hammer-token-2026-08-05",
-    "display_name": "@servicetitan/hammer-token",
+    "id": "servicetitan-hash-browser-router-2026-08-05",
+    "display_name": "@servicetitan/hash-browser-router",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@servicetitan/hammer-token",
+        "package": "@servicetitan/hash-browser-router",
         "ecosystem": "npm",
         "versions": [
-          "3.1.1",
-          "3.1.2",
-          "3.1.3",
-          "3.1.4",
-          "3.1.5",
-          "3.1.6",
-          "3.1.7"
+          "38.1.1",
+          "38.1.2",
+          "38.1.3",
+          "38.1.4",
+          "38.1.5",
+          "38.1.6",
+          "38.1.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11875",
-            "osv_published_at": "2026-08-04T13:21:40Z"
+            "osv_id": "MAL-2026-11876",
+            "osv_published_at": "2026-08-04T15:26:25Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:50:43Z",
+    "attestd_detected_at": "2026-08-05T00:50:45Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:50:43Z",
-    "osv_earliest_published_at": "2026-08-04T13:21:40Z",
-    "source_published_at": "2026-08-04T13:21:40Z",
-    "observed_at": "2026-08-05T00:50:43Z",
-    "ingested_at": "2026-08-05T00:50:43Z",
+    "confirmed_at": "2026-08-05T00:50:45Z",
+    "osv_earliest_published_at": "2026-08-04T15:26:25Z",
+    "source_published_at": "2026-08-04T15:26:25Z",
+    "observed_at": "2026-08-05T00:50:45Z",
+    "ingested_at": "2026-08-05T00:50:45Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:52:56Z",
-    "ledger_committed_at": "2026-08-05T00:52:56Z"
+    "ledger_commit_at": "2026-08-05T00:53:01Z",
+    "ledger_committed_at": "2026-08-05T00:53:01Z"
   },
   {
-    "id": "servicetitan-help-center-2026-08-05",
-    "display_name": "@servicetitan/help-center",
+    "id": "servicetitan-lazy-module-2026-08-05",
+    "display_name": "@servicetitan/lazy-module",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@servicetitan/help-center",
+        "package": "@servicetitan/lazy-module",
         "ecosystem": "npm",
         "versions": [
-          "1.0.10",
-          "1.0.11",
-          "1.0.12",
-          "1.0.13",
-          "1.0.14",
-          "1.0.8",
-          "1.0.9"
+          "38.1.1",
+          "38.1.2",
+          "38.1.3",
+          "38.1.4",
+          "38.1.5",
+          "38.1.6",
+          "38.1.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11877",
-            "osv_published_at": "2026-08-04T15:28:05Z"
+            "osv_id": "MAL-2026-11885",
+            "osv_published_at": "2026-08-04T15:30:24Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:50:47Z",
+    "attestd_detected_at": "2026-08-05T00:50:51Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:50:47Z",
-    "osv_earliest_published_at": "2026-08-04T15:28:05Z",
-    "source_published_at": "2026-08-04T15:28:05Z",
-    "observed_at": "2026-08-05T00:50:47Z",
-    "ingested_at": "2026-08-05T00:50:47Z",
+    "confirmed_at": "2026-08-05T00:50:51Z",
+    "osv_earliest_published_at": "2026-08-04T15:30:24Z",
+    "source_published_at": "2026-08-04T15:30:24Z",
+    "observed_at": "2026-08-05T00:50:51Z",
+    "ingested_at": "2026-08-05T00:50:51Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:53:06Z",
-    "ledger_committed_at": "2026-08-05T00:53:06Z"
+    "ledger_commit_at": "2026-08-05T00:53:18Z",
+    "ledger_committed_at": "2026-08-05T00:53:18Z"
   },
   {
-    "id": "servicetitan-html-sketchapp-2026-08-05",
-    "display_name": "@servicetitan/html-sketchapp",
+    "id": "servicetitan-log-service-2026-08-05",
+    "display_name": "@servicetitan/log-service",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@servicetitan/html-sketchapp",
+        "package": "@servicetitan/log-service",
         "ecosystem": "npm",
         "versions": [
-          "4.2.10",
-          "4.2.11",
-          "4.2.12",
-          "4.2.13",
-          "4.2.14",
-          "4.2.8",
-          "4.2.9"
+          "38.1.1",
+          "38.1.2",
+          "38.1.3",
+          "38.1.4",
+          "38.1.5",
+          "38.1.6",
+          "38.1.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11878",
-            "osv_published_at": "2026-08-04T15:27:50Z"
+            "osv_id": "MAL-2026-11889",
+            "osv_published_at": "2026-08-04T13:22:06Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:50:49Z",
+    "attestd_detected_at": "2026-08-05T00:50:55Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:50:49Z",
-    "osv_earliest_published_at": "2026-08-04T15:27:50Z",
-    "source_published_at": "2026-08-04T15:27:50Z",
-    "observed_at": "2026-08-05T00:50:49Z",
-    "ingested_at": "2026-08-05T00:50:49Z",
+    "confirmed_at": "2026-08-05T00:50:55Z",
+    "osv_earliest_published_at": "2026-08-04T13:22:06Z",
+    "source_published_at": "2026-08-04T13:22:06Z",
+    "observed_at": "2026-08-05T00:50:55Z",
+    "ingested_at": "2026-08-05T00:50:55Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:53:13Z",
-    "ledger_committed_at": "2026-08-05T00:53:13Z"
-  },
-  {
-    "id": "servicetitan-link-item-2026-08-05",
-    "display_name": "@servicetitan/link-item",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@servicetitan/link-item",
-        "ecosystem": "npm",
-        "versions": [
-          "41.3.1",
-          "41.3.2",
-          "41.3.3",
-          "41.3.4",
-          "41.3.5",
-          "41.3.6",
-          "41.3.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11888",
-            "osv_published_at": "2026-08-04T15:30:17Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:50:53Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:50:53Z",
-    "osv_earliest_published_at": "2026-08-04T15:30:17Z",
-    "source_published_at": "2026-08-04T15:30:17Z",
-    "observed_at": "2026-08-05T00:50:53Z",
-    "ingested_at": "2026-08-05T00:50:53Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:53:24Z",
-    "ledger_committed_at": "2026-08-05T00:53:24Z"
-  },
-  {
-    "id": "servicetitan-marketing-direct-mail-components-2026-08-05",
-    "display_name": "@servicetitan/marketing-direct-mail-components",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@servicetitan/marketing-direct-mail-components",
-        "ecosystem": "npm",
-        "versions": [
-          "20.1.1",
-          "20.1.2",
-          "20.1.3",
-          "20.1.4",
-          "20.1.5",
-          "20.1.6",
-          "20.1.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11890",
-            "osv_published_at": "2026-08-04T15:30:48Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:50:57Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:50:57Z",
-    "osv_earliest_published_at": "2026-08-04T15:30:48Z",
-    "source_published_at": "2026-08-04T15:30:48Z",
-    "observed_at": "2026-08-05T00:50:57Z",
-    "ingested_at": "2026-08-05T00:50:57Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:53:35Z",
-    "ledger_committed_at": "2026-08-05T00:53:35Z"
+    "ledger_commit_at": "2026-08-05T00:53:31Z",
+    "ledger_committed_at": "2026-08-05T00:53:31Z"
   }
 ]
