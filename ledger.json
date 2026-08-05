@@ -144588,40 +144588,77 @@
     "ledger_committed_at": "2026-08-05T09:30:09Z"
   },
   {
-    "id": "wethenorth12-mnemonic-to-key-2026-08-05",
-    "display_name": "@wethenorth12/mnemonic-to-key",
+    "id": "wethenorth12-hdkey-wallet-2026-08-05",
+    "display_name": "@wethenorth12/hdkey-wallet",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@wethenorth12/mnemonic-to-key",
+        "package": "@wethenorth12/hdkey-wallet",
         "ecosystem": "npm",
         "versions": [
-          "1.2.0"
+          "2.1.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12097",
-            "osv_published_at": "2026-08-05T06:22:38Z"
+            "osv_id": "MAL-2026-12096",
+            "osv_published_at": "2026-08-05T06:23:04Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:29:34Z",
+    "attestd_detected_at": "2026-08-05T09:29:33Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:29:34Z",
-    "osv_earliest_published_at": "2026-08-05T06:22:38Z",
-    "source_published_at": "2026-08-05T06:22:38Z",
-    "observed_at": "2026-08-05T09:29:34Z",
-    "ingested_at": "2026-08-05T09:29:34Z",
+    "confirmed_at": "2026-08-05T09:29:33Z",
+    "osv_earliest_published_at": "2026-08-05T06:23:04Z",
+    "source_published_at": "2026-08-05T06:23:04Z",
+    "observed_at": "2026-08-05T09:29:33Z",
+    "ingested_at": "2026-08-05T09:29:33Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:30:22Z",
-    "ledger_committed_at": "2026-08-05T09:30:22Z"
+    "ledger_commit_at": "2026-08-05T09:30:17Z",
+    "ledger_committed_at": "2026-08-05T09:30:17Z"
+  },
+  {
+    "id": "wethenorth12-near-api-2026-08-05",
+    "display_name": "@wethenorth12/near-api",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wethenorth12/near-api",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12098",
+            "osv_published_at": "2026-08-05T06:22:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T09:29:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T09:29:35Z",
+    "osv_earliest_published_at": "2026-08-05T06:22:57Z",
+    "source_published_at": "2026-08-05T06:22:57Z",
+    "observed_at": "2026-08-05T09:29:35Z",
+    "ingested_at": "2026-08-05T09:29:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T09:30:24Z",
+    "ledger_committed_at": "2026-08-05T09:30:24Z"
   }
 ]
