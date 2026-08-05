@@ -130691,5 +130691,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T03:19:00Z",
     "ledger_committed_at": "2026-08-05T03:19:00Z"
+  },
+  {
+    "id": "twork-data-services-aggregator-api-v2-data-view-company-company-profile-mf-data-transformer-2026-08-05",
+    "display_name": "twork-data-services-aggregator-api-v2-data-view-company-company-profile-mf-data-transformer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "twork-data-services-aggregator-api-v2-data-view-company-company-profile-mf-data-transformer",
+        "ecosystem": "npm",
+        "versions": [
+          "20.5.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11550",
+            "osv_published_at": "2026-08-04T22:08:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T03:19:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T03:19:34Z",
+    "osv_earliest_published_at": "2026-08-04T22:08:08Z",
+    "source_published_at": "2026-08-04T22:08:08Z",
+    "observed_at": "2026-08-05T03:19:34Z",
+    "ingested_at": "2026-08-05T03:19:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T03:19:38Z",
+    "ledger_committed_at": "2026-08-05T03:19:38Z"
   }
 ]
