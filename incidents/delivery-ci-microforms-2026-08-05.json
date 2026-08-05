@@ -1,0 +1,37 @@
+{
+  "id": "delivery-ci-microforms-2026-08-05",
+  "display_name": "delivery-ci-microforms",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "delivery-ci-microforms",
+      "ecosystem": "npm",
+      "versions": [
+        "35.3.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12676",
+          "osv_published_at": "2026-08-05T13:55:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:31:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:31:21Z",
+  "osv_earliest_published_at": "2026-08-05T13:55:51Z",
+  "source_published_at": "2026-08-05T13:55:51Z",
+  "observed_at": "2026-08-05T14:31:21Z",
+  "ingested_at": "2026-08-05T14:31:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:46:54Z",
+  "ledger_committed_at": "2026-08-05T14:46:54Z"
+}
