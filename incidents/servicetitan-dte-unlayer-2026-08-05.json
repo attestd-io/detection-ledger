@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-dte-unlayer-2026-08-05",
+  "display_name": "@servicetitan/dte-unlayer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/dte-unlayer",
+      "ecosystem": "npm",
+      "versions": [
+        "0.150.1",
+        "0.150.2",
+        "0.150.3",
+        "0.150.4",
+        "0.150.5",
+        "0.150.6",
+        "0.150.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11857",
+          "osv_published_at": "2026-08-04T15:25:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T02:30:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T02:30:31Z",
+  "osv_earliest_published_at": "2026-08-04T15:25:59Z",
+  "source_published_at": "2026-08-04T15:25:59Z",
+  "observed_at": "2026-08-05T02:30:31Z",
+  "ingested_at": "2026-08-05T02:30:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T02:30:48Z",
+  "ledger_committed_at": "2026-08-05T02:30:48Z"
+}
