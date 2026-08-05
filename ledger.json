@@ -157120,33 +157120,33 @@
     "ledger_committed_at": "2026-08-05T15:27:51Z"
   },
   {
-    "id": "tinkoff-statist-browser-typed-client-itsa-corporatemessenger-clientv1-web-events-2026-08-05",
-    "display_name": "tinkoff-statist-browser-typed-client-itsa.corporatemessenger.clientv1.web.events",
+    "id": "tinkoff-statist-browser-typed-client-jumptaxi-feature-contacts-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-jumptaxi.feature.contacts",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tinkoff-statist-browser-typed-client-itsa.corporatemessenger.clientv1.web.events",
+        "package": "tinkoff-statist-browser-typed-client-jumptaxi.feature.contacts",
         "ecosystem": "npm",
         "versions": [
-          "20.9.9"
+          "20.6.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12264",
-            "osv_published_at": "2026-08-05T09:02:54Z"
+            "osv_id": "MAL-2026-12265",
+            "osv_published_at": "2026-08-05T09:04:27Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:20:55Z",
+    "attestd_detected_at": "2026-08-05T15:20:56Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:20:55Z",
-    "osv_earliest_published_at": "2026-08-05T09:02:54Z",
-    "source_published_at": "2026-08-05T09:02:54Z",
-    "observed_at": "2026-08-05T15:20:55Z",
-    "ingested_at": "2026-08-05T15:20:55Z",
+    "confirmed_at": "2026-08-05T15:20:56Z",
+    "osv_earliest_published_at": "2026-08-05T09:04:27Z",
+    "source_published_at": "2026-08-05T09:04:27Z",
+    "observed_at": "2026-08-05T15:20:56Z",
+    "ingested_at": "2026-08-05T15:20:56Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -157155,5 +157155,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:28:00Z",
     "ledger_committed_at": "2026-08-05T15:28:00Z"
+  },
+  {
+    "id": "tinkoff-statist-browser-typed-client-leasing-admin-events-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-leasing.admin.events",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tinkoff-statist-browser-typed-client-leasing.admin.events",
+        "ecosystem": "npm",
+        "versions": [
+          "20.7.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12266",
+            "osv_published_at": "2026-08-05T09:03:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:20:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:20:57Z",
+    "osv_earliest_published_at": "2026-08-05T09:03:52Z",
+    "source_published_at": "2026-08-05T09:03:52Z",
+    "observed_at": "2026-08-05T15:20:57Z",
+    "ingested_at": "2026-08-05T15:20:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:28:08Z",
+    "ledger_committed_at": "2026-08-05T15:28:08Z"
   }
 ]
