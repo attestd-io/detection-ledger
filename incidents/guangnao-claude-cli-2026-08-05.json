@@ -1,0 +1,37 @@
+{
+  "id": "guangnao-claude-cli-2026-08-05",
+  "display_name": "@guangnao/claude-cli",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@guangnao/claude-cli",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13209",
+          "osv_published_at": "2026-08-05T15:52:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T16:27:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T16:27:17Z",
+  "osv_earliest_published_at": "2026-08-05T15:52:10Z",
+  "source_published_at": "2026-08-05T15:52:10Z",
+  "observed_at": "2026-08-05T16:27:17Z",
+  "ingested_at": "2026-08-05T16:27:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:27:19Z",
+  "ledger_committed_at": "2026-08-05T16:27:19Z"
+}
