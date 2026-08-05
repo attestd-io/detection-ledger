@@ -1,0 +1,38 @@
+{
+  "id": "vinnxcode-libsignal-node-2026-08-05",
+  "display_name": "@vinnxcode/libsignal-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@vinnxcode/libsignal-node",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11079",
+          "osv_published_at": "2026-07-27T01:10:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T07:21:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T07:21:37Z",
+  "osv_earliest_published_at": "2026-07-27T01:10:03Z",
+  "source_published_at": "2026-07-27T01:10:03Z",
+  "observed_at": "2026-08-05T07:21:37Z",
+  "ingested_at": "2026-08-05T07:21:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T07:21:40Z",
+  "ledger_committed_at": "2026-08-05T07:21:40Z"
+}
