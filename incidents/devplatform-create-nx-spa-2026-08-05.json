@@ -1,0 +1,37 @@
+{
+  "id": "devplatform-create-nx-spa-2026-08-05",
+  "display_name": "devplatform-create-nx-spa",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "devplatform-create-nx-spa",
+      "ecosystem": "npm",
+      "versions": [
+        "35.4.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12707",
+          "osv_published_at": "2026-08-05T13:51:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:31:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:31:55Z",
+  "osv_earliest_published_at": "2026-08-05T13:51:55Z",
+  "source_published_at": "2026-08-05T13:51:55Z",
+  "observed_at": "2026-08-05T14:31:55Z",
+  "ingested_at": "2026-08-05T14:31:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:50:29Z",
+  "ledger_committed_at": "2026-08-05T14:50:29Z"
+}
