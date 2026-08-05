@@ -1,0 +1,41 @@
+{
+  "id": "ai-p2p-2026-08-05",
+  "display_name": "ai-p2p",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ai-p2p",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10695",
+          "osv_published_at": "2026-07-16T08:13:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:20:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:20:58Z",
+  "osv_earliest_published_at": "2026-07-16T08:13:04Z",
+  "source_published_at": "2026-07-16T08:13:04Z",
+  "observed_at": "2026-08-05T09:20:58Z",
+  "ingested_at": "2026-08-05T09:20:58Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:21:15Z",
+  "ledger_committed_at": "2026-08-05T09:21:15Z"
+}
