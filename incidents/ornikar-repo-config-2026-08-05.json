@@ -1,0 +1,47 @@
+{
+  "id": "ornikar-repo-config-2026-08-05",
+  "display_name": "@ornikar/repo-config",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ornikar/repo-config",
+      "ecosystem": "npm",
+      "versions": [
+        "15.3.10",
+        "15.3.11",
+        "15.3.12",
+        "15.3.13",
+        "15.3.3",
+        "15.3.4",
+        "15.3.5",
+        "15.3.6",
+        "15.3.7",
+        "15.3.8",
+        "15.3.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11771",
+          "osv_published_at": "2026-08-04T15:17:31Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:26:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:26:05Z",
+  "osv_earliest_published_at": "2026-08-04T15:17:31Z",
+  "source_published_at": "2026-08-04T15:17:31Z",
+  "observed_at": "2026-08-05T03:26:05Z",
+  "ingested_at": "2026-08-05T03:26:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:26:58Z",
+  "ledger_committed_at": "2026-08-05T03:26:58Z"
+}
