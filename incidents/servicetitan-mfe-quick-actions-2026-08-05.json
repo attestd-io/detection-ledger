@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-mfe-quick-actions-2026-08-05",
+  "display_name": "@servicetitan/mfe-quick-actions",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/mfe-quick-actions",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.49",
+        "0.5.50",
+        "0.5.51",
+        "0.5.52",
+        "0.5.53",
+        "0.5.54",
+        "0.5.55"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11899",
+          "osv_published_at": "2026-08-04T15:29:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:51:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:51:05Z",
+  "osv_earliest_published_at": "2026-08-04T15:29:51Z",
+  "source_published_at": "2026-08-04T15:29:51Z",
+  "observed_at": "2026-08-05T00:51:05Z",
+  "ingested_at": "2026-08-05T00:51:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:53:59Z",
+  "ledger_committed_at": "2026-08-05T00:53:59Z"
+}
