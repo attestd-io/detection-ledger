@@ -1,0 +1,37 @@
+{
+  "id": "sso-tramvai-lib-roles-2026-08-05",
+  "display_name": "sso-tramvai-lib-roles",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sso-tramvai-lib-roles",
+      "ecosystem": "npm",
+      "versions": [
+        "20.8.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12442",
+          "osv_published_at": "2026-08-05T12:36:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:20:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:20:37Z",
+  "osv_earliest_published_at": "2026-08-05T12:36:37Z",
+  "source_published_at": "2026-08-05T12:36:37Z",
+  "observed_at": "2026-08-05T13:20:37Z",
+  "ingested_at": "2026-08-05T13:20:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:33:40Z",
+  "ledger_committed_at": "2026-08-05T13:33:40Z"
+}
