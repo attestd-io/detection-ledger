@@ -154903,5 +154903,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T14:54:05Z",
     "ledger_committed_at": "2026-08-05T14:54:05Z"
+  },
+  {
+    "id": "devplatform-rest-resources-v1-2026-08-05",
+    "display_name": "devplatform-rest-resources-v1",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "devplatform-rest-resources-v1",
+        "ecosystem": "npm",
+        "versions": [
+          "35.2.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12745",
+            "osv_published_at": "2026-08-05T13:45:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:32:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:32:37Z",
+    "osv_earliest_published_at": "2026-08-05T13:45:47Z",
+    "source_published_at": "2026-08-05T13:45:47Z",
+    "observed_at": "2026-08-05T14:32:37Z",
+    "ingested_at": "2026-08-05T14:32:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:54:14Z",
+    "ledger_committed_at": "2026-08-05T14:54:14Z"
   }
 ]
