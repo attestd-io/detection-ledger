@@ -1,0 +1,37 @@
+{
+  "id": "dust-helpers-2026-08-05",
+  "display_name": "dust-helpers",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dust-helpers",
+      "ecosystem": "npm",
+      "versions": [
+        "9999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12786",
+          "osv_published_at": "2026-08-05T13:14:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:27:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:27:16Z",
+  "osv_earliest_published_at": "2026-08-05T13:14:17Z",
+  "source_published_at": "2026-08-05T13:14:17Z",
+  "observed_at": "2026-08-05T15:27:16Z",
+  "ingested_at": "2026-08-05T15:27:16Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T15:34:00Z",
+  "ledger_committed_at": "2026-08-05T15:34:00Z"
+}
