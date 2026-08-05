@@ -117772,7 +117772,6 @@
         "package": "twilio-deploy",
         "ecosystem": "npm",
         "versions": [
-          "99.99.100",
           "99.99.99"
         ],
         "osv_entries": [
@@ -117797,8 +117796,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:22:05Z",
-    "ledger_committed_at": "2026-08-05T09:22:05Z"
+    "ledger_commit_at": "2026-08-04T21:51:18Z",
+    "ledger_committed_at": "2026-08-04T21:51:18Z"
   },
   {
     "id": "twilio-serverless-2026-08-04",
@@ -142241,7 +142240,6 @@
         "package": "twilio-assets",
         "ecosystem": "npm",
         "versions": [
-          "99.99.100",
           "99.99.99"
         ],
         "osv_entries": [
@@ -142266,8 +142264,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:21:58Z",
-    "ledger_committed_at": "2026-08-05T09:21:58Z"
+    "ledger_commit_at": "2026-08-04T21:51:12Z",
+    "ledger_committed_at": "2026-08-04T21:51:12Z"
   },
   {
     "id": "twilio-internal-2026-08-04",
@@ -142279,6 +142277,7 @@
         "package": "twilio-internal",
         "ecosystem": "npm",
         "versions": [
+          "99.99.100",
           "99.99.99"
         ],
         "osv_entries": [
@@ -142303,8 +142302,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T21:51:22Z",
-    "ledger_committed_at": "2026-08-04T21:51:22Z"
+    "ledger_commit_at": "2026-08-05T09:22:11Z",
+    "ledger_committed_at": "2026-08-05T09:22:11Z"
   },
   {
     "id": "twilio-platform-async-data-fetch-2026-08-05",
@@ -143759,5 +143758,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T09:21:50Z",
     "ledger_committed_at": "2026-08-05T09:21:50Z"
+  },
+  {
+    "id": "upjsma-2026-08-05",
+    "display_name": "upjsma",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "upjsma",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.58",
+          "1.0.59",
+          "1.0.60",
+          "1.0.61",
+          "1.0.62",
+          "1.0.63",
+          "1.0.64",
+          "1.0.65",
+          "1.0.66"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10928",
+            "osv_published_at": "2026-07-20T19:29:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T09:21:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T09:21:22Z",
+    "osv_earliest_published_at": "2026-07-20T19:29:50Z",
+    "source_published_at": "2026-07-20T19:29:50Z",
+    "observed_at": "2026-08-05T09:21:22Z",
+    "ingested_at": "2026-08-05T09:21:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T09:21:58Z",
+    "ledger_committed_at": "2026-08-05T09:21:58Z"
   }
 ]
