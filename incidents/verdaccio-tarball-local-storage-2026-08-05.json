@@ -1,0 +1,52 @@
+{
+  "id": "verdaccio-tarball-local-storage-2026-08-05",
+  "display_name": "verdaccio-tarball-local-storage",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "verdaccio-tarball-local-storage",
+      "ecosystem": "npm",
+      "versions": [
+        "38.1.1",
+        "38.1.10",
+        "38.1.11",
+        "38.1.12",
+        "38.1.13",
+        "38.1.14",
+        "38.1.15",
+        "38.1.16",
+        "38.1.2",
+        "38.1.3",
+        "38.1.4",
+        "38.1.5",
+        "38.1.6",
+        "38.1.7",
+        "38.1.8",
+        "38.1.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11991",
+          "osv_published_at": "2026-08-04T15:27:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:30:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:30:23Z",
+  "osv_earliest_published_at": "2026-08-04T15:27:33Z",
+  "source_published_at": "2026-08-04T15:27:33Z",
+  "observed_at": "2026-08-05T03:30:23Z",
+  "ingested_at": "2026-08-05T03:30:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:34:16Z",
+  "ledger_committed_at": "2026-08-05T03:34:16Z"
+}
