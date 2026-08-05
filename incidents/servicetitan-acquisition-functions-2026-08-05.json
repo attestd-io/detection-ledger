@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-acquisition-functions-2026-08-05",
+  "display_name": "@servicetitan/acquisition-functions",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/acquisition-functions",
+      "ecosystem": "npm",
+      "versions": [
+        "5.22.1",
+        "5.22.2",
+        "5.22.3",
+        "5.22.4",
+        "5.22.5",
+        "5.22.6",
+        "5.22.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11811",
+          "osv_published_at": "2026-08-04T15:28:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T00:49:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T00:49:57Z",
+  "osv_earliest_published_at": "2026-08-04T15:28:06Z",
+  "source_published_at": "2026-08-04T15:28:06Z",
+  "observed_at": "2026-08-05T00:49:57Z",
+  "ingested_at": "2026-08-05T00:49:57Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T00:50:50Z",
+  "ledger_committed_at": "2026-08-05T00:50:50Z"
+}
