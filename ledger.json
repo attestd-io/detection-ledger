@@ -122284,9 +122284,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:14:17Z",
-    "ledger_committed_at": "2026-08-05T00:14:17Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fbase",
+    "ledger_commit_at": "2026-08-05T02:57:17Z",
+    "ledger_committed_at": "2026-08-05T02:57:17Z"
   },
   {
     "id": "or-sdk-billing-2026-08-05",
@@ -122440,9 +122440,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:15:08Z",
-    "ledger_committed_at": "2026-08-05T00:15:08Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fcontacts",
+    "ledger_commit_at": "2026-08-05T02:57:39Z",
+    "ledger_committed_at": "2026-08-05T02:57:39Z"
   },
   {
     "id": "or-sdk-data-hub-2026-08-05",
@@ -122479,9 +122479,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fdata-hub",
-    "ledger_commit_at": "2026-08-05T02:57:35Z",
-    "ledger_committed_at": "2026-08-05T02:57:35Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:15:26Z",
+    "ledger_committed_at": "2026-08-05T00:15:26Z"
   },
   {
     "id": "or-sdk-discovery-2026-08-05",
@@ -122518,9 +122518,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:15:43Z",
-    "ledger_committed_at": "2026-08-05T00:15:43Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fdiscovery",
+    "ledger_commit_at": "2026-08-05T02:57:46Z",
+    "ledger_committed_at": "2026-08-05T02:57:46Z"
   },
   {
     "id": "or-sdk-files-sync-node-2026-08-05",
@@ -122635,9 +122635,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fgraph",
-    "ledger_commit_at": "2026-08-05T02:58:04Z",
-    "ledger_committed_at": "2026-08-05T02:58:04Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:16:28Z",
+    "ledger_committed_at": "2026-08-05T00:16:28Z"
   },
   {
     "id": "or-sdk-hitl-2026-08-05",
@@ -128944,120 +128944,115 @@
     "ledger_committed_at": "2026-08-05T02:56:16Z"
   },
   {
-    "id": "or-sdk-permissions-lambda-2026-08-05",
-    "display_name": "@or-sdk/permissions-lambda",
+    "id": "or-sdk-data-hub-svc-2026-08-05",
+    "display_name": "@or-sdk/data-hub-svc",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@or-sdk/permissions-lambda",
+        "package": "@or-sdk/data-hub-svc",
         "ecosystem": "npm",
         "versions": [
-          "2.5.1",
-          "2.5.2",
-          "2.5.3"
+          "2.3.5",
+          "2.3.6",
+          "2.3.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11719",
-            "osv_published_at": "2026-08-04T13:20:39Z"
+            "osv_id": "MAL-2026-11686",
+            "osv_published_at": "2026-08-04T13:20:09Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T02:56:16Z",
+    "attestd_detected_at": "2026-08-05T00:13:00Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T02:56:16Z",
-    "osv_earliest_published_at": "2026-08-04T13:20:39Z",
-    "source_published_at": "2026-08-04T13:20:39Z",
-    "observed_at": "2026-08-05T02:56:16Z",
-    "ingested_at": "2026-08-05T02:56:16Z",
+    "confirmed_at": "2026-08-05T00:13:00Z",
+    "osv_earliest_published_at": "2026-08-04T13:20:09Z",
+    "source_published_at": "2026-08-04T13:20:09Z",
+    "observed_at": "2026-08-05T00:13:00Z",
+    "ingested_at": "2026-08-05T00:13:00Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fpermissions-lambda",
-    "ledger_commit_at": "2026-08-05T02:57:13Z",
-    "ledger_committed_at": "2026-08-05T02:57:13Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fdata-hub-svc",
+    "ledger_commit_at": "2026-08-05T02:57:28Z",
+    "ledger_committed_at": "2026-08-05T02:57:28Z"
   },
   {
-    "id": "or-sdk-api-tokens-2026-08-05",
-    "display_name": "@or-sdk/api-tokens",
+    "id": "or-sdk-files-2026-08-05",
+    "display_name": "@or-sdk/files",
     "campaign": null,
-    "detection_source": "osv",
+    "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@or-sdk/api-tokens",
+        "package": "@or-sdk/files",
         "ecosystem": "npm",
         "versions": [
-          "1.4.2",
-          "1.4.3",
-          "1.4.4"
+          "3.11.6",
+          "3.11.7",
+          "3.11.8"
         ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-11669",
-            "osv_published_at": "2026-08-04T18:00:00Z"
-          }
-        ]
+        "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:08:25Z",
+    "attestd_detected_at": "2026-08-05T02:57:45Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:08:25Z",
-    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
-    "source_published_at": "2026-08-04T18:00:00Z",
-    "observed_at": "2026-08-05T00:08:25Z",
-    "ingested_at": "2026-08-05T00:08:25Z",
+    "confirmed_at": "2026-08-05T02:57:45Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:57:45Z",
+    "ingested_at": "2026-08-05T02:57:45Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fapi-tokens",
-    "ledger_commit_at": "2026-08-05T02:57:23Z",
-    "ledger_committed_at": "2026-08-05T02:57:23Z"
+    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Ffiles",
+    "ledger_commit_at": "2026-08-05T02:57:59Z",
+    "ledger_committed_at": "2026-08-05T02:57:59Z"
   },
   {
-    "id": "or-sdk-event-manager-2026-08-05",
-    "display_name": "@or-sdk/event-manager",
+    "id": "or-sdk-idw-2026-08-05",
+    "display_name": "@or-sdk/idw",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@or-sdk/event-manager",
+        "package": "@or-sdk/idw",
         "ecosystem": "npm",
         "versions": [
-          "1.1.5",
-          "1.1.6",
-          "1.1.7"
+          "9.0.4",
+          "9.0.5",
+          "9.0.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11691",
-            "osv_published_at": "2026-08-04T15:24:03Z"
+            "osv_id": "MAL-2026-11699",
+            "osv_published_at": "2026-08-04T15:22:32Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T00:14:51Z",
+    "attestd_detected_at": "2026-08-05T02:57:54Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T00:14:51Z",
-    "osv_earliest_published_at": "2026-08-04T15:24:03Z",
-    "source_published_at": "2026-08-04T15:24:03Z",
-    "observed_at": "2026-08-05T00:14:51Z",
-    "ingested_at": "2026-08-05T00:14:51Z",
+    "confirmed_at": "2026-08-05T02:57:54Z",
+    "osv_earliest_published_at": "2026-08-04T15:22:32Z",
+    "source_published_at": "2026-08-04T15:22:32Z",
+    "observed_at": "2026-08-05T02:57:54Z",
+    "ingested_at": "2026-08-05T02:57:54Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fevent-manager",
-    "ledger_commit_at": "2026-08-05T02:57:52Z",
-    "ledger_committed_at": "2026-08-05T02:57:52Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T02:58:10Z",
+    "ledger_committed_at": "2026-08-05T02:58:10Z"
   }
 ]
