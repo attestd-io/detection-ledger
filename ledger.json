@@ -167817,33 +167817,33 @@
     "ledger_committed_at": "2026-08-05T21:17:33Z"
   },
   {
-    "id": "bpm-foundation-date-range-2026-08-05",
-    "display_name": "bpm-foundation-date-range",
+    "id": "bpm-foundation-common-2026-08-05",
+    "display_name": "bpm-foundation-common",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bpm-foundation-date-range",
+        "package": "bpm-foundation-common",
         "ecosystem": "npm",
         "versions": [
-          "35.4.2"
+          "35.9.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13108",
-            "osv_published_at": "2026-08-05T14:21:50Z"
+            "osv_id": "MAL-2026-13107",
+            "osv_published_at": "2026-08-05T14:22:16Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T21:20:58Z",
+    "attestd_detected_at": "2026-08-05T21:20:57Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T21:20:58Z",
-    "osv_earliest_published_at": "2026-08-05T14:21:50Z",
-    "source_published_at": "2026-08-05T14:21:50Z",
-    "observed_at": "2026-08-05T21:20:58Z",
-    "ingested_at": "2026-08-05T21:20:58Z",
+    "confirmed_at": "2026-08-05T21:20:57Z",
+    "osv_earliest_published_at": "2026-08-05T14:22:16Z",
+    "source_published_at": "2026-08-05T14:22:16Z",
+    "observed_at": "2026-08-05T21:20:57Z",
+    "ingested_at": "2026-08-05T21:20:57Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -167854,58 +167854,58 @@
     "ledger_committed_at": "2026-08-05T21:21:01Z"
   },
   {
-    "id": "bpm-foundation-feedback-2026-08-05",
-    "display_name": "bpm-foundation-feedback",
+    "id": "bpm-foundation-delegate-docs-2026-08-05",
+    "display_name": "bpm-foundation-delegate-docs",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bpm-foundation-feedback",
+        "package": "bpm-foundation-delegate-docs",
         "ecosystem": "npm",
         "versions": [
-          "35.8.8"
+          "35.1.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13110",
-            "osv_published_at": "2026-08-05T14:21:27Z"
+            "osv_id": "MAL-2026-13109",
+            "osv_published_at": "2026-08-05T14:21:59Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T21:20:59Z",
+    "attestd_detected_at": "2026-08-05T21:20:58Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T21:20:59Z",
-    "osv_earliest_published_at": "2026-08-05T14:21:27Z",
-    "source_published_at": "2026-08-05T14:21:27Z",
-    "observed_at": "2026-08-05T21:20:59Z",
-    "ingested_at": "2026-08-05T21:20:59Z",
+    "confirmed_at": "2026-08-05T21:20:58Z",
+    "osv_earliest_published_at": "2026-08-05T14:21:59Z",
+    "source_published_at": "2026-08-05T14:21:59Z",
+    "observed_at": "2026-08-05T21:20:58Z",
+    "ingested_at": "2026-08-05T21:20:58Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T21:21:14Z",
-    "ledger_committed_at": "2026-08-05T21:21:14Z"
+    "ledger_commit_at": "2026-08-05T21:21:09Z",
+    "ledger_committed_at": "2026-08-05T21:21:09Z"
   },
   {
-    "id": "bpm-foundation-husky-2026-08-05",
-    "display_name": "bpm-foundation-husky",
+    "id": "bpm-foundation-linters-2026-08-05",
+    "display_name": "bpm-foundation-linters",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bpm-foundation-husky",
+        "package": "bpm-foundation-linters",
         "ecosystem": "npm",
         "versions": [
-          "35.7.6"
+          "35.3.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13111",
-            "osv_published_at": "2026-08-05T14:20:22Z"
+            "osv_id": "MAL-2026-13112",
+            "osv_published_at": "2026-08-05T14:21:00Z"
           }
         ]
       }
@@ -167914,8 +167914,8 @@
     "attestd_detected_at": "2026-08-05T21:21:00Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T21:21:00Z",
-    "osv_earliest_published_at": "2026-08-05T14:20:22Z",
-    "source_published_at": "2026-08-05T14:20:22Z",
+    "osv_earliest_published_at": "2026-08-05T14:21:00Z",
+    "source_published_at": "2026-08-05T14:21:00Z",
     "observed_at": "2026-08-05T21:21:00Z",
     "ingested_at": "2026-08-05T21:21:00Z",
     "first_served_at": null,
@@ -167924,81 +167924,44 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T21:21:22Z",
-    "ledger_committed_at": "2026-08-05T21:21:22Z"
+    "ledger_commit_at": "2026-08-05T21:21:28Z",
+    "ledger_committed_at": "2026-08-05T21:21:28Z"
   },
   {
-    "id": "bpm-foundation-nest-keycloak-connect-2026-08-05",
-    "display_name": "bpm-foundation-nest-keycloak-connect",
+    "id": "bpm-foundation-rate-us-2026-08-05",
+    "display_name": "bpm-foundation-rate-us",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bpm-foundation-nest-keycloak-connect",
+        "package": "bpm-foundation-rate-us",
         "ecosystem": "npm",
         "versions": [
-          "35.8.6"
+          "35.3.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13113",
-            "osv_published_at": "2026-08-05T14:20:38Z"
+            "osv_id": "MAL-2026-13115",
+            "osv_published_at": "2026-08-05T14:20:29Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T21:21:01Z",
+    "attestd_detected_at": "2026-08-05T21:21:03Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T21:21:01Z",
-    "osv_earliest_published_at": "2026-08-05T14:20:38Z",
-    "source_published_at": "2026-08-05T14:20:38Z",
-    "observed_at": "2026-08-05T21:21:01Z",
-    "ingested_at": "2026-08-05T21:21:01Z",
+    "confirmed_at": "2026-08-05T21:21:03Z",
+    "osv_earliest_published_at": "2026-08-05T14:20:29Z",
+    "source_published_at": "2026-08-05T14:20:29Z",
+    "observed_at": "2026-08-05T21:21:03Z",
+    "ingested_at": "2026-08-05T21:21:03Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T21:21:33Z",
-    "ledger_committed_at": "2026-08-05T21:21:33Z"
-  },
-  {
-    "id": "bpm-foundation-oauth-client-2026-08-05",
-    "display_name": "bpm-foundation-oauth-client",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bpm-foundation-oauth-client",
-        "ecosystem": "npm",
-        "versions": [
-          "35.4.3"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13114",
-            "osv_published_at": "2026-08-05T14:20:12Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T21:21:02Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T21:21:02Z",
-    "osv_earliest_published_at": "2026-08-05T14:20:12Z",
-    "source_published_at": "2026-08-05T14:20:12Z",
-    "observed_at": "2026-08-05T21:21:02Z",
-    "ingested_at": "2026-08-05T21:21:02Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T21:21:41Z",
-    "ledger_committed_at": "2026-08-05T21:21:41Z"
+    "ledger_commit_at": "2026-08-05T21:21:46Z",
+    "ledger_committed_at": "2026-08-05T21:21:46Z"
   }
 ]
