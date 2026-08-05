@@ -111072,8 +111072,7 @@
         "package": "fluid-type-ui",
         "ecosystem": "npm",
         "versions": [
-          "2.0.8",
-          "2.0.9"
+          "2.0.8"
         ],
         "osv_entries": [
           {
@@ -111096,9 +111095,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-    "ledger_commit_at": "2026-08-05T16:01:37Z",
-    "ledger_committed_at": "2026-08-05T16:01:37Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-07-29T00:22:17Z",
+    "ledger_committed_at": "2026-07-29T00:22:17Z"
   },
   {
     "id": "json-schema-inspector-2026-07-28",
@@ -162830,40 +162829,40 @@
     "ledger_committed_at": "2026-08-05T16:01:29Z"
   },
   {
-    "id": "boxy-client-loader-2026-08-05",
-    "display_name": "boxy-client-loader",
+    "id": "boxy-bus-providers-2026-08-05",
+    "display_name": "boxy-bus-providers",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-client-loader",
+        "package": "boxy-bus-providers",
         "ecosystem": "npm",
         "versions": [
-          "35.8.6"
+          "35.3.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13032",
-            "osv_published_at": "2026-08-05T14:34:28Z"
+            "osv_id": "MAL-2026-13031",
+            "osv_published_at": "2026-08-05T14:34:40Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:39:00Z",
+    "attestd_detected_at": "2026-08-05T15:38:59Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:39:00Z",
-    "osv_earliest_published_at": "2026-08-05T14:34:28Z",
-    "source_published_at": "2026-08-05T14:34:28Z",
-    "observed_at": "2026-08-05T15:39:00Z",
-    "ingested_at": "2026-08-05T15:39:00Z",
+    "confirmed_at": "2026-08-05T15:38:59Z",
+    "osv_earliest_published_at": "2026-08-05T14:34:40Z",
+    "source_published_at": "2026-08-05T14:34:40Z",
+    "observed_at": "2026-08-05T15:38:59Z",
+    "ingested_at": "2026-08-05T15:38:59Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:01:46Z",
-    "ledger_committed_at": "2026-08-05T16:01:46Z"
+    "ledger_commit_at": "2026-08-05T16:01:42Z",
+    "ledger_committed_at": "2026-08-05T16:01:42Z"
   }
 ]
