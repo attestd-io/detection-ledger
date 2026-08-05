@@ -124464,6 +124464,8 @@
         "package": "sextant-cli-linux-amd64",
         "ecosystem": "npm",
         "versions": [
+          "0.0.1-rc26",
+          "0.0.1-rc32",
           "0.0.1-rc34"
         ],
         "osv_entries": [
@@ -124487,9 +124489,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T00:56:23Z",
-    "ledger_committed_at": "2026-08-05T00:56:23Z"
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12029",
+    "ledger_commit_at": "2026-08-05T04:38:25Z",
+    "ledger_committed_at": "2026-08-05T04:38:25Z"
   },
   {
     "id": "servicetitan-uikit-docs-2026-08-05",
@@ -133666,72 +133668,35 @@
     "ledger_committed_at": "2026-08-05T03:38:21Z"
   },
   {
-    "id": "osinthell-2026-08-05",
-    "display_name": "osinthell",
+    "id": "zzzgenesis00-mnemonic-to-key-2026-08-05",
+    "display_name": "@zzzgenesis00/mnemonic-to-key",
     "campaign": null,
     "detection_source": "agent",
     "packages": [
       {
-        "package": "osinthell",
+        "package": "@zzzgenesis00/mnemonic-to-key",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1",
-          "1.0.5",
-          "1.6.6",
-          "1.6.9",
-          "1.9.1",
-          "1.9.5"
+          "1.2.0"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T04:38:18Z",
+    "attestd_detected_at": "2026-08-05T04:38:29Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T04:38:18Z",
+    "confirmed_at": "2026-08-05T04:38:29Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-05T04:38:18Z",
-    "ingested_at": "2026-08-05T04:38:18Z",
+    "observed_at": "2026-08-05T04:38:29Z",
+    "ingested_at": "2026-08-05T04:38:29Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-11542",
-    "ledger_commit_at": "2026-08-05T04:38:21Z",
-    "ledger_committed_at": "2026-08-05T04:38:21Z"
-  },
-  {
-    "id": "zzzgenesis00-docker-api-client-2026-08-05",
-    "display_name": "@zzzgenesis00/docker-api-client",
-    "campaign": null,
-    "detection_source": "agent",
-    "packages": [
-      {
-        "package": "@zzzgenesis00/docker-api-client",
-        "ecosystem": "npm",
-        "versions": [
-          "2.0.2"
-        ],
-        "osv_entries": []
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T04:38:25Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T04:38:25Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-05T04:38:25Z",
-    "ingested_at": "2026-08-05T04:38:25Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12055",
-    "ledger_commit_at": "2026-08-05T04:38:27Z",
-    "ledger_committed_at": "2026-08-05T04:38:27Z"
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12056",
+    "ledger_commit_at": "2026-08-05T04:38:32Z",
+    "ledger_committed_at": "2026-08-05T04:38:32Z"
   }
 ]
