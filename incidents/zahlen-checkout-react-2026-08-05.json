@@ -1,0 +1,37 @@
+{
+  "id": "zahlen-checkout-react-2026-08-05",
+  "display_name": "@zahlen/checkout-react",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@zahlen/checkout-react",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12333",
+          "osv_published_at": "2026-08-05T12:27:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:18:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:18:16Z",
+  "osv_earliest_published_at": "2026-08-05T12:27:22Z",
+  "source_published_at": "2026-08-05T12:27:22Z",
+  "observed_at": "2026-08-05T13:18:16Z",
+  "ingested_at": "2026-08-05T13:18:16Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:19:31Z",
+  "ledger_committed_at": "2026-08-05T13:19:31Z"
+}
