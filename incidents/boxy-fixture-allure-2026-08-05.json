@@ -1,0 +1,37 @@
+{
+  "id": "boxy-fixture-allure-2026-08-05",
+  "display_name": "boxy-fixture-allure",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "boxy-fixture-allure",
+      "ecosystem": "npm",
+      "versions": [
+        "20.8.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12342",
+          "osv_published_at": "2026-08-05T12:31:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:18:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:18:33Z",
+  "osv_earliest_published_at": "2026-08-05T12:31:22Z",
+  "source_published_at": "2026-08-05T12:31:22Z",
+  "observed_at": "2026-08-05T13:18:33Z",
+  "ingested_at": "2026-08-05T13:18:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:20:50Z",
+  "ledger_committed_at": "2026-08-05T13:20:50Z"
+}
