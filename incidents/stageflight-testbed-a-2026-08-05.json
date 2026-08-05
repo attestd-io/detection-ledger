@@ -1,0 +1,37 @@
+{
+  "id": "stageflight-testbed-a-2026-08-05",
+  "display_name": "@stageflight-testbed/a",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@stageflight-testbed/a",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13365",
+          "osv_published_at": "2026-08-05T18:15:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T19:22:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T19:22:32Z",
+  "osv_earliest_published_at": "2026-08-05T18:15:58Z",
+  "source_published_at": "2026-08-05T18:15:58Z",
+  "observed_at": "2026-08-05T19:22:32Z",
+  "ingested_at": "2026-08-05T19:22:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T19:22:46Z",
+  "ledger_committed_at": "2026-08-05T19:22:46Z"
+}
