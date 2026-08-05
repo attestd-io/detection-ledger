@@ -116341,7 +116341,10 @@
         "package": "@custombots/custombot",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0"
+          "1.0.0",
+          "2.0.0",
+          "2.0.1",
+          "2.0.2"
         ],
         "osv_entries": [
           {
@@ -116365,8 +116368,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-03T00:05:35Z",
-    "ledger_committed_at": "2026-08-03T00:05:35Z"
+    "ledger_commit_at": "2026-08-05T03:19:09Z",
+    "ledger_committed_at": "2026-08-05T03:19:09Z"
   },
   {
     "id": "simple-date-formatter-util-1-2026-08-03",
@@ -130653,21 +130656,21 @@
     "ledger_committed_at": "2026-08-05T03:18:20Z"
   },
   {
-    "id": "vite-tsconfig-svg-2026-08-05",
-    "display_name": "vite-tsconfig-svg",
+    "id": "vite-config-svg-2026-08-05",
+    "display_name": "vite-config-svg",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "vite-tsconfig-svg",
+        "package": "vite-config-svg",
         "ecosystem": "npm",
         "versions": [
-          "1.1.4"
+          "1.1.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11497",
-            "osv_published_at": "2026-07-31T16:10:06Z"
+            "osv_id": "MAL-2026-11496",
+            "osv_published_at": "2026-07-31T11:08:11Z"
           }
         ]
       }
@@ -130676,8 +130679,8 @@
     "attestd_detected_at": "2026-08-05T03:18:58Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T03:18:58Z",
-    "osv_earliest_published_at": "2026-07-31T16:10:06Z",
-    "source_published_at": "2026-07-31T16:10:06Z",
+    "osv_earliest_published_at": "2026-07-31T11:08:11Z",
+    "source_published_at": "2026-07-31T11:08:11Z",
     "observed_at": "2026-08-05T03:18:58Z",
     "ingested_at": "2026-08-05T03:18:58Z",
     "first_served_at": null,
@@ -130686,7 +130689,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T03:19:03Z",
-    "ledger_committed_at": "2026-08-05T03:19:03Z"
+    "ledger_commit_at": "2026-08-05T03:19:00Z",
+    "ledger_committed_at": "2026-08-05T03:19:00Z"
   }
 ]
