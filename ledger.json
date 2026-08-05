@@ -163088,33 +163088,33 @@
     "ledger_committed_at": "2026-08-05T16:03:22Z"
   },
   {
-    "id": "boxy-fixture-sb-2026-08-05",
-    "display_name": "boxy-fixture-sb",
+    "id": "boxy-fixture-2026-08-05",
+    "display_name": "boxy-fixture",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boxy-fixture-sb",
+        "package": "boxy-fixture",
         "ecosystem": "npm",
         "versions": [
-          "35.9.6"
+          "35.6.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13048",
-            "osv_published_at": "2026-08-05T14:32:24Z"
+            "osv_id": "MAL-2026-13044",
+            "osv_published_at": "2026-08-05T14:31:37Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:39:16Z",
+    "attestd_detected_at": "2026-08-05T15:39:17Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:39:16Z",
-    "osv_earliest_published_at": "2026-08-05T14:32:24Z",
-    "source_published_at": "2026-08-05T14:32:24Z",
-    "observed_at": "2026-08-05T15:39:16Z",
-    "ingested_at": "2026-08-05T15:39:16Z",
+    "confirmed_at": "2026-08-05T15:39:17Z",
+    "osv_earliest_published_at": "2026-08-05T14:31:37Z",
+    "source_published_at": "2026-08-05T14:31:37Z",
+    "observed_at": "2026-08-05T15:39:17Z",
+    "ingested_at": "2026-08-05T15:39:17Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
