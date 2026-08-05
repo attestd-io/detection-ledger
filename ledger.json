@@ -118041,7 +118041,6 @@
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
-          "1.2.5",
           "1.2.6"
         ],
         "osv_entries": [
@@ -118066,8 +118065,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:26:18Z",
-    "ledger_committed_at": "2026-08-05T09:26:18Z"
+    "ledger_commit_at": "2026-08-04T22:40:00Z",
+    "ledger_committed_at": "2026-08-04T22:40:00Z"
   },
   {
     "id": "zzzgenesis00-etherjs-2026-08-04",
@@ -119215,7 +119214,6 @@
         "package": "riskunifiedgatewayserv",
         "ecosystem": "npm",
         "versions": [
-          "21.0.0",
           "28.0.0"
         ],
         "osv_entries": [
@@ -119240,8 +119238,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:26:36Z",
-    "ledger_committed_at": "2026-08-05T09:26:36Z"
+    "ledger_commit_at": "2026-08-04T22:44:47Z",
+    "ledger_committed_at": "2026-08-04T22:44:47Z"
   },
   {
     "id": "rollup-plugin-polyfill-hold-2026-08-04",
@@ -130792,6 +130790,7 @@
         "package": "xo-twofa",
         "ecosystem": "npm",
         "versions": [
+          "15.0.0",
           "28.0.0"
         ],
         "osv_entries": [
@@ -130816,8 +130815,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T03:18:20Z",
-    "ledger_committed_at": "2026-08-05T03:18:20Z"
+    "ledger_commit_at": "2026-08-05T09:26:53Z",
+    "ledger_committed_at": "2026-08-05T09:26:53Z"
   },
   {
     "id": "vite-config-svg-2026-08-05",
@@ -135384,6 +135383,7 @@
         "package": "crm-reportinsightserv-paypal",
         "ecosystem": "npm",
         "versions": [
+          "24.0.0",
           "28.0.0"
         ],
         "osv_entries": [
@@ -135408,8 +135408,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T21:49:03Z",
-    "ledger_committed_at": "2026-08-04T21:49:03Z"
+    "ledger_commit_at": "2026-08-05T09:26:23Z",
+    "ledger_committed_at": "2026-08-05T09:26:23Z"
   },
   {
     "id": "data-format-helper-2026-08-05",
@@ -136039,6 +136039,7 @@
         "package": "identityauthorizationserv",
         "ecosystem": "npm",
         "versions": [
+          "21.0.0",
           "28.0.0"
         ],
         "osv_entries": [
@@ -136063,8 +136064,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T22:42:58Z",
-    "ledger_committed_at": "2026-08-04T22:42:58Z"
+    "ledger_commit_at": "2026-08-05T09:26:30Z",
+    "ledger_committed_at": "2026-08-05T09:26:30Z"
   },
   {
     "id": "iot-kfh-s3-2026-08-04",
@@ -141622,6 +141623,7 @@
         "package": "stargateproxyserv",
         "ecosystem": "npm",
         "versions": [
+          "24.0.0",
           "28.0.0"
         ],
         "osv_entries": [
@@ -141646,8 +141648,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T22:45:28Z",
-    "ledger_committed_at": "2026-08-04T22:45:28Z"
+    "ledger_commit_at": "2026-08-05T09:26:42Z",
+    "ledger_committed_at": "2026-08-05T09:26:42Z"
   },
   {
     "id": "statist-browser-typed-client-hra-workplacer-events-2026-08-05",
@@ -142621,6 +142623,7 @@
         "package": "@vaultflow/create-flow",
         "ecosystem": "npm",
         "versions": [
+          "1.0.0",
           "1.0.1",
           "1.0.2"
         ],
@@ -142646,8 +142649,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-04T21:47:32Z",
-    "ledger_committed_at": "2026-08-04T21:47:32Z"
+    "ledger_commit_at": "2026-08-05T09:26:15Z",
+    "ledger_committed_at": "2026-08-05T09:26:15Z"
   },
   {
     "id": "vectormark-2026-08-05",
@@ -144227,42 +144230,40 @@
     "ledger_committed_at": "2026-08-05T09:26:08Z"
   },
   {
-    "id": "tailwind-motionkit-2026-08-05",
-    "display_name": "tailwind-motionkit",
+    "id": "postcss-motion-utils-2026-08-05",
+    "display_name": "postcss-motion-utils",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tailwind-motionkit",
+        "package": "postcss-motion-utils",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1",
-          "1.0.2",
-          "1.0.3"
+          "3.2.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11104",
-            "osv_published_at": "2026-07-27T12:36:59Z"
+            "osv_id": "MAL-2026-11168",
+            "osv_published_at": "2026-07-28T17:18:21Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:22:08Z",
+    "attestd_detected_at": "2026-08-05T09:22:17Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:22:08Z",
-    "osv_earliest_published_at": "2026-07-27T12:36:59Z",
-    "source_published_at": "2026-07-27T12:36:59Z",
-    "observed_at": "2026-08-05T09:22:08Z",
-    "ingested_at": "2026-08-05T09:22:08Z",
+    "confirmed_at": "2026-08-05T09:22:17Z",
+    "osv_earliest_published_at": "2026-07-28T17:18:21Z",
+    "source_published_at": "2026-07-28T17:18:21Z",
+    "observed_at": "2026-08-05T09:22:17Z",
+    "ingested_at": "2026-08-05T09:22:17Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:26:49Z",
-    "ledger_committed_at": "2026-08-05T09:26:49Z"
+    "ledger_commit_at": "2026-08-05T09:27:00Z",
+    "ledger_committed_at": "2026-08-05T09:27:00Z"
   }
 ]
