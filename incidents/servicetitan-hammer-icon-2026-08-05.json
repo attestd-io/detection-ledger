@@ -2,7 +2,7 @@
   "id": "servicetitan-hammer-icon-2026-08-05",
   "display_name": "@servicetitan/hammer-icon",
   "campaign": null,
-  "detection_source": "osv",
+  "detection_source": "npm_registry",
   "packages": [
     {
       "package": "@servicetitan/hammer-icon",
@@ -16,28 +16,23 @@
         "1.2.6",
         "1.2.7"
       ],
-      "osv_entries": [
-        {
-          "osv_id": "MAL-2026-11873",
-          "osv_published_at": "2026-08-04T13:25:07Z"
-        }
-      ]
+      "osv_entries": []
     }
   ],
   "malware_type": "malware",
-  "attestd_detected_at": "2026-08-05T02:32:46Z",
+  "attestd_detected_at": "2026-08-05T02:32:49Z",
   "flagged_at": null,
-  "confirmed_at": "2026-08-05T02:32:46Z",
-  "osv_earliest_published_at": "2026-08-04T13:25:07Z",
-  "source_published_at": "2026-08-04T13:25:07Z",
-  "observed_at": "2026-08-05T02:32:46Z",
-  "ingested_at": "2026-08-05T02:32:46Z",
+  "confirmed_at": "2026-08-05T02:32:49Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-05T02:32:49Z",
+  "ingested_at": "2026-08-05T02:32:49Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
-  "advisory_url": "",
-  "ledger_commit_at": "2026-08-05T02:33:08Z",
-  "ledger_committed_at": "2026-08-05T02:33:08Z"
+  "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fhammer-icon",
+  "ledger_commit_at": "2026-08-05T02:33:15Z",
+  "ledger_committed_at": "2026-08-05T02:33:15Z"
 }
