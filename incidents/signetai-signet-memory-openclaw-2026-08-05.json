@@ -1,0 +1,37 @@
+{
+  "id": "signetai-signet-memory-openclaw-2026-08-05",
+  "display_name": "@signetai/signet-memory-openclaw",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@signetai/signet-memory-openclaw",
+      "ecosystem": "npm",
+      "versions": [
+        "0.162.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4445",
+          "osv_published_at": "2026-05-20T20:18:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T21:24:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T21:24:02Z",
+  "osv_earliest_published_at": "2026-05-20T20:18:22Z",
+  "source_published_at": "2026-05-20T20:18:22Z",
+  "observed_at": "2026-08-05T21:24:02Z",
+  "ingested_at": "2026-08-05T21:24:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T21:31:04Z",
+  "ledger_committed_at": "2026-08-05T21:31:04Z"
+}
