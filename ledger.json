@@ -149105,33 +149105,33 @@
     "ledger_committed_at": "2026-08-05T13:30:46Z"
   },
   {
-    "id": "quorvex-2026-08-05",
-    "display_name": "quorvex",
+    "id": "pvm-autodoc-2026-08-05",
+    "display_name": "pvm-autodoc",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "quorvex",
+        "package": "pvm-autodoc",
         "ecosystem": "npm",
         "versions": [
-          "0.2.1"
+          "20.4.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12422",
-            "osv_published_at": "2026-08-05T12:25:31Z"
+            "osv_id": "MAL-2026-12421",
+            "osv_published_at": "2026-08-05T12:31:04Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:20:08Z",
+    "attestd_detected_at": "2026-08-05T13:20:07Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:20:08Z",
-    "osv_earliest_published_at": "2026-08-05T12:25:31Z",
-    "source_published_at": "2026-08-05T12:25:31Z",
-    "observed_at": "2026-08-05T13:20:08Z",
-    "ingested_at": "2026-08-05T13:20:08Z",
+    "confirmed_at": "2026-08-05T13:20:07Z",
+    "osv_earliest_published_at": "2026-08-05T12:31:04Z",
+    "source_published_at": "2026-08-05T12:31:04Z",
+    "observed_at": "2026-08-05T13:20:07Z",
+    "ingested_at": "2026-08-05T13:20:07Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -149142,77 +149142,40 @@
     "ledger_committed_at": "2026-08-05T13:30:55Z"
   },
   {
-    "id": "react-fontawesome-icons-2026-08-05",
-    "display_name": "react-fontawesome-icons",
+    "id": "react-native-ui-message-2026-08-05",
+    "display_name": "react-native-ui-message",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "react-fontawesome-icons",
+        "package": "react-native-ui-message",
         "ecosystem": "npm",
         "versions": [
-          "1.0.6"
+          "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12423",
-            "osv_published_at": "2026-08-05T12:31:32Z"
+            "osv_id": "MAL-2026-12424",
+            "osv_published_at": "2026-08-05T12:57:43Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:20:09Z",
+    "attestd_detected_at": "2026-08-05T13:20:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:20:09Z",
-    "osv_earliest_published_at": "2026-08-05T12:31:32Z",
-    "source_published_at": "2026-08-05T12:31:32Z",
-    "observed_at": "2026-08-05T13:20:09Z",
-    "ingested_at": "2026-08-05T13:20:09Z",
+    "confirmed_at": "2026-08-05T13:20:10Z",
+    "osv_earliest_published_at": "2026-08-05T12:57:43Z",
+    "source_published_at": "2026-08-05T12:57:43Z",
+    "observed_at": "2026-08-05T13:20:10Z",
+    "ingested_at": "2026-08-05T13:20:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:31:03Z",
-    "ledger_committed_at": "2026-08-05T13:31:03Z"
-  },
-  {
-    "id": "react-table-core-2026-08-05",
-    "display_name": "react-table-core",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "react-table-core",
-        "ecosystem": "npm",
-        "versions": [
-          "2.7.1"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12425",
-            "osv_published_at": "2026-08-05T12:47:52Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T13:20:11Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T13:20:11Z",
-    "osv_earliest_published_at": "2026-08-05T12:47:52Z",
-    "source_published_at": "2026-08-05T12:47:52Z",
-    "observed_at": "2026-08-05T13:20:11Z",
-    "ingested_at": "2026-08-05T13:20:11Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:31:15Z",
-    "ledger_committed_at": "2026-08-05T13:31:15Z"
+    "ledger_commit_at": "2026-08-05T13:31:09Z",
+    "ledger_committed_at": "2026-08-05T13:31:09Z"
   }
 ]
