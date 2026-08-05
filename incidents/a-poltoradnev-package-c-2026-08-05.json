@@ -1,0 +1,43 @@
+{
+  "id": "a-poltoradnev-package-c-2026-08-05",
+  "display_name": "a.poltoradnev-package-c",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "a.poltoradnev-package-c",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.2",
+        "12.8.5",
+        "33.9.5",
+        "6.1.10",
+        "6.1.11",
+        "6.1.12",
+        "6.1.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12127",
+          "osv_published_at": "2026-08-05T09:11:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:35:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:35:24Z",
+  "osv_earliest_published_at": "2026-08-05T09:11:22Z",
+  "source_published_at": "2026-08-05T09:11:22Z",
+  "observed_at": "2026-08-05T09:35:24Z",
+  "ingested_at": "2026-08-05T09:35:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:36:09Z",
+  "ledger_committed_at": "2026-08-05T09:36:09Z"
+}
