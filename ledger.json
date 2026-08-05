@@ -165569,188 +165569,151 @@
     "ledger_committed_at": "2026-08-05T16:36:15Z"
   },
   {
-    "id": "docflow-cryptopro-2026-08-05",
-    "display_name": "docflow-cryptopro",
+    "id": "docker-api-client-2026-08-05",
+    "display_name": "docker-api-client",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "docflow-cryptopro",
+        "package": "docker-api-client",
         "ecosystem": "npm",
         "versions": [
-          "35.1.6"
+          "2.0.2"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13279",
-            "osv_published_at": "2026-08-05T15:28:41Z"
+            "osv_id": "MAL-2026-13280",
+            "osv_published_at": "2026-08-05T15:32:51Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:30:04Z",
+    "attestd_detected_at": "2026-08-05T16:30:05Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:30:04Z",
-    "osv_earliest_published_at": "2026-08-05T15:28:41Z",
-    "source_published_at": "2026-08-05T15:28:41Z",
-    "observed_at": "2026-08-05T16:30:04Z",
-    "ingested_at": "2026-08-05T16:30:04Z",
+    "confirmed_at": "2026-08-05T16:30:05Z",
+    "osv_earliest_published_at": "2026-08-05T15:32:51Z",
+    "source_published_at": "2026-08-05T15:32:51Z",
+    "observed_at": "2026-08-05T16:30:05Z",
+    "ingested_at": "2026-08-05T16:30:05Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:36:23Z",
-    "ledger_committed_at": "2026-08-05T16:36:23Z"
+    "ledger_commit_at": "2026-08-05T16:36:30Z",
+    "ledger_committed_at": "2026-08-05T16:36:30Z"
   },
   {
-    "id": "docsmate-docsmate-core-2026-08-05",
-    "display_name": "docsmate-docsmate-core",
+    "id": "dolyame-boxy-atom-bnpl-badge-2026-08-05",
+    "display_name": "dolyame-boxy-atom-bnpl-badge",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "docsmate-docsmate-core",
+        "package": "dolyame-boxy-atom-bnpl-badge",
         "ecosystem": "npm",
         "versions": [
-          "35.9.3"
+          "35.2.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13281",
-            "osv_published_at": "2026-08-05T15:29:07Z"
+            "osv_id": "MAL-2026-13282",
+            "osv_published_at": "2026-08-05T15:29:16Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:30:06Z",
+    "attestd_detected_at": "2026-08-05T16:30:07Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:30:06Z",
-    "osv_earliest_published_at": "2026-08-05T15:29:07Z",
-    "source_published_at": "2026-08-05T15:29:07Z",
-    "observed_at": "2026-08-05T16:30:06Z",
-    "ingested_at": "2026-08-05T16:30:06Z",
+    "confirmed_at": "2026-08-05T16:30:07Z",
+    "osv_earliest_published_at": "2026-08-05T15:29:16Z",
+    "source_published_at": "2026-08-05T15:29:16Z",
+    "observed_at": "2026-08-05T16:30:07Z",
+    "ingested_at": "2026-08-05T16:30:07Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:36:32Z",
-    "ledger_committed_at": "2026-08-05T16:36:32Z"
+    "ledger_commit_at": "2026-08-05T16:36:40Z",
+    "ledger_committed_at": "2026-08-05T16:36:40Z"
   },
   {
-    "id": "dolyame-boxy-atom-bnpl-button-2026-08-05",
-    "display_name": "dolyame-boxy-atom-bnpl-button",
+    "id": "dolyame-boxy-atom-bnpl-card-2026-08-05",
+    "display_name": "dolyame-boxy-atom-bnpl-card",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "dolyame-boxy-atom-bnpl-button",
+        "package": "dolyame-boxy-atom-bnpl-card",
         "ecosystem": "npm",
         "versions": [
-          "35.8.3"
+          "35.5.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13283",
-            "osv_published_at": "2026-08-05T15:29:42Z"
+            "osv_id": "MAL-2026-13284",
+            "osv_published_at": "2026-08-05T15:28:01Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:30:08Z",
+    "attestd_detected_at": "2026-08-05T16:30:09Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:30:08Z",
-    "osv_earliest_published_at": "2026-08-05T15:29:42Z",
-    "source_published_at": "2026-08-05T15:29:42Z",
-    "observed_at": "2026-08-05T16:30:08Z",
-    "ingested_at": "2026-08-05T16:30:08Z",
+    "confirmed_at": "2026-08-05T16:30:09Z",
+    "osv_earliest_published_at": "2026-08-05T15:28:01Z",
+    "source_published_at": "2026-08-05T15:28:01Z",
+    "observed_at": "2026-08-05T16:30:09Z",
+    "ingested_at": "2026-08-05T16:30:09Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:36:46Z",
-    "ledger_committed_at": "2026-08-05T16:36:46Z"
+    "ledger_commit_at": "2026-08-05T16:36:54Z",
+    "ledger_committed_at": "2026-08-05T16:36:54Z"
   },
   {
-    "id": "dolyame-boxy-atom-bnpl-dangerously-html-2026-08-05",
-    "display_name": "dolyame-boxy-atom-bnpl-dangerously-html",
+    "id": "dolyame-boxy-atom-bnpl-dolyame-button-2026-08-05",
+    "display_name": "dolyame-boxy-atom-bnpl-dolyame-button",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "dolyame-boxy-atom-bnpl-dangerously-html",
+        "package": "dolyame-boxy-atom-bnpl-dolyame-button",
         "ecosystem": "npm",
         "versions": [
-          "35.5.4"
+          "35.7.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13285",
-            "osv_published_at": "2026-08-05T15:28:28Z"
+            "osv_id": "MAL-2026-13286",
+            "osv_published_at": "2026-08-05T15:28:11Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:30:11Z",
+    "attestd_detected_at": "2026-08-05T16:30:12Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:30:11Z",
-    "osv_earliest_published_at": "2026-08-05T15:28:28Z",
-    "source_published_at": "2026-08-05T15:28:28Z",
-    "observed_at": "2026-08-05T16:30:11Z",
-    "ingested_at": "2026-08-05T16:30:11Z",
+    "confirmed_at": "2026-08-05T16:30:12Z",
+    "osv_earliest_published_at": "2026-08-05T15:28:11Z",
+    "source_published_at": "2026-08-05T15:28:11Z",
+    "observed_at": "2026-08-05T16:30:12Z",
+    "ingested_at": "2026-08-05T16:30:12Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:36:59Z",
-    "ledger_committed_at": "2026-08-05T16:36:59Z"
-  },
-  {
-    "id": "dolyame-boxy-atom-bnpl-image-card-2026-08-05",
-    "display_name": "dolyame-boxy-atom-bnpl-image-card",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "dolyame-boxy-atom-bnpl-image-card",
-        "ecosystem": "npm",
-        "versions": [
-          "35.7.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13287",
-            "osv_published_at": "2026-08-05T15:27:51Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:30:13Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:30:13Z",
-    "osv_earliest_published_at": "2026-08-05T15:27:51Z",
-    "source_published_at": "2026-08-05T15:27:51Z",
-    "observed_at": "2026-08-05T16:30:13Z",
-    "ingested_at": "2026-08-05T16:30:13Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:37:12Z",
-    "ledger_committed_at": "2026-08-05T16:37:12Z"
+    "ledger_commit_at": "2026-08-05T16:37:08Z",
+    "ledger_committed_at": "2026-08-05T16:37:08Z"
   }
 ]
