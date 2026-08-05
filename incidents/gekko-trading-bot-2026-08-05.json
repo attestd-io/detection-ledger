@@ -1,0 +1,37 @@
+{
+  "id": "gekko-trading-bot-2026-08-05",
+  "display_name": "gekko-trading-bot",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gekko-trading-bot",
+      "ecosystem": "npm",
+      "versions": [
+        "4.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12388",
+          "osv_published_at": "2026-08-05T12:56:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:19:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:19:24Z",
+  "osv_earliest_published_at": "2026-08-05T12:56:41Z",
+  "source_published_at": "2026-08-05T12:56:41Z",
+  "observed_at": "2026-08-05T13:19:24Z",
+  "ingested_at": "2026-08-05T13:19:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:26:51Z",
+  "ledger_committed_at": "2026-08-05T13:26:51Z"
+}
