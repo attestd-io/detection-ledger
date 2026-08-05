@@ -165049,5 +165049,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:33:51Z",
     "ledger_committed_at": "2026-08-05T16:33:51Z"
+  },
+  {
+    "id": "bigops-storio-2026-08-05",
+    "display_name": "bigops-storio",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bigops-storio",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13252",
+            "osv_published_at": "2026-08-05T15:33:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:29:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:29:37Z",
+    "osv_earliest_published_at": "2026-08-05T15:33:44Z",
+    "source_published_at": "2026-08-05T15:33:44Z",
+    "observed_at": "2026-08-05T16:29:37Z",
+    "ingested_at": "2026-08-05T16:29:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:33:59Z",
+    "ledger_committed_at": "2026-08-05T16:33:59Z"
   }
 ]
