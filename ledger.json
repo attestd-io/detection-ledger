@@ -166716,77 +166716,40 @@
     "ledger_committed_at": "2026-08-05T16:42:30Z"
   },
   {
-    "id": "dolyame-boxy-mobile-bnpl-card-gallery-2026-08-05",
-    "display_name": "dolyame-boxy-mobile-bnpl-card-gallery",
+    "id": "dolyame-boxy-mobile-bnpl-card-panel-2026-08-05",
+    "display_name": "dolyame-boxy-mobile-bnpl-card-panel",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "dolyame-boxy-mobile-bnpl-card-gallery",
+        "package": "dolyame-boxy-mobile-bnpl-card-panel",
         "ecosystem": "npm",
         "versions": [
-          "35.9.5"
+          "35.3.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13338",
-            "osv_published_at": "2026-08-05T15:20:08Z"
+            "osv_id": "MAL-2026-13339",
+            "osv_published_at": "2026-08-05T15:20:56Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:31:09Z",
+    "attestd_detected_at": "2026-08-05T16:31:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:31:09Z",
-    "osv_earliest_published_at": "2026-08-05T15:20:08Z",
-    "source_published_at": "2026-08-05T15:20:08Z",
-    "observed_at": "2026-08-05T16:31:09Z",
-    "ingested_at": "2026-08-05T16:31:09Z",
+    "confirmed_at": "2026-08-05T16:31:10Z",
+    "osv_earliest_published_at": "2026-08-05T15:20:56Z",
+    "source_published_at": "2026-08-05T15:20:56Z",
+    "observed_at": "2026-08-05T16:31:10Z",
+    "ingested_at": "2026-08-05T16:31:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:42:38Z",
-    "ledger_committed_at": "2026-08-05T16:42:38Z"
-  },
-  {
-    "id": "dolyame-boxy-mobile-bnpl-footer-2026-08-05",
-    "display_name": "dolyame-boxy-mobile-bnpl-footer",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "dolyame-boxy-mobile-bnpl-footer",
-        "ecosystem": "npm",
-        "versions": [
-          "35.4.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13340",
-            "osv_published_at": "2026-08-05T15:19:30Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T16:31:11Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T16:31:11Z",
-    "osv_earliest_published_at": "2026-08-05T15:19:30Z",
-    "source_published_at": "2026-08-05T15:19:30Z",
-    "observed_at": "2026-08-05T16:31:11Z",
-    "ingested_at": "2026-08-05T16:31:11Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:42:46Z",
-    "ledger_committed_at": "2026-08-05T16:42:46Z"
+    "ledger_commit_at": "2026-08-05T16:42:43Z",
+    "ledger_committed_at": "2026-08-05T16:42:43Z"
   }
 ]
