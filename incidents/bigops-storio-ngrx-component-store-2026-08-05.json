@@ -1,0 +1,37 @@
+{
+  "id": "bigops-storio-ngrx-component-store-2026-08-05",
+  "display_name": "bigops-storio-ngrx-component-store",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bigops-storio-ngrx-component-store",
+      "ecosystem": "npm",
+      "versions": [
+        "35.3.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13254",
+          "osv_published_at": "2026-08-05T15:33:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T16:29:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T16:29:33Z",
+  "osv_earliest_published_at": "2026-08-05T15:33:34Z",
+  "source_published_at": "2026-08-05T15:33:34Z",
+  "observed_at": "2026-08-05T16:29:33Z",
+  "ingested_at": "2026-08-05T16:29:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:33:31Z",
+  "ledger_committed_at": "2026-08-05T16:33:31Z"
+}
