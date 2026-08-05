@@ -16,14 +16,19 @@
         "0.5.6",
         "0.5.7"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11869",
+          "osv_published_at": "2026-08-04T13:17:51Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-05T02:32:09Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-05T02:32:09Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-08-04T13:17:51Z",
   "source_published_at": null,
   "observed_at": "2026-08-05T02:32:09Z",
   "ingested_at": "2026-08-05T02:32:09Z",
@@ -33,6 +38,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fforge",
-  "ledger_commit_at": "2026-08-05T02:32:39Z",
-  "ledger_committed_at": "2026-08-05T02:32:39Z"
+  "ledger_commit_at": "2026-08-05T03:42:50Z",
+  "ledger_committed_at": "2026-08-05T03:42:50Z"
 }
