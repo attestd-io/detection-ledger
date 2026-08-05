@@ -1,0 +1,37 @@
+{
+  "id": "qlik-eslint-config-base-2026-08-05",
+  "display_name": "@qlik/eslint-config-base",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@qlik/eslint-config-base",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11794",
+          "osv_published_at": "2026-08-04T15:53:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:26:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:26:36Z",
+  "osv_earliest_published_at": "2026-08-04T15:53:25Z",
+  "source_published_at": "2026-08-04T15:53:25Z",
+  "observed_at": "2026-08-05T03:26:36Z",
+  "ingested_at": "2026-08-05T03:26:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:28:52Z",
+  "ledger_committed_at": "2026-08-05T03:28:52Z"
+}
