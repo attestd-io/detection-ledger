@@ -160165,114 +160165,40 @@
     "ledger_committed_at": "2026-08-05T15:45:21Z"
   },
   {
-    "id": "bnpl-blocks-atom-bnpl-promocode-2026-08-05",
-    "display_name": "bnpl-blocks-atom-bnpl-promocode",
+    "id": "bnpl-blocks-atom-bnpl-radio-2026-08-05",
+    "display_name": "bnpl-blocks-atom-bnpl-radio",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bnpl-blocks-atom-bnpl-promocode",
+        "package": "bnpl-blocks-atom-bnpl-radio",
         "ecosystem": "npm",
         "versions": [
-          "35.9.1"
+          "35.4.8"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12887",
-            "osv_published_at": "2026-08-05T14:55:49Z"
+            "osv_id": "MAL-2026-12888",
+            "osv_published_at": "2026-08-05T14:55:17Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:36:28Z",
+    "attestd_detected_at": "2026-08-05T15:36:29Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:36:28Z",
-    "osv_earliest_published_at": "2026-08-05T14:55:49Z",
-    "source_published_at": "2026-08-05T14:55:49Z",
-    "observed_at": "2026-08-05T15:36:28Z",
-    "ingested_at": "2026-08-05T15:36:28Z",
+    "confirmed_at": "2026-08-05T15:36:29Z",
+    "osv_earliest_published_at": "2026-08-05T14:55:17Z",
+    "source_published_at": "2026-08-05T14:55:17Z",
+    "observed_at": "2026-08-05T15:36:29Z",
+    "ingested_at": "2026-08-05T15:36:29Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:45:29Z",
-    "ledger_committed_at": "2026-08-05T15:45:29Z"
-  },
-  {
-    "id": "bnpl-blocks-atom-bnpl-range-2026-08-05",
-    "display_name": "bnpl-blocks-atom-bnpl-range",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bnpl-blocks-atom-bnpl-range",
-        "ecosystem": "npm",
-        "versions": [
-          "35.6.6"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12889",
-            "osv_published_at": "2026-08-05T14:56:15Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:36:30Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:36:30Z",
-    "osv_earliest_published_at": "2026-08-05T14:56:15Z",
-    "source_published_at": "2026-08-05T14:56:15Z",
-    "observed_at": "2026-08-05T15:36:30Z",
-    "ingested_at": "2026-08-05T15:36:30Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:45:37Z",
-    "ledger_committed_at": "2026-08-05T15:45:37Z"
-  },
-  {
-    "id": "bnpl-blocks-atom-bnpl-review-2026-08-05",
-    "display_name": "bnpl-blocks-atom-bnpl-review",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bnpl-blocks-atom-bnpl-review",
-        "ecosystem": "npm",
-        "versions": [
-          "35.5.4"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12890",
-            "osv_published_at": "2026-08-05T14:54:59Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T15:36:31Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T15:36:31Z",
-    "osv_earliest_published_at": "2026-08-05T14:54:59Z",
-    "source_published_at": "2026-08-05T14:54:59Z",
-    "observed_at": "2026-08-05T15:36:31Z",
-    "ingested_at": "2026-08-05T15:36:31Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:45:44Z",
-    "ledger_committed_at": "2026-08-05T15:45:44Z"
+    "ledger_commit_at": "2026-08-05T15:45:36Z",
+    "ledger_committed_at": "2026-08-05T15:45:36Z"
   }
 ]
