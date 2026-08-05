@@ -168002,21 +168002,21 @@
     "ledger_committed_at": "2026-08-05T21:22:00Z"
   },
   {
-    "id": "bpm-foundation-statist-client-2026-08-05",
-    "display_name": "bpm-foundation-statist-client",
+    "id": "bpm-foundation-storage-2026-08-05",
+    "display_name": "bpm-foundation-storage",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bpm-foundation-statist-client",
+        "package": "bpm-foundation-storage",
         "ecosystem": "npm",
         "versions": [
-          "35.2.4"
+          "35.8.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13118",
-            "osv_published_at": "2026-08-05T14:19:55Z"
+            "osv_id": "MAL-2026-13119",
+            "osv_published_at": "2026-08-05T14:21:36Z"
           }
         ]
       }
@@ -168025,8 +168025,8 @@
     "attestd_detected_at": "2026-08-05T21:21:05Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T21:21:05Z",
-    "osv_earliest_published_at": "2026-08-05T14:19:55Z",
-    "source_published_at": "2026-08-05T14:19:55Z",
+    "osv_earliest_published_at": "2026-08-05T14:21:36Z",
+    "source_published_at": "2026-08-05T14:21:36Z",
     "observed_at": "2026-08-05T21:21:05Z",
     "ingested_at": "2026-08-05T21:21:05Z",
     "first_served_at": null,
