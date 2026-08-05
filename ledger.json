@@ -155460,77 +155460,77 @@
     "ledger_committed_at": "2026-08-05T14:56:49Z"
   },
   {
-    "id": "devplatform-spa-plugin-module-loader-2026-08-05",
-    "display_name": "devplatform-spa-plugin-module-loader",
+    "id": "devplatform-spa-plugin-module-2026-08-05",
+    "display_name": "devplatform-spa-plugin-module",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "devplatform-spa-plugin-module-loader",
+        "package": "devplatform-spa-plugin-module",
+        "ecosystem": "npm",
+        "versions": [
+          "35.7.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12771",
+            "osv_published_at": "2026-08-05T13:42:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T14:33:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T14:33:06Z",
+    "osv_earliest_published_at": "2026-08-05T13:42:39Z",
+    "source_published_at": "2026-08-05T13:42:39Z",
+    "observed_at": "2026-08-05T14:33:06Z",
+    "ingested_at": "2026-08-05T14:33:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T14:57:03Z",
+    "ledger_committed_at": "2026-08-05T14:57:03Z"
+  },
+  {
+    "id": "devplatform-spa-plugin-query-2026-08-05",
+    "display_name": "devplatform-spa-plugin-query",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "devplatform-spa-plugin-query",
         "ecosystem": "npm",
         "versions": [
           "35.8.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12772",
-            "osv_published_at": "2026-08-05T13:42:02Z"
+            "osv_id": "MAL-2026-12774",
+            "osv_published_at": "2026-08-05T13:41:40Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T14:33:05Z",
+    "attestd_detected_at": "2026-08-05T14:33:08Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T14:33:05Z",
-    "osv_earliest_published_at": "2026-08-05T13:42:02Z",
-    "source_published_at": "2026-08-05T13:42:02Z",
-    "observed_at": "2026-08-05T14:33:05Z",
-    "ingested_at": "2026-08-05T14:33:05Z",
+    "confirmed_at": "2026-08-05T14:33:08Z",
+    "osv_earliest_published_at": "2026-08-05T13:41:40Z",
+    "source_published_at": "2026-08-05T13:41:40Z",
+    "observed_at": "2026-08-05T14:33:08Z",
+    "ingested_at": "2026-08-05T14:33:08Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T14:56:57Z",
-    "ledger_committed_at": "2026-08-05T14:56:57Z"
-  },
-  {
-    "id": "devplatform-spa-plugin-notifier-2026-08-05",
-    "display_name": "devplatform-spa-plugin-notifier",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "devplatform-spa-plugin-notifier",
-        "ecosystem": "npm",
-        "versions": [
-          "35.5.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12773",
-            "osv_published_at": "2026-08-05T13:41:54Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T14:33:07Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T14:33:07Z",
-    "osv_earliest_published_at": "2026-08-05T13:41:54Z",
-    "source_published_at": "2026-08-05T13:41:54Z",
-    "observed_at": "2026-08-05T14:33:07Z",
-    "ingested_at": "2026-08-05T14:33:07Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T14:57:10Z",
-    "ledger_committed_at": "2026-08-05T14:57:10Z"
+    "ledger_commit_at": "2026-08-05T14:57:17Z",
+    "ledger_committed_at": "2026-08-05T14:57:17Z"
   }
 ]
