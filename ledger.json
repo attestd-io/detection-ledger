@@ -125797,14 +125797,19 @@
           "1.115.6",
           "1.115.7"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11847",
+            "osv_published_at": "2026-08-04T15:32:24Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T02:29:30Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T02:29:30Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T15:32:24Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T02:29:30Z",
     "ingested_at": "2026-08-05T02:29:30Z",
@@ -125814,8 +125819,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fcp-ui",
-    "ledger_commit_at": "2026-08-05T02:29:43Z",
-    "ledger_committed_at": "2026-08-05T02:29:43Z"
+    "ledger_commit_at": "2026-08-05T05:03:17Z",
+    "ledger_committed_at": "2026-08-05T05:03:17Z"
   },
   {
     "id": "servicetitan-datetime-utils-2026-08-05",
