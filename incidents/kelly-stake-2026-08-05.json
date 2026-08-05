@@ -1,0 +1,40 @@
+{
+  "id": "kelly-stake-2026-08-05",
+  "display_name": "kelly-stake",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "kelly-stake",
+      "ecosystem": "npm",
+      "versions": [
+        "3.1.0",
+        "3.2.0",
+        "3.3.0",
+        "4.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6482",
+          "osv_published_at": "2026-06-25T22:37:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T09:30:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T09:30:29Z",
+  "osv_earliest_published_at": "2026-06-25T22:37:28Z",
+  "source_published_at": "2026-06-25T22:37:28Z",
+  "observed_at": "2026-08-05T09:30:29Z",
+  "ingested_at": "2026-08-05T09:30:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T09:33:27Z",
+  "ledger_committed_at": "2026-08-05T09:33:27Z"
+}
