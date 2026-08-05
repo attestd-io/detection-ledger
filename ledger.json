@@ -133803,39 +133803,35 @@
     "ledger_committed_at": "2026-08-05T04:38:49Z"
   },
   {
-    "id": "beaver-ui-card-large-2026-08-05",
-    "display_name": "beaver-ui-card-large",
+    "id": "bigops-eslint-2026-08-05",
+    "display_name": "bigops-eslint",
     "campaign": null,
     "detection_source": "agent",
     "packages": [
       {
-        "package": "beaver-ui-card-large",
+        "package": "bigops-eslint",
         "ecosystem": "npm",
         "versions": [
-          "12.4.3",
-          "9.6.2",
-          "9.6.3",
-          "9.6.4",
-          "9.6.5"
+          "35.9.5"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T04:38:46Z",
+    "attestd_detected_at": "2026-08-05T04:38:49Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T04:38:46Z",
+    "confirmed_at": "2026-08-05T04:38:49Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-05T04:38:46Z",
-    "ingested_at": "2026-08-05T04:38:46Z",
+    "observed_at": "2026-08-05T04:38:49Z",
+    "ingested_at": "2026-08-05T04:38:49Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12060",
-    "ledger_commit_at": "2026-08-05T04:38:56Z",
-    "ledger_committed_at": "2026-08-05T04:38:56Z"
+    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12061",
+    "ledger_commit_at": "2026-08-05T04:39:01Z",
+    "ledger_committed_at": "2026-08-05T04:39:01Z"
   }
 ]
