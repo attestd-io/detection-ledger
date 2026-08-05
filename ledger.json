@@ -157266,5 +157266,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:28:35Z",
     "ledger_committed_at": "2026-08-05T15:28:35Z"
+  },
+  {
+    "id": "tinkoff-statist-browser-typed-client-sme-platform-web-companyprofile-metrics-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-sme.platform.web.companyprofile.metrics",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tinkoff-statist-browser-typed-client-sme.platform.web.companyprofile.metrics",
+        "ecosystem": "npm",
+        "versions": [
+          "20.2.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12272",
+            "osv_published_at": "2026-08-05T09:02:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:21:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:21:01Z",
+    "osv_earliest_published_at": "2026-08-05T09:02:43Z",
+    "source_published_at": "2026-08-05T09:02:43Z",
+    "observed_at": "2026-08-05T15:21:01Z",
+    "ingested_at": "2026-08-05T15:21:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:28:47Z",
+    "ledger_committed_at": "2026-08-05T15:28:47Z"
   }
 ]
