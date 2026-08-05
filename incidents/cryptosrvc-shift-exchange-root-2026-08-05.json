@@ -1,0 +1,39 @@
+{
+  "id": "cryptosrvc-shift-exchange-root-2026-08-05",
+  "display_name": "@cryptosrvc/shift-exchange-root",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@cryptosrvc/shift-exchange-root",
+      "ecosystem": "npm",
+      "versions": [
+        "1.9.9",
+        "2.9.9",
+        "3.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12316",
+          "osv_published_at": "2026-08-05T13:07:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T13:15:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T13:15:29Z",
+  "osv_earliest_published_at": "2026-08-05T13:07:03Z",
+  "source_published_at": "2026-08-05T13:07:03Z",
+  "observed_at": "2026-08-05T13:15:29Z",
+  "ingested_at": "2026-08-05T13:15:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T13:15:35Z",
+  "ledger_committed_at": "2026-08-05T13:15:35Z"
+}
