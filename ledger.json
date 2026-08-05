@@ -165086,5 +165086,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T16:33:59Z",
     "ledger_committed_at": "2026-08-05T16:33:59Z"
+  },
+  {
+    "id": "bitcoinjs-wallet-2026-08-05",
+    "display_name": "bitcoinjs-wallet",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bitcoinjs-wallet",
+        "ecosystem": "npm",
+        "versions": [
+          "5.4.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13258",
+            "osv_published_at": "2026-08-05T15:40:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T16:29:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T16:29:39Z",
+    "osv_earliest_published_at": "2026-08-05T15:40:48Z",
+    "source_published_at": "2026-08-05T15:40:48Z",
+    "observed_at": "2026-08-05T16:29:39Z",
+    "ingested_at": "2026-08-05T16:29:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T16:34:09Z",
+    "ledger_committed_at": "2026-08-05T16:34:09Z"
   }
 ]
