@@ -1,0 +1,40 @@
+{
+  "id": "omniwatch-wick-cli-2026-08-05",
+  "display_name": "@omniwatch-wick/cli",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@omniwatch-wick/cli",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.1.1",
+        "0.1.3",
+        "0.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10486",
+          "osv_published_at": "2026-07-13T20:43:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T06:10:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T06:10:53Z",
+  "osv_earliest_published_at": "2026-07-13T20:43:55Z",
+  "source_published_at": "2026-07-13T20:43:55Z",
+  "observed_at": "2026-08-05T06:10:53Z",
+  "ingested_at": "2026-08-05T06:10:53Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T06:11:37Z",
+  "ledger_committed_at": "2026-08-05T06:11:37Z"
+}
