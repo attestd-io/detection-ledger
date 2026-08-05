@@ -1,0 +1,40 @@
+{
+  "id": "emilgroup-auth-sdk-node-2026-08-05",
+  "display_name": "@emilgroup/auth-sdk-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@emilgroup/auth-sdk-node",
+      "ecosystem": "npm",
+      "versions": [
+        "1.25.0",
+        "1.26.0",
+        "1.28.0",
+        "1.28.1-beta.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-2037",
+          "osv_published_at": "2026-03-22T18:19:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T07:17:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T07:17:56Z",
+  "osv_earliest_published_at": "2026-03-22T18:19:17Z",
+  "source_published_at": "2026-03-22T18:19:17Z",
+  "observed_at": "2026-08-05T07:17:56Z",
+  "ingested_at": "2026-08-05T07:17:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T07:18:05Z",
+  "ledger_committed_at": "2026-08-05T07:18:05Z"
+}
