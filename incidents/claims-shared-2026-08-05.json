@@ -1,0 +1,37 @@
+{
+  "id": "claims-shared-2026-08-05",
+  "display_name": "claims-shared",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "claims-shared",
+      "ecosystem": "npm",
+      "versions": [
+        "35.7.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12642",
+          "osv_published_at": "2026-08-05T14:01:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:30:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:30:41Z",
+  "osv_earliest_published_at": "2026-08-05T14:01:54Z",
+  "source_published_at": "2026-08-05T14:01:54Z",
+  "observed_at": "2026-08-05T14:30:41Z",
+  "ingested_at": "2026-08-05T14:30:41Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:43:20Z",
+  "ledger_committed_at": "2026-08-05T14:43:20Z"
+}
