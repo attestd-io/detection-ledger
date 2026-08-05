@@ -156970,5 +156970,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:26:48Z",
     "ledger_committed_at": "2026-08-05T15:26:48Z"
+  },
+  {
+    "id": "tinkoff-statist-browser-typed-client-coretech-statist-mobile-ci-2026-08-05",
+    "display_name": "tinkoff-statist-browser-typed-client-coretech.statist.mobile.ci",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tinkoff-statist-browser-typed-client-coretech.statist.mobile.ci",
+        "ecosystem": "npm",
+        "versions": [
+          "20.1.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12256",
+            "osv_published_at": "2026-08-05T09:03:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:20:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:20:50Z",
+    "osv_earliest_published_at": "2026-08-05T09:03:04Z",
+    "source_published_at": "2026-08-05T09:03:04Z",
+    "observed_at": "2026-08-05T15:20:50Z",
+    "ingested_at": "2026-08-05T15:20:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:27:08Z",
+    "ledger_committed_at": "2026-08-05T15:27:08Z"
   }
 ]
