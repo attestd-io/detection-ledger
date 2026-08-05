@@ -1,0 +1,37 @@
+{
+  "id": "boxy-expander-contract-2026-08-05",
+  "display_name": "boxy-expander-contract",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "boxy-expander-contract",
+      "ecosystem": "npm",
+      "versions": [
+        "35.5.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13043",
+          "osv_published_at": "2026-08-05T14:32:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:39:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:39:11Z",
+  "osv_earliest_published_at": "2026-08-05T14:32:48Z",
+  "source_published_at": "2026-08-05T14:32:48Z",
+  "observed_at": "2026-08-05T15:39:11Z",
+  "ingested_at": "2026-08-05T15:39:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:02:59Z",
+  "ledger_committed_at": "2026-08-05T16:02:59Z"
+}
