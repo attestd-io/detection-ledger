@@ -1,0 +1,37 @@
+{
+  "id": "checkout-commit-pos-order-am-2026-08-05",
+  "display_name": "checkout-commit-pos-order-am",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "checkout-commit-pos-order-am",
+      "ecosystem": "npm",
+      "versions": [
+        "35.8.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12548",
+          "osv_published_at": "2026-08-05T14:14:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:28:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:28:50Z",
+  "osv_earliest_published_at": "2026-08-05T14:14:04Z",
+  "source_published_at": "2026-08-05T14:14:04Z",
+  "observed_at": "2026-08-05T14:28:50Z",
+  "ingested_at": "2026-08-05T14:28:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:32:40Z",
+  "ledger_committed_at": "2026-08-05T14:32:40Z"
+}
