@@ -1,0 +1,43 @@
+{
+  "id": "servicetitan-anvil-react-2026-08-05",
+  "display_name": "@servicetitan/anvil-react",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@servicetitan/anvil-react",
+      "ecosystem": "npm",
+      "versions": [
+        "0.11.3",
+        "0.11.4",
+        "0.11.5",
+        "0.11.6",
+        "0.11.7",
+        "0.11.8",
+        "0.11.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11819",
+          "osv_published_at": "2026-08-04T13:18:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T02:31:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T02:31:46Z",
+  "osv_earliest_published_at": "2026-08-04T13:18:42Z",
+  "source_published_at": "2026-08-04T13:18:42Z",
+  "observed_at": "2026-08-05T02:31:46Z",
+  "ingested_at": "2026-08-05T02:31:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T02:32:07Z",
+  "ledger_committed_at": "2026-08-05T02:32:07Z"
+}
