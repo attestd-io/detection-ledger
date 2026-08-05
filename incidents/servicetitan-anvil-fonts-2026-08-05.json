@@ -2,7 +2,7 @@
   "id": "servicetitan-anvil-fonts-2026-08-05",
   "display_name": "@servicetitan/anvil-fonts",
   "campaign": null,
-  "detection_source": "osv",
+  "detection_source": "npm_registry",
   "packages": [
     {
       "package": "@servicetitan/anvil-fonts",
@@ -16,28 +16,23 @@
         "14.5.8",
         "14.5.9"
       ],
-      "osv_entries": [
-        {
-          "osv_id": "MAL-2026-11816",
-          "osv_published_at": "2026-08-04T13:20:45Z"
-        }
-      ]
+      "osv_entries": []
     }
   ],
   "malware_type": "malware",
-  "attestd_detected_at": "2026-08-05T02:26:55Z",
+  "attestd_detected_at": "2026-08-05T02:26:58Z",
   "flagged_at": null,
-  "confirmed_at": "2026-08-05T02:26:55Z",
-  "osv_earliest_published_at": "2026-08-04T13:20:45Z",
-  "source_published_at": "2026-08-04T13:20:45Z",
-  "observed_at": "2026-08-05T02:26:55Z",
-  "ingested_at": "2026-08-05T02:26:55Z",
+  "confirmed_at": "2026-08-05T02:26:58Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-05T02:26:58Z",
+  "ingested_at": "2026-08-05T02:26:58Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
-  "advisory_url": "",
-  "ledger_commit_at": "2026-08-05T02:27:01Z",
-  "ledger_committed_at": "2026-08-05T02:27:01Z"
+  "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fanvil-fonts",
+  "ledger_commit_at": "2026-08-05T02:27:07Z",
+  "ledger_committed_at": "2026-08-05T02:27:07Z"
 }
