@@ -1,0 +1,37 @@
+{
+  "id": "bnpl-blocks-desktop-bnpl-tab-buttons-2026-08-05",
+  "display_name": "bnpl-blocks-desktop-bnpl-tab-buttons",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bnpl-blocks-desktop-bnpl-tab-buttons",
+      "ecosystem": "npm",
+      "versions": [
+        "35.9.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12942",
+          "osv_published_at": "2026-08-05T14:46:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:37:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:37:22Z",
+  "osv_earliest_published_at": "2026-08-05T14:46:08Z",
+  "source_published_at": "2026-08-05T14:46:08Z",
+  "observed_at": "2026-08-05T15:37:22Z",
+  "ingested_at": "2026-08-05T15:37:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T15:51:59Z",
+  "ledger_committed_at": "2026-08-05T15:51:59Z"
+}
