@@ -1,0 +1,37 @@
+{
+  "id": "create-cf-token-2026-08-05",
+  "display_name": "create-cf-token",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "create-cf-token",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5240",
+          "osv_published_at": "2026-06-05T00:53:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:31:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:31:21Z",
+  "osv_earliest_published_at": "2026-06-05T00:53:43Z",
+  "source_published_at": "2026-06-05T00:53:43Z",
+  "observed_at": "2026-08-05T03:31:21Z",
+  "ingested_at": "2026-08-05T03:31:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:37:41Z",
+  "ledger_committed_at": "2026-08-05T03:37:41Z"
+}
