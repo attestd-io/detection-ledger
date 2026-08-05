@@ -148724,6 +148724,7 @@
         "package": "new-native-tools-linux-x64-gnu",
         "ecosystem": "npm",
         "versions": [
+          "3.1.40-as2-9923-378-1785154830",
           "3.1.40-browser-release-151-380-1785161758",
           "3.1.41-origin-chrom-468-delete-windows-32-bit-changelog-fix-408-1785838091"
         ],
@@ -148749,8 +148750,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T13:28:38Z",
-    "ledger_committed_at": "2026-08-05T13:28:38Z"
+    "ledger_commit_at": "2026-08-05T17:18:28Z",
+    "ledger_committed_at": "2026-08-05T17:18:28Z"
   },
   {
     "id": "node-cache-multithread-2026-08-05",
@@ -149209,6 +149210,7 @@
           "1.0.1",
           "1.0.2",
           "1.0.4",
+          "1.0.5",
           "1.0.6"
         ],
         "osv_entries": [
@@ -149233,8 +149235,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T15:32:34Z",
-    "ledger_committed_at": "2026-08-05T15:32:34Z"
+    "ledger_commit_at": "2026-08-05T17:18:35Z",
+    "ledger_committed_at": "2026-08-05T17:18:35Z"
   },
   {
     "id": "react-table-core-2026-08-05",
@@ -167173,77 +167175,41 @@
     "ledger_committed_at": "2026-08-05T16:45:02Z"
   },
   {
-    "id": "astralcore-sl-aura-2026-08-05",
-    "display_name": "@astralcore/sl-aura",
+    "id": "chai-foundry-2026-08-05",
+    "display_name": "chai-foundry",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@astralcore/sl-aura",
+        "package": "chai-foundry",
         "ecosystem": "npm",
         "versions": [
-          "1.0.6"
+          "7.0.2",
+          "7.0.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13355",
-            "osv_published_at": "2026-08-05T16:34:09Z"
+            "osv_id": "MAL-2026-13356",
+            "osv_published_at": "2026-08-05T16:37:52Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T17:18:10Z",
+    "attestd_detected_at": "2026-08-05T17:18:11Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T17:18:10Z",
-    "osv_earliest_published_at": "2026-08-05T16:34:09Z",
-    "source_published_at": "2026-08-05T16:34:09Z",
-    "observed_at": "2026-08-05T17:18:10Z",
-    "ingested_at": "2026-08-05T17:18:10Z",
+    "confirmed_at": "2026-08-05T17:18:11Z",
+    "osv_earliest_published_at": "2026-08-05T16:37:52Z",
+    "source_published_at": "2026-08-05T16:37:52Z",
+    "observed_at": "2026-08-05T17:18:11Z",
+    "ingested_at": "2026-08-05T17:18:11Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T17:18:13Z",
-    "ledger_committed_at": "2026-08-05T17:18:13Z"
-  },
-  {
-    "id": "claw-subagent-service-2026-08-05",
-    "display_name": "claw-subagent-service",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "claw-subagent-service",
-        "ecosystem": "npm",
-        "versions": [
-          "1.4.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-3757",
-            "osv_published_at": "2026-05-14T19:25:16Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T17:18:15Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T17:18:15Z",
-    "osv_earliest_published_at": "2026-05-14T19:25:16Z",
-    "source_published_at": "2026-05-14T19:25:16Z",
-    "observed_at": "2026-08-05T17:18:15Z",
-    "ingested_at": "2026-08-05T17:18:15Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T17:18:23Z",
-    "ledger_committed_at": "2026-08-05T17:18:23Z"
+    "ledger_commit_at": "2026-08-05T17:18:15Z",
+    "ledger_committed_at": "2026-08-05T17:18:15Z"
   }
 ]
