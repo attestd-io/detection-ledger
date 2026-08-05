@@ -124779,5 +124779,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T01:54:34Z",
     "ledger_committed_at": "2026-08-05T01:54:34Z"
+  },
+  {
+    "id": "platform-ui-codemods-2026-08-05",
+    "display_name": "platform-ui-codemods",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "platform-ui-codemods",
+        "ecosystem": "npm",
+        "versions": [
+          "20.6.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12041",
+            "osv_published_at": "2026-08-05T00:59:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T01:53:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T01:53:36Z",
+    "osv_earliest_published_at": "2026-08-05T00:59:46Z",
+    "source_published_at": "2026-08-05T00:59:46Z",
+    "observed_at": "2026-08-05T01:53:36Z",
+    "ingested_at": "2026-08-05T01:53:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T01:54:45Z",
+    "ledger_committed_at": "2026-08-05T01:54:45Z"
   }
 ]
