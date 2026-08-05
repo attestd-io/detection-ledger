@@ -1,0 +1,37 @@
+{
+  "id": "webdev-conf-2026-08-05",
+  "display_name": "webdev-conf",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "webdev-conf",
+      "ecosystem": "npm",
+      "versions": [
+        "5.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12005",
+          "osv_published_at": "2026-08-04T23:57:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T03:30:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T03:30:33Z",
+  "osv_earliest_published_at": "2026-08-04T23:57:12Z",
+  "source_published_at": "2026-08-04T23:57:12Z",
+  "observed_at": "2026-08-05T03:30:33Z",
+  "ingested_at": "2026-08-05T03:30:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T03:35:32Z",
+  "ledger_committed_at": "2026-08-05T03:35:32Z"
+}
