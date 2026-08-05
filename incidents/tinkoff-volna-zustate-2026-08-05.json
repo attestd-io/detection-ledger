@@ -1,0 +1,37 @@
+{
+  "id": "tinkoff-volna-zustate-2026-08-05",
+  "display_name": "tinkoff-volna-zustate",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tinkoff-volna-zustate",
+      "ecosystem": "npm",
+      "versions": [
+        "20.9.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12284",
+          "osv_published_at": "2026-08-05T09:02:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:21:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:21:09Z",
+  "osv_earliest_published_at": "2026-08-05T09:02:15Z",
+  "source_published_at": "2026-08-05T09:02:15Z",
+  "observed_at": "2026-08-05T15:21:09Z",
+  "ingested_at": "2026-08-05T15:21:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T15:29:53Z",
+  "ledger_committed_at": "2026-08-05T15:29:53Z"
+}
