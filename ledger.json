@@ -144389,5 +144389,55 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T09:27:38Z",
     "ledger_committed_at": "2026-08-05T09:27:38Z"
+  },
+  {
+    "id": "thedata-2026-08-05",
+    "display_name": "thedata",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "thedata",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.10",
+          "1.0.11",
+          "1.0.12",
+          "1.0.13",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11400",
+            "osv_published_at": "2026-07-30T18:14:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T09:22:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T09:22:34Z",
+    "osv_earliest_published_at": "2026-07-30T18:14:47Z",
+    "source_published_at": "2026-07-30T18:14:47Z",
+    "observed_at": "2026-08-05T09:22:34Z",
+    "ingested_at": "2026-08-05T09:22:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T09:27:51Z",
+    "ledger_committed_at": "2026-08-05T09:27:51Z"
   }
 ]
