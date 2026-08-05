@@ -159423,5 +159423,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T15:41:24Z",
     "ledger_committed_at": "2026-08-05T15:41:24Z"
+  },
+  {
+    "id": "bigops-umf-statist-2026-08-05",
+    "display_name": "bigops-umf-statist",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bigops-umf-statist",
+        "ecosystem": "npm",
+        "versions": [
+          "35.3.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12852",
+            "osv_published_at": "2026-08-05T15:00:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T15:35:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T15:35:54Z",
+    "osv_earliest_published_at": "2026-08-05T15:00:10Z",
+    "source_published_at": "2026-08-05T15:00:10Z",
+    "observed_at": "2026-08-05T15:35:54Z",
+    "ingested_at": "2026-08-05T15:35:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T15:41:31Z",
+    "ledger_committed_at": "2026-08-05T15:41:31Z"
   }
 ]
