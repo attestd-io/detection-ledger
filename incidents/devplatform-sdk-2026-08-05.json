@@ -1,0 +1,37 @@
+{
+  "id": "devplatform-sdk-2026-08-05",
+  "display_name": "devplatform-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "devplatform-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "35.6.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12750",
+          "osv_published_at": "2026-08-05T13:45:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:32:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:32:42Z",
+  "osv_earliest_published_at": "2026-08-05T13:45:38Z",
+  "source_published_at": "2026-08-05T13:45:38Z",
+  "observed_at": "2026-08-05T14:32:42Z",
+  "ingested_at": "2026-08-05T14:32:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:54:52Z",
+  "ledger_committed_at": "2026-08-05T14:54:52Z"
+}
