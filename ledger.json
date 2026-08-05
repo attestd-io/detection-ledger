@@ -144814,35 +144814,37 @@
     "ledger_committed_at": "2026-08-05T09:31:34Z"
   },
   {
-    "id": "mnemonic-utils-2026-08-05",
-    "display_name": "mnemonic-utils",
+    "id": "ethers-lib-2026-08-05",
+    "display_name": "ethers-lib",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "mnemonic-utils",
+        "package": "ethers-lib",
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
           "1.0.1",
-          "1.0.2"
+          "1.0.2",
+          "1.0.3",
+          "1.0.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12112",
-            "osv_published_at": "2026-08-05T06:18:00Z"
+            "osv_id": "MAL-2026-12111",
+            "osv_published_at": "2026-08-05T06:17:24Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:29:50Z",
+    "attestd_detected_at": "2026-08-05T09:29:49Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:29:50Z",
-    "osv_earliest_published_at": "2026-08-05T06:18:00Z",
-    "source_published_at": "2026-08-05T06:18:00Z",
-    "observed_at": "2026-08-05T09:29:50Z",
-    "ingested_at": "2026-08-05T09:29:50Z",
+    "confirmed_at": "2026-08-05T09:29:49Z",
+    "osv_earliest_published_at": "2026-08-05T06:17:24Z",
+    "source_published_at": "2026-08-05T06:17:24Z",
+    "observed_at": "2026-08-05T09:29:49Z",
+    "ingested_at": "2026-08-05T09:29:49Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -144853,80 +144855,40 @@
     "ledger_committed_at": "2026-08-05T09:31:43Z"
   },
   {
-    "id": "python-bitcoinlib-2026-08-05",
-    "display_name": "python-bitcoinlib",
+    "id": "streak-calc-math-2026-08-05",
+    "display_name": "streak-calc-math",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "python-bitcoinlib",
-        "ecosystem": "npm",
-        "versions": [
-          "1.0.0",
-          "1.0.1",
-          "1.0.2",
-          "1.0.3"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12113",
-            "osv_published_at": "2026-08-05T06:18:23Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:29:51Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:29:51Z",
-    "osv_earliest_published_at": "2026-08-05T06:18:23Z",
-    "source_published_at": "2026-08-05T06:18:23Z",
-    "observed_at": "2026-08-05T09:29:51Z",
-    "ingested_at": "2026-08-05T09:29:51Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:31:51Z",
-    "ledger_committed_at": "2026-08-05T09:31:51Z"
-  },
-  {
-    "id": "streak-math-calc-2026-08-05",
-    "display_name": "streak-math-calc",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "streak-math-calc",
+        "package": "streak-calc-math",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12115",
-            "osv_published_at": "2026-08-05T06:21:02Z"
+            "osv_id": "MAL-2026-12114",
+            "osv_published_at": "2026-08-05T06:22:22Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:29:53Z",
+    "attestd_detected_at": "2026-08-05T09:29:52Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:29:53Z",
-    "osv_earliest_published_at": "2026-08-05T06:21:02Z",
-    "source_published_at": "2026-08-05T06:21:02Z",
-    "observed_at": "2026-08-05T09:29:53Z",
-    "ingested_at": "2026-08-05T09:29:53Z",
+    "confirmed_at": "2026-08-05T09:29:52Z",
+    "osv_earliest_published_at": "2026-08-05T06:22:22Z",
+    "source_published_at": "2026-08-05T06:22:22Z",
+    "observed_at": "2026-08-05T09:29:52Z",
+    "ingested_at": "2026-08-05T09:29:52Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:32:02Z",
-    "ledger_committed_at": "2026-08-05T09:32:02Z"
+    "ledger_commit_at": "2026-08-05T09:31:56Z",
+    "ledger_committed_at": "2026-08-05T09:31:56Z"
   }
 ]
