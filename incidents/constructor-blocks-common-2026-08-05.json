@@ -1,0 +1,37 @@
+{
+  "id": "constructor-blocks-common-2026-08-05",
+  "display_name": "constructor-blocks-common",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "constructor-blocks-common",
+      "ecosystem": "npm",
+      "versions": [
+        "35.5.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12660",
+          "osv_published_at": "2026-08-05T13:57:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:31:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:31:01Z",
+  "osv_earliest_published_at": "2026-08-05T13:57:42Z",
+  "source_published_at": "2026-08-05T13:57:42Z",
+  "observed_at": "2026-08-05T14:31:01Z",
+  "ingested_at": "2026-08-05T14:31:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:45:11Z",
+  "ledger_committed_at": "2026-08-05T14:45:11Z"
+}
