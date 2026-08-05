@@ -147910,5 +147910,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T13:22:00Z",
     "ledger_committed_at": "2026-08-05T13:22:00Z"
+  },
+  {
+    "id": "checkout-mobile-pay-button-2026-08-05",
+    "display_name": "checkout-mobile-pay-button",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "checkout-mobile-pay-button",
+        "ecosystem": "npm",
+        "versions": [
+          "20.8.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12352",
+            "osv_published_at": "2026-08-05T12:37:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T13:18:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T13:18:44Z",
+    "osv_earliest_published_at": "2026-08-05T12:37:31Z",
+    "source_published_at": "2026-08-05T12:37:31Z",
+    "observed_at": "2026-08-05T13:18:44Z",
+    "ingested_at": "2026-08-05T13:18:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T13:22:09Z",
+    "ledger_committed_at": "2026-08-05T13:22:09Z"
   }
 ]
