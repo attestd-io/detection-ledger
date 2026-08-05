@@ -1,0 +1,37 @@
+{
+  "id": "claims-person-domain-2026-08-05",
+  "display_name": "claims-person-domain",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "claims-person-domain",
+      "ecosystem": "npm",
+      "versions": [
+        "35.5.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12636",
+          "osv_published_at": "2026-08-05T14:01:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T14:30:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T14:30:35Z",
+  "osv_earliest_published_at": "2026-08-05T14:01:05Z",
+  "source_published_at": "2026-08-05T14:01:05Z",
+  "observed_at": "2026-08-05T14:30:35Z",
+  "ingested_at": "2026-08-05T14:30:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T14:42:41Z",
+  "ledger_committed_at": "2026-08-05T14:42:41Z"
+}
