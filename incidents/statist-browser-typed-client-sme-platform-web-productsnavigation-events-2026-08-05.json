@@ -1,0 +1,37 @@
+{
+  "id": "statist-browser-typed-client-sme-platform-web-productsnavigation-events-2026-08-05",
+  "display_name": "statist-browser-typed-client-sme.platform.web.productsnavigation.events",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "statist-browser-typed-client-sme.platform.web.productsnavigation.events",
+      "ecosystem": "npm",
+      "versions": [
+        "20.7.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12214",
+          "osv_published_at": "2026-08-05T08:56:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T15:20:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T15:20:19Z",
+  "osv_earliest_published_at": "2026-08-05T08:56:53Z",
+  "source_published_at": "2026-08-05T08:56:53Z",
+  "observed_at": "2026-08-05T15:20:19Z",
+  "ingested_at": "2026-08-05T15:20:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T15:22:24Z",
+  "ledger_committed_at": "2026-08-05T15:22:24Z"
+}
