@@ -16,14 +16,19 @@
         "1.76.6",
         "1.76.7"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11856",
+          "osv_published_at": "2026-08-04T15:31:17Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-05T02:35:50Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-05T02:35:50Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-08-04T15:31:17Z",
   "source_published_at": null,
   "observed_at": "2026-08-05T02:35:50Z",
   "ingested_at": "2026-08-05T02:35:50Z",
@@ -33,6 +38,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fdte-pdf-editor",
-  "ledger_commit_at": "2026-08-05T02:36:45Z",
-  "ledger_committed_at": "2026-08-05T02:36:45Z"
+  "ledger_commit_at": "2026-08-05T03:42:17Z",
+  "ledger_committed_at": "2026-08-05T03:42:17Z"
 }
