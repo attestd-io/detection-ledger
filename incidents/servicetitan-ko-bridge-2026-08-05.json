@@ -2,7 +2,7 @@
   "id": "servicetitan-ko-bridge-2026-08-05",
   "display_name": "@servicetitan/ko-bridge",
   "campaign": null,
-  "detection_source": "osv",
+  "detection_source": "npm_registry",
   "packages": [
     {
       "package": "@servicetitan/ko-bridge",
@@ -16,28 +16,23 @@
         "38.1.6",
         "38.1.7"
       ],
-      "osv_entries": [
-        {
-          "osv_id": "MAL-2026-11883",
-          "osv_published_at": "2026-08-04T15:30:02Z"
-        }
-      ]
+      "osv_entries": []
     }
   ],
   "malware_type": "malware",
-  "attestd_detected_at": "2026-08-05T02:33:34Z",
+  "attestd_detected_at": "2026-08-05T02:33:37Z",
   "flagged_at": null,
-  "confirmed_at": "2026-08-05T02:33:34Z",
-  "osv_earliest_published_at": "2026-08-04T15:30:02Z",
-  "source_published_at": "2026-08-04T15:30:02Z",
-  "observed_at": "2026-08-05T02:33:34Z",
-  "ingested_at": "2026-08-05T02:33:34Z",
+  "confirmed_at": "2026-08-05T02:33:37Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-05T02:33:37Z",
+  "ingested_at": "2026-08-05T02:33:37Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
   "press_coverage_at": null,
   "press_urls": [],
-  "advisory_url": "",
-  "ledger_commit_at": "2026-08-05T02:34:08Z",
-  "ledger_committed_at": "2026-08-05T02:34:08Z"
+  "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fko-bridge",
+  "ledger_commit_at": "2026-08-05T02:34:13Z",
+  "ledger_committed_at": "2026-08-05T02:34:13Z"
 }
