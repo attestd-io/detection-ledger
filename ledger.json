@@ -126069,5 +126069,43 @@
     "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Facquisition-functions",
     "ledger_commit_at": "2026-08-05T02:31:01Z",
     "ledger_committed_at": "2026-08-05T02:31:01Z"
+  },
+  {
+    "id": "servicetitan-anvil-icon-2026-08-05",
+    "display_name": "@servicetitan/anvil-icon",
+    "campaign": null,
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@servicetitan/anvil-icon",
+        "ecosystem": "npm",
+        "versions": [
+          "0.5.1",
+          "0.5.2",
+          "0.5.3",
+          "0.5.4",
+          "0.5.5",
+          "0.5.6",
+          "0.5.7"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T02:30:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T02:30:58Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-05T02:30:58Z",
+    "ingested_at": "2026-08-05T02:30:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40servicetitan%2Fanvil-icon",
+    "ledger_commit_at": "2026-08-05T02:31:23Z",
+    "ledger_committed_at": "2026-08-05T02:31:23Z"
   }
 ]
