@@ -119734,5 +119734,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T00:02:36Z",
     "ledger_committed_at": "2026-08-05T00:02:36Z"
+  },
+  {
+    "id": "arv-bedrock-auth-2026-08-05",
+    "display_name": "@arv-bedrock/auth",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@arv-bedrock/auth",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.7",
+          "1.1.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11553",
+            "osv_published_at": "2026-08-04T18:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-05T00:03:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-05T00:03:09Z",
+    "osv_earliest_published_at": "2026-08-04T18:00:00Z",
+    "source_published_at": "2026-08-04T18:00:00Z",
+    "observed_at": "2026-08-05T00:03:09Z",
+    "ingested_at": "2026-08-05T00:03:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-05T00:03:12Z",
+    "ledger_committed_at": "2026-08-05T00:03:12Z"
   }
 ]
