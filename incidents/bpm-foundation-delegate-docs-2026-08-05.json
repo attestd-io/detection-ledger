@@ -1,0 +1,37 @@
+{
+  "id": "bpm-foundation-delegate-docs-2026-08-05",
+  "display_name": "bpm-foundation-delegate-docs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bpm-foundation-delegate-docs",
+      "ecosystem": "npm",
+      "versions": [
+        "35.1.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13109",
+          "osv_published_at": "2026-08-05T14:21:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T21:20:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T21:20:58Z",
+  "osv_earliest_published_at": "2026-08-05T14:21:59Z",
+  "source_published_at": "2026-08-05T14:21:59Z",
+  "observed_at": "2026-08-05T21:20:58Z",
+  "ingested_at": "2026-08-05T21:20:58Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T21:21:09Z",
+  "ledger_committed_at": "2026-08-05T21:21:09Z"
+}
