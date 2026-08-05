@@ -1,0 +1,37 @@
+{
+  "id": "docker-api-client-2026-08-05",
+  "display_name": "docker-api-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "docker-api-client",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13280",
+          "osv_published_at": "2026-08-05T15:32:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-05T16:30:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-05T16:30:05Z",
+  "osv_earliest_published_at": "2026-08-05T15:32:51Z",
+  "source_published_at": "2026-08-05T15:32:51Z",
+  "observed_at": "2026-08-05T16:30:05Z",
+  "ingested_at": "2026-08-05T16:30:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-05T16:36:30Z",
+  "ledger_committed_at": "2026-08-05T16:36:30Z"
+}
