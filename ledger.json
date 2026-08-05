@@ -146642,77 +146642,40 @@
     "ledger_committed_at": "2026-08-05T09:41:30Z"
   },
   {
-    "id": "fb-cards-form-no-resident-information-2026-08-05",
-    "display_name": "fb-cards-form-no-resident-information",
+    "id": "devpack-conf-2026-08-05",
+    "display_name": "devpack-conf",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "fb-cards-form-no-resident-information",
+        "package": "devpack-conf",
         "ecosystem": "npm",
         "versions": [
-          "20.4.4"
+          "5.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-12178",
-            "osv_published_at": "2026-08-05T09:09:00Z"
+            "osv_id": "MAL-2026-12177",
+            "osv_published_at": "2026-08-05T08:49:50Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:36:29Z",
+    "attestd_detected_at": "2026-08-05T09:36:27Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:36:29Z",
-    "osv_earliest_published_at": "2026-08-05T09:09:00Z",
-    "source_published_at": "2026-08-05T09:09:00Z",
-    "observed_at": "2026-08-05T09:36:29Z",
-    "ingested_at": "2026-08-05T09:36:29Z",
+    "confirmed_at": "2026-08-05T09:36:27Z",
+    "osv_earliest_published_at": "2026-08-05T08:49:50Z",
+    "source_published_at": "2026-08-05T08:49:50Z",
+    "observed_at": "2026-08-05T09:36:27Z",
+    "ingested_at": "2026-08-05T09:36:27Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:41:39Z",
-    "ledger_committed_at": "2026-08-05T09:41:39Z"
-  },
-  {
-    "id": "geocode-quick-2026-08-05",
-    "display_name": "geocode-quick",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "geocode-quick",
-        "ecosystem": "npm",
-        "versions": [
-          "1.0.3"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-12180",
-            "osv_published_at": "2026-08-05T09:16:43Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-05T09:36:31Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-05T09:36:31Z",
-    "osv_earliest_published_at": "2026-08-05T09:16:43Z",
-    "source_published_at": "2026-08-05T09:16:43Z",
-    "observed_at": "2026-08-05T09:36:31Z",
-    "ingested_at": "2026-08-05T09:36:31Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T09:41:47Z",
-    "ledger_committed_at": "2026-08-05T09:41:47Z"
+    "ledger_commit_at": "2026-08-05T09:41:44Z",
+    "ledger_committed_at": "2026-08-05T09:41:44Z"
   }
 ]
