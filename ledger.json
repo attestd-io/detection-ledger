@@ -192608,5 +192608,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T23:48:32Z",
     "ledger_committed_at": "2026-08-06T23:48:32Z"
+  },
+  {
+    "id": "zyr-agent-2026-08-06",
+    "display_name": "zyr-agent",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "zyr-agent",
+        "ecosystem": "npm",
+        "versions": [
+          "1.5.7",
+          "1.6.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13471",
+            "osv_published_at": "2026-08-06T19:21:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T23:44:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T23:44:57Z",
+    "osv_earliest_published_at": "2026-08-06T19:21:22Z",
+    "source_published_at": "2026-08-06T19:21:22Z",
+    "observed_at": "2026-08-06T23:44:57Z",
+    "ingested_at": "2026-08-06T23:44:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T23:48:44Z",
+    "ledger_committed_at": "2026-08-06T23:48:44Z"
   }
 ]
