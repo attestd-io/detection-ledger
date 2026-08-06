@@ -192055,5 +192055,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T23:46:07Z",
     "ledger_committed_at": "2026-08-06T23:46:07Z"
+  },
+  {
+    "id": "opencode-optimised-toolings-2026-08-06",
+    "display_name": "opencode-optimised-toolings",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "opencode-optimised-toolings",
+        "ecosystem": "npm",
+        "versions": [
+          "3.4.0",
+          "4.0.0",
+          "4.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13452",
+            "osv_published_at": "2026-08-06T19:19:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T23:44:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T23:44:23Z",
+    "osv_earliest_published_at": "2026-08-06T19:19:05Z",
+    "source_published_at": "2026-08-06T19:19:05Z",
+    "observed_at": "2026-08-06T23:44:23Z",
+    "ingested_at": "2026-08-06T23:44:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T23:46:14Z",
+    "ledger_committed_at": "2026-08-06T23:46:14Z"
   }
 ]
