@@ -1,0 +1,37 @@
+{
+  "id": "dbk-ui-forms-2026-08-06",
+  "display_name": "dbk-ui-forms",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dbk-ui-forms",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12669",
+          "osv_published_at": "2026-08-05T13:09:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T23:44:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T23:44:11Z",
+  "osv_earliest_published_at": "2026-08-05T13:09:37Z",
+  "source_published_at": "2026-08-05T13:09:37Z",
+  "observed_at": "2026-08-06T23:44:11Z",
+  "ingested_at": "2026-08-06T23:44:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T23:45:07Z",
+  "ledger_committed_at": "2026-08-06T23:45:07Z"
+}
