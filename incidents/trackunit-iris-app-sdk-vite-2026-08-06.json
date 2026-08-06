@@ -1,0 +1,37 @@
+{
+  "id": "trackunit-iris-app-sdk-vite-2026-08-06",
+  "display_name": "@trackunit/iris-app-sdk-vite",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@trackunit/iris-app-sdk-vite",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.10-alpha-d785aff3531.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13421",
+          "osv_published_at": "2026-08-06T13:11:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T14:28:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T14:28:13Z",
+  "osv_earliest_published_at": "2026-08-06T13:11:00Z",
+  "source_published_at": "2026-08-06T13:11:00Z",
+  "observed_at": "2026-08-06T14:28:13Z",
+  "ingested_at": "2026-08-06T14:28:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T14:29:21Z",
+  "ledger_committed_at": "2026-08-06T14:29:21Z"
+}
