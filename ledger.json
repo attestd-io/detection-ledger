@@ -191493,5 +191493,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T15:30:51Z",
     "ledger_committed_at": "2026-08-06T15:30:51Z"
+  },
+  {
+    "id": "avi892nash-aegis-grid-runner-2026-08-06",
+    "display_name": "@avi892nash/aegis-grid-runner",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@avi892nash/aegis-grid-runner",
+        "ecosystem": "npm",
+        "versions": [
+          "0.3.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13429",
+            "osv_published_at": "2026-08-06T15:48:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T23:41:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T23:41:40Z",
+    "osv_earliest_published_at": "2026-08-06T15:48:23Z",
+    "source_published_at": "2026-08-06T15:48:23Z",
+    "observed_at": "2026-08-06T23:41:40Z",
+    "ingested_at": "2026-08-06T23:41:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T23:41:43Z",
+    "ledger_committed_at": "2026-08-06T23:41:43Z"
   }
 ]
