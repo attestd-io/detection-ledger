@@ -8,17 +8,26 @@
       "package": "@zahlen/checkout",
       "ecosystem": "npm",
       "versions": [
+        "0.1.0",
+        "0.1.1",
+        "0.1.2",
+        "0.2.1",
         "0.2.2"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13391",
+          "osv_published_at": "2026-08-06T06:23:00Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-06T06:22:08Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-06T06:22:08Z",
-  "osv_earliest_published_at": null,
-  "source_published_at": null,
+  "osv_earliest_published_at": "2026-08-06T06:23:00Z",
+  "source_published_at": "2026-08-06T06:23:00Z",
   "observed_at": "2026-08-06T06:22:08Z",
   "ingested_at": "2026-08-06T06:22:08Z",
   "first_served_at": null,
@@ -27,6 +36,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40zahlen%2Fcheckout",
-  "ledger_commit_at": "2026-08-06T06:22:11Z",
-  "ledger_committed_at": "2026-08-06T06:22:11Z"
+  "ledger_commit_at": "2026-08-06T09:29:56Z",
+  "ledger_committed_at": "2026-08-06T09:29:56Z"
 }
