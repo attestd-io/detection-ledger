@@ -190638,5 +190638,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T13:20:10Z",
     "ledger_committed_at": "2026-08-06T13:20:10Z"
+  },
+  {
+    "id": "xiaohhhh1-canvas-agent-2026-08-06",
+    "display_name": "@xiaohhhh1/canvas-agent",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@xiaohhhh1/canvas-agent",
+        "ecosystem": "npm",
+        "versions": [
+          "0.4.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13398",
+            "osv_published_at": "2026-08-06T12:56:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T13:21:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T13:21:15Z",
+    "osv_earliest_published_at": "2026-08-06T12:56:25Z",
+    "source_published_at": "2026-08-06T12:56:25Z",
+    "observed_at": "2026-08-06T13:21:15Z",
+    "ingested_at": "2026-08-06T13:21:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T13:21:20Z",
+    "ledger_committed_at": "2026-08-06T13:21:20Z"
   }
 ]
