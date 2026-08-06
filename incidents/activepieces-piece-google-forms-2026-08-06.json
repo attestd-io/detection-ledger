@@ -1,0 +1,37 @@
+{
+  "id": "activepieces-piece-google-forms-2026-08-06",
+  "display_name": "@activepieces/piece-google-forms",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@activepieces/piece-google-forms",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13396",
+          "osv_published_at": "2026-08-06T12:57:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T13:19:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T13:19:15Z",
+  "osv_earliest_published_at": "2026-08-06T12:57:07Z",
+  "source_published_at": "2026-08-06T12:57:07Z",
+  "observed_at": "2026-08-06T13:19:15Z",
+  "ingested_at": "2026-08-06T13:19:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T13:19:23Z",
+  "ledger_committed_at": "2026-08-06T13:19:23Z"
+}
