@@ -184819,14 +184819,19 @@
           "27.2.2",
           "27.2.3"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11676",
+            "osv_published_at": "2026-08-04T15:22:16Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T09:34:07Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T09:34:07Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-04T15:22:16Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T09:34:07Z",
     "ingested_at": "2026-08-05T09:34:07Z",
@@ -184836,8 +184841,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40or-sdk%2Fbilling-internal",
-    "ledger_commit_at": "2026-08-05T09:34:11Z",
-    "ledger_committed_at": "2026-08-05T09:34:11Z"
+    "ledger_commit_at": "2026-08-06T07:27:52Z",
+    "ledger_committed_at": "2026-08-06T07:27:52Z"
   },
   {
     "id": "patchwork-os-2026-08-05",
