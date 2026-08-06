@@ -170032,21 +170032,21 @@
     "ledger_committed_at": "2026-08-05T22:43:39Z"
   },
   {
-    "id": "poly-provider-api-2026-08-06",
-    "display_name": "poly-provider-api",
+    "id": "polyclob-api-2026-08-06",
+    "display_name": "polyclob-api",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "poly-provider-api",
+        "package": "polyclob-api",
         "ecosystem": "npm",
         "versions": [
-          "4.6.1"
+          "1.5.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13381",
-            "osv_published_at": "2026-08-05T13:16:27Z"
+            "osv_id": "MAL-2026-13382",
+            "osv_published_at": "2026-08-05T13:20:15Z"
           }
         ]
       }
@@ -170055,8 +170055,8 @@
     "attestd_detected_at": "2026-08-06T03:20:28Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-06T03:20:28Z",
-    "osv_earliest_published_at": "2026-08-05T13:16:27Z",
-    "source_published_at": "2026-08-05T13:16:27Z",
+    "osv_earliest_published_at": "2026-08-05T13:20:15Z",
+    "source_published_at": "2026-08-05T13:20:15Z",
     "observed_at": "2026-08-06T03:20:28Z",
     "ingested_at": "2026-08-06T03:20:28Z",
     "first_served_at": null,
@@ -170067,5 +170067,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T03:20:31Z",
     "ledger_committed_at": "2026-08-06T03:20:31Z"
+  },
+  {
+    "id": "svelte-mapped-metrics-2026-08-06",
+    "display_name": "svelte-mapped-metrics",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "svelte-mapped-metrics",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13383",
+            "osv_published_at": "2026-08-05T23:55:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T03:20:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T03:20:29Z",
+    "osv_earliest_published_at": "2026-08-05T23:55:32Z",
+    "source_published_at": "2026-08-05T23:55:32Z",
+    "observed_at": "2026-08-06T03:20:29Z",
+    "ingested_at": "2026-08-06T03:20:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T03:20:39Z",
+    "ledger_committed_at": "2026-08-06T03:20:39Z"
   }
 ]
