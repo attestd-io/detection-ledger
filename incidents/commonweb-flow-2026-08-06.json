@@ -1,0 +1,46 @@
+{
+  "id": "commonweb-flow-2026-08-06",
+  "display_name": "commonweb-flow",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "commonweb-flow",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "5.8.999",
+        "5.999.999",
+        "6.0.999",
+        "6.999.999",
+        "7.1.999",
+        "7.2.999",
+        "7.3.999",
+        "7.999.999",
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-6894",
+          "osv_published_at": "2025-08-17T11:40:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T23:44:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T23:44:06Z",
+  "osv_earliest_published_at": "2025-08-17T11:40:41Z",
+  "source_published_at": "2025-08-17T11:40:41Z",
+  "observed_at": "2026-08-06T23:44:06Z",
+  "ingested_at": "2026-08-06T23:44:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T23:44:42Z",
+  "ledger_committed_at": "2026-08-06T23:44:42Z"
+}
