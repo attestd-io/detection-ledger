@@ -170032,21 +170032,21 @@
     "ledger_committed_at": "2026-08-05T22:43:39Z"
   },
   {
-    "id": "polyclob-api-2026-08-06",
-    "display_name": "polyclob-api",
+    "id": "poly-provider-api-2026-08-06",
+    "display_name": "poly-provider-api",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "polyclob-api",
+        "package": "poly-provider-api",
         "ecosystem": "npm",
         "versions": [
-          "1.5.5"
+          "4.6.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13382",
-            "osv_published_at": "2026-08-05T13:20:15Z"
+            "osv_id": "MAL-2026-13381",
+            "osv_published_at": "2026-08-05T13:16:27Z"
           }
         ]
       }
@@ -170055,8 +170055,8 @@
     "attestd_detected_at": "2026-08-06T03:20:28Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-06T03:20:28Z",
-    "osv_earliest_published_at": "2026-08-05T13:20:15Z",
-    "source_published_at": "2026-08-05T13:20:15Z",
+    "osv_earliest_published_at": "2026-08-05T13:16:27Z",
+    "source_published_at": "2026-08-05T13:16:27Z",
     "observed_at": "2026-08-06T03:20:28Z",
     "ingested_at": "2026-08-06T03:20:28Z",
     "first_served_at": null,
