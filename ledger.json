@@ -190311,5 +190311,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-05T09:35:48Z",
     "ledger_committed_at": "2026-08-05T09:35:48Z"
+  },
+  {
+    "id": "decapod-common-2026-08-06",
+    "display_name": "decapod-common",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "decapod-common",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.0",
+          "1.2.dev1",
+          "1.2.dev2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13386",
+            "osv_published_at": "2026-08-06T07:14:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T07:39:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T07:39:27Z",
+    "osv_earliest_published_at": "2026-08-06T07:14:52Z",
+    "source_published_at": "2026-08-06T07:14:52Z",
+    "observed_at": "2026-08-06T07:39:27Z",
+    "ingested_at": "2026-08-06T07:39:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T07:39:30Z",
+    "ledger_committed_at": "2026-08-06T07:39:30Z"
   }
 ]
