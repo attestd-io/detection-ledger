@@ -150654,7 +150654,9 @@
         "package": "@cy4dev/cydemo-bg-color",
         "ecosystem": "npm",
         "versions": [
+          "4.0.0",
           "5.0.0",
+          "6.0.0",
           "7.0.0"
         ],
         "osv_entries": [
@@ -150679,8 +150681,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T14:25:24Z",
-    "ledger_committed_at": "2026-08-05T14:25:24Z"
+    "ledger_commit_at": "2026-08-06T23:41:52Z",
+    "ledger_committed_at": "2026-08-06T23:41:52Z"
   },
   {
     "id": "latlongid-location-2026-08-05",
@@ -183912,8 +183914,6 @@
         "package": "@guangnao/claude-cli",
         "ecosystem": "npm",
         "versions": [
-          "1.0.12",
-          "1.0.13",
           "1.0.5"
         ],
         "osv_entries": [
@@ -183938,8 +183938,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T23:42:00Z",
-    "ledger_committed_at": "2026-08-06T23:42:00Z"
+    "ledger_commit_at": "2026-08-05T16:27:19Z",
+    "ledger_committed_at": "2026-08-05T16:27:19Z"
   },
   {
     "id": "helix-deploy-2026-08-05",
@@ -191497,42 +191497,78 @@
     "ledger_committed_at": "2026-08-06T15:30:51Z"
   },
   {
-    "id": "ch4acko3-frontal-lobe-2026-08-06",
-    "display_name": "@ch4acko3/frontal-lobe",
+    "id": "avi892nash-aegis-grid-runner-2026-08-06",
+    "display_name": "@avi892nash/aegis-grid-runner",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@ch4acko3/frontal-lobe",
+        "package": "@avi892nash/aegis-grid-runner",
         "ecosystem": "npm",
         "versions": [
-          "0.1.12",
-          "0.1.12-preview.2",
-          "0.1.14"
+          "0.3.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13430",
-            "osv_published_at": "2026-08-06T15:50:36Z"
+            "osv_id": "MAL-2026-13429",
+            "osv_published_at": "2026-08-06T15:48:23Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-06T23:41:41Z",
+    "attestd_detected_at": "2026-08-06T23:41:40Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-06T23:41:41Z",
-    "osv_earliest_published_at": "2026-08-06T15:50:36Z",
-    "source_published_at": "2026-08-06T15:50:36Z",
-    "observed_at": "2026-08-06T23:41:41Z",
-    "ingested_at": "2026-08-06T23:41:41Z",
+    "confirmed_at": "2026-08-06T23:41:40Z",
+    "osv_earliest_published_at": "2026-08-06T15:48:23Z",
+    "source_published_at": "2026-08-06T15:48:23Z",
+    "observed_at": "2026-08-06T23:41:40Z",
+    "ingested_at": "2026-08-06T23:41:40Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T23:41:46Z",
-    "ledger_committed_at": "2026-08-06T23:41:46Z"
+    "ledger_commit_at": "2026-08-06T23:41:43Z",
+    "ledger_committed_at": "2026-08-06T23:41:43Z"
+  },
+  {
+    "id": "junyoung-kim-reins-2026-08-06",
+    "display_name": "@junyoung-kim/reins",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@junyoung-kim/reins",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.6",
+          "0.1.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13432",
+            "osv_published_at": "2026-08-06T16:53:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T23:41:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T23:41:46Z",
+    "osv_earliest_published_at": "2026-08-06T16:53:28Z",
+    "source_published_at": "2026-08-06T16:53:28Z",
+    "observed_at": "2026-08-06T23:41:46Z",
+    "ingested_at": "2026-08-06T23:41:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T23:42:05Z",
+    "ledger_committed_at": "2026-08-06T23:42:05Z"
   }
 ]
