@@ -1,0 +1,37 @@
+{
+  "id": "helmet-pro-2026-08-06",
+  "display_name": "helmet-pro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "helmet-pro",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13401",
+          "osv_published_at": "2026-08-06T12:30:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T15:25:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T15:25:09Z",
+  "osv_earliest_published_at": "2026-08-06T12:30:20Z",
+  "source_published_at": "2026-08-06T12:30:20Z",
+  "observed_at": "2026-08-06T15:25:09Z",
+  "ingested_at": "2026-08-06T15:25:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T15:25:14Z",
+  "ledger_committed_at": "2026-08-06T15:25:14Z"
+}
