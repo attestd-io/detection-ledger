@@ -170228,14 +170228,19 @@
         "versions": [
           "0.1.4"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12332",
+            "osv_published_at": "2026-08-05T12:48:29Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-06T06:22:16Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-06T06:22:16Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-05T12:48:29Z",
     "source_published_at": null,
     "observed_at": "2026-08-06T06:22:16Z",
     "ingested_at": "2026-08-06T06:22:16Z",
@@ -170245,8 +170250,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40zahlen%2Fcheckout-angular",
-    "ledger_commit_at": "2026-08-06T06:22:19Z",
-    "ledger_committed_at": "2026-08-06T06:22:19Z"
+    "ledger_commit_at": "2026-08-06T09:30:04Z",
+    "ledger_committed_at": "2026-08-06T09:30:04Z"
   },
   {
     "id": "a-poltoradnev-package-b-2026-08-05",
