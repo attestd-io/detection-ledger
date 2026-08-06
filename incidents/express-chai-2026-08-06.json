@@ -1,0 +1,37 @@
+{
+  "id": "express-chai-2026-08-06",
+  "display_name": "express-chai",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "express-chai",
+      "ecosystem": "npm",
+      "versions": [
+        "3.7.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13446",
+          "osv_published_at": "2026-08-06T19:11:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T23:44:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T23:44:17Z",
+  "osv_earliest_published_at": "2026-08-06T19:11:04Z",
+  "source_published_at": "2026-08-06T19:11:04Z",
+  "observed_at": "2026-08-06T23:44:17Z",
+  "ingested_at": "2026-08-06T23:44:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T23:45:40Z",
+  "ledger_committed_at": "2026-08-06T23:45:40Z"
+}
