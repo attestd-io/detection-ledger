@@ -170105,5 +170105,37 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T03:20:46Z",
     "ledger_committed_at": "2026-08-06T03:20:46Z"
+  },
+  {
+    "id": "hoteldev-common-2026-08-06",
+    "display_name": "@hoteldev/common",
+    "campaign": null,
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@hoteldev/common",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.9"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T06:20:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T06:20:11Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-06T06:20:11Z",
+    "ingested_at": "2026-08-06T06:20:11Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40hoteldev%2Fcommon",
+    "ledger_commit_at": "2026-08-06T06:20:13Z",
+    "ledger_committed_at": "2026-08-06T06:20:13Z"
   }
 ]
