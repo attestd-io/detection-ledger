@@ -169779,7 +169779,8 @@
         "package": "fca-eryxenx",
         "ecosystem": "npm",
         "versions": [
-          "39.5.0"
+          "39.5.0",
+          "39.9.0"
         ],
         "osv_entries": [
           {
@@ -169803,8 +169804,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T21:31:13Z",
-    "ledger_committed_at": "2026-08-05T21:31:13Z"
+    "ledger_commit_at": "2026-08-06T03:21:06Z",
+    "ledger_committed_at": "2026-08-06T03:21:06Z"
   },
   {
     "id": "whalent-agent-2026-08-05",
@@ -170032,21 +170033,21 @@
     "ledger_committed_at": "2026-08-05T22:43:39Z"
   },
   {
-    "id": "polyclob-api-2026-08-06",
-    "display_name": "polyclob-api",
+    "id": "poly-provider-api-2026-08-06",
+    "display_name": "poly-provider-api",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "polyclob-api",
+        "package": "poly-provider-api",
         "ecosystem": "npm",
         "versions": [
-          "1.5.5"
+          "4.6.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13382",
-            "osv_published_at": "2026-08-05T13:20:15Z"
+            "osv_id": "MAL-2026-13381",
+            "osv_published_at": "2026-08-05T13:16:27Z"
           }
         ]
       }
@@ -170055,8 +170056,8 @@
     "attestd_detected_at": "2026-08-06T03:20:28Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-06T03:20:28Z",
-    "osv_earliest_published_at": "2026-08-05T13:20:15Z",
-    "source_published_at": "2026-08-05T13:20:15Z",
+    "osv_earliest_published_at": "2026-08-05T13:16:27Z",
+    "source_published_at": "2026-08-05T13:16:27Z",
     "observed_at": "2026-08-06T03:20:28Z",
     "ingested_at": "2026-08-06T03:20:28Z",
     "first_served_at": null,
@@ -170069,119 +170070,40 @@
     "ledger_committed_at": "2026-08-06T03:20:31Z"
   },
   {
-    "id": "svelte-mapped-metrics-2026-08-06",
-    "display_name": "svelte-mapped-metrics",
+    "id": "svelte-mapping-core-2026-08-06",
+    "display_name": "svelte-mapping-core",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "svelte-mapped-metrics",
+        "package": "svelte-mapping-core",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13383",
-            "osv_published_at": "2026-08-05T23:55:32Z"
+            "osv_id": "MAL-2026-13384",
+            "osv_published_at": "2026-08-05T23:51:03Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-06T03:20:29Z",
+    "attestd_detected_at": "2026-08-06T03:20:30Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-06T03:20:29Z",
-    "osv_earliest_published_at": "2026-08-05T23:55:32Z",
-    "source_published_at": "2026-08-05T23:55:32Z",
-    "observed_at": "2026-08-06T03:20:29Z",
-    "ingested_at": "2026-08-06T03:20:29Z",
+    "confirmed_at": "2026-08-06T03:20:30Z",
+    "osv_earliest_published_at": "2026-08-05T23:51:03Z",
+    "source_published_at": "2026-08-05T23:51:03Z",
+    "observed_at": "2026-08-06T03:20:30Z",
+    "ingested_at": "2026-08-06T03:20:30Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T03:20:39Z",
-    "ledger_committed_at": "2026-08-06T03:20:39Z"
-  },
-  {
-    "id": "tick-forge-2026-08-06",
-    "display_name": "tick-forge",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "tick-forge",
-        "ecosystem": "npm",
-        "versions": [
-          "11.5.2"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13385",
-            "osv_published_at": "2026-08-05T13:16:27Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-06T03:20:31Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-06T03:20:31Z",
-    "osv_earliest_published_at": "2026-08-05T13:16:27Z",
-    "source_published_at": "2026-08-05T13:16:27Z",
-    "observed_at": "2026-08-06T03:20:31Z",
-    "ingested_at": "2026-08-06T03:20:31Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T03:20:50Z",
-    "ledger_committed_at": "2026-08-06T03:20:50Z"
-  },
-  {
-    "id": "signetai-signet-memory-openclaw-2026-08-06",
-    "display_name": "@signetai/signet-memory-openclaw",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@signetai/signet-memory-openclaw",
-        "ecosystem": "npm",
-        "versions": [
-          "0.163.4",
-          "0.163.5",
-          "0.163.6",
-          "0.163.7",
-          "0.163.8",
-          "0.163.9"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-4445",
-            "osv_published_at": "2026-05-20T20:18:22Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-06T03:20:33Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-06T03:20:33Z",
-    "osv_earliest_published_at": "2026-05-20T20:18:22Z",
-    "source_published_at": "2026-05-20T20:18:22Z",
-    "observed_at": "2026-08-06T03:20:33Z",
-    "ingested_at": "2026-08-06T03:20:33Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T03:20:58Z",
-    "ledger_committed_at": "2026-08-06T03:20:58Z"
+    "ledger_commit_at": "2026-08-06T03:20:46Z",
+    "ledger_committed_at": "2026-08-06T03:20:46Z"
   }
 ]
