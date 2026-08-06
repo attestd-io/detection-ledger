@@ -190491,7 +190491,6 @@
         "package": "@activepieces/piece-google-bigquery",
         "ecosystem": "npm",
         "versions": [
-          "0.0.5",
           "0.0.6"
         ],
         "osv_entries": [
@@ -190516,8 +190515,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T14:25:31Z",
-    "ledger_committed_at": "2026-08-06T14:25:31Z"
+    "ledger_commit_at": "2026-08-06T13:19:15Z",
+    "ledger_committed_at": "2026-08-06T13:19:15Z"
   },
   {
     "id": "activepieces-piece-google-forms-2026-08-06",
@@ -190529,6 +190528,8 @@
         "package": "@activepieces/piece-google-forms",
         "ecosystem": "npm",
         "versions": [
+          "0.5.5",
+          "0.5.6",
           "0.5.7"
         ],
         "osv_entries": [
@@ -190553,8 +190554,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T13:19:23Z",
-    "ledger_committed_at": "2026-08-06T13:19:23Z"
+    "ledger_commit_at": "2026-08-06T14:25:46Z",
+    "ledger_committed_at": "2026-08-06T14:25:46Z"
   },
   {
     "id": "agent-link-agent-2026-08-06",
@@ -190753,41 +190754,125 @@
     "ledger_committed_at": "2026-08-06T14:24:36Z"
   },
   {
-    "id": "addai-ainode-2026-08-06",
-    "display_name": "@addai/ainode",
+    "id": "activepieces-piece-base44-2026-08-06",
+    "display_name": "@activepieces/piece-base44",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@addai/ainode",
+        "package": "@activepieces/piece-base44",
         "ecosystem": "npm",
         "versions": [
-          "0.3.0",
-          "0.3.1"
+          "0.1.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13409",
-            "osv_published_at": "2026-08-06T13:20:11Z"
+            "osv_id": "MAL-2026-13408",
+            "osv_published_at": "2026-08-06T13:17:58Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-06T14:25:33Z",
+    "attestd_detected_at": "2026-08-06T14:25:27Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-06T14:25:33Z",
-    "osv_earliest_published_at": "2026-08-06T13:20:11Z",
-    "source_published_at": "2026-08-06T13:20:11Z",
-    "observed_at": "2026-08-06T14:25:33Z",
-    "ingested_at": "2026-08-06T14:25:33Z",
+    "confirmed_at": "2026-08-06T14:25:27Z",
+    "osv_earliest_published_at": "2026-08-06T13:17:58Z",
+    "source_published_at": "2026-08-06T13:17:58Z",
+    "observed_at": "2026-08-06T14:25:27Z",
+    "ingested_at": "2026-08-06T14:25:27Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T14:25:54Z",
-    "ledger_committed_at": "2026-08-06T14:25:54Z"
+    "ledger_commit_at": "2026-08-06T14:25:29Z",
+    "ledger_committed_at": "2026-08-06T14:25:29Z"
+  },
+  {
+    "id": "activepieces-piece-google-contacts-2026-08-06",
+    "display_name": "@activepieces/piece-google-contacts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@activepieces/piece-google-contacts",
+        "ecosystem": "npm",
+        "versions": [
+          "0.4.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13395",
+            "osv_published_at": "2026-08-06T12:57:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T14:25:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T14:25:30Z",
+    "osv_earliest_published_at": "2026-08-06T12:57:14Z",
+    "source_published_at": "2026-08-06T12:57:14Z",
+    "observed_at": "2026-08-06T14:25:30Z",
+    "ingested_at": "2026-08-06T14:25:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T14:25:39Z",
+    "ledger_committed_at": "2026-08-06T14:25:39Z"
+  },
+  {
+    "id": "addai-entity-runtime-2026-08-06",
+    "display_name": "@addai/entity-runtime",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@addai/entity-runtime",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.45",
+          "0.2.46",
+          "0.2.47",
+          "0.2.48",
+          "0.2.49",
+          "0.2.50",
+          "0.2.51",
+          "0.2.52",
+          "0.2.53",
+          "0.2.55",
+          "0.2.56",
+          "0.2.58"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13410",
+            "osv_published_at": "2026-08-06T13:22:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T14:25:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T14:25:37Z",
+    "osv_earliest_published_at": "2026-08-06T13:22:55Z",
+    "source_published_at": "2026-08-06T13:22:55Z",
+    "observed_at": "2026-08-06T14:25:37Z",
+    "ingested_at": "2026-08-06T14:25:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T14:26:01Z",
+    "ledger_committed_at": "2026-08-06T14:26:01Z"
   }
 ]

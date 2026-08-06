@@ -1,0 +1,48 @@
+{
+  "id": "addai-entity-runtime-2026-08-06",
+  "display_name": "@addai/entity-runtime",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@addai/entity-runtime",
+      "ecosystem": "npm",
+      "versions": [
+        "0.2.45",
+        "0.2.46",
+        "0.2.47",
+        "0.2.48",
+        "0.2.49",
+        "0.2.50",
+        "0.2.51",
+        "0.2.52",
+        "0.2.53",
+        "0.2.55",
+        "0.2.56",
+        "0.2.58"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13410",
+          "osv_published_at": "2026-08-06T13:22:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T14:25:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T14:25:37Z",
+  "osv_earliest_published_at": "2026-08-06T13:22:55Z",
+  "source_published_at": "2026-08-06T13:22:55Z",
+  "observed_at": "2026-08-06T14:25:37Z",
+  "ingested_at": "2026-08-06T14:25:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T14:26:01Z",
+  "ledger_committed_at": "2026-08-06T14:26:01Z"
+}
