@@ -191571,5 +191571,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T23:42:12Z",
     "ledger_committed_at": "2026-08-06T23:42:12Z"
+  },
+  {
+    "id": "united-airlines-org-atmos-design-system-2026-08-06",
+    "display_name": "@united-airlines-org/atmos-design-system",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@united-airlines-org/atmos-design-system",
+        "ecosystem": "npm",
+        "versions": [
+          "40.0.0",
+          "41.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13435",
+            "osv_published_at": "2026-08-06T19:12:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T23:41:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T23:41:53Z",
+    "osv_earliest_published_at": "2026-08-06T19:12:12Z",
+    "source_published_at": "2026-08-06T19:12:12Z",
+    "observed_at": "2026-08-06T23:41:53Z",
+    "ingested_at": "2026-08-06T23:41:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T23:42:24Z",
+    "ledger_committed_at": "2026-08-06T23:42:24Z"
   }
 ]
