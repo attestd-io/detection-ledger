@@ -169855,7 +169855,8 @@
           "0.3.295",
           "0.3.296",
           "0.3.297",
-          "0.3.298"
+          "0.3.298",
+          "0.3.302"
         ],
         "osv_entries": [
           {
@@ -169879,8 +169880,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T22:12:59Z",
-    "ledger_committed_at": "2026-08-05T22:12:59Z"
+    "ledger_commit_at": "2026-08-06T12:33:08Z",
+    "ledger_committed_at": "2026-08-06T12:33:08Z"
   },
   {
     "id": "app-api-sdk-2026-08-05",
@@ -190443,40 +190444,41 @@
     "ledger_committed_at": "2026-08-06T09:29:48Z"
   },
   {
-    "id": "golaaa-2026-08-06",
-    "display_name": "golaaa",
+    "id": "wallet-monitor-snap-2026-08-06",
+    "display_name": "wallet-monitor-snap",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "golaaa",
+        "package": "wallet-monitor-snap",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0"
+          "1.0.2",
+          "1.0.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13392",
-            "osv_published_at": "2026-08-06T12:13:09Z"
+            "osv_id": "MAL-2026-13393",
+            "osv_published_at": "2026-08-06T12:14:59Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-06T12:33:07Z",
+    "attestd_detected_at": "2026-08-06T12:33:08Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-06T12:33:07Z",
-    "osv_earliest_published_at": "2026-08-06T12:13:09Z",
-    "source_published_at": "2026-08-06T12:13:09Z",
-    "observed_at": "2026-08-06T12:33:07Z",
-    "ingested_at": "2026-08-06T12:33:07Z",
+    "confirmed_at": "2026-08-06T12:33:08Z",
+    "osv_earliest_published_at": "2026-08-06T12:14:59Z",
+    "source_published_at": "2026-08-06T12:14:59Z",
+    "observed_at": "2026-08-06T12:33:08Z",
+    "ingested_at": "2026-08-06T12:33:08Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T12:33:10Z",
-    "ledger_committed_at": "2026-08-06T12:33:10Z"
+    "ledger_commit_at": "2026-08-06T12:33:17Z",
+    "ledger_committed_at": "2026-08-06T12:33:17Z"
   }
 ]
