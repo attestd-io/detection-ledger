@@ -1,0 +1,37 @@
+{
+  "id": "dpdgroup-css-2026-08-06",
+  "display_name": "dpdgroup-css",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dpdgroup-css",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13444",
+          "osv_published_at": "2026-08-06T19:16:31Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T23:44:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T23:44:14Z",
+  "osv_earliest_published_at": "2026-08-06T19:16:31Z",
+  "source_published_at": "2026-08-06T19:16:31Z",
+  "observed_at": "2026-08-06T23:44:14Z",
+  "ingested_at": "2026-08-06T23:44:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T23:45:22Z",
+  "ledger_committed_at": "2026-08-06T23:45:22Z"
+}
