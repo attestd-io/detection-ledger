@@ -191009,5 +191009,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T14:28:33Z",
     "ledger_committed_at": "2026-08-06T14:28:33Z"
+  },
+  {
+    "id": "holocronlab-botruntime-runtime-2026-08-06",
+    "display_name": "@holocronlab/botruntime-runtime",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@holocronlab/botruntime-runtime",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.15",
+          "2.2.5",
+          "2.2.7",
+          "2.4.2",
+          "2.5.0",
+          "2.5.4",
+          "2.6.0",
+          "2.6.1",
+          "2.9.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13419",
+            "osv_published_at": "2026-08-06T14:18:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T14:28:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T14:28:03Z",
+    "osv_earliest_published_at": "2026-08-06T14:18:29Z",
+    "source_published_at": "2026-08-06T14:18:29Z",
+    "observed_at": "2026-08-06T14:28:03Z",
+    "ingested_at": "2026-08-06T14:28:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T14:28:55Z",
+    "ledger_committed_at": "2026-08-06T14:28:55Z"
   }
 ]
