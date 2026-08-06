@@ -1,0 +1,37 @@
+{
+  "id": "ks-video-kwai-player-web-2026-08-06",
+  "display_name": "@ks-video/kwai-player-web",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ks-video/kwai-player-web",
+      "ecosystem": "npm",
+      "versions": [
+        "9.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13433",
+          "osv_published_at": "2026-08-06T16:25:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-06T23:41:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-06T23:41:48Z",
+  "osv_earliest_published_at": "2026-08-06T16:25:56Z",
+  "source_published_at": "2026-08-06T16:25:56Z",
+  "observed_at": "2026-08-06T23:41:48Z",
+  "ingested_at": "2026-08-06T23:41:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-06T23:42:12Z",
+  "ledger_committed_at": "2026-08-06T23:42:12Z"
+}
