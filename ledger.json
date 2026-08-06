@@ -191748,5 +191748,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-06T23:44:35Z",
     "ledger_committed_at": "2026-08-06T23:44:35Z"
+  },
+  {
+    "id": "connect-contingency-2026-08-06",
+    "display_name": "connect-contingency",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "connect-contingency",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13440",
+            "osv_published_at": "2026-08-06T16:17:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-06T23:44:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-06T23:44:07Z",
+    "osv_earliest_published_at": "2026-08-06T16:17:05Z",
+    "source_published_at": "2026-08-06T16:17:05Z",
+    "observed_at": "2026-08-06T23:44:07Z",
+    "ingested_at": "2026-08-06T23:44:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T23:44:48Z",
+    "ledger_committed_at": "2026-08-06T23:44:48Z"
   }
 ]
