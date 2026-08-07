@@ -192764,79 +192764,40 @@
     "ledger_committed_at": "2026-08-07T00:00:22Z"
   },
   {
-    "id": "sui-graphql-client-2026-08-07",
-    "display_name": "sui-graphql-client",
+    "id": "sui-migration-audit-cli-2026-08-07",
+    "display_name": "sui-migration-audit-cli",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "sui-graphql-client",
-        "ecosystem": "npm",
-        "versions": [
-          "0.1.0",
-          "0.2.0",
-          "0.2.1"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13475",
-            "osv_published_at": "2026-08-06T18:06:12Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T00:00:31Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-07T00:00:31Z",
-    "osv_earliest_published_at": "2026-08-06T18:06:12Z",
-    "source_published_at": "2026-08-06T18:06:12Z",
-    "observed_at": "2026-08-07T00:00:31Z",
-    "ingested_at": "2026-08-07T00:00:31Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T00:00:34Z",
-    "ledger_committed_at": "2026-08-07T00:00:34Z"
-  },
-  {
-    "id": "svelte-visual-map-2026-08-07",
-    "display_name": "svelte-visual-map",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "svelte-visual-map",
+        "package": "sui-migration-audit-cli",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13477",
-            "osv_published_at": "2026-08-06T17:40:22Z"
+            "osv_id": "MAL-2026-13476",
+            "osv_published_at": "2026-08-06T18:06:12Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T00:00:34Z",
+    "attestd_detected_at": "2026-08-07T00:00:32Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-07T00:00:34Z",
-    "osv_earliest_published_at": "2026-08-06T17:40:22Z",
-    "source_published_at": "2026-08-06T17:40:22Z",
-    "observed_at": "2026-08-07T00:00:34Z",
-    "ingested_at": "2026-08-07T00:00:34Z",
+    "confirmed_at": "2026-08-07T00:00:32Z",
+    "osv_earliest_published_at": "2026-08-06T18:06:12Z",
+    "source_published_at": "2026-08-06T18:06:12Z",
+    "observed_at": "2026-08-07T00:00:32Z",
+    "ingested_at": "2026-08-07T00:00:32Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T00:00:42Z",
-    "ledger_committed_at": "2026-08-07T00:00:42Z"
+    "ledger_commit_at": "2026-08-07T00:00:38Z",
+    "ledger_committed_at": "2026-08-07T00:00:38Z"
   }
 ]
