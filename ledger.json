@@ -194426,6 +194426,8 @@
         "package": "tailwindcss-hide-scrollbar",
         "ecosystem": "npm",
         "versions": [
+          "0.0.1",
+          "1.0.0",
           "2.5.3",
           "2.5.4"
         ],
@@ -194451,8 +194453,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T14:30:14Z",
-    "ledger_committed_at": "2026-08-06T14:30:14Z"
+    "ledger_commit_at": "2026-08-07T09:44:45Z",
+    "ledger_committed_at": "2026-08-07T09:44:45Z"
   },
   {
     "id": "tsihealth-client-2026-08-06",
@@ -195059,111 +195061,77 @@
     "ledger_committed_at": "2026-08-07T09:23:27Z"
   },
   {
-    "id": "rdfxvela-2026-08-07",
-    "display_name": "rdfxvela",
+    "id": "rdfxvela-build-2026-08-07",
+    "display_name": "rdfxvela-build",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "rdfxvela",
+        "package": "rdfxvela-build",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "1.0.1",
-          "1.0.2",
-          "1.0.3",
-          "1.0.4",
-          "1.0.5",
-          "1.0.6",
-          "2.0.1",
-          "2.0.2",
-          "2.0.3",
-          "3.0.0",
-          "3.0.1",
-          "3.0.2",
-          "4.0.0",
-          "4.0.1",
-          "4.0.2",
-          "4.0.3",
-          "4.0.4",
-          "4.0.5",
-          "4.0.6",
-          "4.0.7",
-          "4.1.0",
-          "5.0.0",
-          "5.0.1",
-          "6.0.0",
-          "6.1.0",
-          "6.2.0",
-          "6.2.1"
+          "1.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13491",
+            "osv_id": "MAL-2026-13492",
             "osv_published_at": "2026-08-07T00:06:23Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T09:44:39Z",
+    "attestd_detected_at": "2026-08-07T09:44:34Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-07T09:44:39Z",
+    "confirmed_at": "2026-08-07T09:44:34Z",
     "osv_earliest_published_at": "2026-08-07T00:06:23Z",
     "source_published_at": "2026-08-07T00:06:23Z",
-    "observed_at": "2026-08-07T09:44:39Z",
-    "ingested_at": "2026-08-07T09:44:39Z",
+    "observed_at": "2026-08-07T09:44:34Z",
+    "ingested_at": "2026-08-07T09:44:34Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T09:44:43Z",
-    "ledger_committed_at": "2026-08-07T09:44:43Z"
+    "ledger_commit_at": "2026-08-07T09:44:37Z",
+    "ledger_committed_at": "2026-08-07T09:44:37Z"
   },
   {
-    "id": "velabuild-2026-08-07",
-    "display_name": "velabuild",
+    "id": "fast-hashes-2026-08-07",
+    "display_name": "fast-hashes",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "velabuild",
-        "ecosystem": "npm",
+        "package": "fast-hashes",
+        "ecosystem": "pypi",
         "versions": [
-          "1.0.0",
-          "1.0.1",
-          "1.0.2",
-          "1.0.3",
-          "2.0.0",
-          "2.1.0",
-          "2.1.1",
-          "2.2.0"
+          "0.1.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13493",
-            "osv_published_at": "2026-08-07T00:06:23Z"
+            "osv_id": "MAL-2026-13490",
+            "osv_published_at": "2026-08-07T09:25:16Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T09:44:43Z",
+    "attestd_detected_at": "2026-08-07T09:44:47Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-07T09:44:43Z",
-    "osv_earliest_published_at": "2026-08-07T00:06:23Z",
-    "source_published_at": "2026-08-07T00:06:23Z",
-    "observed_at": "2026-08-07T09:44:43Z",
-    "ingested_at": "2026-08-07T09:44:43Z",
+    "confirmed_at": "2026-08-07T09:44:47Z",
+    "osv_earliest_published_at": "2026-08-07T09:25:16Z",
+    "source_published_at": "2026-08-07T09:25:16Z",
+    "observed_at": "2026-08-07T09:44:47Z",
+    "ingested_at": "2026-08-07T09:44:47Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T09:44:53Z",
-    "ledger_committed_at": "2026-08-07T09:44:53Z"
+    "ledger_commit_at": "2026-08-07T09:45:02Z",
+    "ledger_committed_at": "2026-08-07T09:45:02Z"
   }
 ]
