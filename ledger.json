@@ -192875,5 +192875,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T01:03:52Z",
     "ledger_committed_at": "2026-08-07T01:03:52Z"
+  },
+  {
+    "id": "prototypevip-baileys-2026-08-07",
+    "display_name": "@prototypevip/baileys",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@prototypevip/baileys",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13480",
+            "osv_published_at": "2026-08-06T23:57:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T01:04:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T01:04:06Z",
+    "osv_earliest_published_at": "2026-08-06T23:57:30Z",
+    "source_published_at": "2026-08-06T23:57:30Z",
+    "observed_at": "2026-08-07T01:04:06Z",
+    "ingested_at": "2026-08-07T01:04:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T01:04:10Z",
+    "ledger_committed_at": "2026-08-07T01:04:10Z"
   }
 ]
