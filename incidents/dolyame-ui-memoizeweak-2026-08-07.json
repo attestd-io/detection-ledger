@@ -1,0 +1,37 @@
+{
+  "id": "dolyame-ui-memoizeweak-2026-08-07",
+  "display_name": "dolyame-ui-memoizeweak",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dolyame-ui-memoizeweak",
+      "ecosystem": "npm",
+      "versions": [
+        "35.8.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13589",
+          "osv_published_at": "2026-08-07T12:27:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-07T13:05:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-07T13:05:49Z",
+  "osv_earliest_published_at": "2026-08-07T12:27:12Z",
+  "source_published_at": "2026-08-07T12:27:12Z",
+  "observed_at": "2026-08-07T13:05:49Z",
+  "ingested_at": "2026-08-07T13:05:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-07T13:12:06Z",
+  "ledger_committed_at": "2026-08-07T13:12:06Z"
+}
