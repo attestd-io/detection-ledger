@@ -199482,5 +199482,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T17:06:01Z",
     "ledger_committed_at": "2026-08-07T17:06:01Z"
+  },
+  {
+    "id": "w-screenctl-2026-08-07",
+    "display_name": "w-screenctl",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "w-screenctl",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.4",
+          "1.0.6",
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13618",
+            "osv_published_at": "2026-08-07T16:37:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T17:05:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T17:05:39Z",
+    "osv_earliest_published_at": "2026-08-07T16:37:30Z",
+    "source_published_at": "2026-08-07T16:37:30Z",
+    "observed_at": "2026-08-07T17:05:39Z",
+    "ingested_at": "2026-08-07T17:05:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T17:06:09Z",
+    "ledger_committed_at": "2026-08-07T17:06:09Z"
   }
 ]
