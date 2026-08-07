@@ -196364,5 +196364,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T13:07:55Z",
     "ledger_committed_at": "2026-08-07T13:07:55Z"
+  },
+  {
+    "id": "dolyame-boxy-independent-bnpl-faq-2026-08-07",
+    "display_name": "dolyame-boxy-independent-bnpl-faq",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dolyame-boxy-independent-bnpl-faq",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13551",
+            "osv_published_at": "2026-08-07T12:25:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T13:05:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T13:05:09Z",
+    "osv_earliest_published_at": "2026-08-07T12:25:15Z",
+    "source_published_at": "2026-08-07T12:25:15Z",
+    "observed_at": "2026-08-07T13:05:09Z",
+    "ingested_at": "2026-08-07T13:05:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T13:08:02Z",
+    "ledger_committed_at": "2026-08-07T13:08:02Z"
   }
 ]
