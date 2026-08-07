@@ -196623,5 +196623,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T13:09:33Z",
     "ledger_committed_at": "2026-08-07T13:09:33Z"
+  },
+  {
+    "id": "dolyame-ui-eventoutside-2026-08-07",
+    "display_name": "dolyame-ui-eventoutside",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dolyame-ui-eventoutside",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13568",
+            "osv_published_at": "2026-08-07T12:28:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T13:05:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T13:05:27Z",
+    "osv_earliest_published_at": "2026-08-07T12:28:18Z",
+    "source_published_at": "2026-08-07T12:28:18Z",
+    "observed_at": "2026-08-07T13:05:27Z",
+    "ingested_at": "2026-08-07T13:05:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T13:09:48Z",
+    "ledger_committed_at": "2026-08-07T13:09:48Z"
   }
 ]
