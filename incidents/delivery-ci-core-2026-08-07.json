@@ -1,0 +1,37 @@
+{
+  "id": "delivery-ci-core-2026-08-07",
+  "display_name": "delivery-ci-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "delivery-ci-core",
+      "ecosystem": "npm",
+      "versions": [
+        "35.3.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13540",
+          "osv_published_at": "2026-08-07T12:32:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-07T13:04:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-07T13:04:58Z",
+  "osv_earliest_published_at": "2026-08-07T12:32:53Z",
+  "source_published_at": "2026-08-07T12:32:53Z",
+  "observed_at": "2026-08-07T13:04:58Z",
+  "ingested_at": "2026-08-07T13:04:58Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-07T13:06:46Z",
+  "ledger_committed_at": "2026-08-07T13:06:46Z"
+}
