@@ -141865,7 +141865,13 @@
         "package": "storyclaw-assistant",
         "ecosystem": "npm",
         "versions": [
-          "2026.6.11-13"
+          "2026.6.11-1",
+          "2026.6.11-13",
+          "2026.6.11-2",
+          "2026.6.11-3",
+          "2026.6.11-4",
+          "2026.6.11-6",
+          "2026.6.11-7"
         ],
         "osv_entries": []
       }
@@ -141884,8 +141890,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/storyclaw-assistant",
-    "ledger_commit_at": "2026-08-04T22:37:31Z",
-    "ledger_committed_at": "2026-08-04T22:37:31Z"
+    "ledger_commit_at": "2026-08-07T03:22:00Z",
+    "ledger_committed_at": "2026-08-07T03:22:00Z"
   },
   {
     "id": "streak-daycount-2026-08-04",
@@ -193067,37 +193073,5 @@
     "advisory_url": "https://registry.npmjs.org/%40mastra%2Fdane",
     "ledger_commit_at": "2026-08-07T03:21:31Z",
     "ledger_committed_at": "2026-08-07T03:21:31Z"
-  },
-  {
-    "id": "jeikclaw-2026-08-07",
-    "display_name": "jeikclaw",
-    "campaign": "link-assistant",
-    "detection_source": "npm_registry",
-    "packages": [
-      {
-        "package": "jeikclaw",
-        "ecosystem": "npm",
-        "versions": [
-          "2026.7.24-2"
-        ],
-        "osv_entries": []
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T03:21:51Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-07T03:21:51Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-07T03:21:51Z",
-    "ingested_at": "2026-08-07T03:21:51Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/jeikclaw",
-    "ledger_commit_at": "2026-08-07T03:21:54Z",
-    "ledger_committed_at": "2026-08-07T03:21:54Z"
   }
 ]
