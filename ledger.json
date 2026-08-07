@@ -199595,5 +199595,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T17:36:18Z",
     "ledger_committed_at": "2026-08-07T17:36:18Z"
+  },
+  {
+    "id": "decido-backend-core-2026-08-07",
+    "display_name": "@decido/backend-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@decido/backend-core",
+        "ecosystem": "npm",
+        "versions": [
+          "4.1.1",
+          "4.1.12",
+          "4.1.18",
+          "4.1.19"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13621",
+            "osv_published_at": "2026-08-07T17:20:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T17:36:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T17:36:17Z",
+    "osv_earliest_published_at": "2026-08-07T17:20:59Z",
+    "source_published_at": "2026-08-07T17:20:59Z",
+    "observed_at": "2026-08-07T17:36:17Z",
+    "ingested_at": "2026-08-07T17:36:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T17:36:25Z",
+    "ledger_committed_at": "2026-08-07T17:36:25Z"
   }
 ]
