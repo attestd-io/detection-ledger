@@ -194062,9 +194062,7 @@
           "1.14.50-202608051418",
           "1.14.50-202608051826",
           "1.14.50-202608061459",
-          "1.14.50-202608061753",
-          "1.14.50-202608070922",
-          "1.14.50-202608071143"
+          "1.14.50-202608061753"
         ],
         "osv_entries": [
           {
@@ -194088,8 +194086,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:38:07Z",
-    "ledger_committed_at": "2026-08-07T13:38:07Z"
+    "ledger_commit_at": "2026-08-06T13:20:07Z",
+    "ledger_committed_at": "2026-08-06T13:20:07Z"
   },
   {
     "id": "poc-ch4rlygr-2026-08-06",
@@ -197408,5 +197406,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T13:14:39Z",
     "ledger_committed_at": "2026-08-07T13:14:39Z"
+  },
+  {
+    "id": "vertexa-prisma-fetch-engine-2026-08-07",
+    "display_name": "@vertexa/prisma-fetch-engine",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@vertexa/prisma-fetch-engine",
+        "ecosystem": "npm",
+        "versions": [
+          "7.8.0",
+          "7.8.1",
+          "7.8.2",
+          "7.8.3",
+          "7.8.4",
+          "7.8.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13608",
+            "osv_published_at": "2026-08-07T12:51:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T13:38:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T13:38:06Z",
+    "osv_earliest_published_at": "2026-08-07T12:51:17Z",
+    "source_published_at": "2026-08-07T12:51:17Z",
+    "observed_at": "2026-08-07T13:38:06Z",
+    "ingested_at": "2026-08-07T13:38:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T13:38:11Z",
+    "ledger_committed_at": "2026-08-07T13:38:11Z"
   }
 ]
