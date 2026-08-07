@@ -190811,7 +190811,11 @@
         "package": "@xiaohhhh1/canvas-agent",
         "ecosystem": "npm",
         "versions": [
-          "0.4.4"
+          "0.4.10",
+          "0.4.11",
+          "0.4.4",
+          "0.4.8",
+          "0.4.9"
         ],
         "osv_entries": [
           {
@@ -190835,8 +190839,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T13:21:20Z",
-    "ledger_committed_at": "2026-08-06T13:21:20Z"
+    "ledger_commit_at": "2026-08-07T13:04:53Z",
+    "ledger_committed_at": "2026-08-07T13:04:53Z"
   },
   {
     "id": "agenthub-multiagent-mcp-2026-08-06",
@@ -191013,8 +191017,7 @@
           "0.8.3",
           "0.8.4",
           "0.8.5",
-          "0.8.6",
-          "0.8.8"
+          "0.8.6"
         ],
         "osv_entries": [
           {
@@ -191038,8 +191041,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:04:32Z",
-    "ledger_committed_at": "2026-08-07T13:04:32Z"
+    "ledger_commit_at": "2026-08-06T14:27:43Z",
+    "ledger_committed_at": "2026-08-06T14:27:43Z"
   },
   {
     "id": "aubea-mars-2026-08-06",
@@ -194053,8 +194056,7 @@
           "1.14.50-202608051418",
           "1.14.50-202608051826",
           "1.14.50-202608061459",
-          "1.14.50-202608061753",
-          "1.14.50-202608071618"
+          "1.14.50-202608061753"
         ],
         "osv_entries": [
           {
@@ -194078,8 +194080,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:04:41Z",
-    "ledger_committed_at": "2026-08-07T13:04:41Z"
+    "ledger_commit_at": "2026-08-06T13:20:07Z",
+    "ledger_committed_at": "2026-08-06T13:20:07Z"
   },
   {
     "id": "poc-ch4rlygr-2026-08-06",
@@ -195658,5 +195660,79 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T12:35:27Z",
     "ledger_committed_at": "2026-08-07T12:35:27Z"
+  },
+  {
+    "id": "aster110-cc2wechat-2026-08-07",
+    "display_name": "@aster110/cc2wechat",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@aster110/cc2wechat",
+        "ecosystem": "npm",
+        "versions": [
+          "5.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13520",
+            "osv_published_at": "2026-08-07T12:43:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T13:04:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T13:04:30Z",
+    "osv_earliest_published_at": "2026-08-07T12:43:35Z",
+    "source_published_at": "2026-08-07T12:43:35Z",
+    "observed_at": "2026-08-07T13:04:30Z",
+    "ingested_at": "2026-08-07T13:04:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T13:04:34Z",
+    "ledger_committed_at": "2026-08-07T13:04:34Z"
+  },
+  {
+    "id": "rbxst-services-2026-08-07",
+    "display_name": "@rbxst/services",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@rbxst/services",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.756"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13521",
+            "osv_published_at": "2026-08-07T12:27:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T13:04:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T13:04:37Z",
+    "osv_earliest_published_at": "2026-08-07T12:27:51Z",
+    "source_published_at": "2026-08-07T12:27:51Z",
+    "observed_at": "2026-08-07T13:04:37Z",
+    "ingested_at": "2026-08-07T13:04:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T13:04:46Z",
+    "ledger_committed_at": "2026-08-07T13:04:46Z"
   }
 ]
