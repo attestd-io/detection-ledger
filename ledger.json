@@ -186075,8 +186075,6 @@
         "package": "@signetai/signet-memory-openclaw",
         "ecosystem": "npm",
         "versions": [
-          "0.123.12",
-          "0.123.3",
           "0.147.18",
           "0.147.19",
           "0.147.21",
@@ -186114,12 +186112,6 @@
           "0.163.17",
           "0.163.18",
           "0.163.19",
-          "0.163.4",
-          "0.163.5",
-          "0.163.6",
-          "0.163.7",
-          "0.163.8",
-          "0.163.9",
           "0.164.1"
         ],
         "osv_entries": [
@@ -186143,9 +186135,9 @@
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://osv.dev/vulnerability/MAL-2026-4445",
-    "ledger_commit_at": "2026-08-07T04:41:25Z",
-    "ledger_committed_at": "2026-08-07T04:41:25Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-06T15:25:50Z",
+    "ledger_committed_at": "2026-08-06T15:25:50Z"
   },
   {
     "id": "signetai-signet-memory-openclaw-2026-08-06",
@@ -186183,11 +186175,13 @@
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
+    "press_coverage_at": "2026-08-07T04:41:30Z",
+    "press_urls": [
+      "https://osv.dev/vulnerability/MAL-2026-4445"
+    ],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-06T03:20:58Z",
-    "ledger_committed_at": "2026-08-06T03:20:58Z"
+    "ledger_commit_at": "2026-08-07T04:41:30Z",
+    "ledger_committed_at": "2026-08-07T04:41:30Z"
   },
   {
     "id": "simple-date-formatter-new-3-2026-08-05",
