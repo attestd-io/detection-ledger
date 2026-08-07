@@ -197067,5 +197067,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-07T13:12:29Z",
     "ledger_committed_at": "2026-08-07T13:12:29Z"
+  },
+  {
+    "id": "dolyame-ui-postcsscustomproperties-2026-08-07",
+    "display_name": "dolyame-ui-postcsscustomproperties",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dolyame-ui-postcsscustomproperties",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13595",
+            "osv_published_at": "2026-08-07T12:33:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-07T13:05:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-07T13:05:55Z",
+    "osv_earliest_published_at": "2026-08-07T12:33:09Z",
+    "source_published_at": "2026-08-07T12:33:09Z",
+    "observed_at": "2026-08-07T13:05:55Z",
+    "ingested_at": "2026-08-07T13:05:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-07T13:12:42Z",
+    "ledger_committed_at": "2026-08-07T13:12:42Z"
   }
 ]
