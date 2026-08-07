@@ -1,0 +1,32 @@
+{
+  "id": "mastra-dane-2026-08-07",
+  "display_name": "@mastra/dane",
+  "campaign": "link-assistant",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@mastra/dane",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-07T03:21:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-07T03:21:28Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-07T03:21:28Z",
+  "ingested_at": "2026-08-07T03:21:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40mastra%2Fdane",
+  "ledger_commit_at": "2026-08-07T03:21:31Z",
+  "ledger_committed_at": "2026-08-07T03:21:31Z"
+}
