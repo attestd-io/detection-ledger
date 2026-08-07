@@ -1,0 +1,40 @@
+{
+  "id": "link-assistant-hive-mind-2026-08-07",
+  "display_name": "@link-assistant/hive-mind",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@link-assistant/hive-mind",
+      "ecosystem": "npm",
+      "versions": [
+        "2.11.12",
+        "2.7.4",
+        "2.8.7",
+        "2.8.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4403",
+          "osv_published_at": "2026-05-20T20:09:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-07T03:20:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-07T03:20:30Z",
+  "osv_earliest_published_at": "2026-05-20T20:09:58Z",
+  "source_published_at": "2026-05-20T20:09:58Z",
+  "observed_at": "2026-08-07T03:20:30Z",
+  "ingested_at": "2026-08-07T03:20:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-07T03:20:34Z",
+  "ledger_committed_at": "2026-08-07T03:20:34Z"
+}
