@@ -124553,8 +124553,6 @@
           "0.0.1-rc35",
           "0.0.1-rc36",
           "0.0.1-rc37",
-          "0.0.1-rc38",
-          "0.0.1-rc39",
           "0.0.1-rc5",
           "0.0.1-rc6",
           "0.0.1-rc7",
@@ -124582,8 +124580,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:14:01Z",
-    "ledger_committed_at": "2026-08-07T13:14:01Z"
+    "ledger_commit_at": "2026-08-06T15:24:39Z",
+    "ledger_committed_at": "2026-08-06T15:24:39Z"
   },
   {
     "id": "servicetitan-uikit-docs-2026-08-05",
@@ -124998,6 +124996,8 @@
           "0.0.1-rc33",
           "0.0.1-rc35",
           "0.0.1-rc36",
+          "0.0.1-rc38",
+          "0.0.1-rc39",
           "0.0.1-rc5",
           "0.0.1-rc7",
           "0.0.1-rc8"
@@ -125024,8 +125024,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-05T16:44:13Z",
-    "ledger_committed_at": "2026-08-05T16:44:13Z"
+    "ledger_commit_at": "2026-08-07T13:14:07Z",
+    "ledger_committed_at": "2026-08-07T13:14:07Z"
   },
   {
     "id": "specials-mvno-client-2026-08-05",
@@ -142914,8 +142914,6 @@
         "ecosystem": "npm",
         "versions": [
           "10.0.3",
-          "10.0.5",
-          "10.0.6",
           "10.0.7"
         ],
         "osv_entries": [
@@ -142940,8 +142938,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:14:19Z",
-    "ledger_committed_at": "2026-08-07T13:14:19Z"
+    "ledger_commit_at": "2026-08-07T12:35:47Z",
+    "ledger_committed_at": "2026-08-07T12:35:47Z"
   },
   {
     "id": "websight-p2p-2026-08-05",
@@ -197297,77 +197295,41 @@
     "ledger_committed_at": "2026-08-07T13:13:41Z"
   },
   {
-    "id": "tailwindcss-motion-advanced-2026-08-07",
-    "display_name": "tailwindcss-motion-advanced",
+    "id": "yakuza0-2026-08-07",
+    "display_name": "yakuza0",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "tailwindcss-motion-advanced",
+        "package": "yakuza0",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1"
+          "2.23.40",
+          "2.23.40-beta.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13604",
-            "osv_published_at": "2026-08-07T12:29:45Z"
+            "osv_id": "MAL-2026-13605",
+            "osv_published_at": "2026-08-07T12:49:02Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T13:06:19Z",
+    "attestd_detected_at": "2026-08-07T13:06:21Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-07T13:06:19Z",
-    "osv_earliest_published_at": "2026-08-07T12:29:45Z",
-    "source_published_at": "2026-08-07T12:29:45Z",
-    "observed_at": "2026-08-07T13:06:19Z",
-    "ingested_at": "2026-08-07T13:06:19Z",
+    "confirmed_at": "2026-08-07T13:06:21Z",
+    "osv_earliest_published_at": "2026-08-07T12:49:02Z",
+    "source_published_at": "2026-08-07T12:49:02Z",
+    "observed_at": "2026-08-07T13:06:21Z",
+    "ingested_at": "2026-08-07T13:06:21Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:14:11Z",
-    "ledger_committed_at": "2026-08-07T13:14:11Z"
-  },
-  {
-    "id": "cdktn-provider-azurerm-2026-08-07",
-    "display_name": "cdktn-provider-azurerm",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "cdktn-provider-azurerm",
-        "ecosystem": "pypi",
-        "versions": [
-          "17.0.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13606",
-            "osv_published_at": "2026-08-07T12:36:48Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T13:06:47Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-07T13:06:47Z",
-    "osv_earliest_published_at": "2026-08-07T12:36:48Z",
-    "source_published_at": "2026-08-07T12:36:48Z",
-    "observed_at": "2026-08-07T13:06:47Z",
-    "ingested_at": "2026-08-07T13:06:47Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:14:31Z",
-    "ledger_committed_at": "2026-08-07T13:14:31Z"
+    "ledger_commit_at": "2026-08-07T13:14:27Z",
+    "ledger_committed_at": "2026-08-07T13:14:27Z"
   }
 ]
