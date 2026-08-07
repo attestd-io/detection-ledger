@@ -195885,77 +195885,40 @@
     "ledger_committed_at": "2026-08-07T13:05:36Z"
   },
   {
-    "id": "bnpl-blocks-atom-bnpl-faq-item-2026-08-07",
-    "display_name": "bnpl-blocks-atom-bnpl-faq-item",
+    "id": "bnpl-blocks-atom-bnpl-image-card-2026-08-07",
+    "display_name": "bnpl-blocks-atom-bnpl-image-card",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bnpl-blocks-atom-bnpl-faq-item",
+        "package": "bnpl-blocks-atom-bnpl-image-card",
         "ecosystem": "npm",
         "versions": [
-          "35.8.2"
+          "35.6.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13528",
-            "osv_published_at": "2026-08-07T12:32:37Z"
+            "osv_id": "MAL-2026-13529",
+            "osv_published_at": "2026-08-07T12:24:24Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T13:04:47Z",
+    "attestd_detected_at": "2026-08-07T13:04:48Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-07T13:04:47Z",
-    "osv_earliest_published_at": "2026-08-07T12:32:37Z",
-    "source_published_at": "2026-08-07T12:32:37Z",
-    "observed_at": "2026-08-07T13:04:47Z",
-    "ingested_at": "2026-08-07T13:04:47Z",
+    "confirmed_at": "2026-08-07T13:04:48Z",
+    "osv_earliest_published_at": "2026-08-07T12:24:24Z",
+    "source_published_at": "2026-08-07T12:24:24Z",
+    "observed_at": "2026-08-07T13:04:48Z",
+    "ingested_at": "2026-08-07T13:04:48Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:05:44Z",
-    "ledger_committed_at": "2026-08-07T13:05:44Z"
-  },
-  {
-    "id": "bnpl-blocks-atom-bnpl-loader-2026-08-07",
-    "display_name": "bnpl-blocks-atom-bnpl-loader",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bnpl-blocks-atom-bnpl-loader",
-        "ecosystem": "npm",
-        "versions": [
-          "35.1.2"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13530",
-            "osv_published_at": "2026-08-07T12:23:47Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-07T13:04:49Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-07T13:04:49Z",
-    "osv_earliest_published_at": "2026-08-07T12:23:47Z",
-    "source_published_at": "2026-08-07T12:23:47Z",
-    "observed_at": "2026-08-07T13:04:49Z",
-    "ingested_at": "2026-08-07T13:04:49Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-07T13:05:52Z",
-    "ledger_committed_at": "2026-08-07T13:05:52Z"
+    "ledger_commit_at": "2026-08-07T13:05:47Z",
+    "ledger_committed_at": "2026-08-07T13:05:47Z"
   }
 ]
