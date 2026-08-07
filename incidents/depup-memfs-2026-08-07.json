@@ -1,0 +1,37 @@
+{
+  "id": "depup-memfs-2026-08-07",
+  "display_name": "@depup/memfs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@depup/memfs",
+      "ecosystem": "npm",
+      "versions": [
+        "4.67.0-depup.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13624",
+          "osv_published_at": "2026-08-07T17:25:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-07T18:07:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-07T18:07:31Z",
+  "osv_earliest_published_at": "2026-08-07T17:25:09Z",
+  "source_published_at": "2026-08-07T17:25:09Z",
+  "observed_at": "2026-08-07T18:07:31Z",
+  "ingested_at": "2026-08-07T18:07:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-07T18:07:47Z",
+  "ledger_committed_at": "2026-08-07T18:07:47Z"
+}
