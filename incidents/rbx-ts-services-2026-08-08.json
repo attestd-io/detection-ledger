@@ -1,0 +1,37 @@
+{
+  "id": "rbx-ts-services-2026-08-08",
+  "display_name": "@rbx-ts/services",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@rbx-ts/services",
+      "ecosystem": "npm",
+      "versions": [
+        "1.6.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13630",
+          "osv_published_at": "2026-08-08T00:47:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-08T01:07:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-08T01:07:18Z",
+  "osv_earliest_published_at": "2026-08-08T00:47:57Z",
+  "source_published_at": "2026-08-08T00:47:57Z",
+  "observed_at": "2026-08-08T01:07:18Z",
+  "ingested_at": "2026-08-08T01:07:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-08T01:07:27Z",
+  "ledger_committed_at": "2026-08-08T01:07:27Z"
+}
