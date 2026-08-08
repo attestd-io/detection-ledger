@@ -200114,5 +200114,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-08T01:08:49Z",
     "ledger_committed_at": "2026-08-08T01:08:49Z"
+  },
+  {
+    "id": "modern-localization-2026-08-08",
+    "display_name": "modern-localization",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "modern-localization",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13633",
+            "osv_published_at": "2026-08-08T00:51:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-08T01:08:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-08T01:08:13Z",
+    "osv_earliest_published_at": "2026-08-08T00:51:44Z",
+    "source_published_at": "2026-08-08T00:51:44Z",
+    "observed_at": "2026-08-08T01:08:13Z",
+    "ingested_at": "2026-08-08T01:08:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-08T01:08:57Z",
+    "ledger_committed_at": "2026-08-08T01:08:57Z"
   }
 ]
