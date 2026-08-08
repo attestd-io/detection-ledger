@@ -200225,5 +200225,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-08T01:09:12Z",
     "ledger_committed_at": "2026-08-08T01:09:12Z"
+  },
+  {
+    "id": "sme-rko-finance-front-operations-feed-impl-2026-08-08",
+    "display_name": "sme-rko-finance-front-operations-feed-impl",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sme-rko-finance-front-operations-feed-impl",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13636",
+            "osv_published_at": "2026-08-08T00:43:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-08T01:08:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-08T01:08:16Z",
+    "osv_earliest_published_at": "2026-08-08T00:43:42Z",
+    "source_published_at": "2026-08-08T00:43:42Z",
+    "observed_at": "2026-08-08T01:08:16Z",
+    "ingested_at": "2026-08-08T01:08:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-08T01:09:20Z",
+    "ledger_committed_at": "2026-08-08T01:09:20Z"
   }
 ]
