@@ -201261,5 +201261,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-08T01:12:51Z",
     "ledger_committed_at": "2026-08-08T01:12:51Z"
+  },
+  {
+    "id": "titan-exchange-shared-permissions-2026-08-08",
+    "display_name": "titan-exchange-shared-permissions",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "titan-exchange-shared-permissions",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13664",
+            "osv_published_at": "2026-08-08T00:52:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-08T01:08:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-08T01:08:40Z",
+    "osv_earliest_published_at": "2026-08-08T00:52:01Z",
+    "source_published_at": "2026-08-08T00:52:01Z",
+    "observed_at": "2026-08-08T01:08:40Z",
+    "ingested_at": "2026-08-08T01:08:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-08T01:12:58Z",
+    "ledger_committed_at": "2026-08-08T01:12:58Z"
   }
 ]
