@@ -1,0 +1,37 @@
+{
+  "id": "bouncer-auth-js-2026-08-09",
+  "display_name": "bouncer-auth-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bouncer-auth-js",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1659",
+          "osv_published_at": "2022-06-20T20:16:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:29:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:29:41Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:03Z",
+  "source_published_at": "2022-06-20T20:16:03Z",
+  "observed_at": "2026-08-09T04:29:41Z",
+  "ingested_at": "2026-08-09T04:29:41Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:08:31Z",
+  "ledger_committed_at": "2026-08-09T05:08:31Z"
+}
