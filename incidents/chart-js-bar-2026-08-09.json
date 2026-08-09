@@ -1,0 +1,37 @@
+{
+  "id": "chart-js-bar-2026-08-09",
+  "display_name": "chart.js-bar",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chart.js-bar",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1882",
+          "osv_published_at": "2022-06-20T20:15:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:45:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:45:31Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:08Z",
+  "source_published_at": "2022-06-20T20:15:08Z",
+  "observed_at": "2026-08-09T04:45:31Z",
+  "ingested_at": "2026-08-09T04:45:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T06:04:34Z",
+  "ledger_committed_at": "2026-08-09T06:04:34Z"
+}
