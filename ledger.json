@@ -203369,5 +203369,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T03:18:15Z",
     "ledger_committed_at": "2026-08-09T03:18:15Z"
+  },
+  {
+    "id": "reuest-2026-08-09",
+    "display_name": "reuest",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "reuest",
+        "ecosystem": "npm",
+        "versions": [
+          "1000.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-r863-p739-275c",
+            "osv_published_at": "2020-09-11T21:09:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:18:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:18:38Z",
+    "osv_earliest_published_at": "2020-09-11T21:09:24Z",
+    "source_published_at": "2020-09-11T21:09:24Z",
+    "observed_at": "2026-08-09T03:18:38Z",
+    "ingested_at": "2026-08-09T03:18:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:18:40Z",
+    "ledger_committed_at": "2026-08-09T03:18:40Z"
   }
 ]
