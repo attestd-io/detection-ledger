@@ -242821,5 +242821,37 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T05:59:28Z",
     "ledger_committed_at": "2026-08-09T05:59:28Z"
+  },
+  {
+    "id": "grafana-plugin-e2e-2026-08-09",
+    "display_name": "@grafana/plugin-e2e",
+    "campaign": "crackle-fixtures",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@grafana/plugin-e2e",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:39:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:39:00Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:39:00Z",
+    "ingested_at": "2026-08-09T04:39:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40grafana%2Fplugin-e2e",
+    "ledger_commit_at": "2026-08-09T05:59:35Z",
+    "ledger_committed_at": "2026-08-09T05:59:35Z"
   }
 ]
