@@ -235503,5 +235503,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T05:02:13Z",
     "ledger_committed_at": "2026-08-09T05:02:13Z"
+  },
+  {
+    "id": "blockfi-2026-08-09",
+    "display_name": "blockfi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "blockfi",
+        "ecosystem": "npm",
+        "versions": [
+          "7.2.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1619",
+            "osv_published_at": "2022-06-20T20:24:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:26:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:26:06Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:42Z",
+    "source_published_at": "2022-06-20T20:24:42Z",
+    "observed_at": "2026-08-09T04:26:06Z",
+    "ingested_at": "2026-08-09T04:26:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T05:02:20Z",
+    "ledger_committed_at": "2026-08-09T05:02:20Z"
   }
 ]
