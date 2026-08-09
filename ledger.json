@@ -245360,45 +245360,13 @@
     "ledger_committed_at": "2026-08-09T06:11:14Z"
   },
   {
-    "id": "x402-2026-08-09",
-    "display_name": "x402",
-    "campaign": "dbk-legacy",
-    "detection_source": "npm_registry",
-    "packages": [
-      {
-        "package": "x402",
-        "ecosystem": "npm",
-        "versions": [
-          "1.0.0"
-        ],
-        "osv_entries": []
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:53:20Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:53:20Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-09T04:53:20Z",
-    "ingested_at": "2026-08-09T04:53:20Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/x402",
-    "ledger_commit_at": "2026-08-09T06:11:22Z",
-    "ledger_committed_at": "2026-08-09T06:11:22Z"
-  },
-  {
-    "id": "cloudlinux-ui-app-2026-08-09",
-    "display_name": "cloudlinux-ui-app",
+    "id": "cloudlinux-ui-2026-08-09",
+    "display_name": "cloudlinux-ui",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "cloudlinux-ui-app",
+        "package": "cloudlinux-ui",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.4",
@@ -245406,37 +245374,79 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1941",
+            "osv_id": "MAL-2022-1940",
             "osv_published_at": "2022-06-20T20:17:23Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:53:22Z",
+    "attestd_detected_at": "2026-08-09T04:53:21Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:53:22Z",
+    "confirmed_at": "2026-08-09T04:53:21Z",
     "osv_earliest_published_at": "2022-06-20T20:17:23Z",
     "source_published_at": "2022-06-20T20:17:23Z",
-    "observed_at": "2026-08-09T04:53:22Z",
-    "ingested_at": "2026-08-09T04:53:22Z",
+    "observed_at": "2026-08-09T04:53:21Z",
+    "ingested_at": "2026-08-09T04:53:21Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T06:11:29Z",
-    "ledger_committed_at": "2026-08-09T06:11:29Z"
+    "ledger_commit_at": "2026-08-09T06:11:26Z",
+    "ledger_committed_at": "2026-08-09T06:11:26Z"
   },
   {
-    "id": "clpiboard-2026-08-09",
-    "display_name": "clpiboard",
+    "id": "cloudshell-session-2026-08-09",
+    "display_name": "cloudshell-session",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "clpiboard",
+        "package": "cloudshell-session",
+        "ecosystem": "npm",
+        "versions": [
+          "999.999.999",
+          "999.999.9999",
+          "999.9999.9999",
+          "9999.9999.9999",
+          "9999.9999.99999",
+          "9999.99999.99999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1942",
+            "osv_published_at": "2022-06-20T20:19:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:53:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:53:23Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:19Z",
+    "source_published_at": "2022-06-20T20:19:19Z",
+    "observed_at": "2026-08-09T04:53:23Z",
+    "ingested_at": "2026-08-09T04:53:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T06:11:34Z",
+    "ledger_committed_at": "2026-08-09T06:11:34Z"
+  },
+  {
+    "id": "clpiboardy-2026-08-09",
+    "display_name": "clpiboardy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "clpiboardy",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.0",
@@ -245446,27 +245456,27 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1943",
+            "osv_id": "MAL-2022-1944",
             "osv_published_at": "2022-08-19T03:55:06Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:53:24Z",
+    "attestd_detected_at": "2026-08-09T04:53:25Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:53:24Z",
+    "confirmed_at": "2026-08-09T04:53:25Z",
     "osv_earliest_published_at": "2022-08-19T03:55:06Z",
     "source_published_at": "2022-08-19T03:55:06Z",
-    "observed_at": "2026-08-09T04:53:24Z",
-    "ingested_at": "2026-08-09T04:53:24Z",
+    "observed_at": "2026-08-09T04:53:25Z",
+    "ingested_at": "2026-08-09T04:53:25Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T06:11:40Z",
-    "ledger_committed_at": "2026-08-09T06:11:40Z"
+    "ledger_commit_at": "2026-08-09T06:11:45Z",
+    "ledger_committed_at": "2026-08-09T06:11:45Z"
   }
 ]
