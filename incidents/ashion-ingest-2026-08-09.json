@@ -1,0 +1,45 @@
+{
+  "id": "ashion-ingest-2026-08-09",
+  "display_name": "ashion-ingest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ashion-ingest",
+      "ecosystem": "npm",
+      "versions": [
+        "8.1.7",
+        "8.1.8",
+        "8.1.9",
+        "8.2.0",
+        "8.2.1",
+        "8.2.2",
+        "8.2.3",
+        "8.2.4",
+        "8.2.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1132",
+          "osv_published_at": "2022-06-20T07:27:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:43:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:43:18Z",
+  "osv_earliest_published_at": "2022-06-20T07:27:57Z",
+  "source_published_at": "2022-06-20T07:27:57Z",
+  "observed_at": "2026-08-09T03:43:18Z",
+  "ingested_at": "2026-08-09T03:43:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:50:55Z",
+  "ledger_committed_at": "2026-08-09T03:50:55Z"
+}
