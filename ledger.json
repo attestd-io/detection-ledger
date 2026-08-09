@@ -238155,37 +238155,67 @@
     "ledger_committed_at": "2026-08-09T05:23:49Z"
   },
   {
-    "id": "react-scrollspy-navigation-2026-08-09",
-    "display_name": "react-scrollspy-navigation",
+    "id": "react-native-zoom-toolkit-2026-08-09",
+    "display_name": "react-native-zoom-toolkit",
     "campaign": "chegg-me-components",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "react-scrollspy-navigation",
+        "package": "react-native-zoom-toolkit",
         "ecosystem": "npm",
         "versions": [
-          "2.0.0-pre",
-          "2.0.1-pre",
-          "2.0.3-pre"
+          "2.0.0"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:31:50Z",
+    "attestd_detected_at": "2026-08-09T04:31:48Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:31:50Z",
+    "confirmed_at": "2026-08-09T04:31:48Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:31:50Z",
-    "ingested_at": "2026-08-09T04:31:50Z",
+    "observed_at": "2026-08-09T04:31:48Z",
+    "ingested_at": "2026-08-09T04:31:48Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/react-scrollspy-navigation",
-    "ledger_commit_at": "2026-08-09T05:24:04Z",
-    "ledger_committed_at": "2026-08-09T05:24:04Z"
+    "advisory_url": "https://registry.npmjs.org/react-native-zoom-toolkit",
+    "ledger_commit_at": "2026-08-09T05:23:59Z",
+    "ledger_committed_at": "2026-08-09T05:23:59Z"
+  },
+  {
+    "id": "tailwindcss-react-aria-components-2026-08-09",
+    "display_name": "tailwindcss-react-aria-components",
+    "campaign": "chegg-me-components",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "tailwindcss-react-aria-components",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.0-beta.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:31:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:31:52Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:31:52Z",
+    "ingested_at": "2026-08-09T04:31:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/tailwindcss-react-aria-components",
+    "ledger_commit_at": "2026-08-09T05:24:06Z",
+    "ledger_committed_at": "2026-08-09T05:24:06Z"
   }
 ]
