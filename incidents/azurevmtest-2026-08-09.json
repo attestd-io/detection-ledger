@@ -1,0 +1,37 @@
+{
+  "id": "azurevmtest-2026-08-09",
+  "display_name": "azurevmtest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "azurevmtest",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1398",
+          "osv_published_at": "2022-06-20T20:17:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:13:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:13:08Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:01Z",
+  "source_published_at": "2022-06-20T20:17:01Z",
+  "observed_at": "2026-08-09T04:13:08Z",
+  "ingested_at": "2026-08-09T04:13:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:22:51Z",
+  "ledger_committed_at": "2026-08-09T04:22:51Z"
+}
