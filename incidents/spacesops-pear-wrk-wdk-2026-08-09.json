@@ -1,0 +1,32 @@
+{
+  "id": "spacesops-pear-wrk-wdk-2026-08-09",
+  "display_name": "@spacesops/pear-wrk-wdk",
+  "campaign": "cuda-networks",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@spacesops/pear-wrk-wdk",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0-beta.5"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:41:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:41:28Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-09T04:41:28Z",
+  "ingested_at": "2026-08-09T04:41:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40spacesops%2Fpear-wrk-wdk",
+  "ledger_commit_at": "2026-08-09T06:03:40Z",
+  "ledger_committed_at": "2026-08-09T06:03:40Z"
+}
