@@ -1,0 +1,38 @@
+{
+  "id": "bfx-facs-store-s3-2026-08-09",
+  "display_name": "bfx-facs-store-s3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bfx-facs-store-s3",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.10",
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1538",
+          "osv_published_at": "2022-06-20T20:18:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:19:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:19:02Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:00Z",
+  "source_published_at": "2022-06-20T20:18:00Z",
+  "observed_at": "2026-08-09T04:19:02Z",
+  "ingested_at": "2026-08-09T04:19:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:38:06Z",
+  "ledger_committed_at": "2026-08-09T04:38:06Z"
+}
