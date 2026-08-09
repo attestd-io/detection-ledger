@@ -1,0 +1,41 @@
+{
+  "id": "angular-cloudinary-photo-2026-08-09",
+  "display_name": "angular-cloudinary-photo",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "angular-cloudinary-photo",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.4",
+        "2.0.8",
+        "2.0.9",
+        "2.4.9",
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1004",
+          "osv_published_at": "2022-06-20T07:27:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:37:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:37:38Z",
+  "osv_earliest_published_at": "2022-06-20T07:27:55Z",
+  "source_published_at": "2022-06-20T07:27:55Z",
+  "observed_at": "2026-08-09T03:37:38Z",
+  "ingested_at": "2026-08-09T03:37:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:37:57Z",
+  "ledger_committed_at": "2026-08-09T03:37:57Z"
+}
