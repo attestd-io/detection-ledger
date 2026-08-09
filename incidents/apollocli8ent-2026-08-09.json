@@ -1,0 +1,45 @@
+{
+  "id": "apollocli8ent-2026-08-09",
+  "display_name": "apollocli8ent",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "apollocli8ent",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "0.0.1-security.2",
+        "0.0.1-security.3",
+        "0.0.1-security.4",
+        "0.0.1-security.5",
+        "0.0.1-security.6",
+        "0.0.1-security.7",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1059",
+          "osv_published_at": "2022-08-19T03:55:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:39:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:39:50Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:05Z",
+  "source_published_at": "2022-08-19T03:55:05Z",
+  "observed_at": "2026-08-09T03:39:50Z",
+  "ingested_at": "2026-08-09T03:39:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:43:22Z",
+  "ledger_committed_at": "2026-08-09T03:43:22Z"
+}
