@@ -241239,5 +241239,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T05:52:37Z",
     "ledger_committed_at": "2026-08-09T05:52:37Z"
+  },
+  {
+    "id": "contrast-security-inc-design-system-foundations-2026-08-09",
+    "display_name": "@contrast-security-inc/design-system-foundations",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@contrast-security-inc/design-system-foundations",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.2",
+          "1.863.2",
+          "2.864.2",
+          "3.865.2",
+          "4.866.2",
+          "5.867.2",
+          "6.868.2",
+          "7.869.2",
+          "8.870.2",
+          "9.871.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-181",
+            "osv_published_at": "2022-06-20T20:09:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:36:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:36:13Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:44Z",
+    "source_published_at": "2022-06-20T20:09:44Z",
+    "observed_at": "2026-08-09T04:36:13Z",
+    "ingested_at": "2026-08-09T04:36:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T05:52:49Z",
+    "ledger_committed_at": "2026-08-09T05:52:49Z"
   }
 ]
