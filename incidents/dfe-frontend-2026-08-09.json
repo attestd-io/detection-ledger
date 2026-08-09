@@ -1,0 +1,32 @@
+{
+  "id": "dfe-frontend-2026-08-09",
+  "display_name": "dfe-frontend",
+  "campaign": "bitmex-frontend-team",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "dfe-frontend",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:59:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:59:22Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-09T03:59:22Z",
+  "ingested_at": "2026-08-09T03:59:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/dfe-frontend",
+  "ledger_commit_at": "2026-08-09T04:02:14Z",
+  "ledger_committed_at": "2026-08-09T04:02:14Z"
+}
