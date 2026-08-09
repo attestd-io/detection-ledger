@@ -234395,5 +234395,38 @@
     "advisory_url": "https://registry.npmjs.org/%40pisell%2Fprivate-materials",
     "ledger_commit_at": "2026-08-09T04:52:15Z",
     "ledger_committed_at": "2026-08-09T04:52:15Z"
+  },
+  {
+    "id": "bip322-js-2026-08-09",
+    "display_name": "bip322-js",
+    "campaign": "bynder-private",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "bip322-js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:23:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:23:46Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:23:46Z",
+    "ingested_at": "2026-08-09T04:23:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/bip322-js",
+    "ledger_commit_at": "2026-08-09T04:52:23Z",
+    "ledger_committed_at": "2026-08-09T04:52:23Z"
   }
 ]
