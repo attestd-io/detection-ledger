@@ -1,0 +1,37 @@
+{
+  "id": "soket-js-2026-08-09",
+  "display_name": "soket.js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "soket.js",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-x6gq-467r-hwcc",
+          "osv_published_at": "2020-09-01T21:14:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:22:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:22:08Z",
+  "osv_earliest_published_at": "2020-09-01T21:14:05Z",
+  "source_published_at": "2020-09-01T21:14:05Z",
+  "observed_at": "2026-08-09T03:22:08Z",
+  "ingested_at": "2026-08-09T03:22:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:22:13Z",
+  "ledger_committed_at": "2026-08-09T03:22:13Z"
+}
