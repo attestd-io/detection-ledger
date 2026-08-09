@@ -1,0 +1,37 @@
+{
+  "id": "froever-2026-08-09",
+  "display_name": "froever",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "froever",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-2r8f-2665-3gxq",
+          "osv_published_at": "2020-09-02T21:36:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:01:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:01:08Z",
+  "osv_earliest_published_at": "2020-09-02T21:36:36Z",
+  "source_published_at": "2020-09-02T21:36:36Z",
+  "observed_at": "2026-08-09T03:01:08Z",
+  "ingested_at": "2026-08-09T03:01:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:01:12Z",
+  "ledger_committed_at": "2026-08-09T03:01:12Z"
+}
