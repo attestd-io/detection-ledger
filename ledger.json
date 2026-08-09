@@ -233714,131 +233714,199 @@
     "ledger_committed_at": "2026-08-09T04:47:22Z"
   },
   {
-    "id": "billpay-mobile-2026-08-09",
-    "display_name": "billpay-mobile",
+    "id": "biizcd4rts-2026-08-09",
+    "display_name": "biizcd4rts",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "billpay-mobile",
+        "package": "biizcd4rts",
         "ecosystem": "npm",
         "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "0.0.1-security.3",
+          "0.0.1-security.4",
+          "0.0.1-security.5",
+          "0.0.1-security.6",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1574",
+            "osv_published_at": "2022-08-19T03:55:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:22:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:22:30Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:06Z",
+    "source_published_at": "2022-08-19T03:55:06Z",
+    "observed_at": "2026-08-09T04:22:30Z",
+    "ingested_at": "2026-08-09T04:22:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:47:30Z",
+    "ledger_committed_at": "2026-08-09T04:47:30Z"
+  },
+  {
+    "id": "binance-adapter-2026-08-09",
+    "display_name": "binance-adapter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "binance-adapter",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
           "1.0.0",
-          "1.0.1",
-          "1.0.2",
-          "1.0.3",
-          "1.0.4",
-          "1.0.5",
-          "1.1.0",
-          "99.99.99"
+          "99.9.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1575",
-            "osv_published_at": "2022-06-20T20:21:33Z"
+            "osv_id": "MAL-2022-1576",
+            "osv_published_at": "2022-06-20T20:11:47Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:22:31Z",
+    "attestd_detected_at": "2026-08-09T04:22:32Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:22:31Z",
-    "osv_earliest_published_at": "2022-06-20T20:21:33Z",
-    "source_published_at": "2022-06-20T20:21:33Z",
-    "observed_at": "2026-08-09T04:22:31Z",
-    "ingested_at": "2026-08-09T04:22:31Z",
+    "confirmed_at": "2026-08-09T04:22:32Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:47Z",
+    "source_published_at": "2022-06-20T20:11:47Z",
+    "observed_at": "2026-08-09T04:22:32Z",
+    "ingested_at": "2026-08-09T04:22:32Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:47:35Z",
-    "ledger_committed_at": "2026-08-09T04:47:35Z"
+    "ledger_commit_at": "2026-08-09T04:47:37Z",
+    "ledger_committed_at": "2026-08-09T04:47:37Z"
   },
   {
-    "id": "binance-connector-node-2026-08-09",
-    "display_name": "binance-connector-node",
+    "id": "binance-dex-adapter-2026-08-09",
+    "display_name": "binance-dex-adapter",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "binance-connector-node",
+        "package": "binance-dex-adapter",
         "ecosystem": "npm",
         "versions": [
-          "0.0.1",
-          "0.0.2",
-          "0.0.3",
-          "0.0.4",
-          "0.0.5",
-          "0.0.6",
-          "0.1.0",
-          "0.1.1",
-          "0.2.0",
-          "0.5.1",
-          "0.5.2"
+          "0.0.1-security.0",
+          "1.0.0",
+          "99.9.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1577",
-            "osv_published_at": "2022-05-16T06:46:18Z"
+            "osv_id": "MAL-2022-1578",
+            "osv_published_at": "2022-06-20T20:11:47Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:22:34Z",
+    "attestd_detected_at": "2026-08-09T04:22:35Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:22:34Z",
-    "osv_earliest_published_at": "2022-05-16T06:46:18Z",
-    "source_published_at": "2022-05-16T06:46:18Z",
-    "observed_at": "2026-08-09T04:22:34Z",
-    "ingested_at": "2026-08-09T04:22:34Z",
+    "confirmed_at": "2026-08-09T04:22:35Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:47Z",
+    "source_published_at": "2022-06-20T20:11:47Z",
+    "observed_at": "2026-08-09T04:22:35Z",
+    "ingested_at": "2026-08-09T04:22:35Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:47:45Z",
-    "ledger_committed_at": "2026-08-09T04:47:45Z"
+    "ledger_commit_at": "2026-08-09T04:47:49Z",
+    "ledger_committed_at": "2026-08-09T04:47:49Z"
   },
   {
-    "id": "bindingx-weex-plugin-2026-08-09",
-    "display_name": "bindingx-weex-plugin",
+    "id": "binary-static-2026-08-09",
+    "display_name": "binary-static",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bindingx-weex-plugin",
+        "package": "binary-static",
         "ecosystem": "npm",
         "versions": [
-          "7.0.5"
+          "7.0.4"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1580",
-            "osv_published_at": "2022-06-14T07:20:10Z"
+            "osv_id": "MAL-2022-1579",
+            "osv_published_at": "2022-06-20T20:15:38Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:22:37Z",
+    "attestd_detected_at": "2026-08-09T04:22:36Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:22:37Z",
-    "osv_earliest_published_at": "2022-06-14T07:20:10Z",
-    "source_published_at": "2022-06-14T07:20:10Z",
-    "observed_at": "2026-08-09T04:22:37Z",
-    "ingested_at": "2026-08-09T04:22:37Z",
+    "confirmed_at": "2026-08-09T04:22:36Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:38Z",
+    "source_published_at": "2022-06-20T20:15:38Z",
+    "observed_at": "2026-08-09T04:22:36Z",
+    "ingested_at": "2026-08-09T04:22:36Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:48:01Z",
-    "ledger_committed_at": "2026-08-09T04:48:01Z"
+    "ledger_commit_at": "2026-08-09T04:47:56Z",
+    "ledger_committed_at": "2026-08-09T04:47:56Z"
+  },
+  {
+    "id": "bing11testpak-2026-08-09",
+    "display_name": "bing11testpak",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bing11testpak",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1581",
+            "osv_published_at": "2022-06-20T20:23:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:22:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:22:38Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:02Z",
+    "source_published_at": "2022-06-20T20:23:02Z",
+    "observed_at": "2026-08-09T04:22:38Z",
+    "ingested_at": "2026-08-09T04:22:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:48:08Z",
+    "ledger_committed_at": "2026-08-09T04:48:08Z"
   }
 ]
