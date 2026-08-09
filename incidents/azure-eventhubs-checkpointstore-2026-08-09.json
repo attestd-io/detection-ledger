@@ -1,0 +1,38 @@
+{
+  "id": "azure-eventhubs-checkpointstore-2026-08-09",
+  "display_name": "azure-eventhubs-checkpointstore",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "azure-eventhubs-checkpointstore",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.2",
+        "0.0.1-security.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1328",
+          "osv_published_at": "2022-06-20T20:16:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:06:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:06:08Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:21Z",
+  "source_published_at": "2022-06-20T20:16:21Z",
+  "observed_at": "2026-08-09T04:06:08Z",
+  "ingested_at": "2026-08-09T04:06:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:15:07Z",
+  "ledger_committed_at": "2026-08-09T04:15:07Z"
+}
