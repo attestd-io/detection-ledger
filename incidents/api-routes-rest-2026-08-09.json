@@ -1,0 +1,37 @@
+{
+  "id": "api-routes-rest-2026-08-09",
+  "display_name": "api-routes-rest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "api-routes-rest",
+      "ecosystem": "npm",
+      "versions": [
+        "2.9.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1042",
+          "osv_published_at": "2022-07-21T11:11:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:39:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:39:18Z",
+  "osv_earliest_published_at": "2022-07-21T11:11:14Z",
+  "source_published_at": "2022-07-21T11:11:14Z",
+  "observed_at": "2026-08-09T03:39:18Z",
+  "ingested_at": "2026-08-09T03:39:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:41:44Z",
+  "ledger_committed_at": "2026-08-09T03:41:44Z"
+}
