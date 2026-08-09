@@ -202674,5 +202674,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T03:11:41Z",
     "ledger_committed_at": "2026-08-09T03:11:41Z"
+  },
+  {
+    "id": "reques-2026-08-09",
+    "display_name": "reques",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "reques",
+        "ecosystem": "npm",
+        "versions": [
+          "1000.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-g8jc-mm3c-cwhj",
+            "osv_published_at": "2020-09-02T20:31:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:12:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:12:38Z",
+    "osv_earliest_published_at": "2020-09-02T20:31:06Z",
+    "source_published_at": "2020-09-02T20:31:06Z",
+    "observed_at": "2026-08-09T03:12:38Z",
+    "ingested_at": "2026-08-09T03:12:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:12:40Z",
+    "ledger_committed_at": "2026-08-09T03:12:40Z"
   }
 ]
