@@ -1,0 +1,38 @@
+{
+  "id": "bulbulka-2026-08-09",
+  "display_name": "bulbulka",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bulbulka",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.3",
+        "1.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1726",
+          "osv_published_at": "2022-06-20T20:19:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:33:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:33:17Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:08Z",
+  "source_published_at": "2022-06-20T20:19:08Z",
+  "observed_at": "2026-08-09T04:33:17Z",
+  "ingested_at": "2026-08-09T04:33:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:43:25Z",
+  "ledger_committed_at": "2026-08-09T05:43:25Z"
+}
