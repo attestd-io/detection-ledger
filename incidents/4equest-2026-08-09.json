@@ -1,0 +1,37 @@
+{
+  "id": "4equest-2026-08-09",
+  "display_name": "4equest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "4equest",
+      "ecosystem": "npm",
+      "versions": [
+        "1000.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-p33q-w45h-2hcj",
+          "osv_published_at": "2020-09-02T18:30:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:16:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:16:25Z",
+  "osv_earliest_published_at": "2020-09-02T18:30:03Z",
+  "source_published_at": "2020-09-02T18:30:03Z",
+  "observed_at": "2026-08-09T03:16:25Z",
+  "ingested_at": "2026-08-09T03:16:25Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:16:29Z",
+  "ledger_committed_at": "2026-08-09T03:16:29Z"
+}
