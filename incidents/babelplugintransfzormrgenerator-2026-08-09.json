@@ -1,0 +1,45 @@
+{
+  "id": "babelplugintransfzormrgenerator-2026-08-09",
+  "display_name": "babelplugintransfzormrgenerator",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "babelplugintransfzormrgenerator",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "0.0.1-security.2",
+        "0.0.1-security.3",
+        "0.0.1-security.4",
+        "0.0.1-security.5",
+        "0.0.1-security.6",
+        "0.0.1-security.7",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1429",
+          "osv_published_at": "2022-08-19T03:55:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:13:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:13:47Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:06Z",
+  "source_published_at": "2022-08-19T03:55:06Z",
+  "observed_at": "2026-08-09T04:13:47Z",
+  "ingested_at": "2026-08-09T04:13:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:25:54Z",
+  "ledger_committed_at": "2026-08-09T04:25:54Z"
+}
