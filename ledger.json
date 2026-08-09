@@ -203482,40 +203482,40 @@
     "ledger_committed_at": "2026-08-09T03:18:58Z"
   },
   {
-    "id": "blubird-2026-08-09",
-    "display_name": "blubird",
+    "id": "reequest-2026-08-09",
+    "display_name": "reequest",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "blubird",
+        "package": "reequest",
         "ecosystem": "npm",
         "versions": [
-          "3.5.0"
+          "1000.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "GHSA-rvww-x6m4-4vc2",
-            "osv_published_at": "2020-09-11T21:12:39Z"
+            "osv_id": "GHSA-rw4r-h883-8pf9",
+            "osv_published_at": "2020-09-02T20:30:02Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:19:09Z",
+    "attestd_detected_at": "2026-08-09T03:19:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:19:09Z",
-    "osv_earliest_published_at": "2020-09-11T21:12:39Z",
-    "source_published_at": "2020-09-11T21:12:39Z",
-    "observed_at": "2026-08-09T03:19:09Z",
-    "ingested_at": "2026-08-09T03:19:09Z",
+    "confirmed_at": "2026-08-09T03:19:10Z",
+    "osv_earliest_published_at": "2020-09-02T20:30:02Z",
+    "source_published_at": "2020-09-02T20:30:02Z",
+    "observed_at": "2026-08-09T03:19:10Z",
+    "ingested_at": "2026-08-09T03:19:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:19:11Z",
-    "ledger_committed_at": "2026-08-09T03:19:11Z"
+    "ledger_commit_at": "2026-08-09T03:19:12Z",
+    "ledger_committed_at": "2026-08-09T03:19:12Z"
   }
 ]
