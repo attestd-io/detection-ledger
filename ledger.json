@@ -239400,13 +239400,13 @@
     "ledger_committed_at": "2026-08-09T05:44:13Z"
   },
   {
-    "id": "taro-microapp-plugin-project-config-2026-08-09",
-    "display_name": "@taro-microapp/plugin-project-config",
+    "id": "taro-microapp-plugin-platform-amap-2026-08-09",
+    "display_name": "@taro-microapp/plugin-platform-amap",
     "campaign": "clover-microapp",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@taro-microapp/plugin-project-config",
+        "package": "@taro-microapp/plugin-platform-amap",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
@@ -239415,56 +239415,85 @@
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:10Z",
+    "attestd_detected_at": "2026-08-09T04:34:09Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:10Z",
+    "confirmed_at": "2026-08-09T04:34:09Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:34:10Z",
-    "ingested_at": "2026-08-09T04:34:10Z",
+    "observed_at": "2026-08-09T04:34:09Z",
+    "ingested_at": "2026-08-09T04:34:09Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40taro-microapp%2Fplugin-project-config",
+    "advisory_url": "https://registry.npmjs.org/%40taro-microapp%2Fplugin-platform-amap",
     "ledger_commit_at": "2026-08-09T05:44:20Z",
     "ledger_committed_at": "2026-08-09T05:44:20Z"
   },
   {
-    "id": "iframe-connector-2026-08-09",
-    "display_name": "iframe-connector",
+    "id": "esri-global-nav-2026-08-09",
+    "display_name": "esri-global-nav",
     "campaign": "clover-microapp",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "iframe-connector",
+        "package": "esri-global-nav",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "1.0.1",
-          "1.0.2",
-          "1.0.3",
-          "1.0.4"
+          "30.0.1"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:28Z",
+    "attestd_detected_at": "2026-08-09T04:34:27Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:28Z",
+    "confirmed_at": "2026-08-09T04:34:27Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:34:28Z",
-    "ingested_at": "2026-08-09T04:34:28Z",
+    "observed_at": "2026-08-09T04:34:27Z",
+    "ingested_at": "2026-08-09T04:34:27Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/iframe-connector",
-    "ledger_commit_at": "2026-08-09T05:44:32Z",
-    "ledger_committed_at": "2026-08-09T05:44:32Z"
+    "advisory_url": "https://registry.npmjs.org/esri-global-nav",
+    "ledger_commit_at": "2026-08-09T05:44:27Z",
+    "ledger_committed_at": "2026-08-09T05:44:27Z"
+  },
+  {
+    "id": "micro-app-util-2026-08-09",
+    "display_name": "micro-app-util",
+    "campaign": "clover-microapp",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "micro-app-util",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.5",
+          "0.0.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:34:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:34:29Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:34:29Z",
+    "ingested_at": "2026-08-09T04:34:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/micro-app-util",
+    "ledger_commit_at": "2026-08-09T05:44:39Z",
+    "ledger_committed_at": "2026-08-09T05:44:39Z"
   }
 ]
