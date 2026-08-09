@@ -239400,13 +239400,13 @@
     "ledger_committed_at": "2026-08-09T05:44:13Z"
   },
   {
-    "id": "taro-microapp-plugin-project-config-2026-08-09",
-    "display_name": "@taro-microapp/plugin-project-config",
+    "id": "taro-microapp-plugin-platform-amap-2026-08-09",
+    "display_name": "@taro-microapp/plugin-platform-amap",
     "campaign": "clover-microapp",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@taro-microapp/plugin-project-config",
+        "package": "@taro-microapp/plugin-platform-amap",
         "ecosystem": "npm",
         "versions": [
           "1.0.0"
@@ -239415,236 +239415,280 @@
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:10Z",
+    "attestd_detected_at": "2026-08-09T04:34:09Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:10Z",
+    "confirmed_at": "2026-08-09T04:34:09Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:34:10Z",
-    "ingested_at": "2026-08-09T04:34:10Z",
+    "observed_at": "2026-08-09T04:34:09Z",
+    "ingested_at": "2026-08-09T04:34:09Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40taro-microapp%2Fplugin-project-config",
+    "advisory_url": "https://registry.npmjs.org/%40taro-microapp%2Fplugin-platform-amap",
     "ledger_commit_at": "2026-08-09T05:44:20Z",
     "ledger_committed_at": "2026-08-09T05:44:20Z"
   },
   {
-    "id": "iframe-connector-2026-08-09",
-    "display_name": "iframe-connector",
+    "id": "esri-global-nav-2026-08-09",
+    "display_name": "esri-global-nav",
     "campaign": "clover-microapp",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "iframe-connector",
+        "package": "esri-global-nav",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "1.0.1",
-          "1.0.2",
-          "1.0.3",
-          "1.0.4"
+          "30.0.1"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:28Z",
+    "attestd_detected_at": "2026-08-09T04:34:27Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:28Z",
+    "confirmed_at": "2026-08-09T04:34:27Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:34:28Z",
-    "ingested_at": "2026-08-09T04:34:28Z",
+    "observed_at": "2026-08-09T04:34:27Z",
+    "ingested_at": "2026-08-09T04:34:27Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/iframe-connector",
-    "ledger_commit_at": "2026-08-09T05:44:32Z",
-    "ledger_committed_at": "2026-08-09T05:44:32Z"
+    "advisory_url": "https://registry.npmjs.org/esri-global-nav",
+    "ledger_commit_at": "2026-08-09T05:44:27Z",
+    "ledger_committed_at": "2026-08-09T05:44:27Z"
   },
   {
-    "id": "micro-app-utils-2026-08-09",
-    "display_name": "micro-app-utils",
+    "id": "micro-app-util-2026-08-09",
+    "display_name": "micro-app-util",
     "campaign": "clover-microapp",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "micro-app-utils",
+        "package": "micro-app-util",
         "ecosystem": "npm",
         "versions": [
-          "0.0.7",
-          "1.0.3",
-          "1.0.4"
+          "0.0.5",
+          "0.0.6"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:30Z",
+    "attestd_detected_at": "2026-08-09T04:34:29Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:30Z",
+    "confirmed_at": "2026-08-09T04:34:29Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:34:30Z",
-    "ingested_at": "2026-08-09T04:34:30Z",
+    "observed_at": "2026-08-09T04:34:29Z",
+    "ingested_at": "2026-08-09T04:34:29Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/micro-app-utils",
-    "ledger_commit_at": "2026-08-09T05:44:44Z",
-    "ledger_committed_at": "2026-08-09T05:44:44Z"
+    "advisory_url": "https://registry.npmjs.org/micro-app-util",
+    "ledger_commit_at": "2026-08-09T05:44:39Z",
+    "ledger_committed_at": "2026-08-09T05:44:39Z"
   },
   {
-    "id": "x-tt-request-2026-08-09",
-    "display_name": "x-tt-request",
+    "id": "vue-cli-plugin-micro-app-2026-08-09",
+    "display_name": "vue-cli-plugin-micro-app",
     "campaign": "clover-microapp",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "x-tt-request",
+        "package": "vue-cli-plugin-micro-app",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.0",
+          "2.2.0",
+          "2.3.0",
+          "2.4.0",
+          "2.5.0",
+          "2.6.0",
+          "4.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:34:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:34:36Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:34:36Z",
+    "ingested_at": "2026-08-09T04:34:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/vue-cli-plugin-micro-app",
+    "ledger_commit_at": "2026-08-09T05:44:50Z",
+    "ledger_committed_at": "2026-08-09T05:44:50Z"
+  },
+  {
+    "id": "bunny-v3-2026-08-09",
+    "display_name": "bunny-v3",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bunny-v3",
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
           "1.0.1"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1730",
+            "osv_published_at": "2022-06-20T20:23:45Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:37Z",
+    "attestd_detected_at": "2026-08-09T04:34:38Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:37Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-09T04:34:37Z",
-    "ingested_at": "2026-08-09T04:34:37Z",
+    "confirmed_at": "2026-08-09T04:34:38Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:45Z",
+    "source_published_at": "2022-06-20T20:23:45Z",
+    "observed_at": "2026-08-09T04:34:38Z",
+    "ingested_at": "2026-08-09T04:34:38Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/x-tt-request",
-    "ledger_commit_at": "2026-08-09T05:44:55Z",
-    "ledger_committed_at": "2026-08-09T05:44:55Z"
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T05:45:02Z",
+    "ledger_committed_at": "2026-08-09T05:45:02Z"
   },
   {
-    "id": "buoghkesdwknqayt-2026-08-09",
-    "display_name": "buoghkesdwknqayt",
+    "id": "burningred-2026-08-09",
+    "display_name": "burningred",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "buoghkesdwknqayt",
+        "package": "burningred",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1732",
+            "osv_published_at": "2022-09-16T01:26:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:34:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:34:40Z",
+    "osv_earliest_published_at": "2022-09-16T01:26:15Z",
+    "source_published_at": "2022-09-16T01:26:15Z",
+    "observed_at": "2026-08-09T04:34:40Z",
+    "ingested_at": "2026-08-09T04:34:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T05:45:13Z",
+    "ledger_committed_at": "2026-08-09T05:45:13Z"
+  },
+  {
+    "id": "bv-framework-sites-2026-08-09",
+    "display_name": "bv-framework-sites",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bv-framework-sites",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0",
+          "3.0.0",
+          "3.0.1",
+          "3.0.3",
+          "3.0.4",
+          "3.0.5",
+          "3.0.6",
+          "3.0.7",
+          "3.0.8",
+          "4.0.0",
+          "4.0.1",
+          "4.0.2",
+          "4.0.3",
+          "5.0.0",
+          "6.0.0",
+          "6.0.1",
+          "6.0.2",
+          "7.0.0",
+          "7.0.1",
+          "8.0.0",
+          "8.0.1",
+          "8.0.2",
+          "8.0.3",
+          "8.0.4",
+          "8.0.5",
+          "9.0.0",
+          "9.0.1",
+          "9.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1734",
+            "osv_published_at": "2022-06-20T20:19:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:34:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:34:47Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:08Z",
+    "source_published_at": "2022-06-20T20:19:08Z",
+    "observed_at": "2026-08-09T04:34:47Z",
+    "ingested_at": "2026-08-09T04:34:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T05:45:24Z",
+    "ledger_committed_at": "2026-08-09T05:45:24Z"
+  },
+  {
+    "id": "bvnqfwugmzyrkhol-2026-08-09",
+    "display_name": "bvnqfwugmzyrkhol",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bvnqfwugmzyrkhol",
         "ecosystem": "npm",
         "versions": [
           "0.1.91"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1731",
-            "osv_published_at": "2022-07-11T21:06:19Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:39Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:39Z",
-    "osv_earliest_published_at": "2022-07-11T21:06:19Z",
-    "source_published_at": "2022-07-11T21:06:19Z",
-    "observed_at": "2026-08-09T04:34:39Z",
-    "ingested_at": "2026-08-09T04:34:39Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T05:45:07Z",
-    "ledger_committed_at": "2026-08-09T05:45:07Z"
-  },
-  {
-    "id": "buy-button-storefront-2026-08-09",
-    "display_name": "buy-button-storefront",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "buy-button-storefront",
-        "ecosystem": "npm",
-        "versions": [
-          "0.0.999",
-          "0.1.9999",
-          "0.6.999",
-          "0.9.999",
-          "0.999.999",
-          "1.19.999",
-          "1.2.999",
-          "1.21.999",
-          "1.284.999",
-          "1.3.999",
-          "1.39.999",
-          "1.41.999",
-          "1.51.999",
-          "1.999.0",
-          "1.999.999",
-          "2.1.999",
-          "2.2.0",
-          "2.3233.999",
-          "4.6.999",
-          "4.999.0",
-          "999.999.999"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-1733",
-            "osv_published_at": "2022-06-20T20:20:11Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:34:43Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:34:43Z",
-    "osv_earliest_published_at": "2022-06-20T20:20:11Z",
-    "source_published_at": "2022-06-20T20:20:11Z",
-    "observed_at": "2026-08-09T04:34:43Z",
-    "ingested_at": "2026-08-09T04:34:43Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T05:45:19Z",
-    "ledger_committed_at": "2026-08-09T05:45:19Z"
-  },
-  {
-    "id": "bv4-2026-08-09",
-    "display_name": "bv4",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bv4",
-        "ecosystem": "npm",
-        "versions": [
-          "0.0.1-security.0",
-          "1.2.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-1735",
-            "osv_published_at": "2022-08-19T03:55:13Z"
+            "osv_id": "MAL-2022-1736",
+            "osv_published_at": "2022-07-11T22:03:58Z"
           }
         ]
       }
@@ -239653,8 +239697,8 @@
     "attestd_detected_at": "2026-08-09T04:34:48Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:34:48Z",
-    "osv_earliest_published_at": "2022-08-19T03:55:13Z",
-    "source_published_at": "2022-08-19T03:55:13Z",
+    "osv_earliest_published_at": "2022-07-11T22:03:58Z",
+    "source_published_at": "2022-07-11T22:03:58Z",
     "observed_at": "2026-08-09T04:34:48Z",
     "ingested_at": "2026-08-09T04:34:48Z",
     "first_served_at": null,
@@ -239663,7 +239707,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T05:45:29Z",
-    "ledger_committed_at": "2026-08-09T05:45:29Z"
+    "ledger_commit_at": "2026-08-09T05:45:35Z",
+    "ledger_committed_at": "2026-08-09T05:45:35Z"
   }
 ]
