@@ -1,0 +1,37 @@
+{
+  "id": "arm-webservices-2026-08-09",
+  "display_name": "arm-webservices",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "arm-webservices",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1119",
+          "osv_published_at": "2022-06-20T20:11:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:42:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:42:30Z",
+  "osv_earliest_published_at": "2022-06-20T20:11:20Z",
+  "source_published_at": "2022-06-20T20:11:20Z",
+  "observed_at": "2026-08-09T03:42:30Z",
+  "ingested_at": "2026-08-09T03:42:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:49:42Z",
+  "ledger_committed_at": "2026-08-09T03:49:42Z"
+}
