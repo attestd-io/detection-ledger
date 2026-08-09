@@ -1,0 +1,39 @@
+{
+  "id": "azure-tests-perf-data-tables-2026-08-09",
+  "display_name": "@azure-tests/perf-data-tables",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@azure-tests/perf-data-tables",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-100",
+          "osv_published_at": "2022-06-20T20:16:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:23:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:23:01Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:41Z",
+  "source_published_at": "2022-06-20T20:16:41Z",
+  "observed_at": "2026-08-09T03:23:01Z",
+  "ingested_at": "2026-08-09T03:23:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:23:26Z",
+  "ledger_committed_at": "2026-08-09T03:23:26Z"
+}
