@@ -1,0 +1,33 @@
+{
+  "id": "nova-design-system-nova-base-2026-08-09",
+  "display_name": "@nova-design-system/nova-base",
+  "campaign": "bootstrap-base-design",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@nova-design-system/nova-base",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.0-beta.14",
+        "3.0.0-beta.15"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:15:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:15:10Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-09T04:15:10Z",
+  "ingested_at": "2026-08-09T04:15:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40nova-design-system%2Fnova-base",
+  "ledger_commit_at": "2026-08-09T04:29:03Z",
+  "ledger_committed_at": "2026-08-09T04:29:03Z"
+}
