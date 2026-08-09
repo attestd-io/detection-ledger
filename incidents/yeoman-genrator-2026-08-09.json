@@ -1,0 +1,37 @@
+{
+  "id": "yeoman-genrator-2026-08-09",
+  "display_name": "yeoman-genrator",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "yeoman-genrator",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-fm7r-2pr7-rw2p",
+          "osv_published_at": "2020-09-02T21:45:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:11:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:11:29Z",
+  "osv_earliest_published_at": "2020-09-02T21:45:02Z",
+  "source_published_at": "2020-09-02T21:45:02Z",
+  "observed_at": "2026-08-09T03:11:29Z",
+  "ingested_at": "2026-08-09T03:11:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:11:31Z",
+  "ledger_committed_at": "2026-08-09T03:11:31Z"
+}
