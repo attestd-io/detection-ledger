@@ -242746,5 +242746,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T05:59:14Z",
     "ledger_committed_at": "2026-08-09T05:59:14Z"
+  },
+  {
+    "id": "cdw-portal-ui-2026-08-09",
+    "display_name": "cdw-portal-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cdw-portal-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1859",
+            "osv_published_at": "2022-06-20T21:13:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:38:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:38:30Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:41Z",
+    "source_published_at": "2022-06-20T21:13:41Z",
+    "observed_at": "2026-08-09T04:38:30Z",
+    "ingested_at": "2026-08-09T04:38:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T05:59:21Z",
+    "ledger_committed_at": "2026-08-09T05:59:21Z"
   }
 ]
