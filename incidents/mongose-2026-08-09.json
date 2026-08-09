@@ -1,0 +1,39 @@
+{
+  "id": "mongose-2026-08-09",
+  "display_name": "mongose",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mongose",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "4.11.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-894f-rw44-qrw5",
+          "osv_published_at": "2018-10-10T17:28:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:08:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:08:01Z",
+  "osv_earliest_published_at": "2018-10-10T17:28:21Z",
+  "source_published_at": "2018-10-10T17:28:21Z",
+  "observed_at": "2026-08-09T03:08:01Z",
+  "ingested_at": "2026-08-09T03:08:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:08:03Z",
+  "ledger_committed_at": "2026-08-09T03:08:03Z"
+}
