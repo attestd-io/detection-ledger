@@ -1,0 +1,42 @@
+{
+  "id": "chat-orion-sdk-2026-08-09",
+  "display_name": "chat-orion-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chat-orion-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1889",
+          "osv_published_at": "2022-07-26T10:33:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:45:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:45:37Z",
+  "osv_earliest_published_at": "2022-07-26T10:33:48Z",
+  "source_published_at": "2022-07-26T10:33:48Z",
+  "observed_at": "2026-08-09T04:45:37Z",
+  "ingested_at": "2026-08-09T04:45:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T06:05:14Z",
+  "ledger_committed_at": "2026-08-09T06:05:14Z"
+}
