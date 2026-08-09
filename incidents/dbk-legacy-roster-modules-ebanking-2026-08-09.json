@@ -1,0 +1,37 @@
+{
+  "id": "dbk-legacy-roster-modules-ebanking-2026-08-09",
+  "display_name": "@dbk-legacy/roster-modules-ebanking",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@dbk-legacy/roster-modules-ebanking",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-195",
+          "osv_published_at": "2022-11-10T05:25:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:53:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:53:30Z",
+  "osv_earliest_published_at": "2022-11-10T05:25:54Z",
+  "source_published_at": "2022-11-10T05:25:54Z",
+  "observed_at": "2026-08-09T04:53:30Z",
+  "ingested_at": "2026-08-09T04:53:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T06:12:20Z",
+  "ledger_committed_at": "2026-08-09T06:12:20Z"
+}
