@@ -1,0 +1,39 @@
+{
+  "id": "antisvindel-2026-08-09",
+  "display_name": "antisvindel",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "antisvindel",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "1.99.99",
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1025",
+          "osv_published_at": "2022-06-20T20:13:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:38:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:38:31Z",
+  "osv_earliest_published_at": "2022-06-20T20:13:02Z",
+  "source_published_at": "2022-06-20T20:13:02Z",
+  "observed_at": "2026-08-09T03:38:31Z",
+  "ingested_at": "2026-08-09T03:38:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:40:03Z",
+  "ledger_committed_at": "2026-08-09T03:40:03Z"
+}
