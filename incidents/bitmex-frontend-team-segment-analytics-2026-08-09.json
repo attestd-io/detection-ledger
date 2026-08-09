@@ -1,0 +1,45 @@
+{
+  "id": "bitmex-frontend-team-segment-analytics-2026-08-09",
+  "display_name": "@bitmex-frontend-team/segment-analytics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@bitmex-frontend-team/segment-analytics",
+      "ecosystem": "npm",
+      "versions": [
+        "1.99.99",
+        "2.99.99",
+        "3.99.99",
+        "4.99.99",
+        "5.99.99",
+        "6.99.99",
+        "7.99.99",
+        "8.9.9",
+        "9.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-122",
+          "osv_published_at": "2022-06-20T20:09:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:57:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:57:58Z",
+  "osv_earliest_published_at": "2022-06-20T20:09:20Z",
+  "source_published_at": "2022-06-20T20:09:20Z",
+  "observed_at": "2026-08-09T03:57:58Z",
+  "ingested_at": "2026-08-09T03:57:58Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:01:16Z",
+  "ledger_committed_at": "2026-08-09T04:01:16Z"
+}
