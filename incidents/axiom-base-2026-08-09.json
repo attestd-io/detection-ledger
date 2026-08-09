@@ -1,0 +1,41 @@
+{
+  "id": "axiom-base-2026-08-09",
+  "display_name": "axiom-base",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "axiom-base",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.4",
+        "0.0.5",
+        "3.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1209",
+          "osv_published_at": "2022-07-08T12:23:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:57:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:57:46Z",
+  "osv_earliest_published_at": "2022-07-08T12:23:56Z",
+  "source_published_at": "2022-07-08T12:23:56Z",
+  "observed_at": "2026-08-09T03:57:46Z",
+  "ingested_at": "2026-08-09T03:57:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:00:18Z",
+  "ledger_committed_at": "2026-08-09T04:00:18Z"
+}
