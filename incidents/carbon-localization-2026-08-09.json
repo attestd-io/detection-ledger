@@ -1,0 +1,38 @@
+{
+  "id": "carbon-localization-2026-08-09",
+  "display_name": "carbon-localization",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "carbon-localization",
+      "ecosystem": "npm",
+      "versions": [
+        "1.9.9",
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1827",
+          "osv_published_at": "2022-06-20T20:13:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:37:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:37:33Z",
+  "osv_earliest_published_at": "2022-06-20T20:13:00Z",
+  "source_published_at": "2022-06-20T20:13:00Z",
+  "observed_at": "2026-08-09T04:37:33Z",
+  "ingested_at": "2026-08-09T04:37:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:55:31Z",
+  "ledger_committed_at": "2026-08-09T05:55:31Z"
+}
