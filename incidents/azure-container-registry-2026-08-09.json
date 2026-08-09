@@ -1,0 +1,38 @@
+{
+  "id": "azure-container-registry-2026-08-09",
+  "display_name": "azure-container-registry",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "azure-container-registry",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.2",
+        "0.0.1-security.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1310",
+          "osv_published_at": "2022-06-20T20:16:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:05:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:05:36Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:25Z",
+  "source_published_at": "2022-06-20T20:16:25Z",
+  "observed_at": "2026-08-09T04:05:36Z",
+  "ingested_at": "2026-08-09T04:05:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:13:17Z",
+  "ledger_committed_at": "2026-08-09T04:13:17Z"
+}
