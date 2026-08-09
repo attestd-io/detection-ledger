@@ -234264,5 +234264,37 @@
     "advisory_url": "https://registry.npmjs.org/%40exodus%2Fkeychain",
     "ledger_commit_at": "2026-08-09T04:49:35Z",
     "ledger_committed_at": "2026-08-09T04:49:35Z"
+  },
+  {
+    "id": "injectivelabs-wallet-private-key-2026-08-09",
+    "display_name": "@injectivelabs/wallet-private-key",
+    "campaign": "bynder-private",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@injectivelabs/wallet-private-key",
+        "ecosystem": "npm",
+        "versions": [
+          "1.20.21"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:23:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:23:22Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:23:22Z",
+    "ingested_at": "2026-08-09T04:23:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Fwallet-private-key",
+    "ledger_commit_at": "2026-08-09T04:49:42Z",
+    "ledger_committed_at": "2026-08-09T04:49:42Z"
   }
 ]
