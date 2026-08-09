@@ -245360,13 +245360,45 @@
     "ledger_committed_at": "2026-08-09T06:11:14Z"
   },
   {
-    "id": "cloudlinux-ui-2026-08-09",
-    "display_name": "cloudlinux-ui",
+    "id": "x402-2026-08-09",
+    "display_name": "x402",
+    "campaign": "dbk-legacy",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "x402",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:53:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:53:20Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:53:20Z",
+    "ingested_at": "2026-08-09T04:53:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/x402",
+    "ledger_commit_at": "2026-08-09T06:11:22Z",
+    "ledger_committed_at": "2026-08-09T06:11:22Z"
+  },
+  {
+    "id": "cloudlinux-ui-app-2026-08-09",
+    "display_name": "cloudlinux-ui-app",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "cloudlinux-ui",
+        "package": "cloudlinux-ui-app",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.4",
@@ -245374,27 +245406,27 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1940",
+            "osv_id": "MAL-2022-1941",
             "osv_published_at": "2022-06-20T20:17:23Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:53:21Z",
+    "attestd_detected_at": "2026-08-09T04:53:22Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:53:21Z",
+    "confirmed_at": "2026-08-09T04:53:22Z",
     "osv_earliest_published_at": "2022-06-20T20:17:23Z",
     "source_published_at": "2022-06-20T20:17:23Z",
-    "observed_at": "2026-08-09T04:53:21Z",
-    "ingested_at": "2026-08-09T04:53:21Z",
+    "observed_at": "2026-08-09T04:53:22Z",
+    "ingested_at": "2026-08-09T04:53:22Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T06:11:26Z",
-    "ledger_committed_at": "2026-08-09T06:11:26Z"
+    "ledger_commit_at": "2026-08-09T06:11:29Z",
+    "ledger_committed_at": "2026-08-09T06:11:29Z"
   }
 ]
