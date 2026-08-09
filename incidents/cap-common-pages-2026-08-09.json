@@ -1,0 +1,38 @@
+{
+  "id": "cap-common-pages-2026-08-09",
+  "display_name": "cap-common-pages",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cap-common-pages",
+      "ecosystem": "npm",
+      "versions": [
+        "4.1.0",
+        "4.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1823",
+          "osv_published_at": "2022-05-16T07:40:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:37:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:37:30Z",
+  "osv_earliest_published_at": "2022-05-16T07:40:54Z",
+  "source_published_at": "2022-05-16T07:40:54Z",
+  "observed_at": "2026-08-09T04:37:30Z",
+  "ingested_at": "2026-08-09T04:37:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:55:09Z",
+  "ledger_committed_at": "2026-08-09T05:55:09Z"
+}
