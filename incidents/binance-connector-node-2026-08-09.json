@@ -1,0 +1,47 @@
+{
+  "id": "binance-connector-node-2026-08-09",
+  "display_name": "binance-connector-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "binance-connector-node",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.1.0",
+        "0.1.1",
+        "0.2.0",
+        "0.5.1",
+        "0.5.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1577",
+          "osv_published_at": "2022-05-16T06:46:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:22:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:22:34Z",
+  "osv_earliest_published_at": "2022-05-16T06:46:18Z",
+  "source_published_at": "2022-05-16T06:46:18Z",
+  "observed_at": "2026-08-09T04:22:34Z",
+  "ingested_at": "2026-08-09T04:22:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:47:45Z",
+  "ledger_committed_at": "2026-08-09T04:47:45Z"
+}
