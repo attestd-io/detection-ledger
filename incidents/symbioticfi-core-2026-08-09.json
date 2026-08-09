@@ -1,0 +1,32 @@
+{
+  "id": "symbioticfi-core-2026-08-09",
+  "display_name": "@symbioticfi/core",
+  "campaign": "cuda-networks",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@symbioticfi/core",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0-devnet.6"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:41:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:41:32Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-08-09T04:41:32Z",
+  "ingested_at": "2026-08-09T04:41:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40symbioticfi%2Fcore",
+  "ledger_commit_at": "2026-08-09T06:03:48Z",
+  "ledger_committed_at": "2026-08-09T06:03:48Z"
+}
