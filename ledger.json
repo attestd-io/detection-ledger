@@ -202947,5 +202947,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T03:14:42Z",
     "ledger_committed_at": "2026-08-09T03:14:42Z"
+  },
+  {
+    "id": "colro-name-2026-08-09",
+    "display_name": "colro-name",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "colro-name",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-jp9g-5x75-ccp8",
+            "osv_published_at": "2020-09-02T21:34:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:15:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:15:04Z",
+    "osv_earliest_published_at": "2020-09-02T21:34:30Z",
+    "source_published_at": "2020-09-02T21:34:30Z",
+    "observed_at": "2026-08-09T03:15:04Z",
+    "ingested_at": "2026-08-09T03:15:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:15:07Z",
+    "ledger_committed_at": "2026-08-09T03:15:07Z"
   }
 ]
