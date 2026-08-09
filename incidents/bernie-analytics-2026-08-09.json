@@ -1,0 +1,38 @@
+{
+  "id": "bernie-analytics-2026-08-09",
+  "display_name": "bernie-analytics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bernie-analytics",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1508",
+          "osv_published_at": "2022-05-31T13:11:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:18:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:18:35Z",
+  "osv_earliest_published_at": "2022-05-31T13:11:41Z",
+  "source_published_at": "2022-05-31T13:11:41Z",
+  "observed_at": "2026-08-09T04:18:35Z",
+  "ingested_at": "2026-08-09T04:18:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:34:43Z",
+  "ledger_committed_at": "2026-08-09T04:34:43Z"
+}
