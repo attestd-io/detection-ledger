@@ -1,0 +1,37 @@
+{
+  "id": "hulp-2026-08-09",
+  "display_name": "hulp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hulp",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "GHSA-fqw7-8v6m-2f86",
+          "osv_published_at": "2020-09-02T21:37:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:11:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:11:37Z",
+  "osv_earliest_published_at": "2020-09-02T21:37:39Z",
+  "source_published_at": "2020-09-02T21:37:39Z",
+  "observed_at": "2026-08-09T03:11:37Z",
+  "ingested_at": "2026-08-09T03:11:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:11:41Z",
+  "ledger_committed_at": "2026-08-09T03:11:41Z"
+}
