@@ -1,0 +1,38 @@
+{
+  "id": "babel-plugin-transfvrm-rvntime-2026-08-09",
+  "display_name": "babel-plugin-transfvrm-rvntime",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "babel-plugin-transfvrm-rvntime",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1409",
+          "osv_published_at": "2022-08-19T03:55:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:13:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:13:18Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:13Z",
+  "source_published_at": "2022-08-19T03:55:13Z",
+  "observed_at": "2026-08-09T04:13:18Z",
+  "ingested_at": "2026-08-09T04:13:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:24:00Z",
+  "ledger_committed_at": "2026-08-09T04:24:00Z"
+}
