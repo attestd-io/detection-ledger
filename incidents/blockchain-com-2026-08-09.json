@@ -1,0 +1,37 @@
+{
+  "id": "blockchain-com-2026-08-09",
+  "display_name": "blockchain-com",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "blockchain-com",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1612",
+          "osv_published_at": "2022-06-20T20:24:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:25:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:25:59Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:36Z",
+  "source_published_at": "2022-06-20T20:24:36Z",
+  "observed_at": "2026-08-09T04:25:59Z",
+  "ingested_at": "2026-08-09T04:25:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:00:03Z",
+  "ledger_committed_at": "2026-08-09T05:00:03Z"
+}
