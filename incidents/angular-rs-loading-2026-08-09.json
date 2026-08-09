@@ -1,0 +1,41 @@
+{
+  "id": "angular-rs-loading-2026-08-09",
+  "display_name": "angular-rs-loading",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "angular-rs-loading",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1009",
+          "osv_published_at": "2022-06-20T20:08:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:37:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:37:42Z",
+  "osv_earliest_published_at": "2022-06-20T20:08:36Z",
+  "source_published_at": "2022-06-20T20:08:36Z",
+  "observed_at": "2026-08-09T03:37:42Z",
+  "ingested_at": "2026-08-09T03:37:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:38:20Z",
+  "ledger_committed_at": "2026-08-09T03:38:20Z"
+}
