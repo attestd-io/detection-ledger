@@ -1,0 +1,37 @@
+{
+  "id": "audit-logging-2026-08-09",
+  "display_name": "audit-logging",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "audit-logging",
+      "ecosystem": "npm",
+      "versions": [
+        "3.3.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1170",
+          "osv_published_at": "2022-06-20T18:20:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:45:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:45:01Z",
+  "osv_earliest_published_at": "2022-06-20T18:20:46Z",
+  "source_published_at": "2022-06-20T18:20:46Z",
+  "observed_at": "2026-08-09T03:45:01Z",
+  "ingested_at": "2026-08-09T03:45:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:54:24Z",
+  "ledger_committed_at": "2026-08-09T03:54:24Z"
+}
