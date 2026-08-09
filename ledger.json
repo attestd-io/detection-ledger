@@ -233087,14 +233087,19 @@
           "1.3.1",
           "1.3.1-canary.0175d71c.0"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2025-191198",
+            "osv_published_at": "2025-11-25T00:16:49Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-09T04:21:25Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:21:25Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2025-11-25T00:16:49Z",
     "source_published_at": null,
     "observed_at": "2026-08-09T04:21:25Z",
     "ingested_at": "2026-08-09T04:21:25Z",
@@ -233104,8 +233109,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40browserbasehq%2Fstagehand",
-    "ledger_commit_at": "2026-08-09T04:42:26Z",
-    "ledger_committed_at": "2026-08-09T04:42:26Z"
+    "ledger_commit_at": "2026-08-09T22:26:17Z",
+    "ledger_committed_at": "2026-08-09T22:26:17Z"
   },
   {
     "id": "mocky-balboa-next-js-2026-08-09",
