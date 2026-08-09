@@ -1,0 +1,38 @@
+{
+  "id": "bfx-util-js-2026-08-09",
+  "display_name": "bfx-util-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bfx-util-js",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.3",
+        "0.0.1-security.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1553",
+          "osv_published_at": "2022-06-20T20:17:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:20:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:20:14Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:55Z",
+  "source_published_at": "2022-06-20T20:17:55Z",
+  "observed_at": "2026-08-09T04:20:14Z",
+  "ingested_at": "2026-08-09T04:20:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:40:08Z",
+  "ledger_committed_at": "2026-08-09T04:40:08Z"
+}
