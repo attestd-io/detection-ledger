@@ -217462,44 +217462,118 @@
     "ledger_committed_at": "2026-08-09T03:38:08Z"
   },
   {
-    "id": "angular-rs-loading-2026-08-09",
-    "display_name": "angular-rs-loading",
+    "id": "angular-link-diver-2026-08-09",
+    "display_name": "angular-link-diver",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "angular-rs-loading",
+        "package": "angular-link-diver",
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
-          "1.0.1",
-          "1.0.2",
-          "1.0.3",
-          "1.0.4"
+          "3.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1009",
-            "osv_published_at": "2022-06-20T20:08:36Z"
+            "osv_id": "MAL-2022-1008",
+            "osv_published_at": "2022-06-20T20:22:22Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:37:42Z",
+    "attestd_detected_at": "2026-08-09T03:37:41Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:37:42Z",
-    "osv_earliest_published_at": "2022-06-20T20:08:36Z",
-    "source_published_at": "2022-06-20T20:08:36Z",
-    "observed_at": "2026-08-09T03:37:42Z",
-    "ingested_at": "2026-08-09T03:37:42Z",
+    "confirmed_at": "2026-08-09T03:37:41Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:22Z",
+    "source_published_at": "2022-06-20T20:22:22Z",
+    "observed_at": "2026-08-09T03:37:41Z",
+    "ingested_at": "2026-08-09T03:37:41Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:38:20Z",
-    "ledger_committed_at": "2026-08-09T03:38:20Z"
+    "ledger_commit_at": "2026-08-09T03:38:16Z",
+    "ledger_committed_at": "2026-08-09T03:38:16Z"
+  },
+  {
+    "id": "azure-tests-perf-event-hubs-2026-08-09",
+    "display_name": "@azure-tests/perf-event-hubs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@azure-tests/perf-event-hubs",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "99.10.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-101",
+            "osv_published_at": "2022-06-20T20:16:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:37:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:37:44Z",
+    "osv_earliest_published_at": "2022-06-20T20:16:38Z",
+    "source_published_at": "2022-06-20T20:16:38Z",
+    "observed_at": "2026-08-09T03:37:44Z",
+    "ingested_at": "2026-08-09T03:37:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:38:23Z",
+    "ledger_committed_at": "2026-08-09T03:38:23Z"
+  },
+  {
+    "id": "angular-tz-extensions-2026-08-09",
+    "display_name": "angular-tz-extensions",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "angular-tz-extensions",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1010",
+            "osv_published_at": "2022-06-20T20:13:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:38:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:38:00Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:29Z",
+    "source_published_at": "2022-06-20T20:13:29Z",
+    "observed_at": "2026-08-09T03:38:00Z",
+    "ingested_at": "2026-08-09T03:38:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:38:30Z",
+    "ledger_committed_at": "2026-08-09T03:38:30Z"
   }
 ]
