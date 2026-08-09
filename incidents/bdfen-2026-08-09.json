@@ -1,0 +1,38 @@
+{
+  "id": "bdfen-2026-08-09",
+  "display_name": "bdfen",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bdfen",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1487",
+          "osv_published_at": "2022-08-19T03:55:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:18:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:18:02Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:13Z",
+  "source_published_at": "2022-08-19T03:55:13Z",
+  "observed_at": "2026-08-09T04:18:02Z",
+  "ingested_at": "2026-08-09T04:18:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:32:26Z",
+  "ledger_committed_at": "2026-08-09T04:32:26Z"
+}
