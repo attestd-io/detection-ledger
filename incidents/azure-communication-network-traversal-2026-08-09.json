@@ -1,0 +1,37 @@
+{
+  "id": "azure-communication-network-traversal-2026-08-09",
+  "display_name": "azure-communication-network-traversal",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "azure-communication-network-traversal",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1302",
+          "osv_published_at": "2022-06-20T20:16:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:05:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:05:14Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:56Z",
+  "source_published_at": "2022-06-20T20:16:56Z",
+  "observed_at": "2026-08-09T04:05:14Z",
+  "ingested_at": "2026-08-09T04:05:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:12:25Z",
+  "ledger_committed_at": "2026-08-09T04:12:25Z"
+}
