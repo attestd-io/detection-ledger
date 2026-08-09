@@ -1,0 +1,37 @@
+{
+  "id": "calc-2lxgcr990p-2026-08-09",
+  "display_name": "calc_2lxgcr990p",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "calc_2lxgcr990p",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1764",
+          "osv_published_at": "2022-06-20T20:19:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:35:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:35:15Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:53Z",
+  "source_published_at": "2022-06-20T20:19:53Z",
+  "observed_at": "2026-08-09T04:35:15Z",
+  "ingested_at": "2026-08-09T04:35:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:48:08Z",
+  "ledger_committed_at": "2026-08-09T05:48:08Z"
+}
