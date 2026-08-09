@@ -1,0 +1,37 @@
+{
+  "id": "atlassian-sketch-plugin-2026-08-09",
+  "display_name": "atlassian-sketch-plugin",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "atlassian-sketch-plugin",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1160",
+          "osv_published_at": "2022-06-08T09:01:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:44:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:44:40Z",
+  "osv_earliest_published_at": "2022-06-08T09:01:01Z",
+  "source_published_at": "2022-06-08T09:01:01Z",
+  "observed_at": "2026-08-09T03:44:40Z",
+  "ingested_at": "2026-08-09T03:44:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:53:31Z",
+  "ledger_committed_at": "2026-08-09T03:53:31Z"
+}
