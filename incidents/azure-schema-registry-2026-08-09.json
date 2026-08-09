@@ -1,0 +1,38 @@
+{
+  "id": "azure-schema-registry-2026-08-09",
+  "display_name": "azure-schema-registry",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "azure-schema-registry",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.1",
+        "0.0.1-security.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1369",
+          "osv_published_at": "2022-06-20T20:16:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:11:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:11:56Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:29Z",
+  "source_published_at": "2022-06-20T20:16:29Z",
+  "observed_at": "2026-08-09T04:11:56Z",
+  "ingested_at": "2026-08-09T04:11:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:19:47Z",
+  "ledger_committed_at": "2026-08-09T04:19:47Z"
+}
