@@ -224690,134 +224690,210 @@
     "ledger_committed_at": "2026-08-09T04:08:30Z"
   },
   {
-    "id": "azure-arm-policyinsights-samples-js-2026-08-09",
-    "display_name": "azure-arm-policyinsights-samples-js",
+    "id": "azure-arm-peering-samples-ts-2026-08-09",
+    "display_name": "azure-arm-peering-samples-ts",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-policyinsights-samples-js",
-        "ecosystem": "npm",
-        "versions": [
-          "99.0.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-1267",
-            "osv_published_at": "2022-06-20T20:10:18Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:03:41Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:03:41Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:18Z",
-    "source_published_at": "2022-06-20T20:10:18Z",
-    "observed_at": "2026-08-09T04:03:41Z",
-    "ingested_at": "2026-08-09T04:03:41Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:08:46Z",
-    "ledger_committed_at": "2026-08-09T04:08:46Z"
-  },
-  {
-    "id": "bmw-chris-common-default-frontend-2026-08-09",
-    "display_name": "@bmw-chris/common-default-frontend",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@bmw-chris/common-default-frontend",
-        "ecosystem": "npm",
-        "versions": [
-          "51.1.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-127",
-            "osv_published_at": "2022-06-20T20:15:13Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:03:43Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:03:43Z",
-    "osv_earliest_published_at": "2022-06-20T20:15:13Z",
-    "source_published_at": "2022-06-20T20:15:13Z",
-    "observed_at": "2026-08-09T04:03:43Z",
-    "ingested_at": "2026-08-09T04:03:43Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:08:58Z",
-    "ledger_committed_at": "2026-08-09T04:08:58Z"
-  },
-  {
-    "id": "azure-arm-powerbidedicated-samples-ts-2026-08-09",
-    "display_name": "azure-arm-powerbidedicated-samples-ts",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "azure-arm-powerbidedicated-samples-ts",
+        "package": "azure-arm-peering-samples-ts",
         "ecosystem": "npm",
         "versions": [
           "99.0.0",
-          "99.0.1",
-          "99.0.2"
+          "99.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1271",
+            "osv_id": "MAL-2022-1266",
             "osv_published_at": "2022-06-20T20:10:26Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:04:00Z",
+    "attestd_detected_at": "2026-08-09T04:03:40Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:04:00Z",
+    "confirmed_at": "2026-08-09T04:03:40Z",
     "osv_earliest_published_at": "2022-06-20T20:10:26Z",
     "source_published_at": "2022-06-20T20:10:26Z",
-    "observed_at": "2026-08-09T04:04:00Z",
-    "ingested_at": "2026-08-09T04:04:00Z",
+    "observed_at": "2026-08-09T04:03:40Z",
+    "ingested_at": "2026-08-09T04:03:40Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:09:09Z",
-    "ledger_committed_at": "2026-08-09T04:09:09Z"
+    "ledger_commit_at": "2026-08-09T04:08:37Z",
+    "ledger_committed_at": "2026-08-09T04:08:37Z"
   },
   {
-    "id": "azure-arm-privatedns-samples-ts-2026-08-09",
-    "display_name": "azure-arm-privatedns-samples-ts",
+    "id": "azure-arm-policyinsights-samples-ts-2026-08-09",
+    "display_name": "azure-arm-policyinsights-samples-ts",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-privatedns-samples-ts",
+        "package": "azure-arm-policyinsights-samples-ts",
         "ecosystem": "npm",
         "versions": [
           "99.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1273",
+            "osv_id": "MAL-2022-1268",
+            "osv_published_at": "2022-06-20T20:10:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:03:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:03:42Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:18Z",
+    "source_published_at": "2022-06-20T20:10:18Z",
+    "observed_at": "2026-08-09T04:03:42Z",
+    "ingested_at": "2026-08-09T04:03:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:08:44Z",
+    "ledger_committed_at": "2026-08-09T04:08:44Z"
+  },
+  {
+    "id": "azure-arm-postgresql-flexible-samples-js-2026-08-09",
+    "display_name": "azure-arm-postgresql-flexible-samples-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "azure-arm-postgresql-flexible-samples-js",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0",
+          "99.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1269",
+            "osv_published_at": "2022-06-20T20:10:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:03:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:03:42Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:27Z",
+    "source_published_at": "2022-06-20T20:10:27Z",
+    "observed_at": "2026-08-09T04:03:42Z",
+    "ingested_at": "2026-08-09T04:03:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:08:52Z",
+    "ledger_committed_at": "2026-08-09T04:08:52Z"
+  },
+  {
+    "id": "azure-arm-powerbidedicated-samples-js-2026-08-09",
+    "display_name": "azure-arm-powerbidedicated-samples-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "azure-arm-powerbidedicated-samples-js",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0",
+          "99.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1270",
+            "osv_published_at": "2022-06-20T20:10:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:03:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:03:59Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:15Z",
+    "source_published_at": "2022-06-20T20:10:15Z",
+    "observed_at": "2026-08-09T04:03:59Z",
+    "ingested_at": "2026-08-09T04:03:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:09:04Z",
+    "ledger_committed_at": "2026-08-09T04:09:04Z"
+  },
+  {
+    "id": "azure-arm-privatedns-samples-js-2026-08-09",
+    "display_name": "azure-arm-privatedns-samples-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "azure-arm-privatedns-samples-js",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1272",
             "osv_published_at": "2022-06-20T20:10:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:04:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:04:01Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:10Z",
+    "source_published_at": "2022-06-20T20:10:10Z",
+    "observed_at": "2026-08-09T04:04:01Z",
+    "ingested_at": "2026-08-09T04:04:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:09:15Z",
+    "ledger_committed_at": "2026-08-09T04:09:15Z"
+  },
+  {
+    "id": "azure-arm-recoveryservicesbackup-samples-js-2026-08-09",
+    "display_name": "azure-arm-recoveryservicesbackup-samples-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "azure-arm-recoveryservicesbackup-samples-js",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0",
+          "99.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1274",
+            "osv_published_at": "2022-06-20T20:10:27Z"
           }
         ]
       }
@@ -224826,8 +224902,8 @@
     "attestd_detected_at": "2026-08-09T04:04:02Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:04:02Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:10Z",
-    "source_published_at": "2022-06-20T20:10:10Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:27Z",
+    "source_published_at": "2022-06-20T20:10:27Z",
     "observed_at": "2026-08-09T04:04:02Z",
     "ingested_at": "2026-08-09T04:04:02Z",
     "first_served_at": null,
@@ -224836,17 +224912,17 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:09:21Z",
-    "ledger_committed_at": "2026-08-09T04:09:21Z"
+    "ledger_commit_at": "2026-08-09T04:09:27Z",
+    "ledger_committed_at": "2026-08-09T04:09:27Z"
   },
   {
-    "id": "azure-arm-recoveryservicesbackup-samples-ts-2026-08-09",
-    "display_name": "azure-arm-recoveryservicesbackup-samples-ts",
+    "id": "azure-arm-redisenterprisecache-samples-js-2026-08-09",
+    "display_name": "azure-arm-redisenterprisecache-samples-js",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-recoveryservicesbackup-samples-ts",
+        "package": "azure-arm-redisenterprisecache-samples-js",
         "ecosystem": "npm",
         "versions": [
           "99.0.0",
@@ -224854,46 +224930,45 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1275",
-            "osv_published_at": "2022-06-20T20:10:27Z"
+            "osv_id": "MAL-2022-1276",
+            "osv_published_at": "2022-06-20T20:10:26Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:04:03Z",
+    "attestd_detected_at": "2026-08-09T04:04:04Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:04:03Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:27Z",
-    "source_published_at": "2022-06-20T20:10:27Z",
-    "observed_at": "2026-08-09T04:04:03Z",
-    "ingested_at": "2026-08-09T04:04:03Z",
+    "confirmed_at": "2026-08-09T04:04:04Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:26Z",
+    "source_published_at": "2022-06-20T20:10:26Z",
+    "observed_at": "2026-08-09T04:04:04Z",
+    "ingested_at": "2026-08-09T04:04:04Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:09:32Z",
-    "ledger_committed_at": "2026-08-09T04:09:32Z"
+    "ledger_commit_at": "2026-08-09T04:09:38Z",
+    "ledger_committed_at": "2026-08-09T04:09:38Z"
   },
   {
-    "id": "azure-arm-redisenterprisecache-samples-ts-2026-08-09",
-    "display_name": "azure-arm-redisenterprisecache-samples-ts",
+    "id": "azure-arm-reservations-samples-ts-2026-08-09",
+    "display_name": "azure-arm-reservations-samples-ts",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-redisenterprisecache-samples-ts",
+        "package": "azure-arm-reservations-samples-ts",
         "ecosystem": "npm",
         "versions": [
-          "99.0.0",
-          "99.0.1"
+          "99.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1277",
-            "osv_published_at": "2022-06-20T20:10:25Z"
+            "osv_id": "MAL-2022-1278",
+            "osv_published_at": "2022-06-20T20:10:13Z"
           }
         ]
       }
@@ -224902,8 +224977,8 @@
     "attestd_detected_at": "2026-08-09T04:04:05Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:04:05Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:25Z",
-    "source_published_at": "2022-06-20T20:10:25Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:13Z",
+    "source_published_at": "2022-06-20T20:10:13Z",
     "observed_at": "2026-08-09T04:04:05Z",
     "ingested_at": "2026-08-09T04:04:05Z",
     "first_served_at": null,
@@ -224912,99 +224987,62 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:09:44Z",
-    "ledger_committed_at": "2026-08-09T04:09:44Z"
+    "ledger_commit_at": "2026-08-09T04:09:50Z",
+    "ledger_committed_at": "2026-08-09T04:09:50Z"
   },
   {
-    "id": "azure-arm-resourcegraph-samples-js-beta-2026-08-09",
-    "display_name": "azure-arm-resourcegraph-samples-js-beta",
+    "id": "bmw-chris-document-default-frontend-2026-08-09",
+    "display_name": "@bmw-chris/document-default-frontend",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-resourcegraph-samples-js-beta",
+        "package": "@bmw-chris/document-default-frontend",
         "ecosystem": "npm",
         "versions": [
-          "99.0.0"
+          "51.1.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1279",
-            "osv_published_at": "2022-06-20T20:10:11Z"
+            "osv_id": "MAL-2022-128",
+            "osv_published_at": "2022-06-20T20:15:11Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:04:06Z",
+    "attestd_detected_at": "2026-08-09T04:04:07Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:04:06Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:11Z",
-    "source_published_at": "2022-06-20T20:10:11Z",
-    "observed_at": "2026-08-09T04:04:06Z",
-    "ingested_at": "2026-08-09T04:04:06Z",
+    "confirmed_at": "2026-08-09T04:04:07Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:11Z",
+    "source_published_at": "2022-06-20T20:15:11Z",
+    "observed_at": "2026-08-09T04:04:07Z",
+    "ingested_at": "2026-08-09T04:04:07Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:09:54Z",
-    "ledger_committed_at": "2026-08-09T04:09:54Z"
+    "ledger_commit_at": "2026-08-09T04:10:01Z",
+    "ledger_committed_at": "2026-08-09T04:10:01Z"
   },
   {
-    "id": "azure-arm-resourcegraph-samples-ts-beta-2026-08-09",
-    "display_name": "azure-arm-resourcegraph-samples-ts-beta",
+    "id": "azure-arm-resourcemover-samples-js-2026-08-09",
+    "display_name": "azure-arm-resourcemover-samples-js",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-resourcegraph-samples-ts-beta",
+        "package": "azure-arm-resourcemover-samples-js",
         "ecosystem": "npm",
         "versions": [
           "99.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1280",
+            "osv_id": "MAL-2022-1281",
             "osv_published_at": "2022-06-20T20:10:11Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:04:23Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:04:23Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:11Z",
-    "source_published_at": "2022-06-20T20:10:11Z",
-    "observed_at": "2026-08-09T04:04:23Z",
-    "ingested_at": "2026-08-09T04:04:23Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:10:05Z",
-    "ledger_committed_at": "2026-08-09T04:10:05Z"
-  },
-  {
-    "id": "azure-arm-resourcemover-samples-ts-2026-08-09",
-    "display_name": "azure-arm-resourcemover-samples-ts",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "azure-arm-resourcemover-samples-ts",
-        "ecosystem": "npm",
-        "versions": [
-          "99.0.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-1282",
-            "osv_published_at": "2022-06-20T20:10:10Z"
           }
         ]
       }
@@ -225013,8 +225051,8 @@
     "attestd_detected_at": "2026-08-09T04:04:24Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:04:24Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:10Z",
-    "source_published_at": "2022-06-20T20:10:10Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:11Z",
+    "source_published_at": "2022-06-20T20:10:11Z",
     "observed_at": "2026-08-09T04:04:24Z",
     "ingested_at": "2026-08-09T04:04:24Z",
     "first_served_at": null,
@@ -225023,62 +225061,63 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:10:17Z",
-    "ledger_committed_at": "2026-08-09T04:10:17Z"
+    "ledger_commit_at": "2026-08-09T04:10:12Z",
+    "ledger_committed_at": "2026-08-09T04:10:12Z"
   },
   {
-    "id": "azure-arm-servicefabricmesh-samples-ts-beta-2026-08-09",
-    "display_name": "azure-arm-servicefabricmesh-samples-ts-beta",
+    "id": "azure-arm-servicefabricmesh-samples-js-beta-2026-08-09",
+    "display_name": "azure-arm-servicefabricmesh-samples-js-beta",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-servicefabricmesh-samples-ts-beta",
+        "package": "azure-arm-servicefabricmesh-samples-js-beta",
         "ecosystem": "npm",
         "versions": [
           "99.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1284",
-            "osv_published_at": "2022-06-20T20:10:18Z"
+            "osv_id": "MAL-2022-1283",
+            "osv_published_at": "2022-06-20T20:10:16Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:04:26Z",
+    "attestd_detected_at": "2026-08-09T04:04:25Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:04:26Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:18Z",
-    "source_published_at": "2022-06-20T20:10:18Z",
-    "observed_at": "2026-08-09T04:04:26Z",
-    "ingested_at": "2026-08-09T04:04:26Z",
+    "confirmed_at": "2026-08-09T04:04:25Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:16Z",
+    "source_published_at": "2022-06-20T20:10:16Z",
+    "observed_at": "2026-08-09T04:04:25Z",
+    "ingested_at": "2026-08-09T04:04:25Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:10:29Z",
-    "ledger_committed_at": "2026-08-09T04:10:29Z"
+    "ledger_commit_at": "2026-08-09T04:10:24Z",
+    "ledger_committed_at": "2026-08-09T04:10:24Z"
   },
   {
-    "id": "azure-arm-servicemap-samples-ts-beta-2026-08-09",
-    "display_name": "azure-arm-servicemap-samples-ts-beta",
+    "id": "azure-arm-servicemap-samples-js-beta-2026-08-09",
+    "display_name": "azure-arm-servicemap-samples-js-beta",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-servicemap-samples-ts-beta",
+        "package": "azure-arm-servicemap-samples-js-beta",
         "ecosystem": "npm",
         "versions": [
-          "99.0.0"
+          "99.0.0",
+          "99.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1286",
-            "osv_published_at": "2022-06-20T20:10:14Z"
+            "osv_id": "MAL-2022-1285",
+            "osv_published_at": "2022-06-20T20:10:50Z"
           }
         ]
       }
@@ -225087,8 +225126,8 @@
     "attestd_detected_at": "2026-08-09T04:04:27Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:04:27Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:14Z",
-    "source_published_at": "2022-06-20T20:10:14Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:50Z",
+    "source_published_at": "2022-06-20T20:10:50Z",
     "observed_at": "2026-08-09T04:04:27Z",
     "ingested_at": "2026-08-09T04:04:27Z",
     "first_served_at": null,
@@ -225097,26 +225136,62 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:10:40Z",
-    "ledger_committed_at": "2026-08-09T04:10:40Z"
+    "ledger_commit_at": "2026-08-09T04:10:35Z",
+    "ledger_committed_at": "2026-08-09T04:10:35Z"
   },
   {
-    "id": "azure-arm-storagecache-samples-js-2026-08-09",
-    "display_name": "azure-arm-storagecache-samples-js",
+    "id": "azure-arm-signalr-samples-js-2026-08-09",
+    "display_name": "azure-arm-signalr-samples-js",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "azure-arm-storagecache-samples-js",
+        "package": "azure-arm-signalr-samples-js",
         "ecosystem": "npm",
         "versions": [
-          "98.0.0",
           "99.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1288",
-            "osv_published_at": "2022-06-20T20:10:14Z"
+            "osv_id": "MAL-2022-1287",
+            "osv_published_at": "2022-06-20T20:10:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:04:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:04:28Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:13Z",
+    "source_published_at": "2022-06-20T20:10:13Z",
+    "observed_at": "2026-08-09T04:04:28Z",
+    "ingested_at": "2026-08-09T04:04:28Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:10:46Z",
+    "ledger_committed_at": "2026-08-09T04:10:46Z"
+  },
+  {
+    "id": "azure-arm-storageimportexport-samples-js-2026-08-09",
+    "display_name": "azure-arm-storageimportexport-samples-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "azure-arm-storageimportexport-samples-js",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1289",
+            "osv_published_at": "2022-06-20T20:10:17Z"
           }
         ]
       }
@@ -225125,8 +225200,8 @@
     "attestd_detected_at": "2026-08-09T04:04:29Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:04:29Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:14Z",
-    "source_published_at": "2022-06-20T20:10:14Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:17Z",
+    "source_published_at": "2022-06-20T20:10:17Z",
     "observed_at": "2026-08-09T04:04:29Z",
     "ingested_at": "2026-08-09T04:04:29Z",
     "first_served_at": null,
@@ -225135,44 +225210,44 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:10:51Z",
-    "ledger_committed_at": "2026-08-09T04:10:51Z"
+    "ledger_commit_at": "2026-08-09T04:10:57Z",
+    "ledger_committed_at": "2026-08-09T04:10:57Z"
   },
   {
-    "id": "bmw-chris-ecufunction-default-frontend-2026-08-09",
-    "display_name": "@bmw-chris/ecufunction-default-frontend",
+    "id": "azure-arm-storageimportexport-samples-ts-2026-08-09",
+    "display_name": "azure-arm-storageimportexport-samples-ts",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@bmw-chris/ecufunction-default-frontend",
+        "package": "azure-arm-storageimportexport-samples-ts",
         "ecosystem": "npm",
         "versions": [
-          "51.1.0"
+          "99.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-129",
-            "osv_published_at": "2022-06-20T20:15:11Z"
+            "osv_id": "MAL-2022-1290",
+            "osv_published_at": "2022-06-20T20:10:17Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:04:30Z",
+    "attestd_detected_at": "2026-08-09T04:04:46Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:04:30Z",
-    "osv_earliest_published_at": "2022-06-20T20:15:11Z",
-    "source_published_at": "2022-06-20T20:15:11Z",
-    "observed_at": "2026-08-09T04:04:30Z",
-    "ingested_at": "2026-08-09T04:04:30Z",
+    "confirmed_at": "2026-08-09T04:04:46Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:17Z",
+    "source_published_at": "2022-06-20T20:10:17Z",
+    "observed_at": "2026-08-09T04:04:46Z",
+    "ingested_at": "2026-08-09T04:04:46Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:11:02Z",
-    "ledger_committed_at": "2026-08-09T04:11:02Z"
+    "ledger_commit_at": "2026-08-09T04:11:09Z",
+    "ledger_committed_at": "2026-08-09T04:11:09Z"
   }
 ]
