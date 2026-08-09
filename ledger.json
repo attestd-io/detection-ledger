@@ -233098,5 +233098,37 @@
     "advisory_url": "https://registry.npmjs.org/%40browserbasehq%2Fstagehand",
     "ledger_commit_at": "2026-08-09T04:42:26Z",
     "ledger_committed_at": "2026-08-09T04:42:26Z"
+  },
+  {
+    "id": "mocky-balboa-next-js-2026-08-09",
+    "display_name": "@mocky-balboa/next-js",
+    "campaign": "bugbounty-automation",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@mocky-balboa/next-js",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0-canary-20250829084253"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:21:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:21:43Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:21:43Z",
+    "ingested_at": "2026-08-09T04:21:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40mocky-balboa%2Fnext-js",
+    "ledger_commit_at": "2026-08-09T04:42:33Z",
+    "ledger_committed_at": "2026-08-09T04:42:33Z"
   }
 ]
