@@ -1,0 +1,37 @@
+{
+  "id": "click-out-report-website-2026-08-09",
+  "display_name": "click-out-report-website",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "click-out-report-website",
+      "ecosystem": "npm",
+      "versions": [
+        "1.5.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1924",
+          "osv_published_at": "2022-06-20T20:26:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:48:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:48:25Z",
+  "osv_earliest_published_at": "2022-06-20T20:26:08Z",
+  "source_published_at": "2022-06-20T20:26:08Z",
+  "observed_at": "2026-08-09T04:48:25Z",
+  "ingested_at": "2026-08-09T04:48:25Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T06:08:45Z",
+  "ledger_committed_at": "2026-08-09T06:08:45Z"
+}
