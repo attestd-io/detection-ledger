@@ -1,0 +1,38 @@
+{
+  "id": "baes64-js-2026-08-09",
+  "display_name": "baes64-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "baes64-js",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1453",
+          "osv_published_at": "2022-08-19T03:55:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:14:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:14:23Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:13Z",
+  "source_published_at": "2022-08-19T03:55:13Z",
+  "observed_at": "2026-08-09T04:14:23Z",
+  "ingested_at": "2026-08-09T04:14:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:28:11Z",
+  "ledger_committed_at": "2026-08-09T04:28:11Z"
+}
