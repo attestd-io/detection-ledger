@@ -232172,51 +232172,88 @@
     "ledger_committed_at": "2026-08-09T04:38:19Z"
   },
   {
-    "id": "bfx-hf-token-renewal-plugin-2026-08-09",
-    "display_name": "bfx-hf-token-renewal-plugin",
+    "id": "bfx-hf-func-data-2026-08-09",
+    "display_name": "bfx-hf-func-data",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bfx-hf-token-renewal-plugin",
+        "package": "bfx-hf-func-data",
         "ecosystem": "npm",
         "versions": [
-          "0.0.1-security.3",
-          "0.0.1-security.4"
+          "94.10.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1541",
-            "osv_published_at": "2022-06-20T20:17:55Z"
+            "osv_id": "MAL-2022-1540",
+            "osv_published_at": "2022-05-17T06:50:44Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:19:05Z",
+    "attestd_detected_at": "2026-08-09T04:19:04Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:19:05Z",
-    "osv_earliest_published_at": "2022-06-20T20:17:55Z",
-    "source_published_at": "2022-06-20T20:17:55Z",
-    "observed_at": "2026-08-09T04:19:05Z",
-    "ingested_at": "2026-08-09T04:19:05Z",
+    "confirmed_at": "2026-08-09T04:19:04Z",
+    "osv_earliest_published_at": "2022-05-17T06:50:44Z",
+    "source_published_at": "2022-05-17T06:50:44Z",
+    "observed_at": "2026-08-09T04:19:04Z",
+    "ingested_at": "2026-08-09T04:19:04Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:38:31Z",
-    "ledger_committed_at": "2026-08-09T04:38:31Z"
+    "ledger_commit_at": "2026-08-09T04:38:27Z",
+    "ledger_committed_at": "2026-08-09T04:38:27Z"
   },
   {
-    "id": "bfx-proxy-grc-js-2026-08-09",
-    "display_name": "bfx-proxy-grc-js",
+    "id": "bfx-hf-ui-core-2026-08-09",
+    "display_name": "bfx-hf-ui-core",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bfx-proxy-grc-js",
+        "package": "bfx-hf-ui-core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1542",
+            "osv_published_at": "2022-06-20T20:17:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:19:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:19:06Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:59Z",
+    "source_published_at": "2022-06-20T20:17:59Z",
+    "observed_at": "2026-08-09T04:19:06Z",
+    "ingested_at": "2026-08-09T04:19:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:38:34Z",
+    "ledger_committed_at": "2026-08-09T04:38:34Z"
+  },
+  {
+    "id": "bfx-lib-server-js-2026-08-09",
+    "display_name": "bfx-lib-server-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bfx-lib-server-js",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.4",
@@ -232224,8 +232261,8 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1544",
-            "osv_published_at": "2022-06-20T20:17:51Z"
+            "osv_id": "MAL-2022-1543",
+            "osv_published_at": "2022-06-20T20:17:47Z"
           }
         ]
       }
@@ -232234,8 +232271,8 @@
     "attestd_detected_at": "2026-08-09T04:19:07Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:19:07Z",
-    "osv_earliest_published_at": "2022-06-20T20:17:51Z",
-    "source_published_at": "2022-06-20T20:17:51Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:47Z",
+    "source_published_at": "2022-06-20T20:17:47Z",
     "observed_at": "2026-08-09T04:19:07Z",
     "ingested_at": "2026-08-09T04:19:07Z",
     "first_served_at": null,
@@ -232244,55 +232281,55 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:38:47Z",
-    "ledger_committed_at": "2026-08-09T04:38:47Z"
+    "ledger_commit_at": "2026-08-09T04:38:42Z",
+    "ledger_committed_at": "2026-08-09T04:38:42Z"
   },
   {
-    "id": "bfx-report-electron-2026-08-09",
-    "display_name": "bfx-report-electron",
+    "id": "bfx-report-2026-08-09",
+    "display_name": "bfx-report",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bfx-report-electron",
+        "package": "bfx-report",
         "ecosystem": "npm",
         "versions": [
-          "0.0.1-security.0",
-          "0.0.1-security.1"
+          "0.0.1-security.4",
+          "0.0.1-security.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1546",
-            "osv_published_at": "2022-06-20T20:17:59Z"
+            "osv_id": "MAL-2022-1545",
+            "osv_published_at": "2022-06-20T20:17:53Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:19:09Z",
+    "attestd_detected_at": "2026-08-09T04:19:08Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:19:09Z",
-    "osv_earliest_published_at": "2022-06-20T20:17:59Z",
-    "source_published_at": "2022-06-20T20:17:59Z",
-    "observed_at": "2026-08-09T04:19:09Z",
-    "ingested_at": "2026-08-09T04:19:09Z",
+    "confirmed_at": "2026-08-09T04:19:08Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:53Z",
+    "source_published_at": "2022-06-20T20:17:53Z",
+    "observed_at": "2026-08-09T04:19:08Z",
+    "ingested_at": "2026-08-09T04:19:08Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:38:58Z",
-    "ledger_committed_at": "2026-08-09T04:38:58Z"
+    "ledger_commit_at": "2026-08-09T04:38:53Z",
+    "ledger_committed_at": "2026-08-09T04:38:53Z"
   },
   {
-    "id": "bfx-report-ui-2026-08-09",
-    "display_name": "bfx-report-ui",
+    "id": "bfx-report-express-2026-08-09",
+    "display_name": "bfx-report-express",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bfx-report-ui",
+        "package": "bfx-report-express",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.3",
@@ -232300,8 +232337,8 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1548",
-            "osv_published_at": "2022-06-20T20:17:55Z"
+            "osv_id": "MAL-2022-1547",
+            "osv_published_at": "2022-06-20T20:17:53Z"
           }
         ]
       }
@@ -232310,8 +232347,8 @@
     "attestd_detected_at": "2026-08-09T04:19:10Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:19:10Z",
-    "osv_earliest_published_at": "2022-06-20T20:17:55Z",
-    "source_published_at": "2022-06-20T20:17:55Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:53Z",
+    "source_published_at": "2022-06-20T20:17:53Z",
     "observed_at": "2026-08-09T04:19:10Z",
     "ingested_at": "2026-08-09T04:19:10Z",
     "first_served_at": null,
@@ -232320,120 +232357,17 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:39:09Z",
-    "ledger_committed_at": "2026-08-09T04:39:09Z"
+    "ledger_commit_at": "2026-08-09T04:39:05Z",
+    "ledger_committed_at": "2026-08-09T04:39:05Z"
   },
   {
-    "id": "btu-tools-master-builder-client-2026-08-09",
-    "display_name": "@btu-tools/master-builder-client",
+    "id": "bfx-reports-framework-2026-08-09",
+    "display_name": "bfx-reports-framework",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@btu-tools/master-builder-client",
-        "ecosystem": "npm",
-        "versions": [
-          "10.1000.1064",
-          "10.1000.1065"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-155",
-            "osv_published_at": "2022-06-20T20:12:47Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:19:12Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:19:12Z",
-    "osv_earliest_published_at": "2022-06-20T20:12:47Z",
-    "source_published_at": "2022-06-20T20:12:47Z",
-    "observed_at": "2026-08-09T04:19:12Z",
-    "ingested_at": "2026-08-09T04:19:12Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:39:21Z",
-    "ledger_committed_at": "2026-08-09T04:39:21Z"
-  },
-  {
-    "id": "nx-tools-nx-container-2026-08-09",
-    "display_name": "@nx-tools/nx-container",
-    "campaign": "btu-tools",
-    "detection_source": "npm_registry",
-    "packages": [
-      {
-        "package": "@nx-tools/nx-container",
-        "ecosystem": "npm",
-        "versions": [
-          "0.0.4",
-          "6.7.0"
-        ],
-        "osv_entries": []
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:19:47Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:19:47Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-09T04:19:47Z",
-    "ingested_at": "2026-08-09T04:19:47Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40nx-tools%2Fnx-container",
-    "ledger_commit_at": "2026-08-09T04:39:34Z",
-    "ledger_committed_at": "2026-08-09T04:39:34Z"
-  },
-  {
-    "id": "mcporter-2026-08-09",
-    "display_name": "mcporter",
-    "campaign": "btu-tools",
-    "detection_source": "npm_registry",
-    "packages": [
-      {
-        "package": "mcporter",
-        "ecosystem": "npm",
-        "versions": [
-          "0.3.3"
-        ],
-        "osv_entries": []
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:20:07Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:20:07Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-09T04:20:07Z",
-    "ingested_at": "2026-08-09T04:20:07Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/mcporter",
-    "ledger_commit_at": "2026-08-09T04:39:45Z",
-    "ledger_committed_at": "2026-08-09T04:39:45Z"
-  },
-  {
-    "id": "bfx-svc-integration-2026-08-09",
-    "display_name": "bfx-svc-integration",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "bfx-svc-integration",
+        "package": "bfx-reports-framework",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.4",
@@ -232441,37 +232375,139 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1551",
-            "osv_published_at": "2022-06-20T20:17:48Z"
+            "osv_id": "MAL-2022-1549",
+            "osv_published_at": "2022-06-20T20:17:52Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:20:13Z",
+    "attestd_detected_at": "2026-08-09T04:19:11Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:20:13Z",
-    "osv_earliest_published_at": "2022-06-20T20:17:48Z",
-    "source_published_at": "2022-06-20T20:17:48Z",
-    "observed_at": "2026-08-09T04:20:13Z",
-    "ingested_at": "2026-08-09T04:20:13Z",
+    "confirmed_at": "2026-08-09T04:19:11Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:52Z",
+    "source_published_at": "2022-06-20T20:17:52Z",
+    "observed_at": "2026-08-09T04:19:11Z",
+    "ingested_at": "2026-08-09T04:19:11Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:39:57Z",
-    "ledger_committed_at": "2026-08-09T04:39:57Z"
+    "ledger_commit_at": "2026-08-09T04:39:16Z",
+    "ledger_committed_at": "2026-08-09T04:39:16Z"
   },
   {
-    "id": "bfx-util-js-2026-08-09",
-    "display_name": "bfx-util-js",
+    "id": "mastra-mcp-2026-08-09",
+    "display_name": "@mastra/mcp",
+    "campaign": "btu-tools",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@mastra/mcp",
+        "ecosystem": "npm",
+        "versions": [
+          "1.10.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:19:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:19:45Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:19:45Z",
+    "ingested_at": "2026-08-09T04:19:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40mastra%2Fmcp",
+    "ledger_commit_at": "2026-08-09T04:39:28Z",
+    "ledger_committed_at": "2026-08-09T04:39:28Z"
+  },
+  {
+    "id": "nx-tools-nx-prisma-2026-08-09",
+    "display_name": "@nx-tools/nx-prisma",
+    "campaign": "btu-tools",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@nx-tools/nx-prisma",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.4"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:19:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:19:48Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:19:48Z",
+    "ingested_at": "2026-08-09T04:19:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40nx-tools%2Fnx-prisma",
+    "ledger_commit_at": "2026-08-09T04:39:39Z",
+    "ledger_committed_at": "2026-08-09T04:39:39Z"
+  },
+  {
+    "id": "bfx-stuff-ui-2026-08-09",
+    "display_name": "bfx-stuff-ui",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bfx-util-js",
+        "package": "bfx-stuff-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.4",
+          "0.0.1-security.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1550",
+            "osv_published_at": "2022-06-20T20:17:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:20:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:20:12Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:46Z",
+    "source_published_at": "2022-06-20T20:17:46Z",
+    "observed_at": "2026-08-09T04:20:12Z",
+    "ingested_at": "2026-08-09T04:20:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:39:50Z",
+    "ledger_committed_at": "2026-08-09T04:39:50Z"
+  },
+  {
+    "id": "bfx-svc-js-2026-08-09",
+    "display_name": "bfx-svc-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bfx-svc-js",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.3",
@@ -232479,8 +232515,8 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1553",
-            "osv_published_at": "2022-06-20T20:17:55Z"
+            "osv_id": "MAL-2022-1552",
+            "osv_published_at": "2022-06-20T20:17:54Z"
           }
         ]
       }
@@ -232489,8 +232525,8 @@
     "attestd_detected_at": "2026-08-09T04:20:14Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:20:14Z",
-    "osv_earliest_published_at": "2022-06-20T20:17:55Z",
-    "source_published_at": "2022-06-20T20:17:55Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:54Z",
+    "source_published_at": "2022-06-20T20:17:54Z",
     "observed_at": "2026-08-09T04:20:14Z",
     "ingested_at": "2026-08-09T04:20:14Z",
     "first_served_at": null,
@@ -232499,17 +232535,17 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:40:08Z",
-    "ledger_committed_at": "2026-08-09T04:40:08Z"
+    "ledger_commit_at": "2026-08-09T04:40:02Z",
+    "ledger_committed_at": "2026-08-09T04:40:02Z"
   },
   {
-    "id": "bfx-wrk-api-2026-08-09",
-    "display_name": "bfx-wrk-api",
+    "id": "bfx-util-net-js-2026-08-09",
+    "display_name": "bfx-util-net-js",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bfx-wrk-api",
+        "package": "bfx-util-net-js",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.2",
@@ -232517,37 +232553,75 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1555",
+            "osv_id": "MAL-2022-1554",
             "osv_published_at": "2022-06-20T20:17:57Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:20:16Z",
+    "attestd_detected_at": "2026-08-09T04:20:15Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:20:16Z",
+    "confirmed_at": "2026-08-09T04:20:15Z",
     "osv_earliest_published_at": "2022-06-20T20:17:57Z",
     "source_published_at": "2022-06-20T20:17:57Z",
-    "observed_at": "2026-08-09T04:20:16Z",
-    "ingested_at": "2026-08-09T04:20:16Z",
+    "observed_at": "2026-08-09T04:20:15Z",
+    "ingested_at": "2026-08-09T04:20:15Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:40:19Z",
-    "ledger_committed_at": "2026-08-09T04:40:19Z"
+    "ledger_commit_at": "2026-08-09T04:40:12Z",
+    "ledger_committed_at": "2026-08-09T04:40:12Z"
   },
   {
-    "id": "bfx-ws2-api-audit-2026-08-09",
-    "display_name": "bfx-ws2-api-audit",
+    "id": "bfx-wrk-base-2026-08-09",
+    "display_name": "bfx-wrk-base",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "bfx-ws2-api-audit",
+        "package": "bfx-wrk-base",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.2",
+          "0.0.1-security.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1556",
+            "osv_published_at": "2022-06-20T20:17:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:20:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:20:17Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:57Z",
+    "source_published_at": "2022-06-20T20:17:57Z",
+    "observed_at": "2026-08-09T04:20:17Z",
+    "ingested_at": "2026-08-09T04:20:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T04:40:25Z",
+    "ledger_committed_at": "2026-08-09T04:40:25Z"
+  },
+  {
+    "id": "bfxuilib-2026-08-09",
+    "display_name": "bfxuilib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bfxuilib",
         "ecosystem": "npm",
         "versions": [
           "0.0.1-security.4",
@@ -232555,8 +232629,8 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1557",
-            "osv_published_at": "2022-06-20T20:17:51Z"
+            "osv_id": "MAL-2022-1558",
+            "osv_published_at": "2022-06-20T20:17:12Z"
           }
         ]
       }
@@ -232565,8 +232639,8 @@
     "attestd_detected_at": "2026-08-09T04:20:18Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:20:18Z",
-    "osv_earliest_published_at": "2022-06-20T20:17:51Z",
-    "source_published_at": "2022-06-20T20:17:51Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:12Z",
+    "source_published_at": "2022-06-20T20:17:12Z",
     "observed_at": "2026-08-09T04:20:18Z",
     "ingested_at": "2026-08-09T04:20:18Z",
     "first_served_at": null,
@@ -232575,7 +232649,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T04:40:30Z",
-    "ledger_committed_at": "2026-08-09T04:40:30Z"
+    "ledger_commit_at": "2026-08-09T04:40:36Z",
+    "ledger_committed_at": "2026-08-09T04:40:36Z"
   }
 ]
