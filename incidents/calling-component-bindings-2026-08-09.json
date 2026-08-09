@@ -1,0 +1,38 @@
+{
+  "id": "calling-component-bindings-2026-08-09",
+  "display_name": "calling-component-bindings",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "calling-component-bindings",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1814",
+          "osv_published_at": "2022-06-20T20:23:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:37:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:37:21Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:47Z",
+  "source_published_at": "2022-06-20T20:23:47Z",
+  "observed_at": "2026-08-09T04:37:21Z",
+  "ingested_at": "2026-08-09T04:37:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:54:16Z",
+  "ledger_committed_at": "2026-08-09T05:54:16Z"
+}
