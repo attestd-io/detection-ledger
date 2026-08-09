@@ -1,0 +1,38 @@
+{
+  "id": "apitrueid-2026-08-09",
+  "display_name": "apitrueid",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "apitrueid",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "5.3.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1049",
+          "osv_published_at": "2022-08-22T05:27:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:39:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:39:24Z",
+  "osv_earliest_published_at": "2022-08-22T05:27:47Z",
+  "source_published_at": "2022-08-22T05:27:47Z",
+  "observed_at": "2026-08-09T03:39:24Z",
+  "ingested_at": "2026-08-09T03:39:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:42:23Z",
+  "ledger_committed_at": "2026-08-09T03:42:23Z"
+}
