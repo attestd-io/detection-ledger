@@ -1,0 +1,39 @@
+{
+  "id": "authinit-2026-08-09",
+  "display_name": "authinit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "authinit",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "2.0.0",
+        "3.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1177",
+          "osv_published_at": "2022-08-30T01:38:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:45:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:45:06Z",
+  "osv_earliest_published_at": "2022-08-30T01:38:43Z",
+  "source_published_at": "2022-08-30T01:38:43Z",
+  "observed_at": "2026-08-09T03:45:06Z",
+  "ingested_at": "2026-08-09T03:45:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:55:04Z",
+  "ledger_committed_at": "2026-08-09T03:55:04Z"
+}
