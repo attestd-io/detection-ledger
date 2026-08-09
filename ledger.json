@@ -201837,40 +201837,42 @@
     "ledger_committed_at": "2026-08-09T03:04:13Z"
   },
   {
-    "id": "regenraotr-2026-08-09",
-    "display_name": "regenraotr",
+    "id": "discord-debug-log-2026-08-09",
+    "display_name": "discord_debug_log",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "regenraotr",
+        "package": "discord_debug_log",
         "ecosystem": "npm",
         "versions": [
-          "6.0.0"
+          "1.0.0",
+          "1.1.0",
+          "1.2.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "GHSA-5x7p-gm79-383m",
-            "osv_published_at": "2020-09-01T21:11:57Z"
+            "osv_id": "GHSA-5x8q-gj67-rhf2",
+            "osv_published_at": "2020-09-02T21:18:33Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:05:16Z",
+    "attestd_detected_at": "2026-08-09T03:05:17Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:05:16Z",
-    "osv_earliest_published_at": "2020-09-01T21:11:57Z",
-    "source_published_at": "2020-09-01T21:11:57Z",
-    "observed_at": "2026-08-09T03:05:16Z",
-    "ingested_at": "2026-08-09T03:05:16Z",
+    "confirmed_at": "2026-08-09T03:05:17Z",
+    "osv_earliest_published_at": "2020-09-02T21:18:33Z",
+    "source_published_at": "2020-09-02T21:18:33Z",
+    "observed_at": "2026-08-09T03:05:17Z",
+    "ingested_at": "2026-08-09T03:05:17Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:05:19Z",
-    "ledger_committed_at": "2026-08-09T03:05:19Z"
+    "ledger_commit_at": "2026-08-09T03:05:20Z",
+    "ledger_committed_at": "2026-08-09T03:05:20Z"
   }
 ]
