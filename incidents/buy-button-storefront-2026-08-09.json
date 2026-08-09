@@ -1,0 +1,57 @@
+{
+  "id": "buy-button-storefront-2026-08-09",
+  "display_name": "buy-button-storefront",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "buy-button-storefront",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.999",
+        "0.1.9999",
+        "0.6.999",
+        "0.9.999",
+        "0.999.999",
+        "1.19.999",
+        "1.2.999",
+        "1.21.999",
+        "1.284.999",
+        "1.3.999",
+        "1.39.999",
+        "1.41.999",
+        "1.51.999",
+        "1.999.0",
+        "1.999.999",
+        "2.1.999",
+        "2.2.0",
+        "2.3233.999",
+        "4.6.999",
+        "4.999.0",
+        "999.999.999"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1733",
+          "osv_published_at": "2022-06-20T20:20:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:34:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:34:43Z",
+  "osv_earliest_published_at": "2022-06-20T20:20:11Z",
+  "source_published_at": "2022-06-20T20:20:11Z",
+  "observed_at": "2026-08-09T04:34:43Z",
+  "ingested_at": "2026-08-09T04:34:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:45:19Z",
+  "ledger_committed_at": "2026-08-09T05:45:19Z"
+}
