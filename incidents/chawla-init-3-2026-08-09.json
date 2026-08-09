@@ -1,0 +1,37 @@
+{
+  "id": "chawla-init-3-2026-08-09",
+  "display_name": "chawla-init-3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chawla-init-3",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1891",
+          "osv_published_at": "2022-08-02T08:57:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:45:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:45:39Z",
+  "osv_earliest_published_at": "2022-08-02T08:57:20Z",
+  "source_published_at": "2022-08-02T08:57:20Z",
+  "observed_at": "2026-08-09T04:45:39Z",
+  "ingested_at": "2026-08-09T04:45:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T06:05:26Z",
+  "ledger_committed_at": "2026-08-09T06:05:26Z"
+}
