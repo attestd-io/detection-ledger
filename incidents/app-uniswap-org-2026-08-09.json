@@ -1,0 +1,44 @@
+{
+  "id": "app-uniswap-org-2026-08-09",
+  "display_name": "app.uniswap.org",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "app.uniswap.org",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1066",
+          "osv_published_at": "2022-07-25T14:20:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:40:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:40:13Z",
+  "osv_earliest_published_at": "2022-07-25T14:20:32Z",
+  "source_published_at": "2022-07-25T14:20:32Z",
+  "observed_at": "2026-08-09T03:40:13Z",
+  "ingested_at": "2026-08-09T03:40:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:44:06Z",
+  "ledger_committed_at": "2026-08-09T03:44:06Z"
+}
