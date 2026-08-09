@@ -1,0 +1,43 @@
+{
+  "id": "arpanrizki-panpan-2026-08-09",
+  "display_name": "arpanrizki-panpan",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "arpanrizki-panpan",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1123",
+          "osv_published_at": "2022-12-19T01:51:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:42:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:42:52Z",
+  "osv_earliest_published_at": "2022-12-19T01:51:41Z",
+  "source_published_at": "2022-12-19T01:51:41Z",
+  "observed_at": "2026-08-09T03:42:52Z",
+  "ingested_at": "2026-08-09T03:42:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:50:04Z",
+  "ledger_committed_at": "2026-08-09T03:50:04Z"
+}
