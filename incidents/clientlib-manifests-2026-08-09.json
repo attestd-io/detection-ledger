@@ -1,0 +1,37 @@
+{
+  "id": "clientlib-manifests-2026-08-09",
+  "display_name": "clientlib-manifests",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "clientlib-manifests",
+      "ecosystem": "npm",
+      "versions": [
+        "30.10.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1928",
+          "osv_published_at": "2022-06-20T20:08:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:49:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:49:36Z",
+  "osv_earliest_published_at": "2022-06-20T20:08:49Z",
+  "source_published_at": "2022-06-20T20:08:49Z",
+  "observed_at": "2026-08-09T04:49:36Z",
+  "ingested_at": "2026-08-09T04:49:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T06:09:10Z",
+  "ledger_committed_at": "2026-08-09T06:09:10Z"
+}
