@@ -1,0 +1,37 @@
+{
+  "id": "apinitro-2026-08-09",
+  "display_name": "apinitro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "apinitro",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1048",
+          "osv_published_at": "2022-06-20T20:09:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:39:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:39:23Z",
+  "osv_earliest_published_at": "2022-06-20T20:09:43Z",
+  "source_published_at": "2022-06-20T20:09:43Z",
+  "observed_at": "2026-08-09T03:39:23Z",
+  "ingested_at": "2026-08-09T03:39:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:42:18Z",
+  "ledger_committed_at": "2026-08-09T03:42:18Z"
+}
