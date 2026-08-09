@@ -1,0 +1,37 @@
+{
+  "id": "boss-alien-media-player-2026-08-09",
+  "display_name": "boss-alien-media-player",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "boss-alien-media-player",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1654",
+          "osv_published_at": "2022-06-20T20:23:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:29:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:29:36Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:24Z",
+  "source_published_at": "2022-06-20T20:23:24Z",
+  "observed_at": "2026-08-09T04:29:36Z",
+  "ingested_at": "2026-08-09T04:29:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T05:08:02Z",
+  "ledger_committed_at": "2026-08-09T05:08:02Z"
+}
