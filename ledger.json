@@ -221502,60 +221502,98 @@
     "ledger_committed_at": "2026-08-09T03:57:16Z"
   },
   {
-    "id": "automation-inspector-2026-08-09",
-    "display_name": "automation-inspector",
+    "id": "yt-uikit-2026-08-09",
+    "display_name": "yt-uikit",
+    "campaign": "bf-ui-library",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "yt-uikit",
+        "ecosystem": "npm",
+        "versions": [
+          "0.10.24-fix-byob-product-categories.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:57:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:57:18Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T03:57:18Z",
+    "ingested_at": "2026-08-09T03:57:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/yt-uikit",
+    "ledger_commit_at": "2026-08-09T03:57:23Z",
+    "ledger_committed_at": "2026-08-09T03:57:23Z"
+  },
+  {
+    "id": "autoprefirx-2026-08-09",
+    "display_name": "autoprefirx",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "automation-inspector",
+        "package": "autoprefirx",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "3.0.0"
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "0.0.1-security.3",
+          "0.0.1-security.4",
+          "0.0.1-security.5",
+          "0.0.1-security.6",
+          "0.0.1-security.7",
+          "1.2.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1180",
-            "osv_published_at": "2022-06-20T20:22:22Z"
+            "osv_id": "MAL-2022-1181",
+            "osv_published_at": "2022-08-19T03:55:05Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:57:19Z",
+    "attestd_detected_at": "2026-08-09T03:57:21Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:57:19Z",
-    "osv_earliest_published_at": "2022-06-20T20:22:22Z",
-    "source_published_at": "2022-06-20T20:22:22Z",
-    "observed_at": "2026-08-09T03:57:19Z",
-    "ingested_at": "2026-08-09T03:57:19Z",
+    "confirmed_at": "2026-08-09T03:57:21Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:05Z",
+    "source_published_at": "2022-08-19T03:55:05Z",
+    "observed_at": "2026-08-09T03:57:21Z",
+    "ingested_at": "2026-08-09T03:57:21Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:57:24Z",
-    "ledger_committed_at": "2026-08-09T03:57:24Z"
+    "ledger_commit_at": "2026-08-09T03:57:31Z",
+    "ledger_committed_at": "2026-08-09T03:57:31Z"
   },
   {
-    "id": "autorest-extension-base-2026-08-09",
-    "display_name": "autorest-extension-base",
+    "id": "autotrain-2026-08-09",
+    "display_name": "autotrain",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "autorest-extension-base",
+        "package": "autotrain",
         "ecosystem": "npm",
         "versions": [
-          "99.10.8",
-          "99.9.8"
+          "1.1.10"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1182",
-            "osv_published_at": "2022-06-20T20:18:17Z"
+            "osv_id": "MAL-2022-1183",
+            "osv_published_at": "2022-07-21T10:55:49Z"
           }
         ]
       }
@@ -221564,8 +221602,8 @@
     "attestd_detected_at": "2026-08-09T03:57:22Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T03:57:22Z",
-    "osv_earliest_published_at": "2022-06-20T20:18:17Z",
-    "source_published_at": "2022-06-20T20:18:17Z",
+    "osv_earliest_published_at": "2022-07-21T10:55:49Z",
+    "source_published_at": "2022-07-21T10:55:49Z",
     "observed_at": "2026-08-09T03:57:22Z",
     "ingested_at": "2026-08-09T03:57:22Z",
     "first_served_at": null,
@@ -221574,44 +221612,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:57:35Z",
-    "ledger_committed_at": "2026-08-09T03:57:35Z"
-  },
-  {
-    "id": "avax-js-cli-tools-2026-08-09",
-    "display_name": "avax-js-cli-tools",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "avax-js-cli-tools",
-        "ecosystem": "npm",
-        "versions": [
-          "2.0.7"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-1184",
-            "osv_published_at": "2022-08-02T08:51:08Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:57:23Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:57:23Z",
-    "osv_earliest_published_at": "2022-08-02T08:51:08Z",
-    "source_published_at": "2022-08-02T08:51:08Z",
-    "observed_at": "2026-08-09T03:57:23Z",
-    "ingested_at": "2026-08-09T03:57:23Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:57:47Z",
-    "ledger_committed_at": "2026-08-09T03:57:47Z"
+    "ledger_commit_at": "2026-08-09T03:57:42Z",
+    "ledger_committed_at": "2026-08-09T03:57:42Z"
   }
 ]
