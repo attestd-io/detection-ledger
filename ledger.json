@@ -217306,5 +217306,39 @@
     "advisory_url": "https://registry.npmjs.org/%40ton%2Fcore",
     "ledger_commit_at": "2026-08-09T03:37:21Z",
     "ledger_committed_at": "2026-08-09T03:37:21Z"
+  },
+  {
+    "id": "zapier-platform-schema-2026-08-09",
+    "display_name": "zapier-platform-schema",
+    "campaign": "azure-tests",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "zapier-platform-schema",
+        "ecosystem": "npm",
+        "versions": [
+          "18.0.2",
+          "18.0.3",
+          "18.0.4"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:37:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:37:31Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T03:37:31Z",
+    "ingested_at": "2026-08-09T03:37:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/zapier-platform-schema",
+    "ledger_commit_at": "2026-08-09T03:37:34Z",
+    "ledger_committed_at": "2026-08-09T03:37:34Z"
   }
 ]
