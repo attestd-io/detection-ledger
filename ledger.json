@@ -217423,5 +217423,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T03:37:53Z",
     "ledger_committed_at": "2026-08-09T03:37:53Z"
+  },
+  {
+    "id": "angular-directive-seed-2026-08-09",
+    "display_name": "angular-directive-seed",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "angular-directive-seed",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1007",
+            "osv_published_at": "2022-06-20T21:09:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:37:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:37:41Z",
+    "osv_earliest_published_at": "2022-06-20T21:09:12Z",
+    "source_published_at": "2022-06-20T21:09:12Z",
+    "observed_at": "2026-08-09T03:37:41Z",
+    "ingested_at": "2026-08-09T03:37:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:38:08Z",
+    "ledger_committed_at": "2026-08-09T03:38:08Z"
   }
 ]
