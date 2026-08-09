@@ -113689,7 +113689,7 @@
   {
     "id": "injectivelabs-networks-2026-07-29",
     "display_name": "@injectivelabs/networks",
-    "campaign": "cuda-networks",
+    "campaign": null,
     "detection_source": "npm_deprecation",
     "packages": [
       {
@@ -113715,8 +113715,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Fnetworks",
-    "ledger_commit_at": "2026-08-09T06:03:02Z",
-    "ledger_committed_at": "2026-08-09T06:03:02Z"
+    "ledger_commit_at": "2026-07-29T11:36:25Z",
+    "ledger_committed_at": "2026-07-29T11:36:25Z"
   },
   {
     "id": "proot-distro-2026-07-29",
@@ -243688,34 +243688,36 @@
     "ledger_committed_at": "2026-08-09T06:02:25Z"
   },
   {
-    "id": "chaostest-2026-08-09",
-    "display_name": "chaostest",
+    "id": "changcase-2026-08-09",
+    "display_name": "changcase",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "chaostest",
+        "package": "changcase",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1",
-          "10.1.5"
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "1.2.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1879",
-            "osv_published_at": "2022-06-20T20:15:17Z"
+            "osv_id": "MAL-2022-1878",
+            "osv_published_at": "2022-08-19T03:55:06Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:40:19Z",
+    "attestd_detected_at": "2026-08-09T04:40:18Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:40:19Z",
-    "osv_earliest_published_at": "2022-06-20T20:15:17Z",
-    "source_published_at": "2022-06-20T20:15:17Z",
-    "observed_at": "2026-08-09T04:40:19Z",
-    "ingested_at": "2026-08-09T04:40:19Z",
+    "confirmed_at": "2026-08-09T04:40:18Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:06Z",
+    "source_published_at": "2022-08-19T03:55:06Z",
+    "observed_at": "2026-08-09T04:40:18Z",
+    "ingested_at": "2026-08-09T04:40:18Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
@@ -243726,238 +243728,295 @@
     "ledger_committed_at": "2026-08-09T06:02:32Z"
   },
   {
-    "id": "0xmonaco-mcp-server-2026-08-09",
-    "display_name": "@0xmonaco/mcp-server",
+    "id": "cuda-networks-bds-core-2026-08-09",
+    "display_name": "@cuda-networks/bds-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@cuda-networks/bds-core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-188",
+            "osv_published_at": "2022-07-05T12:19:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:40:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:40:20Z",
+    "osv_earliest_published_at": "2022-07-05T12:19:18Z",
+    "source_published_at": "2022-07-05T12:19:18Z",
+    "observed_at": "2026-08-09T04:40:20Z",
+    "ingested_at": "2026-08-09T04:40:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T06:02:39Z",
+    "ledger_committed_at": "2026-08-09T06:02:39Z"
+  },
+  {
+    "id": "coinbase-coinbase-sdk-2026-08-09",
+    "display_name": "@coinbase/coinbase-sdk",
     "campaign": "cuda-networks",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@0xmonaco/mcp-server",
+        "package": "@coinbase/coinbase-sdk",
         "ecosystem": "npm",
         "versions": [
-          "0.1.0",
+          "0.0.5"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:40:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:40:41Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T04:40:41Z",
+    "ingested_at": "2026-08-09T04:40:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40coinbase%2Fcoinbase-sdk",
+    "ledger_commit_at": "2026-08-09T06:02:51Z",
+    "ledger_committed_at": "2026-08-09T06:02:51Z"
+  },
+  {
+    "id": "mcpdotdirect-evm-mcp-server-2026-08-09",
+    "display_name": "@mcpdotdirect/evm-mcp-server",
+    "campaign": "cuda-networks",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@mcpdotdirect/evm-mcp-server",
+        "ecosystem": "npm",
+        "versions": [
           "1.0.0",
+          "1.1.0",
+          "1.1.3",
+          "1.2.0",
           "2.0.0"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:40:37Z",
+    "attestd_detected_at": "2026-08-09T04:41:06Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:40:37Z",
+    "confirmed_at": "2026-08-09T04:41:06Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:40:37Z",
-    "ingested_at": "2026-08-09T04:40:37Z",
+    "observed_at": "2026-08-09T04:41:06Z",
+    "ingested_at": "2026-08-09T04:41:06Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%400xmonaco%2Fmcp-server",
-    "ledger_commit_at": "2026-08-09T06:02:44Z",
-    "ledger_committed_at": "2026-08-09T06:02:44Z"
+    "advisory_url": "https://registry.npmjs.org/%40mcpdotdirect%2Fevm-mcp-server",
+    "ledger_commit_at": "2026-08-09T06:03:07Z",
+    "ledger_committed_at": "2026-08-09T06:03:07Z"
   },
   {
-    "id": "een-live-video-web-sdk-2026-08-09",
-    "display_name": "@een/live-video-web-sdk",
+    "id": "multisender-app-multisender-react-widget-2026-08-09",
+    "display_name": "@multisender.app/multisender-react-widget",
     "campaign": "cuda-networks",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@een/live-video-web-sdk",
+        "package": "@multisender.app/multisender-react-widget",
         "ecosystem": "npm",
         "versions": [
-          "1.3.1",
-          "1.3.2",
-          "1.3.3",
-          "1.3.4",
-          "1.3.5",
-          "1.5.0",
-          "1.5.2",
-          "1.5.3",
-          "1.5.4",
-          "1.5.5"
+          "0.0.10",
+          "0.0.11",
+          "0.0.12",
+          "0.0.13",
+          "0.0.2",
+          "0.0.21",
+          "0.0.22",
+          "0.0.23",
+          "0.0.24",
+          "0.0.25",
+          "0.0.3",
+          "0.0.4",
+          "0.0.5",
+          "0.0.6",
+          "0.1.2",
+          "0.1.4"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:40:47Z",
+    "attestd_detected_at": "2026-08-09T04:41:10Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:40:47Z",
+    "confirmed_at": "2026-08-09T04:41:10Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:40:47Z",
-    "ingested_at": "2026-08-09T04:40:47Z",
+    "observed_at": "2026-08-09T04:41:10Z",
+    "ingested_at": "2026-08-09T04:41:10Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40een%2Flive-video-web-sdk",
-    "ledger_commit_at": "2026-08-09T06:02:55Z",
-    "ledger_committed_at": "2026-08-09T06:02:55Z"
+    "advisory_url": "https://registry.npmjs.org/%40multisender.app%2Fmultisender-react-widget",
+    "ledger_commit_at": "2026-08-09T06:03:18Z",
+    "ledger_committed_at": "2026-08-09T06:03:18Z"
   },
   {
-    "id": "mp70-react-networks-2026-08-09",
-    "display_name": "@mp70/react-networks",
+    "id": "qriton-hopfield-anomaly-2026-08-09",
+    "display_name": "@qriton/hopfield-anomaly",
     "campaign": "cuda-networks",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@mp70/react-networks",
+        "package": "@qriton/hopfield-anomaly",
         "ecosystem": "npm",
         "versions": [
-          "0.2.0-beta"
+          "3.1.0",
+          "3.4.0",
+          "4.0.0"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:41:08Z",
+    "attestd_detected_at": "2026-08-09T04:41:17Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:41:08Z",
+    "confirmed_at": "2026-08-09T04:41:17Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:41:08Z",
-    "ingested_at": "2026-08-09T04:41:08Z",
+    "observed_at": "2026-08-09T04:41:17Z",
+    "ingested_at": "2026-08-09T04:41:17Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40mp70%2Freact-networks",
-    "ledger_commit_at": "2026-08-09T06:03:13Z",
-    "ledger_committed_at": "2026-08-09T06:03:13Z"
+    "advisory_url": "https://registry.npmjs.org/%40qriton%2Fhopfield-anomaly",
+    "ledger_commit_at": "2026-08-09T06:03:29Z",
+    "ledger_committed_at": "2026-08-09T06:03:29Z"
   },
   {
-    "id": "paloaltonetworks-mcp-dlp-2026-08-09",
-    "display_name": "@paloaltonetworks/mcp-dlp",
+    "id": "rsksmart-tokenbridge-sdk-2026-08-09",
+    "display_name": "@rsksmart/tokenbridge-sdk",
     "campaign": "cuda-networks",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@paloaltonetworks/mcp-dlp",
+        "package": "@rsksmart/tokenbridge-sdk",
         "ecosystem": "npm",
         "versions": [
-          "0.3.1"
+          "0.1.0",
+          "0.1.1",
+          "0.1.2",
+          "0.2.0",
+          "0.3.0",
+          "0.3.1",
+          "0.3.2",
+          "0.3.3",
+          "0.3.4",
+          "0.3.5"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:41:14Z",
+    "attestd_detected_at": "2026-08-09T04:41:23Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:41:14Z",
+    "confirmed_at": "2026-08-09T04:41:23Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:41:14Z",
-    "ingested_at": "2026-08-09T04:41:14Z",
+    "observed_at": "2026-08-09T04:41:23Z",
+    "ingested_at": "2026-08-09T04:41:23Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40paloaltonetworks%2Fmcp-dlp",
-    "ledger_commit_at": "2026-08-09T06:03:25Z",
-    "ledger_committed_at": "2026-08-09T06:03:25Z"
+    "advisory_url": "https://registry.npmjs.org/%40rsksmart%2Ftokenbridge-sdk",
+    "ledger_commit_at": "2026-08-09T06:03:37Z",
+    "ledger_committed_at": "2026-08-09T06:03:37Z"
   },
   {
-    "id": "spacesops-pear-wrk-wdk-2026-08-09",
-    "display_name": "@spacesops/pear-wrk-wdk",
+    "id": "zombienet-orchestrator-2026-08-09",
+    "display_name": "@zombienet/orchestrator",
     "campaign": "cuda-networks",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@spacesops/pear-wrk-wdk",
+        "package": "@zombienet/orchestrator",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0-beta.5"
+          "1.2.74"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:41:28Z",
+    "attestd_detected_at": "2026-08-09T04:41:38Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:41:28Z",
+    "confirmed_at": "2026-08-09T04:41:38Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:41:28Z",
-    "ingested_at": "2026-08-09T04:41:28Z",
+    "observed_at": "2026-08-09T04:41:38Z",
+    "ingested_at": "2026-08-09T04:41:38Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40spacesops%2Fpear-wrk-wdk",
-    "ledger_commit_at": "2026-08-09T06:03:40Z",
-    "ledger_committed_at": "2026-08-09T06:03:40Z"
+    "advisory_url": "https://registry.npmjs.org/%40zombienet%2Forchestrator",
+    "ledger_commit_at": "2026-08-09T06:03:52Z",
+    "ledger_committed_at": "2026-08-09T06:03:52Z"
   },
   {
-    "id": "symbioticfi-core-2026-08-09",
-    "display_name": "@symbioticfi/core",
+    "id": "create-mn-app-2026-08-09",
+    "display_name": "create-mn-app",
     "campaign": "cuda-networks",
     "detection_source": "npm_registry",
     "packages": [
       {
-        "package": "@symbioticfi/core",
+        "package": "create-mn-app",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0-devnet.6"
+          "0.3.1",
+          "0.3.2"
         ],
         "osv_entries": []
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:41:32Z",
+    "attestd_detected_at": "2026-08-09T04:45:21Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:41:32Z",
+    "confirmed_at": "2026-08-09T04:45:21Z",
     "osv_earliest_published_at": null,
     "source_published_at": null,
-    "observed_at": "2026-08-09T04:41:32Z",
-    "ingested_at": "2026-08-09T04:41:32Z",
+    "observed_at": "2026-08-09T04:45:21Z",
+    "ingested_at": "2026-08-09T04:45:21Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/%40symbioticfi%2Fcore",
-    "ledger_commit_at": "2026-08-09T06:03:48Z",
-    "ledger_committed_at": "2026-08-09T06:03:48Z"
-  },
-  {
-    "id": "chartjs-chart-funnel-2026-08-09",
-    "display_name": "chartjs-chart-funnel",
-    "campaign": "cuda-networks",
-    "detection_source": "npm_registry",
-    "packages": [
-      {
-        "package": "chartjs-chart-funnel",
-        "ecosystem": "npm",
-        "versions": [
-          "4.0.0-alpha"
-        ],
-        "osv_entries": []
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T04:44:10Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T04:44:10Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
-    "observed_at": "2026-08-09T04:44:10Z",
-    "ingested_at": "2026-08-09T04:44:10Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "https://registry.npmjs.org/chartjs-chart-funnel",
-    "ledger_commit_at": "2026-08-09T06:04:00Z",
-    "ledger_committed_at": "2026-08-09T06:04:00Z"
+    "advisory_url": "https://registry.npmjs.org/create-mn-app",
+    "ledger_commit_at": "2026-08-09T06:04:04Z",
+    "ledger_committed_at": "2026-08-09T06:04:04Z"
   }
 ]
