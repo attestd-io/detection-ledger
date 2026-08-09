@@ -1,0 +1,39 @@
+{
+  "id": "azure-tests-perf-search-documents-2026-08-09",
+  "display_name": "@azure-tests/perf-search-documents",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@azure-tests/perf-search-documents",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-108",
+          "osv_published_at": "2022-06-20T20:16:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:40:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:40:42Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:38Z",
+  "source_published_at": "2022-06-20T20:16:38Z",
+  "observed_at": "2026-08-09T03:40:42Z",
+  "ingested_at": "2026-08-09T03:40:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:45:32Z",
+  "ledger_committed_at": "2026-08-09T03:45:32Z"
+}
