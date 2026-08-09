@@ -1,0 +1,38 @@
+{
+  "id": "bitski-js-2026-08-09",
+  "display_name": "bitski-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bitski-js",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1596",
+          "osv_published_at": "2022-06-20T20:15:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:25:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:25:26Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:46Z",
+  "source_published_at": "2022-06-20T20:15:46Z",
+  "observed_at": "2026-08-09T04:25:26Z",
+  "ingested_at": "2026-08-09T04:25:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:53:36Z",
+  "ledger_committed_at": "2026-08-09T04:53:36Z"
+}
