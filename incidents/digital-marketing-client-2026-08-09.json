@@ -1,0 +1,38 @@
+{
+  "id": "digital-marketing-client-2026-08-09",
+  "display_name": "digital-marketing-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "digital-marketing-client",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.4",
+        "unpublished"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2021-3",
+          "osv_published_at": "2021-12-24T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:22:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:22:55Z",
+  "osv_earliest_published_at": "2021-12-24T00:00:00Z",
+  "source_published_at": "2021-12-24T00:00:00Z",
+  "observed_at": "2026-08-09T03:22:55Z",
+  "ingested_at": "2026-08-09T03:22:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:23:03Z",
+  "ledger_committed_at": "2026-08-09T03:23:03Z"
+}
