@@ -235616,5 +235616,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-09T05:04:50Z",
     "ledger_committed_at": "2026-08-09T05:04:50Z"
+  },
+  {
+    "id": "blocks-cloud-2026-08-09",
+    "display_name": "blocks-cloud",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "blocks-cloud",
+        "ecosystem": "npm",
+        "versions": [
+          "789.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1622",
+            "osv_published_at": "2022-06-20T20:19:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T04:26:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T04:26:12Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:42Z",
+    "source_published_at": "2022-06-20T20:19:42Z",
+    "observed_at": "2026-08-09T04:26:12Z",
+    "ingested_at": "2026-08-09T04:26:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T05:04:58Z",
+    "ledger_committed_at": "2026-08-09T05:04:58Z"
   }
 ]
