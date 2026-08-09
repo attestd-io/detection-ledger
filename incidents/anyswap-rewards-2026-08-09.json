@@ -1,0 +1,37 @@
+{
+  "id": "anyswap-rewards-2026-08-09",
+  "display_name": "anyswap-rewards",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "anyswap-rewards",
+      "ecosystem": "npm",
+      "versions": [
+        "10.10.10"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1028",
+          "osv_published_at": "2022-07-18T13:58:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T03:38:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T03:38:33Z",
+  "osv_earliest_published_at": "2022-07-18T13:58:58Z",
+  "source_published_at": "2022-07-18T13:58:58Z",
+  "observed_at": "2026-08-09T03:38:33Z",
+  "ingested_at": "2026-08-09T03:38:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T03:40:21Z",
+  "ledger_committed_at": "2026-08-09T03:40:21Z"
+}
