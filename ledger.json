@@ -220952,160 +220952,21 @@
     "ledger_committed_at": "2026-08-09T03:54:16Z"
   },
   {
-    "id": "audi-feature-services-2026-08-09",
-    "display_name": "audi-feature-services",
+    "id": "audit-logging-2026-08-09",
+    "display_name": "audit-logging",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "audi-feature-services",
+        "package": "audit-logging",
         "ecosystem": "npm",
         "versions": [
-          "10.98.97",
-          "100.98.97",
-          "101.98.97",
-          "102.98.97",
-          "103.98.97",
-          "104.98.97",
-          "11.98.97",
-          "12.98.97",
-          "13.98.97",
-          "14.98.97",
-          "15.98.97",
-          "16.98.97",
-          "17.98.97",
-          "18.98.97",
-          "19.98.97",
-          "2.0.0",
-          "20.98.97",
-          "21.98.97",
-          "22.98.97",
-          "23.98.97",
-          "24.98.97",
-          "25.98.97",
-          "26.98.97",
-          "27.98.97",
-          "28.98.97",
-          "29.98.97",
-          "3.0.0",
-          "30.98.97",
-          "31.98.97",
-          "32.98.97",
-          "33.98.97",
-          "34.98.97",
-          "35.98.97",
-          "36.98.97",
-          "37.98.97",
-          "38.98.97",
-          "39.98.97",
-          "4.38.0",
-          "40.98.97",
-          "41.98.97",
-          "42.98.97",
-          "43.98.97",
-          "44.98.97",
-          "45.98.97",
-          "46.98.97",
-          "47.98.97",
-          "48.98.97",
-          "49.98.97",
-          "5.98.97",
-          "50.98.97",
-          "51.98.97",
-          "52.98.97",
-          "53.98.97",
-          "54.98.97",
-          "55.98.97",
-          "56.98.97",
-          "57.98.97",
-          "58.98.97",
-          "59.98.97",
-          "6.98.97",
-          "60.98.97",
-          "61.98.97",
-          "62.98.97",
-          "63.98.97",
-          "64.98.97",
-          "65.98.97",
-          "66.98.97",
-          "67.98.97",
-          "68.98.97",
-          "69.98.97",
-          "7.98.97",
-          "70.98.97",
-          "71.98.97",
-          "72.98.97",
-          "73.98.97",
-          "74.98.97",
-          "75.98.97",
-          "76.98.97",
-          "77.98.97",
-          "78.98.97",
-          "79.98.97",
-          "8.98.97",
-          "80.98.97",
-          "81.98.97",
-          "82.98.97",
-          "83.98.97",
-          "84.98.97",
-          "85.98.97",
-          "86.98.97",
-          "87.98.97",
-          "88.98.97",
-          "89.98.97",
-          "9.98.97",
-          "90.98.97",
-          "91.98.97",
-          "92.98.97",
-          "93.98.97",
-          "94.98.97",
-          "95.98.97",
-          "96.98.97",
-          "97.98.97",
-          "98.98.97",
-          "99.98.97"
+          "3.3.5"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1169",
-            "osv_published_at": "2022-06-20T20:26:15Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:44:59Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:44:59Z",
-    "osv_earliest_published_at": "2022-06-20T20:26:15Z",
-    "source_published_at": "2022-06-20T20:26:15Z",
-    "observed_at": "2026-08-09T03:44:59Z",
-    "ingested_at": "2026-08-09T03:44:59Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:54:23Z",
-    "ledger_committed_at": "2026-08-09T03:54:23Z"
-  },
-  {
-    "id": "audit-pricing-2026-08-09",
-    "display_name": "audit-pricing",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "audit-pricing",
-        "ecosystem": "npm",
-        "versions": [
-          "10.0.0"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2022-1171",
-            "osv_published_at": "2022-06-20T20:24:06Z"
+            "osv_id": "MAL-2022-1170",
+            "osv_published_at": "2022-06-20T18:20:46Z"
           }
         ]
       }
@@ -221114,8 +220975,8 @@
     "attestd_detected_at": "2026-08-09T03:45:01Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T03:45:01Z",
-    "osv_earliest_published_at": "2022-06-20T20:24:06Z",
-    "source_published_at": "2022-06-20T20:24:06Z",
+    "osv_earliest_published_at": "2022-06-20T18:20:46Z",
+    "source_published_at": "2022-06-20T18:20:46Z",
     "observed_at": "2026-08-09T03:45:01Z",
     "ingested_at": "2026-08-09T03:45:01Z",
     "first_served_at": null,
@@ -221124,66 +220985,99 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:54:30Z",
-    "ledger_committed_at": "2026-08-09T03:54:30Z"
+    "ledger_commit_at": "2026-08-09T03:54:24Z",
+    "ledger_committed_at": "2026-08-09T03:54:24Z"
   },
   {
-    "id": "aura-transportation-driver-messaging-2026-08-09",
-    "display_name": "aura-transportation-driver-messaging",
+    "id": "aukwrklsfxntqjch-2026-08-09",
+    "display_name": "aukwrklsfxntqjch",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "aura-transportation-driver-messaging",
+        "package": "aukwrklsfxntqjch",
         "ecosystem": "npm",
         "versions": [
-          "99.99.103"
+          "0.1.91"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1173",
-            "osv_published_at": "2022-06-20T20:23:07Z"
+            "osv_id": "MAL-2022-1172",
+            "osv_published_at": "2022-07-11T21:19:23Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:45:03Z",
+    "attestd_detected_at": "2026-08-09T03:45:02Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:45:03Z",
-    "osv_earliest_published_at": "2022-06-20T20:23:07Z",
-    "source_published_at": "2022-06-20T20:23:07Z",
-    "observed_at": "2026-08-09T03:45:03Z",
-    "ingested_at": "2026-08-09T03:45:03Z",
+    "confirmed_at": "2026-08-09T03:45:02Z",
+    "osv_earliest_published_at": "2022-07-11T21:19:23Z",
+    "source_published_at": "2022-07-11T21:19:23Z",
+    "observed_at": "2026-08-09T03:45:02Z",
+    "ingested_at": "2026-08-09T03:45:02Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:54:42Z",
-    "ledger_committed_at": "2026-08-09T03:54:42Z"
+    "ledger_commit_at": "2026-08-09T03:54:35Z",
+    "ledger_committed_at": "2026-08-09T03:54:35Z"
   },
   {
-    "id": "auth-ebay-2026-08-09",
-    "display_name": "auth-ebay",
+    "id": "austrian-black-and-tan-hound-platforms-2026-08-09",
+    "display_name": "austrian-black-and-tan-hound-platforms",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "auth-ebay",
+        "package": "austrian-black-and-tan-hound-platforms",
         "ecosystem": "npm",
         "versions": [
-          "0.0.1-security.0",
-          "0.0.1-security.1",
-          "0.0.1-security.2",
-          "99.99.99",
-          "99.99.999"
+          "2.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1175",
-            "osv_published_at": "2022-09-14T07:23:09Z"
+            "osv_id": "MAL-2022-1174",
+            "osv_published_at": "2022-07-26T09:49:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:45:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:45:04Z",
+    "osv_earliest_published_at": "2022-07-26T09:49:14Z",
+    "source_published_at": "2022-07-26T09:49:14Z",
+    "observed_at": "2026-08-09T03:45:04Z",
+    "ingested_at": "2026-08-09T03:45:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:54:47Z",
+    "ledger_committed_at": "2026-08-09T03:54:47Z"
+  },
+  {
+    "id": "auth0-react-03-calling-an-api-2026-08-09",
+    "display_name": "auth0-react-03-calling-an-api",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "auth0-react-03-calling-an-api",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1176",
+            "osv_published_at": "2022-06-20T21:13:35Z"
           }
         ]
       }
@@ -221192,8 +221086,8 @@
     "attestd_detected_at": "2026-08-09T03:45:05Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T03:45:05Z",
-    "osv_earliest_published_at": "2022-09-14T07:23:09Z",
-    "source_published_at": "2022-09-14T07:23:09Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:35Z",
+    "source_published_at": "2022-06-20T21:13:35Z",
     "observed_at": "2026-08-09T03:45:05Z",
     "ingested_at": "2026-08-09T03:45:05Z",
     "first_served_at": null,
@@ -221202,84 +221096,81 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:54:53Z",
-    "ledger_committed_at": "2026-08-09T03:54:53Z"
+    "ledger_commit_at": "2026-08-09T03:54:59Z",
+    "ledger_committed_at": "2026-08-09T03:54:59Z"
   },
   {
-    "id": "authinit-2026-08-09",
-    "display_name": "authinit",
+    "id": "automate-loadtest-action-2026-08-09",
+    "display_name": "automate-loadtest-action",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "authinit",
+        "package": "automate-loadtest-action",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "2.0.0",
-          "3.0.0"
+          "99.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1177",
-            "osv_published_at": "2022-08-30T01:38:43Z"
+            "osv_id": "MAL-2022-1178",
+            "osv_published_at": "2022-06-20T20:10:16Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:45:06Z",
+    "attestd_detected_at": "2026-08-09T03:45:07Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:45:06Z",
-    "osv_earliest_published_at": "2022-08-30T01:38:43Z",
-    "source_published_at": "2022-08-30T01:38:43Z",
-    "observed_at": "2026-08-09T03:45:06Z",
-    "ingested_at": "2026-08-09T03:45:06Z",
+    "confirmed_at": "2026-08-09T03:45:07Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:16Z",
+    "source_published_at": "2022-06-20T20:10:16Z",
+    "observed_at": "2026-08-09T03:45:07Z",
+    "ingested_at": "2026-08-09T03:45:07Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:55:04Z",
-    "ledger_committed_at": "2026-08-09T03:55:04Z"
+    "ledger_commit_at": "2026-08-09T03:55:10Z",
+    "ledger_committed_at": "2026-08-09T03:55:10Z"
   },
   {
-    "id": "automated-end-to-end-tests-2026-08-09",
-    "display_name": "automated-end-to-end-tests",
+    "id": "bf-ui-library-richtext-2026-08-09",
+    "display_name": "@bf-ui-library/richtext",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "automated-end-to-end-tests",
+        "package": "@bf-ui-library/richtext",
         "ecosystem": "npm",
         "versions": [
-          "1.99.99",
-          "100.0.0"
+          "99.5.6"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2022-1179",
-            "osv_published_at": "2022-06-20T20:10:09Z"
+            "osv_id": "MAL-2022-118",
+            "osv_published_at": "2022-06-20T20:21:10Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:45:08Z",
+    "attestd_detected_at": "2026-08-09T03:45:09Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:45:08Z",
-    "osv_earliest_published_at": "2022-06-20T20:10:09Z",
-    "source_published_at": "2022-06-20T20:10:09Z",
-    "observed_at": "2026-08-09T03:45:08Z",
-    "ingested_at": "2026-08-09T03:45:08Z",
+    "confirmed_at": "2026-08-09T03:45:09Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:10Z",
+    "source_published_at": "2022-06-20T20:21:10Z",
+    "observed_at": "2026-08-09T03:45:09Z",
+    "ingested_at": "2026-08-09T03:45:09Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:55:15Z",
-    "ledger_committed_at": "2026-08-09T03:55:15Z"
+    "ledger_commit_at": "2026-08-09T03:55:21Z",
+    "ledger_committed_at": "2026-08-09T03:55:21Z"
   }
 ]
