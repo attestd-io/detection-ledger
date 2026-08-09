@@ -202750,40 +202750,77 @@
     "ledger_committed_at": "2026-08-09T03:12:51Z"
   },
   {
-    "id": "requet-2026-08-09",
-    "display_name": "requet",
+    "id": "asycn-2026-08-09",
+    "display_name": "asycn",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "requet",
+        "package": "asycn",
         "ecosystem": "npm",
         "versions": [
           "1000.0.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "GHSA-h44f-769q-j6px",
-            "osv_published_at": "2020-09-02T20:33:14Z"
+            "osv_id": "GHSA-h26f-j4mv-84g7",
+            "osv_published_at": "2020-09-02T18:39:43Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-09T03:13:23Z",
+    "attestd_detected_at": "2026-08-09T03:13:18Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-09T03:13:23Z",
-    "osv_earliest_published_at": "2020-09-02T20:33:14Z",
-    "source_published_at": "2020-09-02T20:33:14Z",
-    "observed_at": "2026-08-09T03:13:23Z",
-    "ingested_at": "2026-08-09T03:13:23Z",
+    "confirmed_at": "2026-08-09T03:13:18Z",
+    "osv_earliest_published_at": "2020-09-02T18:39:43Z",
+    "source_published_at": "2020-09-02T18:39:43Z",
+    "observed_at": "2026-08-09T03:13:18Z",
+    "ingested_at": "2026-08-09T03:13:18Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-09T03:13:26Z",
-    "ledger_committed_at": "2026-08-09T03:13:26Z"
+    "ledger_commit_at": "2026-08-09T03:13:21Z",
+    "ledger_committed_at": "2026-08-09T03:13:21Z"
+  },
+  {
+    "id": "momen-2026-08-09",
+    "display_name": "momen",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "momen",
+        "ecosystem": "npm",
+        "versions": [
+          "1000.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "GHSA-h5vm-jhq7-w647",
+            "osv_published_at": "2020-09-02T20:17:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:13:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:13:28Z",
+    "osv_earliest_published_at": "2020-09-02T20:17:13Z",
+    "source_published_at": "2020-09-02T20:17:13Z",
+    "observed_at": "2026-08-09T03:13:28Z",
+    "ingested_at": "2026-08-09T03:13:28Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-09T03:13:31Z",
+    "ledger_committed_at": "2026-08-09T03:13:31Z"
   }
 ]
