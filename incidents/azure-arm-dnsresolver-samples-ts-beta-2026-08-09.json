@@ -1,0 +1,37 @@
+{
+  "id": "azure-arm-dnsresolver-samples-ts-beta-2026-08-09",
+  "display_name": "azure-arm-dnsresolver-samples-ts-beta",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "azure-arm-dnsresolver-samples-ts-beta",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1246",
+          "osv_published_at": "2022-06-20T20:10:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:02:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:02:19Z",
+  "osv_earliest_published_at": "2022-06-20T20:10:23Z",
+  "source_published_at": "2022-06-20T20:10:23Z",
+  "observed_at": "2026-08-09T04:02:19Z",
+  "ingested_at": "2026-08-09T04:02:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:05:55Z",
+  "ledger_committed_at": "2026-08-09T04:05:55Z"
+}
