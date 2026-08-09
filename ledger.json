@@ -203982,5 +203982,37 @@
     "advisory_url": "https://registry.npmjs.org/%40acemir%2Fcssom",
     "ledger_commit_at": "2026-08-09T03:23:32Z",
     "ledger_committed_at": "2026-08-09T03:23:32Z"
+  },
+  {
+    "id": "dynamic-labs-wallet-connector-core-2026-08-09",
+    "display_name": "@dynamic-labs/wallet-connector-core",
+    "campaign": "azure-tests",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@dynamic-labs/wallet-connector-core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.17.0-fix-on-render-primary-wallet.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-09T03:23:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-09T03:23:22Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-09T03:23:22Z",
+    "ingested_at": "2026-08-09T03:23:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40dynamic-labs%2Fwallet-connector-core",
+    "ledger_commit_at": "2026-08-09T03:23:42Z",
+    "ledger_committed_at": "2026-08-09T03:23:42Z"
   }
 ]
