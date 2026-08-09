@@ -1,0 +1,37 @@
+{
+  "id": "base-figma-docs-2026-08-09",
+  "display_name": "base-figma-docs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "base-figma-docs",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1466",
+          "osv_published_at": "2022-06-20T20:23:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-09T04:15:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-09T04:15:50Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:51Z",
+  "source_published_at": "2022-06-20T20:23:51Z",
+  "observed_at": "2026-08-09T04:15:50Z",
+  "ingested_at": "2026-08-09T04:15:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-09T04:30:06Z",
+  "ledger_committed_at": "2026-08-09T04:30:06Z"
+}
