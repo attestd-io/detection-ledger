@@ -280087,5 +280087,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-10T12:40:31Z",
     "ledger_committed_at": "2026-08-10T12:40:31Z"
+  },
+  {
+    "id": "hex-encode-utils-2026-08-10",
+    "display_name": "hex-encode-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hex-encode-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13695",
+            "osv_published_at": "2026-08-10T11:55:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-10T12:40:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-10T12:40:30Z",
+    "osv_earliest_published_at": "2026-08-10T11:55:59Z",
+    "source_published_at": "2026-08-10T11:55:59Z",
+    "observed_at": "2026-08-10T12:40:30Z",
+    "ingested_at": "2026-08-10T12:40:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-10T12:40:45Z",
+    "ledger_committed_at": "2026-08-10T12:40:45Z"
   }
 ]
