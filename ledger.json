@@ -279524,40 +279524,114 @@
     "ledger_committed_at": "2026-08-10T00:39:29Z"
   },
   {
-    "id": "statist-browser-typed-client-eventea-projects-tdevice-2026-08-10",
-    "display_name": "statist-browser-typed-client-eventea.projects.tdevice",
+    "id": "statist-browser-typed-client-eventea-projects-tdeal-2026-08-10",
+    "display_name": "statist-browser-typed-client-eventea.projects.tdeal",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "statist-browser-typed-client-eventea.projects.tdevice",
+        "package": "statist-browser-typed-client-eventea.projects.tdeal",
         "ecosystem": "npm",
         "versions": [
           "0.0.1"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13675",
+            "osv_id": "MAL-2026-13674",
             "osv_published_at": "2026-08-08T17:27:55Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-10T00:38:59Z",
+    "attestd_detected_at": "2026-08-10T00:38:58Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-10T00:38:59Z",
+    "confirmed_at": "2026-08-10T00:38:58Z",
     "osv_earliest_published_at": "2026-08-08T17:27:55Z",
     "source_published_at": "2026-08-08T17:27:55Z",
-    "observed_at": "2026-08-10T00:38:59Z",
-    "ingested_at": "2026-08-10T00:38:59Z",
+    "observed_at": "2026-08-10T00:38:58Z",
+    "ingested_at": "2026-08-10T00:38:58Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-10T00:39:37Z",
-    "ledger_committed_at": "2026-08-10T00:39:37Z"
+    "ledger_commit_at": "2026-08-10T00:39:36Z",
+    "ledger_committed_at": "2026-08-10T00:39:36Z"
+  },
+  {
+    "id": "svelte-cache-kit-2026-08-10",
+    "display_name": "svelte-cache-kit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "svelte-cache-kit",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13676",
+            "osv_published_at": "2026-08-07T17:47:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-10T00:39:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-10T00:39:03Z",
+    "osv_earliest_published_at": "2026-08-07T17:47:55Z",
+    "source_published_at": "2026-08-07T17:47:55Z",
+    "observed_at": "2026-08-10T00:39:03Z",
+    "ingested_at": "2026-08-10T00:39:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-10T00:39:44Z",
+    "ledger_committed_at": "2026-08-10T00:39:44Z"
+  },
+  {
+    "id": "svelte-kit-cache-2026-08-10",
+    "display_name": "svelte-kit-cache",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "svelte-kit-cache",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13677",
+            "osv_published_at": "2026-08-08T17:20:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-10T00:39:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-10T00:39:04Z",
+    "osv_earliest_published_at": "2026-08-08T17:20:38Z",
+    "source_published_at": "2026-08-08T17:20:38Z",
+    "observed_at": "2026-08-10T00:39:04Z",
+    "ingested_at": "2026-08-10T00:39:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-10T00:39:51Z",
+    "ledger_committed_at": "2026-08-10T00:39:51Z"
   }
 ]
