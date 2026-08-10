@@ -131523,8 +131523,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40ornikar%2Fintl-config",
-    "ledger_commit_at": "2026-08-10T00:38:49Z",
-    "ledger_committed_at": "2026-08-10T00:38:49Z"
+    "ledger_commit_at": "2026-08-07T18:06:28Z",
+    "ledger_committed_at": "2026-08-07T18:06:28Z"
   },
   {
     "id": "ornikar-jest-config-react-native-web-2026-08-05",
@@ -131706,8 +131706,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40ornikar%2Freact-native-svg-transformer",
-    "ledger_commit_at": "2026-08-07T18:08:12Z",
-    "ledger_committed_at": "2026-08-07T18:08:12Z"
+    "ledger_commit_at": "2026-08-10T00:38:53Z",
+    "ledger_committed_at": "2026-08-10T00:38:53Z"
   },
   {
     "id": "ornikar-repo-config-react-2026-08-05",
@@ -195290,13 +195290,6 @@
         "package": "blekit",
         "ecosystem": "npm",
         "versions": [
-          "0.1.0",
-          "0.2.0",
-          "0.3.0",
-          "0.3.1",
-          "0.3.2",
-          "1.0.0",
-          "1.1.0",
           "1.2.0",
           "1.2.1"
         ],
@@ -195322,8 +195315,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-10T00:38:56Z",
-    "ledger_committed_at": "2026-08-10T00:38:56Z"
+    "ledger_commit_at": "2026-08-07T13:05:29Z",
+    "ledger_committed_at": "2026-08-07T13:05:29Z"
   },
   {
     "id": "ded-pwa-c-page-maker-props-2026-08-07",
@@ -279420,40 +279413,77 @@
     "ledger_committed_at": "2026-08-10T00:37:53Z"
   },
   {
-    "id": "specials-resources-server-2026-08-10",
-    "display_name": "specials-resources-server",
+    "id": "statist-browser-typed-client-eventea-projects-pwafamily-2026-08-10",
+    "display_name": "statist-browser-typed-client-eventea.projects.pwafamily",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "specials-resources-server",
+        "package": "statist-browser-typed-client-eventea.projects.pwafamily",
         "ecosystem": "npm",
         "versions": [
-          "35.8.1"
+          "35.8.0"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13669",
+            "osv_id": "MAL-2026-13670",
             "osv_published_at": "2026-08-08T17:27:55Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-10T00:38:53Z",
+    "attestd_detected_at": "2026-08-10T00:38:54Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-10T00:38:53Z",
+    "confirmed_at": "2026-08-10T00:38:54Z",
     "osv_earliest_published_at": "2026-08-08T17:27:55Z",
     "source_published_at": "2026-08-08T17:27:55Z",
-    "observed_at": "2026-08-10T00:38:53Z",
-    "ingested_at": "2026-08-10T00:38:53Z",
+    "observed_at": "2026-08-10T00:38:54Z",
+    "ingested_at": "2026-08-10T00:38:54Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-10T00:39:05Z",
-    "ledger_committed_at": "2026-08-10T00:39:05Z"
+    "ledger_commit_at": "2026-08-10T00:39:09Z",
+    "ledger_committed_at": "2026-08-10T00:39:09Z"
+  },
+  {
+    "id": "statist-browser-typed-client-eventea-projects-pwahelp-2026-08-10",
+    "display_name": "statist-browser-typed-client-eventea.projects.pwahelp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "statist-browser-typed-client-eventea.projects.pwahelp",
+        "ecosystem": "npm",
+        "versions": [
+          "35.8.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13671",
+            "osv_published_at": "2026-08-08T17:27:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-10T00:38:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-10T00:38:55Z",
+    "osv_earliest_published_at": "2026-08-08T17:27:55Z",
+    "source_published_at": "2026-08-08T17:27:55Z",
+    "observed_at": "2026-08-10T00:38:55Z",
+    "ingested_at": "2026-08-10T00:38:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-10T00:39:17Z",
+    "ledger_committed_at": "2026-08-10T00:39:17Z"
   }
 ]
