@@ -1,0 +1,39 @@
+{
+  "id": "neutrl-contracts-2026-08-10",
+  "display_name": "neutrl-contracts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "neutrl-contracts",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.0.0",
+        "2.0.1",
+        "2.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13709",
+          "osv_published_at": "2026-08-10T19:49:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-10T20:34:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-10T20:34:24Z",
+  "osv_earliest_published_at": "2026-08-10T19:49:11Z",
+  "source_published_at": "2026-08-10T19:49:11Z",
+  "observed_at": "2026-08-10T20:34:24Z",
+  "ingested_at": "2026-08-10T20:34:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-10T20:34:27Z",
+  "ledger_committed_at": "2026-08-10T20:34:27Z"
+}
