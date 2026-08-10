@@ -279978,7 +279978,8 @@
         "package": "@kuperka/chainguard-sdk",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1"
+          "1.0.1",
+          "1.0.2"
         ],
         "osv_entries": [
           {
@@ -280002,8 +280003,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-10T12:39:37Z",
-    "ledger_committed_at": "2026-08-10T12:39:37Z"
+    "ledger_commit_at": "2026-08-10T12:56:10Z",
+    "ledger_committed_at": "2026-08-10T12:56:10Z"
   },
   {
     "id": "noobaihome-amis-uni-area-widget-2026-08-10",
@@ -280205,41 +280206,40 @@
     "ledger_committed_at": "2026-08-10T12:41:07Z"
   },
   {
-    "id": "rblxts-services-2026-08-10",
-    "display_name": "@rblxts/services",
+    "id": "chai-as-bench-2026-08-10",
+    "display_name": "chai-as-bench",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "@rblxts/services",
+        "package": "chai-as-bench",
         "ecosystem": "npm",
         "versions": [
-          "1.6.0",
-          "1.6.2"
+          "7.0.3"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13691",
-            "osv_published_at": "2026-08-10T12:23:43Z"
+            "osv_id": "MAL-2026-13699",
+            "osv_published_at": "2026-08-10T12:29:53Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-10T12:39:40Z",
+    "attestd_detected_at": "2026-08-10T12:56:09Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-10T12:39:40Z",
-    "osv_earliest_published_at": "2026-08-10T12:23:43Z",
-    "source_published_at": "2026-08-10T12:23:43Z",
-    "observed_at": "2026-08-10T12:39:40Z",
-    "ingested_at": "2026-08-10T12:39:40Z",
+    "confirmed_at": "2026-08-10T12:56:09Z",
+    "osv_earliest_published_at": "2026-08-10T12:29:53Z",
+    "source_published_at": "2026-08-10T12:29:53Z",
+    "observed_at": "2026-08-10T12:56:09Z",
+    "ingested_at": "2026-08-10T12:56:09Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-10T12:56:12Z",
-    "ledger_committed_at": "2026-08-10T12:56:12Z"
+    "ledger_commit_at": "2026-08-10T12:56:19Z",
+    "ledger_committed_at": "2026-08-10T12:56:19Z"
   }
 ]
