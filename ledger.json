@@ -280052,41 +280052,40 @@
     "ledger_committed_at": "2026-08-10T12:39:45Z"
   },
   {
-    "id": "cryptostock-2026-08-10",
-    "display_name": "cryptostock",
+    "id": "chai-jsonss-2026-08-10",
+    "display_name": "chai-jsonss",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "cryptostock",
+        "package": "chai-jsonss",
         "ecosystem": "npm",
         "versions": [
-          "1.0.0",
-          "1.0.1"
+          "3.7.7"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13693",
-            "osv_published_at": "2026-08-10T11:54:05Z"
+            "osv_id": "MAL-2026-13692",
+            "osv_published_at": "2026-08-10T11:56:07Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-10T12:40:28Z",
+    "attestd_detected_at": "2026-08-10T12:40:27Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-10T12:40:28Z",
-    "osv_earliest_published_at": "2026-08-10T11:54:05Z",
-    "source_published_at": "2026-08-10T11:54:05Z",
-    "observed_at": "2026-08-10T12:40:28Z",
-    "ingested_at": "2026-08-10T12:40:28Z",
+    "confirmed_at": "2026-08-10T12:40:27Z",
+    "osv_earliest_published_at": "2026-08-10T11:56:07Z",
+    "source_published_at": "2026-08-10T11:56:07Z",
+    "observed_at": "2026-08-10T12:40:27Z",
+    "ingested_at": "2026-08-10T12:40:27Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-10T12:40:32Z",
-    "ledger_committed_at": "2026-08-10T12:40:32Z"
+    "ledger_commit_at": "2026-08-10T12:40:31Z",
+    "ledger_committed_at": "2026-08-10T12:40:31Z"
   }
 ]
