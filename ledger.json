@@ -136737,10 +136737,7 @@
           "7.0.0-pr.3637.2",
           "7.0.0-pr.3637.3",
           "7.0.0-pr.3637.4",
-          "7.0.0-pr.3637.5",
-          "7.0.0-pr.3762.2",
-          "7.0.0-pr.3762.3",
-          "7.0.0-pr.3762.4"
+          "7.0.0-pr.3637.5"
         ],
         "osv_entries": [
           {
@@ -136764,8 +136761,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-10T12:09:02Z",
-    "ledger_committed_at": "2026-08-10T12:09:02Z"
+    "ledger_commit_at": "2026-08-05T06:11:31Z",
+    "ledger_committed_at": "2026-08-05T06:11:31Z"
   },
   {
     "id": "metrics-ui-2026-08-04",
@@ -279932,5 +279929,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-10T11:38:26Z",
     "ledger_committed_at": "2026-08-10T11:38:26Z"
+  },
+  {
+    "id": "tokocrytodev-2026-08-10",
+    "display_name": "tokocrytodev",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tokocrytodev",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13687",
+            "osv_published_at": "2026-08-10T11:50:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-10T12:09:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-10T12:09:02Z",
+    "osv_earliest_published_at": "2026-08-10T11:50:11Z",
+    "source_published_at": "2026-08-10T11:50:11Z",
+    "observed_at": "2026-08-10T12:09:02Z",
+    "ingested_at": "2026-08-10T12:09:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-10T12:09:07Z",
+    "ledger_committed_at": "2026-08-10T12:09:07Z"
   }
 ]
