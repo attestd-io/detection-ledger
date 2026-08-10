@@ -1,0 +1,37 @@
+{
+  "id": "simple-date-formatter-new-9-2026-08-10",
+  "display_name": "simple-date-formatter-new-9",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "simple-date-formatter-new-9",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13698",
+          "osv_published_at": "2026-08-10T11:53:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-10T12:40:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-10T12:40:33Z",
+  "osv_earliest_published_at": "2026-08-10T11:53:49Z",
+  "source_published_at": "2026-08-10T11:53:49Z",
+  "observed_at": "2026-08-10T12:40:33Z",
+  "ingested_at": "2026-08-10T12:40:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-10T12:41:07Z",
+  "ledger_committed_at": "2026-08-10T12:41:07Z"
+}
