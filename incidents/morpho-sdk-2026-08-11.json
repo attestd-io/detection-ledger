@@ -1,0 +1,37 @@
+{
+  "id": "morpho-sdk-2026-08-11",
+  "display_name": "morpho-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "morpho-sdk",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13731",
+          "osv_published_at": "2026-08-11T09:48:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-11T10:31:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-11T10:31:31Z",
+  "osv_earliest_published_at": "2026-08-11T09:48:32Z",
+  "source_published_at": "2026-08-11T09:48:32Z",
+  "observed_at": "2026-08-11T10:31:31Z",
+  "ingested_at": "2026-08-11T10:31:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-11T10:31:35Z",
+  "ledger_committed_at": "2026-08-11T10:31:35Z"
+}
