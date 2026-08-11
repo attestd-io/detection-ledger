@@ -282087,5 +282087,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-11T17:59:56Z",
     "ledger_committed_at": "2026-08-11T17:59:56Z"
+  },
+  {
+    "id": "dgn-src-click-to-pay-org-srcdcfreleasecert-2026-08-11",
+    "display_name": "@dgn-src-click-to-pay-org/srcdcfreleasecert",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@dgn-src-click-to-pay-org/srcdcfreleasecert",
+        "ecosystem": "npm",
+        "versions": [
+          "999.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13744",
+            "osv_published_at": "2026-08-11T18:50:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-11T19:01:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-11T19:01:26Z",
+    "osv_earliest_published_at": "2026-08-11T18:50:11Z",
+    "source_published_at": "2026-08-11T18:50:11Z",
+    "observed_at": "2026-08-11T19:01:26Z",
+    "ingested_at": "2026-08-11T19:01:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-11T19:01:29Z",
+    "ledger_committed_at": "2026-08-11T19:01:29Z"
   }
 ]
