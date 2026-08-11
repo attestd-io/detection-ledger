@@ -1,0 +1,37 @@
+{
+  "id": "tailwind-elements-ui-2026-08-11",
+  "display_name": "tailwind-elements-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tailwind-elements-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13727",
+          "osv_published_at": "2026-08-10T16:24:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-11T00:59:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-11T00:59:45Z",
+  "osv_earliest_published_at": "2026-08-10T16:24:51Z",
+  "source_published_at": "2026-08-10T16:24:51Z",
+  "observed_at": "2026-08-11T00:59:45Z",
+  "ingested_at": "2026-08-11T00:59:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-11T01:00:26Z",
+  "ledger_committed_at": "2026-08-11T01:00:26Z"
+}
