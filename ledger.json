@@ -282272,5 +282272,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-11T19:03:21Z",
     "ledger_committed_at": "2026-08-11T19:03:21Z"
+  },
+  {
+    "id": "dcfarguscert-2026-08-11",
+    "display_name": "dcfarguscert",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dcfarguscert",
+        "ecosystem": "npm",
+        "versions": [
+          "999.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13753",
+            "osv_published_at": "2026-08-11T18:49:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-11T19:02:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-11T19:02:45Z",
+    "osv_earliest_published_at": "2026-08-11T18:49:55Z",
+    "source_published_at": "2026-08-11T18:49:55Z",
+    "observed_at": "2026-08-11T19:02:45Z",
+    "ingested_at": "2026-08-11T19:02:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-11T19:03:33Z",
+    "ledger_committed_at": "2026-08-11T19:03:33Z"
   }
 ]
