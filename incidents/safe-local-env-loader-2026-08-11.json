@@ -1,0 +1,37 @@
+{
+  "id": "safe-local-env-loader-2026-08-11",
+  "display_name": "safe-local-env-loader",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "safe-local-env-loader",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13741",
+          "osv_published_at": "2026-08-11T15:14:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-11T15:42:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-11T15:42:14Z",
+  "osv_earliest_published_at": "2026-08-11T15:14:17Z",
+  "source_published_at": "2026-08-11T15:14:17Z",
+  "observed_at": "2026-08-11T15:42:14Z",
+  "ingested_at": "2026-08-11T15:42:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-11T15:42:30Z",
+  "ledger_committed_at": "2026-08-11T15:42:30Z"
+}
