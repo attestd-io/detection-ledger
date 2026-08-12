@@ -282537,5 +282537,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-12T00:24:06Z",
     "ledger_committed_at": "2026-08-12T00:24:06Z"
+  },
+  {
+    "id": "sui-bcs-codec-2026-08-12",
+    "display_name": "sui-bcs-codec",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sui-bcs-codec",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13767",
+            "osv_published_at": "2026-08-11T16:43:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-12T00:23:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-12T00:23:35Z",
+    "osv_earliest_published_at": "2026-08-11T16:43:32Z",
+    "source_published_at": "2026-08-11T16:43:32Z",
+    "observed_at": "2026-08-12T00:23:35Z",
+    "ingested_at": "2026-08-12T00:23:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-12T00:24:19Z",
+    "ledger_committed_at": "2026-08-12T00:24:19Z"
   }
 ]
