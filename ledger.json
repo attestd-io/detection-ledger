@@ -282558,6 +282558,7 @@
         "package": "@telekom-ods/react-ui-kit",
         "ecosystem": "npm",
         "versions": [
+          "2.6.0",
           "2.6.9"
         ],
         "osv_entries": [
@@ -282582,8 +282583,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-12T05:15:15Z",
-    "ledger_committed_at": "2026-08-12T05:15:15Z"
+    "ledger_commit_at": "2026-08-12T14:41:36Z",
+    "ledger_committed_at": "2026-08-12T14:41:36Z"
   },
   {
     "id": "boring-vault-2026-08-12",
@@ -285365,43 +285366,5 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-12T13:14:27Z",
     "ledger_committed_at": "2026-08-12T13:14:27Z"
-  },
-  {
-    "id": "assetshop-verify-cli-2026-08-12",
-    "display_name": "@assetshop/verify-cli",
-    "campaign": null,
-    "detection_source": "osv",
-    "packages": [
-      {
-        "package": "@assetshop/verify-cli",
-        "ecosystem": "npm",
-        "versions": [
-          "99.0.0",
-          "99.0.1"
-        ],
-        "osv_entries": [
-          {
-            "osv_id": "MAL-2026-13881",
-            "osv_published_at": "2026-08-12T14:02:23Z"
-          }
-        ]
-      }
-    ],
-    "malware_type": "malware",
-    "attestd_detected_at": "2026-08-12T14:41:29Z",
-    "flagged_at": null,
-    "confirmed_at": "2026-08-12T14:41:29Z",
-    "osv_earliest_published_at": "2026-08-12T14:02:23Z",
-    "source_published_at": "2026-08-12T14:02:23Z",
-    "observed_at": "2026-08-12T14:41:29Z",
-    "ingested_at": "2026-08-12T14:41:29Z",
-    "first_served_at": null,
-    "hours_ahead_of_osv": null,
-    "hours_ahead_of_press": null,
-    "press_coverage_at": null,
-    "press_urls": [],
-    "advisory_url": "",
-    "ledger_commit_at": "2026-08-12T14:41:32Z",
-    "ledger_committed_at": "2026-08-12T14:41:32Z"
   }
 ]
