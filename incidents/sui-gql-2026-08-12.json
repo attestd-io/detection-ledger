@@ -1,0 +1,38 @@
+{
+  "id": "sui-gql-2026-08-12",
+  "display_name": "sui-gql",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sui-gql",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13926",
+          "osv_published_at": "2026-08-12T17:15:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-12T17:46:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-12T17:46:37Z",
+  "osv_earliest_published_at": "2026-08-12T17:15:20Z",
+  "source_published_at": "2026-08-12T17:15:20Z",
+  "observed_at": "2026-08-12T17:46:37Z",
+  "ingested_at": "2026-08-12T17:46:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-12T17:46:42Z",
+  "ledger_committed_at": "2026-08-12T17:46:42Z"
+}
