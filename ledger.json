@@ -282576,13 +282576,13 @@
     "ledger_committed_at": "2026-08-12T05:15:15Z"
   },
   {
-    "id": "boring-vault-2026-08-12",
-    "display_name": "boring-vault",
+    "id": "camelot-ammv2-core-2026-08-12",
+    "display_name": "camelot-ammv2-core",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "boring-vault",
+        "package": "camelot-ammv2-core",
         "ecosystem": "npm",
         "versions": [
           "1.0.0",
@@ -282592,27 +282592,27 @@
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-13771",
+            "osv_id": "MAL-2026-13772",
             "osv_published_at": "2026-08-11T00:00:00Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-08-12T05:16:20Z",
+    "attestd_detected_at": "2026-08-12T05:16:21Z",
     "flagged_at": null,
-    "confirmed_at": "2026-08-12T05:16:20Z",
+    "confirmed_at": "2026-08-12T05:16:21Z",
     "osv_earliest_published_at": "2026-08-11T00:00:00Z",
     "source_published_at": "2026-08-11T00:00:00Z",
-    "observed_at": "2026-08-12T05:16:20Z",
-    "ingested_at": "2026-08-12T05:16:20Z",
+    "observed_at": "2026-08-12T05:16:21Z",
+    "ingested_at": "2026-08-12T05:16:21Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-08-12T05:16:23Z",
-    "ledger_committed_at": "2026-08-12T05:16:23Z"
+    "ledger_commit_at": "2026-08-12T05:16:25Z",
+    "ledger_committed_at": "2026-08-12T05:16:25Z"
   }
 ]
