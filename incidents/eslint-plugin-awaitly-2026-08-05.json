@@ -11,14 +11,19 @@
         "0.17.1",
         "1.0.1"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5246",
+          "osv_published_at": "2026-06-05T00:53:43Z"
+        }
+      ]
     }
   ],
   "malware_type": "deprecated_release",
   "attestd_detected_at": "2026-08-05T07:43:47Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-05T07:43:47Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-05T00:53:43Z",
   "source_published_at": null,
   "observed_at": "2026-08-05T07:43:47Z",
   "ingested_at": "2026-08-05T07:43:47Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/eslint-plugin-awaitly",
-  "ledger_commit_at": "2026-08-05T07:43:51Z",
-  "ledger_committed_at": "2026-08-05T07:43:51Z"
+  "ledger_commit_at": "2026-08-12T22:15:47Z",
+  "ledger_committed_at": "2026-08-12T22:15:47Z"
 }
