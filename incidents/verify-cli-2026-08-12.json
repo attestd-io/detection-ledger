@@ -1,0 +1,37 @@
+{
+  "id": "verify-cli-2026-08-12",
+  "display_name": "verify-cli",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "verify-cli",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13882",
+          "osv_published_at": "2026-08-12T14:02:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-12T14:42:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-12T14:42:42Z",
+  "osv_earliest_published_at": "2026-08-12T14:02:43Z",
+  "source_published_at": "2026-08-12T14:02:43Z",
+  "observed_at": "2026-08-12T14:42:42Z",
+  "ingested_at": "2026-08-12T14:42:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-12T14:42:45Z",
+  "ledger_committed_at": "2026-08-12T14:42:45Z"
+}
