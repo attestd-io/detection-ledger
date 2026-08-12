@@ -12,14 +12,19 @@
         "3.2.2",
         "3.2.4"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5112",
+          "osv_published_at": "2026-06-01T00:00:00Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-09T03:59:06Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-09T03:59:06Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-01T00:00:00Z",
   "source_published_at": null,
   "observed_at": "2026-08-09T03:59:06Z",
   "ingested_at": "2026-08-09T03:59:06Z",
@@ -29,6 +34,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40redhat-cloud-services%2Feslint-config-redhat-cloud-services",
-  "ledger_commit_at": "2026-08-09T04:01:57Z",
-  "ledger_committed_at": "2026-08-09T04:01:57Z"
+  "ledger_commit_at": "2026-08-12T11:25:02Z",
+  "ledger_committed_at": "2026-08-12T11:25:02Z"
 }
