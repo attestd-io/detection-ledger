@@ -291331,5 +291331,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-13T22:27:05Z",
     "ledger_committed_at": "2026-08-13T22:27:05Z"
+  },
+  {
+    "id": "caspianph-third-npm-package-2026-08-13",
+    "display_name": "@caspianph/third-npm-package",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@caspianph/third-npm-package",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.1.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13994",
+            "osv_published_at": "2026-08-13T16:33:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-13T22:26:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-13T22:26:55Z",
+    "osv_earliest_published_at": "2026-08-13T16:33:08Z",
+    "source_published_at": "2026-08-13T16:33:08Z",
+    "observed_at": "2026-08-13T22:26:55Z",
+    "ingested_at": "2026-08-13T22:26:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-13T22:27:14Z",
+    "ledger_committed_at": "2026-08-13T22:27:14Z"
   }
 ]
