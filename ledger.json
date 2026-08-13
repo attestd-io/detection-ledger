@@ -292135,5 +292135,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-13T22:32:22Z",
     "ledger_committed_at": "2026-08-13T22:32:22Z"
+  },
+  {
+    "id": "ts-enum-helper-2026-08-13",
+    "display_name": "ts-enum-helper",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ts-enum-helper",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14015",
+            "osv_published_at": "2026-08-13T15:48:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-13T22:30:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-13T22:30:23Z",
+    "osv_earliest_published_at": "2026-08-13T15:48:03Z",
+    "source_published_at": "2026-08-13T15:48:03Z",
+    "observed_at": "2026-08-13T22:30:23Z",
+    "ingested_at": "2026-08-13T22:30:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-13T22:32:30Z",
+    "ledger_committed_at": "2026-08-13T22:32:30Z"
   }
 ]
