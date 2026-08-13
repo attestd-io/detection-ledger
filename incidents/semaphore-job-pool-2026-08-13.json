@@ -1,0 +1,37 @@
+{
+  "id": "semaphore-job-pool-2026-08-13",
+  "display_name": "semaphore-job-pool",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "semaphore-job-pool",
+      "ecosystem": "npm",
+      "versions": [
+        "2.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14010",
+          "osv_published_at": "2026-08-13T16:20:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-13T22:30:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-13T22:30:19Z",
+  "osv_earliest_published_at": "2026-08-13T16:20:23Z",
+  "source_published_at": "2026-08-13T16:20:23Z",
+  "observed_at": "2026-08-13T22:30:19Z",
+  "ingested_at": "2026-08-13T22:30:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-13T22:31:51Z",
+  "ledger_committed_at": "2026-08-13T22:31:51Z"
+}
