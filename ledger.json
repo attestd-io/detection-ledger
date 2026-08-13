@@ -291002,5 +291002,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-13T21:29:51Z",
     "ledger_committed_at": "2026-08-13T21:29:51Z"
+  },
+  {
+    "id": "napi-raw-2026-08-13",
+    "display_name": "napi-raw",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "napi-raw",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13984",
+            "osv_published_at": "2026-08-13T21:08:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-13T21:28:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-13T21:28:20Z",
+    "osv_earliest_published_at": "2026-08-13T21:08:09Z",
+    "source_published_at": "2026-08-13T21:08:09Z",
+    "observed_at": "2026-08-13T21:28:20Z",
+    "ingested_at": "2026-08-13T21:28:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-13T21:30:01Z",
+    "ledger_committed_at": "2026-08-13T21:30:01Z"
   }
 ]
