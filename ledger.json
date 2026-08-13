@@ -289029,5 +289029,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-13T07:12:00Z",
     "ledger_committed_at": "2026-08-13T07:12:00Z"
+  },
+  {
+    "id": "ai-analyzer-2026-08-13",
+    "display_name": "ai-analyzer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ai-analyzer",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.14",
+          "1.0.15",
+          "1.0.16",
+          "1.0.17",
+          "1.0.18",
+          "1.0.19"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13934",
+            "osv_published_at": "2026-08-13T15:13:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-13T15:34:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-13T15:34:39Z",
+    "osv_earliest_published_at": "2026-08-13T15:13:27Z",
+    "source_published_at": "2026-08-13T15:13:27Z",
+    "observed_at": "2026-08-13T15:34:39Z",
+    "ingested_at": "2026-08-13T15:34:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-13T15:34:43Z",
+    "ledger_committed_at": "2026-08-13T15:34:43Z"
   }
 ]
