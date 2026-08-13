@@ -10,14 +10,19 @@
       "versions": [
         "1.1.47"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-13522",
+          "osv_published_at": "2026-08-07T12:36:37Z"
+        }
+      ]
     }
   ],
   "malware_type": "deprecated_release",
   "attestd_detected_at": "2026-08-12T15:10:01Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-12T15:10:01Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-08-07T12:36:37Z",
   "source_published_at": null,
   "observed_at": "2026-08-12T15:10:01Z",
   "ingested_at": "2026-08-12T15:10:01Z",
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/base-ui-cli",
-  "ledger_commit_at": "2026-08-12T15:10:05Z",
-  "ledger_committed_at": "2026-08-12T15:10:05Z"
+  "ledger_commit_at": "2026-08-13T09:31:38Z",
+  "ledger_committed_at": "2026-08-13T09:31:38Z"
 }
