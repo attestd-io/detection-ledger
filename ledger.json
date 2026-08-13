@@ -291161,5 +291161,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-13T21:30:36Z",
     "ledger_committed_at": "2026-08-13T21:30:36Z"
+  },
+  {
+    "id": "wct-st-2026-08-13",
+    "display_name": "wct-st",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wct-st",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13990",
+            "osv_published_at": "2026-08-13T21:39:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-13T21:59:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-13T21:59:01Z",
+    "osv_earliest_published_at": "2026-08-13T21:39:27Z",
+    "source_published_at": "2026-08-13T21:39:27Z",
+    "observed_at": "2026-08-13T21:59:01Z",
+    "ingested_at": "2026-08-13T21:59:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-13T21:59:04Z",
+    "ledger_committed_at": "2026-08-13T21:59:04Z"
   }
 ]
