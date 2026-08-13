@@ -290444,5 +290444,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-13T21:26:58Z",
     "ledger_committed_at": "2026-08-13T21:26:58Z"
+  },
+  {
+    "id": "hzero-front-ui-core-2026-08-13",
+    "display_name": "@hzero-front-ui/core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@hzero-front-ui/core",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-13969",
+            "osv_published_at": "2026-08-13T21:07:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-13T21:27:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-13T21:27:13Z",
+    "osv_earliest_published_at": "2026-08-13T21:07:01Z",
+    "source_published_at": "2026-08-13T21:07:01Z",
+    "observed_at": "2026-08-13T21:27:13Z",
+    "ingested_at": "2026-08-13T21:27:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-13T21:27:15Z",
+    "ledger_committed_at": "2026-08-13T21:27:15Z"
   }
 ]
