@@ -292879,5 +292879,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-14T14:33:06Z",
     "ledger_committed_at": "2026-08-14T14:33:06Z"
+  },
+  {
+    "id": "axios-fast-2026-08-14",
+    "display_name": "axios-fast",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "axios-fast",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14029",
+            "osv_published_at": "2026-08-14T14:14:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-14T14:31:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-14T14:31:51Z",
+    "osv_earliest_published_at": "2026-08-14T14:14:31Z",
+    "source_published_at": "2026-08-14T14:14:31Z",
+    "observed_at": "2026-08-14T14:31:51Z",
+    "ingested_at": "2026-08-14T14:31:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-14T14:33:14Z",
+    "ledger_committed_at": "2026-08-14T14:33:14Z"
   }
 ]
