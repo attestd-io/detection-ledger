@@ -292842,5 +292842,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-14T14:32:56Z",
     "ledger_committed_at": "2026-08-14T14:32:56Z"
+  },
+  {
+    "id": "alelo-utils-2026-08-14",
+    "display_name": "alelo-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "alelo-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14028",
+            "osv_published_at": "2026-08-14T14:12:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-14T14:31:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-14T14:31:50Z",
+    "osv_earliest_published_at": "2026-08-14T14:12:05Z",
+    "source_published_at": "2026-08-14T14:12:05Z",
+    "observed_at": "2026-08-14T14:31:50Z",
+    "ingested_at": "2026-08-14T14:31:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-14T14:33:06Z",
+    "ledger_committed_at": "2026-08-14T14:33:06Z"
   }
 ]
