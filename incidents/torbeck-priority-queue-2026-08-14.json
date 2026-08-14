@@ -1,0 +1,39 @@
+{
+  "id": "torbeck-priority-queue-2026-08-14",
+  "display_name": "@torbeck/priority-queue",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@torbeck/priority-queue",
+      "ecosystem": "npm",
+      "versions": [
+        "6.3.10",
+        "6.3.5",
+        "6.3.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10472",
+          "osv_published_at": "2026-07-13T19:34:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-14T15:03:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-14T15:03:15Z",
+  "osv_earliest_published_at": "2026-07-13T19:34:41Z",
+  "source_published_at": "2026-07-13T19:34:41Z",
+  "observed_at": "2026-08-14T15:03:15Z",
+  "ingested_at": "2026-08-14T15:03:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-14T15:03:57Z",
+  "ledger_committed_at": "2026-08-14T15:03:57Z"
+}
