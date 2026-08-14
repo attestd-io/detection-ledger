@@ -292459,5 +292459,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-14T11:18:23Z",
     "ledger_committed_at": "2026-08-14T11:18:23Z"
+  },
+  {
+    "id": "genoma-ui-components-2026-08-14",
+    "display_name": "@genoma-ui/components",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@genoma-ui/components",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "99.99.1",
+          "99.99.2",
+          "99.99.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2823",
+            "osv_published_at": "2026-04-10T07:07:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-14T11:22:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-14T11:22:41Z",
+    "osv_earliest_published_at": "2026-04-10T07:07:32Z",
+    "source_published_at": "2026-04-10T07:07:32Z",
+    "observed_at": "2026-08-14T11:22:41Z",
+    "ingested_at": "2026-08-14T11:22:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://app.safedep.io/community/malysis/01KNSRSN11FQP3DPW8504RZBCT",
+    "ledger_commit_at": "2026-08-14T11:22:44Z",
+    "ledger_committed_at": "2026-08-14T11:22:44Z"
   }
 ]
