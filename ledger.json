@@ -292728,5 +292728,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-14T14:32:28Z",
     "ledger_committed_at": "2026-08-14T14:32:28Z"
+  },
+  {
+    "id": "alelo-payment-2026-08-14",
+    "display_name": "alelo-payment",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "alelo-payment",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0",
+          "99.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14025",
+            "osv_published_at": "2026-08-14T14:11:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-14T14:31:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-14T14:31:47Z",
+    "osv_earliest_published_at": "2026-08-14T14:11:41Z",
+    "source_published_at": "2026-08-14T14:11:41Z",
+    "observed_at": "2026-08-14T14:31:47Z",
+    "ingested_at": "2026-08-14T14:31:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-14T14:32:38Z",
+    "ledger_committed_at": "2026-08-14T14:32:38Z"
   }
 ]
