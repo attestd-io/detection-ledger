@@ -293558,5 +293558,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-14T15:05:28Z",
     "ledger_committed_at": "2026-08-14T15:05:28Z"
+  },
+  {
+    "id": "mastraqqq-2026-08-14",
+    "display_name": "mastraqqq",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mastraqqq",
+        "ecosystem": "npm",
+        "versions": [
+          "1.13.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5913",
+            "osv_published_at": "2026-06-16T18:54:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-14T15:05:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-14T15:05:34Z",
+    "osv_earliest_published_at": "2026-06-16T18:54:13Z",
+    "source_published_at": "2026-06-16T18:54:13Z",
+    "observed_at": "2026-08-14T15:05:34Z",
+    "ingested_at": "2026-08-14T15:05:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-14T15:05:37Z",
+    "ledger_committed_at": "2026-08-14T15:05:37Z"
   }
 ]
