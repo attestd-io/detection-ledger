@@ -1,0 +1,37 @@
+{
+  "id": "depcruise-wrap-stream-in-html-2026-08-15",
+  "display_name": "depcruise-wrap-stream-in-html",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "depcruise-wrap-stream-in-html",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14068",
+          "osv_published_at": "2026-08-15T18:11:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-15T19:01:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-15T19:01:58Z",
+  "osv_earliest_published_at": "2026-08-15T18:11:29Z",
+  "source_published_at": "2026-08-15T18:11:29Z",
+  "observed_at": "2026-08-15T19:01:58Z",
+  "ingested_at": "2026-08-15T19:01:58Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-15T19:02:02Z",
+  "ledger_committed_at": "2026-08-15T19:02:02Z"
+}
