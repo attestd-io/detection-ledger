@@ -294833,5 +294833,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-15T18:16:07Z",
     "ledger_committed_at": "2026-08-15T18:16:07Z"
+  },
+  {
+    "id": "akamaijs-sensorv1-2026-08-15",
+    "display_name": "akamaijs-sensorv1",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "akamaijs-sensorv1",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14066",
+            "osv_published_at": "2026-08-15T17:41:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-15T18:16:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-15T18:16:06Z",
+    "osv_earliest_published_at": "2026-08-15T17:41:47Z",
+    "source_published_at": "2026-08-15T17:41:47Z",
+    "observed_at": "2026-08-15T18:16:06Z",
+    "ingested_at": "2026-08-15T18:16:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-15T18:16:22Z",
+    "ledger_committed_at": "2026-08-15T18:16:22Z"
   }
 ]
