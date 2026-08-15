@@ -294551,5 +294551,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-15T16:25:34Z",
     "ledger_committed_at": "2026-08-15T16:25:34Z"
+  },
+  {
+    "id": "fastly-vcl-language-client-2026-08-15",
+    "display_name": "fastly-vcl-language-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fastly-vcl-language-client",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14060",
+            "osv_published_at": "2026-08-15T15:57:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-15T16:25:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-15T16:25:19Z",
+    "osv_earliest_published_at": "2026-08-15T15:57:38Z",
+    "source_published_at": "2026-08-15T15:57:38Z",
+    "observed_at": "2026-08-15T16:25:19Z",
+    "ingested_at": "2026-08-15T16:25:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-15T16:25:42Z",
+    "ledger_committed_at": "2026-08-15T16:25:42Z"
   }
 ]
