@@ -1,0 +1,39 @@
+{
+  "id": "amplitude-ma-ts-2026-08-17",
+  "display_name": "amplitude-ma-ts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "amplitude-ma-ts",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.21",
+        "1.0.23",
+        "1.0.24"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3028",
+          "osv_published_at": "2026-04-24T01:35:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-17T05:06:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-17T05:06:36Z",
+  "osv_earliest_published_at": "2026-04-24T01:35:44Z",
+  "source_published_at": "2026-04-24T01:35:44Z",
+  "observed_at": "2026-08-17T05:06:36Z",
+  "ingested_at": "2026-08-17T05:06:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-17T05:07:19Z",
+  "ledger_committed_at": "2026-08-17T05:07:19Z"
+}
