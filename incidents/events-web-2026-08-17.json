@@ -1,0 +1,37 @@
+{
+  "id": "events-web-2026-08-17",
+  "display_name": "events-web",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "events-web",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-6284",
+          "osv_published_at": "2025-07-25T19:48:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-17T05:06:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-17T05:06:45Z",
+  "osv_earliest_published_at": "2025-07-25T19:48:30Z",
+  "source_published_at": "2025-07-25T19:48:30Z",
+  "observed_at": "2026-08-17T05:06:45Z",
+  "ingested_at": "2026-08-17T05:06:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-17T05:08:16Z",
+  "ledger_committed_at": "2026-08-17T05:08:16Z"
+}
