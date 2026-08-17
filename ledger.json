@@ -295277,5 +295277,44 @@
     "advisory_url": "https://registry.npmjs.org/%40flame-cai%2Fanthro",
     "ledger_commit_at": "2026-08-17T05:05:11Z",
     "ledger_committed_at": "2026-08-17T05:05:11Z"
+  },
+  {
+    "id": "veertly-web-app-2026-08-17",
+    "display_name": "@veertly/web-app",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@veertly/web-app",
+        "ecosystem": "npm",
+        "versions": [
+          "100.0.0",
+          "100.0.2",
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14073",
+            "osv_published_at": "2026-08-14T11:12:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T05:04:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T05:04:58Z",
+    "osv_earliest_published_at": "2026-08-14T11:12:48Z",
+    "source_published_at": "2026-08-14T11:12:48Z",
+    "observed_at": "2026-08-17T05:04:58Z",
+    "ingested_at": "2026-08-17T05:04:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-17T05:05:19Z",
+    "ledger_committed_at": "2026-08-17T05:05:19Z"
   }
 ]
