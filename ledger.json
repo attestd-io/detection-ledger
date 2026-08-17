@@ -297368,5 +297368,37 @@
     "advisory_url": "https://registry.npmjs.org/%40ohos-ports%2Fblu",
     "ledger_commit_at": "2026-08-17T07:35:49Z",
     "ledger_committed_at": "2026-08-17T07:35:49Z"
+  },
+  {
+    "id": "ohos-ports-geist-2026-08-17",
+    "display_name": "@ohos-ports/geist",
+    "campaign": null,
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@ohos-ports/geist",
+        "ecosystem": "npm",
+        "versions": [
+          "1.7.2-beta.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T07:43:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T07:43:23Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-17T07:43:23Z",
+    "ingested_at": "2026-08-17T07:43:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40ohos-ports%2Fgeist",
+    "ledger_commit_at": "2026-08-17T07:43:26Z",
+    "ledger_committed_at": "2026-08-17T07:43:26Z"
   }
 ]
