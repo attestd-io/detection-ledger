@@ -296919,5 +296919,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-17T05:10:43Z",
     "ledger_committed_at": "2026-08-17T05:10:43Z"
+  },
+  {
+    "id": "sui-gql-lite-2026-08-17",
+    "display_name": "sui-gql-lite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sui-gql-lite",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "0.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14095",
+            "osv_published_at": "2026-08-14T21:44:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T05:07:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T05:07:16Z",
+    "osv_earliest_published_at": "2026-08-14T21:44:26Z",
+    "source_published_at": "2026-08-14T21:44:26Z",
+    "observed_at": "2026-08-17T05:07:16Z",
+    "ingested_at": "2026-08-17T05:07:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-17T05:10:51Z",
+    "ledger_committed_at": "2026-08-17T05:10:51Z"
   }
 ]
