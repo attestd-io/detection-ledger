@@ -296530,5 +296530,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-17T05:09:26Z",
     "ledger_committed_at": "2026-08-17T05:09:26Z"
+  },
+  {
+    "id": "money-badger-open-rpc-2026-08-17",
+    "display_name": "money-badger-open-rpc",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "money-badger-open-rpc",
+        "ecosystem": "npm",
+        "versions": [
+          "100.99.99",
+          "101.99.99",
+          "102.999.0",
+          "103.999.0",
+          "199.99.100",
+          "201.99.100"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-3353",
+            "osv_published_at": "2026-05-06T09:15:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T05:07:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T05:07:01Z",
+    "osv_earliest_published_at": "2026-05-06T09:15:52Z",
+    "source_published_at": "2026-05-06T09:15:52Z",
+    "observed_at": "2026-08-17T05:07:01Z",
+    "ingested_at": "2026-08-17T05:07:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-17T05:09:34Z",
+    "ledger_committed_at": "2026-08-17T05:09:34Z"
   }
 ]
