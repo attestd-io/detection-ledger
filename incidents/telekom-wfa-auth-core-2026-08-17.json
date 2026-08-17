@@ -1,0 +1,37 @@
+{
+  "id": "telekom-wfa-auth-core-2026-08-17",
+  "display_name": "@telekom-wfa/auth-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@telekom-wfa/auth-core",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.12"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-2523",
+          "osv_published_at": "2026-04-09T08:25:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-17T05:04:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-17T05:04:49Z",
+  "osv_earliest_published_at": "2026-04-09T08:25:05Z",
+  "source_published_at": "2026-04-09T08:25:05Z",
+  "observed_at": "2026-08-17T05:04:49Z",
+  "ingested_at": "2026-08-17T05:04:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://app.safedep.io/community/malysis/01KNBNBBC056KN155K3GGBG0NV",
+  "ledger_commit_at": "2026-08-17T05:05:04Z",
+  "ledger_committed_at": "2026-08-17T05:05:04Z"
+}
