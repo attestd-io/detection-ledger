@@ -295763,5 +295763,45 @@
     "advisory_url": "https://registry.npmjs.org/bookish-potato-dto",
     "ledger_commit_at": "2026-08-17T05:06:48Z",
     "ledger_committed_at": "2026-08-17T05:06:48Z"
+  },
+  {
+    "id": "name-match-advanced-2026-08-17",
+    "display_name": "name-match-advanced",
+    "campaign": "woody-mrs-potato",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "name-match-advanced",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.9",
+          "1.1.0",
+          "1.1.1",
+          "1.3.7",
+          "1.3.8"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T05:06:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T05:06:20Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-17T05:06:20Z",
+    "ingested_at": "2026-08-17T05:06:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/name-match-advanced",
+    "ledger_commit_at": "2026-08-17T05:06:55Z",
+    "ledger_committed_at": "2026-08-17T05:06:55Z"
   }
 ]
