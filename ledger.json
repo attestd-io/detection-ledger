@@ -296190,5 +296190,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-17T05:08:16Z",
     "ledger_committed_at": "2026-08-17T05:08:16Z"
+  },
+  {
+    "id": "expect-bundle-2026-08-17",
+    "display_name": "expect-bundle",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "expect-bundle",
+        "ecosystem": "npm",
+        "versions": [
+          "6.3.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14080",
+            "osv_published_at": "2026-08-14T10:41:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T05:06:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T05:06:46Z",
+    "osv_earliest_published_at": "2026-08-14T10:41:35Z",
+    "source_published_at": "2026-08-14T10:41:35Z",
+    "observed_at": "2026-08-17T05:06:46Z",
+    "ingested_at": "2026-08-17T05:06:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-17T05:08:24Z",
+    "ledger_committed_at": "2026-08-17T05:08:24Z"
   }
 ]
