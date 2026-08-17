@@ -1,0 +1,37 @@
+{
+  "id": "mw-filesystem-events-nodream-es6-2026-08-17",
+  "display_name": "mw-filesystem-events-nodream-es6",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mw-filesystem-events-nodream-es6",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.32"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14087",
+          "osv_published_at": "2026-08-14T10:45:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-17T05:07:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-17T05:07:01Z",
+  "osv_earliest_published_at": "2026-08-14T10:45:06Z",
+  "source_published_at": "2026-08-14T10:45:06Z",
+  "observed_at": "2026-08-17T05:07:01Z",
+  "ingested_at": "2026-08-17T05:07:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-17T05:09:41Z",
+  "ledger_committed_at": "2026-08-17T05:09:41Z"
+}
