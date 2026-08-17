@@ -295132,5 +295132,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-17T05:03:39Z",
     "ledger_committed_at": "2026-08-17T05:03:39Z"
+  },
+  {
+    "id": "peptideventure-peptide-score-modifier-2026-08-17",
+    "display_name": "@peptideventure/peptide-score-modifier",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@peptideventure/peptide-score-modifier",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14071",
+            "osv_published_at": "2026-08-14T20:29:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T05:04:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T05:04:46Z",
+    "osv_earliest_published_at": "2026-08-14T20:29:53Z",
+    "source_published_at": "2026-08-14T20:29:53Z",
+    "observed_at": "2026-08-17T05:04:46Z",
+    "ingested_at": "2026-08-17T05:04:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-17T05:04:49Z",
+    "ledger_committed_at": "2026-08-17T05:04:49Z"
   }
 ]
