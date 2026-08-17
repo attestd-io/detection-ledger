@@ -1,0 +1,37 @@
+{
+  "id": "game-overlay-2026-08-17",
+  "display_name": "game_overlay",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "game_overlay",
+      "ecosystem": "npm",
+      "versions": [
+        "8.5.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14081",
+          "osv_published_at": "2026-08-14T11:18:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-17T05:06:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-17T05:06:51Z",
+  "osv_earliest_published_at": "2026-08-14T11:18:23Z",
+  "source_published_at": "2026-08-14T11:18:23Z",
+  "observed_at": "2026-08-17T05:06:51Z",
+  "ingested_at": "2026-08-17T05:06:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-17T05:08:48Z",
+  "ledger_committed_at": "2026-08-17T05:08:48Z"
+}
