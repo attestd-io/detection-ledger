@@ -295405,5 +295405,37 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-17T05:05:35Z",
     "ledger_committed_at": "2026-08-17T05:05:35Z"
+  },
+  {
+    "id": "alosies-gitlab-mcp-server-2026-08-17",
+    "display_name": "@alosies/gitlab-mcp-server",
+    "campaign": "woody-mrs-potato",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@alosies/gitlab-mcp-server",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-17T05:05:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-17T05:05:22Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-08-17T05:05:22Z",
+    "ingested_at": "2026-08-17T05:05:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40alosies%2Fgitlab-mcp-server",
+    "ledger_commit_at": "2026-08-17T05:05:43Z",
+    "ledger_committed_at": "2026-08-17T05:05:43Z"
   }
 ]
