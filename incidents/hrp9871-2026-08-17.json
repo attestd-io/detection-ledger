@@ -1,0 +1,37 @@
+{
+  "id": "hrp9871-2026-08-17",
+  "display_name": "hrp9871",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hrp9871",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14084",
+          "osv_published_at": "2026-08-14T11:05:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-17T05:06:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-17T05:06:54Z",
+  "osv_earliest_published_at": "2026-08-14T11:05:19Z",
+  "source_published_at": "2026-08-14T11:05:19Z",
+  "observed_at": "2026-08-17T05:06:54Z",
+  "ingested_at": "2026-08-17T05:06:54Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-17T05:09:10Z",
+  "ledger_committed_at": "2026-08-17T05:09:10Z"
+}
