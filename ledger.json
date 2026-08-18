@@ -297804,5 +297804,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-18T00:31:37Z",
     "ledger_committed_at": "2026-08-18T00:31:37Z"
+  },
+  {
+    "id": "bcs-core-2026-08-18",
+    "display_name": "bcs-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bcs-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14105",
+            "osv_published_at": "2026-08-17T16:24:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-18T00:31:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-18T00:31:34Z",
+    "osv_earliest_published_at": "2026-08-17T16:24:09Z",
+    "source_published_at": "2026-08-17T16:24:09Z",
+    "observed_at": "2026-08-18T00:31:34Z",
+    "ingested_at": "2026-08-18T00:31:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-18T00:31:46Z",
+    "ledger_committed_at": "2026-08-18T00:31:46Z"
   }
 ]
