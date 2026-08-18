@@ -10,25 +10,28 @@
       "versions": [
         "20.9.5"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12063",
+          "osv_published_at": "2026-08-05T01:45:51Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-08-05T04:38:56Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-05T04:38:56Z",
-  "osv_earliest_published_at": null,
-  "source_published_at": null,
+  "osv_earliest_published_at": "2026-08-05T01:45:51Z",
+  "source_published_at": "2026-08-05T01:45:51Z",
   "observed_at": "2026-08-05T04:38:56Z",
   "ingested_at": "2026-08-05T04:38:56Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
   "hours_ahead_of_press": null,
-  "press_coverage_at": "2026-08-05T04:41:37Z",
-  "press_urls": [
-    "https://osv.dev/vulnerability/MAL-2026-12063"
-  ],
+  "press_coverage_at": null,
+  "press_urls": [],
   "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12063",
-  "ledger_commit_at": "2026-08-05T04:41:37Z",
-  "ledger_committed_at": "2026-08-05T04:41:37Z"
+  "ledger_commit_at": "2026-08-18T11:45:53Z",
+  "ledger_committed_at": "2026-08-18T11:45:53Z"
 }
