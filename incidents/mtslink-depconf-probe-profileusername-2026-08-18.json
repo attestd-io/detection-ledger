@@ -1,0 +1,37 @@
+{
+  "id": "mtslink-depconf-probe-profileusername-2026-08-18",
+  "display_name": "mtslink-depconf-probe-profileusername",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mtslink-depconf-probe-profileusername",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14137",
+          "osv_published_at": "2026-08-18T23:04:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-18T23:16:20Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-18T23:16:20Z",
+  "osv_earliest_published_at": "2026-08-18T23:04:24Z",
+  "source_published_at": "2026-08-18T23:04:24Z",
+  "observed_at": "2026-08-18T23:16:20Z",
+  "ingested_at": "2026-08-18T23:16:20Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-18T23:16:55Z",
+  "ledger_committed_at": "2026-08-18T23:16:55Z"
+}
