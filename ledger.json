@@ -297841,5 +297841,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-18T00:31:46Z",
     "ledger_committed_at": "2026-08-18T00:31:46Z"
+  },
+  {
+    "id": "cloud-agen-bot-2026-08-18",
+    "display_name": "cloud-agen-bot",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cloud-agen-bot",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14106",
+            "osv_published_at": "2026-08-17T11:41:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-18T00:31:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-18T00:31:38Z",
+    "osv_earliest_published_at": "2026-08-17T11:41:37Z",
+    "source_published_at": "2026-08-17T11:41:37Z",
+    "observed_at": "2026-08-18T00:31:38Z",
+    "ingested_at": "2026-08-18T00:31:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-18T00:31:55Z",
+    "ledger_committed_at": "2026-08-18T00:31:55Z"
   }
 ]
