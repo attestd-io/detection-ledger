@@ -1,0 +1,39 @@
+{
+  "id": "deepface-weights-2026-08-18",
+  "display_name": "deepface-weights",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "deepface-weights",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0",
+        "0.1.1",
+        "0.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14132",
+          "osv_published_at": "2026-08-18T21:48:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-18T22:15:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-18T22:15:22Z",
+  "osv_earliest_published_at": "2026-08-18T21:48:32Z",
+  "source_published_at": "2026-08-18T21:48:32Z",
+  "observed_at": "2026-08-18T22:15:22Z",
+  "ingested_at": "2026-08-18T22:15:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-18T22:15:25Z",
+  "ledger_committed_at": "2026-08-18T22:15:25Z"
+}
