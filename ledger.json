@@ -298752,5 +298752,43 @@
     "advisory_url": "https://registry.npmjs.org/%40azure%2Fidentity",
     "ledger_commit_at": "2026-08-18T17:39:37Z",
     "ledger_committed_at": "2026-08-18T17:39:37Z"
+  },
+  {
+    "id": "plugin-react-vite-2026-08-18",
+    "display_name": "plugin-react-vite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "plugin-react-vite",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.2",
+          "2.1.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14129",
+            "osv_published_at": "2026-08-18T17:48:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-18T18:37:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-18T18:37:54Z",
+    "osv_earliest_published_at": "2026-08-18T17:48:47Z",
+    "source_published_at": "2026-08-18T17:48:47Z",
+    "observed_at": "2026-08-18T18:37:54Z",
+    "ingested_at": "2026-08-18T18:37:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-18T18:37:57Z",
+    "ledger_committed_at": "2026-08-18T18:37:57Z"
   }
 ]
