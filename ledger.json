@@ -299215,5 +299215,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-18T23:16:24Z",
     "ledger_committed_at": "2026-08-18T23:16:24Z"
+  },
+  {
+    "id": "mohamed-nowisar-token3-check-2026-08-18",
+    "display_name": "@mohamed_nowisar/token3-check",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@mohamed_nowisar/token3-check",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14135",
+            "osv_published_at": "2026-08-18T23:06:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-18T23:16:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-18T23:16:16Z",
+    "osv_earliest_published_at": "2026-08-18T23:06:02Z",
+    "source_published_at": "2026-08-18T23:06:02Z",
+    "observed_at": "2026-08-18T23:16:16Z",
+    "ingested_at": "2026-08-18T23:16:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-18T23:16:32Z",
+    "ledger_committed_at": "2026-08-18T23:16:32Z"
   }
 ]
