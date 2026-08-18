@@ -299437,5 +299437,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-18T23:17:12Z",
     "ledger_committed_at": "2026-08-18T23:17:12Z"
+  },
+  {
+    "id": "vite-svg-config-2026-08-18",
+    "display_name": "vite-svg-config",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vite-svg-config",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14140",
+            "osv_published_at": "2026-08-18T22:47:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-18T23:16:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-18T23:16:23Z",
+    "osv_earliest_published_at": "2026-08-18T22:47:03Z",
+    "source_published_at": "2026-08-18T22:47:03Z",
+    "observed_at": "2026-08-18T23:16:23Z",
+    "ingested_at": "2026-08-18T23:16:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-18T23:17:18Z",
+    "ledger_committed_at": "2026-08-18T23:17:18Z"
   }
 ]
