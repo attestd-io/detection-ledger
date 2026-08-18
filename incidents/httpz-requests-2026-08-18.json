@@ -1,0 +1,70 @@
+{
+  "id": "httpz-requests-2026-08-18",
+  "display_name": "httpz-requests",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "httpz-requests",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.10.0",
+        "1.11.0",
+        "1.12.0",
+        "1.13.0",
+        "1.14.0",
+        "1.15.0",
+        "1.16.0",
+        "1.17.0",
+        "1.18.0",
+        "1.19.0",
+        "1.20.0",
+        "1.21.0",
+        "1.21.1",
+        "1.21.10",
+        "1.21.11",
+        "1.21.12",
+        "1.21.13",
+        "1.21.14",
+        "1.21.15",
+        "1.21.16",
+        "1.21.17",
+        "1.21.18",
+        "1.21.19",
+        "1.21.2",
+        "1.21.20",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.8.0",
+        "1.9.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14130",
+          "osv_published_at": "2026-08-18T19:24:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-18T20:26:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-18T20:26:50Z",
+  "osv_earliest_published_at": "2026-08-18T19:24:17Z",
+  "source_published_at": "2026-08-18T19:24:17Z",
+  "observed_at": "2026-08-18T20:26:50Z",
+  "ingested_at": "2026-08-18T20:26:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-18T20:26:53Z",
+  "ledger_committed_at": "2026-08-18T20:26:53Z"
+}
