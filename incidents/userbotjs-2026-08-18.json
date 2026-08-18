@@ -1,0 +1,39 @@
+{
+  "id": "userbotjs-2026-08-18",
+  "display_name": "userbotjs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "userbotjs",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.1",
+        "2.0.2",
+        "2.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14114",
+          "osv_published_at": "2026-08-17T11:41:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-18T00:31:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-18T00:31:51Z",
+  "osv_earliest_published_at": "2026-08-17T11:41:36Z",
+  "source_published_at": "2026-08-17T11:41:36Z",
+  "observed_at": "2026-08-18T00:31:51Z",
+  "ingested_at": "2026-08-18T00:31:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-18T00:33:13Z",
+  "ledger_committed_at": "2026-08-18T00:33:13Z"
+}
