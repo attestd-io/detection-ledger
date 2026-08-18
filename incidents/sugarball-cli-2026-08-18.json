@@ -1,0 +1,37 @@
+{
+  "id": "sugarball-cli-2026-08-18",
+  "display_name": "sugarball-cli",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sugarball-cli",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14111",
+          "osv_published_at": "2026-08-17T12:26:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-18T00:31:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-18T00:31:47Z",
+  "osv_earliest_published_at": "2026-08-17T12:26:12Z",
+  "source_published_at": "2026-08-17T12:26:12Z",
+  "observed_at": "2026-08-18T00:31:47Z",
+  "ingested_at": "2026-08-18T00:31:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-18T00:32:33Z",
+  "ledger_committed_at": "2026-08-18T00:32:33Z"
+}
