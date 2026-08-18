@@ -298569,5 +298569,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-18T15:33:25Z",
     "ledger_committed_at": "2026-08-18T15:33:25Z"
+  },
+  {
+    "id": "guildai-services-guildai-2026-08-18",
+    "display_name": "@guildai-services/guildai",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@guildai-services/guildai",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14125",
+            "osv_published_at": "2026-08-18T16:20:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-18T16:34:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-18T16:34:17Z",
+    "osv_earliest_published_at": "2026-08-18T16:20:52Z",
+    "source_published_at": "2026-08-18T16:20:52Z",
+    "observed_at": "2026-08-18T16:34:17Z",
+    "ingested_at": "2026-08-18T16:34:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-18T16:34:20Z",
+    "ledger_committed_at": "2026-08-18T16:34:20Z"
   }
 ]
