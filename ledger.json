@@ -303390,5 +303390,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T04:30:22Z",
     "ledger_committed_at": "2026-08-19T04:30:22Z"
+  },
+  {
+    "id": "localize-extract-2026-08-19",
+    "display_name": "localize-extract",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "localize-extract",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14249",
+            "osv_published_at": "2026-08-19T04:22:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T04:59:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T04:59:27Z",
+    "osv_earliest_published_at": "2026-08-19T04:22:55Z",
+    "source_published_at": "2026-08-19T04:22:55Z",
+    "observed_at": "2026-08-19T04:59:27Z",
+    "ingested_at": "2026-08-19T04:59:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T04:59:31Z",
+    "ledger_committed_at": "2026-08-19T04:59:31Z"
   }
 ]
