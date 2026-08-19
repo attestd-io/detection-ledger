@@ -303427,5 +303427,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T04:59:31Z",
     "ledger_committed_at": "2026-08-19T04:59:31Z"
+  },
+  {
+    "id": "luluking1-2026-08-19",
+    "display_name": "luluking1",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "luluking1",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14250",
+            "osv_published_at": "2026-08-19T04:20:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T04:59:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T04:59:28Z",
+    "osv_earliest_published_at": "2026-08-19T04:20:43Z",
+    "source_published_at": "2026-08-19T04:20:43Z",
+    "observed_at": "2026-08-19T04:59:28Z",
+    "ingested_at": "2026-08-19T04:59:28Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T04:59:39Z",
+    "ledger_committed_at": "2026-08-19T04:59:39Z"
   }
 ]
