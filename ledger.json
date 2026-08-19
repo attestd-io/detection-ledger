@@ -304320,5 +304320,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T07:32:58Z",
     "ledger_committed_at": "2026-08-19T07:32:58Z"
+  },
+  {
+    "id": "rand-txs-sdk-2026-08-19",
+    "display_name": "rand-txs-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rand-txs-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14273",
+            "osv_published_at": "2026-08-19T06:57:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T07:32:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T07:32:39Z",
+    "osv_earliest_published_at": "2026-08-19T06:57:38Z",
+    "source_published_at": "2026-08-19T06:57:38Z",
+    "observed_at": "2026-08-19T07:32:39Z",
+    "ingested_at": "2026-08-19T07:32:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T07:33:10Z",
+    "ledger_committed_at": "2026-08-19T07:33:10Z"
   }
 ]
