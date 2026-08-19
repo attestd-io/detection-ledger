@@ -304426,5 +304426,42 @@
     "advisory_url": "https://registry.npmjs.org/%40ohos-ports%2Fruv-swarm",
     "ledger_commit_at": "2026-08-19T07:53:20Z",
     "ledger_committed_at": "2026-08-19T07:53:20Z"
+  },
+  {
+    "id": "minequest-2026-08-19",
+    "display_name": "minequest",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "minequest",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14275",
+            "osv_published_at": "2026-08-19T07:35:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T08:03:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T08:03:20Z",
+    "osv_earliest_published_at": "2026-08-19T07:35:07Z",
+    "source_published_at": "2026-08-19T07:35:07Z",
+    "observed_at": "2026-08-19T08:03:20Z",
+    "ingested_at": "2026-08-19T08:03:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T08:03:23Z",
+    "ledger_committed_at": "2026-08-19T08:03:23Z"
   }
 ]
