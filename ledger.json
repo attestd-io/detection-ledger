@@ -302680,5 +302680,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T03:58:57Z",
     "ledger_committed_at": "2026-08-19T03:58:57Z"
+  },
+  {
+    "id": "chromeos-webdriver-cli-2026-08-19",
+    "display_name": "chromeos-webdriver-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chromeos-webdriver-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14232",
+            "osv_published_at": "2026-08-19T03:41:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T03:58:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T03:58:10Z",
+    "osv_earliest_published_at": "2026-08-19T03:41:45Z",
+    "source_published_at": "2026-08-19T03:41:45Z",
+    "observed_at": "2026-08-19T03:58:10Z",
+    "ingested_at": "2026-08-19T03:58:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T03:59:05Z",
+    "ledger_committed_at": "2026-08-19T03:59:05Z"
   }
 ]
