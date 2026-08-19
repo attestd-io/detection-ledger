@@ -1,0 +1,37 @@
+{
+  "id": "sarex-team-sdk-js-2026-08-19",
+  "display_name": "@sarex-team/sdk-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@sarex-team/sdk-js",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14204",
+          "osv_published_at": "2026-08-19T02:31:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T03:09:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T03:09:23Z",
+  "osv_earliest_published_at": "2026-08-19T02:31:33Z",
+  "source_published_at": "2026-08-19T02:31:33Z",
+  "observed_at": "2026-08-19T03:09:23Z",
+  "ingested_at": "2026-08-19T03:09:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T03:09:33Z",
+  "ledger_committed_at": "2026-08-19T03:09:33Z"
+}
