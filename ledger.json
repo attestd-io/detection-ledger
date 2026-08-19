@@ -300774,5 +300774,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T00:37:59Z",
     "ledger_committed_at": "2026-08-19T00:37:59Z"
+  },
+  {
+    "id": "ladash-cli-2026-08-19",
+    "display_name": "ladash-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ladash-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14178",
+            "osv_published_at": "2026-08-18T23:57:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T00:36:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T00:36:00Z",
+    "osv_earliest_published_at": "2026-08-18T23:57:06Z",
+    "source_published_at": "2026-08-18T23:57:06Z",
+    "observed_at": "2026-08-19T00:36:00Z",
+    "ingested_at": "2026-08-19T00:36:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T00:38:07Z",
+    "ledger_committed_at": "2026-08-19T00:38:07Z"
   }
 ]
