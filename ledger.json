@@ -302458,5 +302458,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T03:58:07Z",
     "ledger_committed_at": "2026-08-19T03:58:07Z"
+  },
+  {
+    "id": "animate-css-vite-2026-08-19",
+    "display_name": "animate-css-vite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "animate-css-vite",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14226",
+            "osv_published_at": "2026-08-19T03:37:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T03:58:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T03:58:05Z",
+    "osv_earliest_published_at": "2026-08-19T03:37:16Z",
+    "source_published_at": "2026-08-19T03:37:16Z",
+    "observed_at": "2026-08-19T03:58:05Z",
+    "ingested_at": "2026-08-19T03:58:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T03:58:15Z",
+    "ledger_committed_at": "2026-08-19T03:58:15Z"
   }
 ]
