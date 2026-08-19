@@ -1,0 +1,37 @@
+{
+  "id": "bazelisk-2026-08-19",
+  "display_name": "bazelisk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bazelisk",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14227",
+          "osv_published_at": "2026-08-19T03:41:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T03:58:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T03:58:06Z",
+  "osv_earliest_published_at": "2026-08-19T03:41:01Z",
+  "source_published_at": "2026-08-19T03:41:01Z",
+  "observed_at": "2026-08-19T03:58:06Z",
+  "ingested_at": "2026-08-19T03:58:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T03:58:23Z",
+  "ledger_committed_at": "2026-08-19T03:58:23Z"
+}
