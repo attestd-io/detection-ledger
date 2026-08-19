@@ -305356,5 +305356,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T10:21:13Z",
     "ledger_committed_at": "2026-08-19T10:21:13Z"
+  },
+  {
+    "id": "gear-composer-2026-08-19",
+    "display_name": "gear-composer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gear-composer",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.126"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14299",
+            "osv_published_at": "2026-08-19T09:53:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T10:21:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T10:21:11Z",
+    "osv_earliest_published_at": "2026-08-19T09:53:53Z",
+    "source_published_at": "2026-08-19T09:53:53Z",
+    "observed_at": "2026-08-19T10:21:11Z",
+    "ingested_at": "2026-08-19T10:21:11Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T10:21:21Z",
+    "ledger_committed_at": "2026-08-19T10:21:21Z"
   }
 ]
