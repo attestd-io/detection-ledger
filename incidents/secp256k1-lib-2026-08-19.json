@@ -1,0 +1,40 @@
+{
+  "id": "secp256k1-lib-2026-08-19",
+  "display_name": "secp256k1-lib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "secp256k1-lib",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14255",
+          "osv_published_at": "2026-08-19T04:43:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T04:59:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T04:59:33Z",
+  "osv_earliest_published_at": "2026-08-19T04:43:49Z",
+  "source_published_at": "2026-08-19T04:43:49Z",
+  "observed_at": "2026-08-19T04:59:33Z",
+  "ingested_at": "2026-08-19T04:59:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T05:00:23Z",
+  "ledger_committed_at": "2026-08-19T05:00:23Z"
+}
