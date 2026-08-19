@@ -1,0 +1,37 @@
+{
+  "id": "axois-http-2026-08-19",
+  "display_name": "axois-http",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "axois-http",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14163",
+          "osv_published_at": "2026-08-18T23:57:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T00:35:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T00:35:48Z",
+  "osv_earliest_published_at": "2026-08-18T23:57:25Z",
+  "source_published_at": "2026-08-18T23:57:25Z",
+  "observed_at": "2026-08-19T00:35:48Z",
+  "ingested_at": "2026-08-19T00:35:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T00:36:00Z",
+  "ledger_committed_at": "2026-08-19T00:36:00Z"
+}
