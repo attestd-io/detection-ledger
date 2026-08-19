@@ -1,0 +1,37 @@
+{
+  "id": "magika-js-2026-08-19",
+  "display_name": "magika-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "magika-js",
+      "ecosystem": "npm",
+      "versions": [
+        "4.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14247",
+          "osv_published_at": "2026-08-19T03:56:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T04:28:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T04:28:55Z",
+  "osv_earliest_published_at": "2026-08-19T03:56:20Z",
+  "source_published_at": "2026-08-19T03:56:20Z",
+  "observed_at": "2026-08-19T04:28:55Z",
+  "ingested_at": "2026-08-19T04:28:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T04:30:14Z",
+  "ledger_committed_at": "2026-08-19T04:30:14Z"
+}
