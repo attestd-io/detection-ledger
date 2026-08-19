@@ -1,0 +1,37 @@
+{
+  "id": "matrixflow-js-2026-08-19",
+  "display_name": "matrixflow-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "matrixflow-js",
+      "ecosystem": "npm",
+      "versions": [
+        "3.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14293",
+          "osv_published_at": "2026-08-19T08:17:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T09:04:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T09:04:44Z",
+  "osv_earliest_published_at": "2026-08-19T08:17:00Z",
+  "source_published_at": "2026-08-19T08:17:00Z",
+  "observed_at": "2026-08-19T09:04:44Z",
+  "ingested_at": "2026-08-19T09:04:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T09:05:48Z",
+  "ledger_committed_at": "2026-08-19T09:05:48Z"
+}
