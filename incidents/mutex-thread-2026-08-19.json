@@ -1,0 +1,37 @@
+{
+  "id": "mutex-thread-2026-08-19",
+  "display_name": "mutex-thread",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mutex-thread",
+      "ecosystem": "npm",
+      "versions": [
+        "1.3.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14185",
+          "osv_published_at": "2026-08-18T23:50:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T00:36:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T00:36:06Z",
+  "osv_earliest_published_at": "2026-08-18T23:50:30Z",
+  "source_published_at": "2026-08-18T23:50:30Z",
+  "observed_at": "2026-08-19T00:36:06Z",
+  "ingested_at": "2026-08-19T00:36:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T00:39:09Z",
+  "ledger_committed_at": "2026-08-19T00:39:09Z"
+}
