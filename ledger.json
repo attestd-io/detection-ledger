@@ -303278,5 +303278,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T04:29:55Z",
     "ledger_committed_at": "2026-08-19T04:29:55Z"
+  },
+  {
+    "id": "hardhat-hold-2026-08-19",
+    "display_name": "hardhat-hold",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hardhat-hold",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.1",
+          "2.21.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14246",
+            "osv_published_at": "2026-08-19T03:54:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T04:28:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T04:28:54Z",
+    "osv_earliest_published_at": "2026-08-19T03:54:07Z",
+    "source_published_at": "2026-08-19T03:54:07Z",
+    "observed_at": "2026-08-19T04:28:54Z",
+    "ingested_at": "2026-08-19T04:28:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T04:30:03Z",
+    "ledger_committed_at": "2026-08-19T04:30:03Z"
   }
 ]
