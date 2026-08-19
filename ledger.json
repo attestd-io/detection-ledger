@@ -301668,5 +301668,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T02:39:19Z",
     "ledger_committed_at": "2026-08-19T02:39:19Z"
+  },
+  {
+    "id": "lilsccott6x9-devpipe-connector-2026-08-19",
+    "display_name": "@lilsccott6x9/devpipe-connector",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@lilsccott6x9/devpipe-connector",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14203",
+            "osv_published_at": "2026-08-19T02:41:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T03:09:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T03:09:22Z",
+    "osv_earliest_published_at": "2026-08-19T02:41:24Z",
+    "source_published_at": "2026-08-19T02:41:24Z",
+    "observed_at": "2026-08-19T03:09:22Z",
+    "ingested_at": "2026-08-19T03:09:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T03:09:25Z",
+    "ledger_committed_at": "2026-08-19T03:09:25Z"
   }
 ]
