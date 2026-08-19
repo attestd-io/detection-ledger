@@ -305393,5 +305393,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T10:21:21Z",
     "ledger_committed_at": "2026-08-19T10:21:21Z"
+  },
+  {
+    "id": "eth-react-provider-2026-08-19",
+    "display_name": "eth-react-provider",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "eth-react-provider",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14300",
+            "osv_published_at": "2026-08-19T10:14:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T10:51:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T10:51:38Z",
+    "osv_earliest_published_at": "2026-08-19T10:14:36Z",
+    "source_published_at": "2026-08-19T10:14:36Z",
+    "observed_at": "2026-08-19T10:51:38Z",
+    "ingested_at": "2026-08-19T10:51:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T10:51:42Z",
+    "ledger_committed_at": "2026-08-19T10:51:42Z"
   }
 ]
