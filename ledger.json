@@ -301256,5 +301256,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T00:39:58Z",
     "ledger_committed_at": "2026-08-19T00:39:58Z"
+  },
+  {
+    "id": "tfjs-inference-2026-08-19",
+    "display_name": "tfjs-inference",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tfjs-inference",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14192",
+            "osv_published_at": "2026-08-19T00:03:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T00:36:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T00:36:12Z",
+    "osv_earliest_published_at": "2026-08-19T00:03:33Z",
+    "source_published_at": "2026-08-19T00:03:33Z",
+    "observed_at": "2026-08-19T00:36:12Z",
+    "ingested_at": "2026-08-19T00:36:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T00:40:06Z",
+    "ledger_committed_at": "2026-08-19T00:40:06Z"
   }
 ]
