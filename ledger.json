@@ -303653,5 +303653,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T05:00:23Z",
     "ledger_committed_at": "2026-08-19T05:00:23Z"
+  },
+  {
+    "id": "api-rs-tuils-2026-08-19",
+    "display_name": "api-rs-tuils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "api-rs-tuils",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14256",
+            "osv_published_at": "2026-08-19T05:02:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T05:30:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T05:30:04Z",
+    "osv_earliest_published_at": "2026-08-19T05:02:58Z",
+    "source_published_at": "2026-08-19T05:02:58Z",
+    "observed_at": "2026-08-19T05:30:04Z",
+    "ingested_at": "2026-08-19T05:30:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T05:30:07Z",
+    "ledger_committed_at": "2026-08-19T05:30:07Z"
   }
 ]
