@@ -304872,5 +304872,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T09:04:46Z",
     "ledger_committed_at": "2026-08-19T09:04:46Z"
+  },
+  {
+    "id": "wizloft-harness-plugin-repository-files-2026-08-19",
+    "display_name": "@wizloft/harness-plugin-repository-files",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wizloft/harness-plugin-repository-files",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1-alpha.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14288",
+            "osv_published_at": "2026-08-19T08:33:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T09:04:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T09:04:37Z",
+    "osv_earliest_published_at": "2026-08-19T08:33:51Z",
+    "source_published_at": "2026-08-19T08:33:51Z",
+    "observed_at": "2026-08-19T09:04:37Z",
+    "ingested_at": "2026-08-19T09:04:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T09:04:56Z",
+    "ledger_committed_at": "2026-08-19T09:04:56Z"
   }
 ]
