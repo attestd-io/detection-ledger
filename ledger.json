@@ -301557,5 +301557,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-19T01:38:32Z",
     "ledger_committed_at": "2026-08-19T01:38:32Z"
+  },
+  {
+    "id": "chai-as-gateway-2026-08-19",
+    "display_name": "chai-as-gateway",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-as-gateway",
+        "ecosystem": "npm",
+        "versions": [
+          "7.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14200",
+            "osv_published_at": "2026-08-19T01:59:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-19T02:38:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-19T02:38:50Z",
+    "osv_earliest_published_at": "2026-08-19T01:59:46Z",
+    "source_published_at": "2026-08-19T01:59:46Z",
+    "observed_at": "2026-08-19T02:38:50Z",
+    "ingested_at": "2026-08-19T02:38:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-19T02:39:02Z",
+    "ledger_committed_at": "2026-08-19T02:39:02Z"
   }
 ]
