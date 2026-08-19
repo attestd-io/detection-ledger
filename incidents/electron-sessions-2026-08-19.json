@@ -1,0 +1,37 @@
+{
+  "id": "electron-sessions-2026-08-19",
+  "display_name": "electron-sessions",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "electron-sessions",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14266",
+          "osv_published_at": "2026-08-19T06:17:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-19T07:02:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-19T07:02:06Z",
+  "osv_earliest_published_at": "2026-08-19T06:17:26Z",
+  "source_published_at": "2026-08-19T06:17:26Z",
+  "observed_at": "2026-08-19T07:02:06Z",
+  "ingested_at": "2026-08-19T07:02:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-19T07:02:28Z",
+  "ledger_committed_at": "2026-08-19T07:02:28Z"
+}
