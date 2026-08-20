@@ -1,0 +1,37 @@
+{
+  "id": "create-react-app-text-2026-08-20",
+  "display_name": "create-react-app-text",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "create-react-app-text",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14324",
+          "osv_published_at": "2026-08-20T16:23:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-20T16:40:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-20T16:40:51Z",
+  "osv_earliest_published_at": "2026-08-20T16:23:52Z",
+  "source_published_at": "2026-08-20T16:23:52Z",
+  "observed_at": "2026-08-20T16:40:51Z",
+  "ingested_at": "2026-08-20T16:40:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-20T16:41:02Z",
+  "ledger_committed_at": "2026-08-20T16:41:02Z"
+}
