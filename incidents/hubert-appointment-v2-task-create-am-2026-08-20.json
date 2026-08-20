@@ -1,0 +1,37 @@
+{
+  "id": "hubert-appointment-v2-task-create-am-2026-08-20",
+  "display_name": "hubert-appointment-v2-task-create-am",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hubert-appointment-v2-task-create-am",
+      "ecosystem": "npm",
+      "versions": [
+        "20.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12066",
+          "osv_published_at": "2026-08-05T01:45:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-20T12:11:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-20T12:11:10Z",
+  "osv_earliest_published_at": "2026-08-05T01:45:23Z",
+  "source_published_at": "2026-08-05T01:45:23Z",
+  "observed_at": "2026-08-20T12:11:10Z",
+  "ingested_at": "2026-08-20T12:11:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-20T12:11:13Z",
+  "ledger_committed_at": "2026-08-20T12:11:13Z"
+}
