@@ -306361,5 +306361,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-20T16:41:24Z",
     "ledger_committed_at": "2026-08-20T16:41:24Z"
+  },
+  {
+    "id": "ethereum-validator-2026-08-20",
+    "display_name": "ethereum-validator",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ethereum-validator",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14327",
+            "osv_published_at": "2026-08-20T17:15:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-20T17:47:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-20T17:47:00Z",
+    "osv_earliest_published_at": "2026-08-20T17:15:42Z",
+    "source_published_at": "2026-08-20T17:15:42Z",
+    "observed_at": "2026-08-20T17:47:00Z",
+    "ingested_at": "2026-08-20T17:47:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-20T17:47:04Z",
+    "ledger_committed_at": "2026-08-20T17:47:04Z"
   }
 ]
