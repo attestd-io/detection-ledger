@@ -307241,5 +307241,43 @@
     "advisory_url": "https://safedep.io/malicious-polymarket-npm-crypto-wallet-drainer/",
     "ledger_commit_at": "2026-08-21T11:05:22Z",
     "ledger_committed_at": "2026-08-21T11:05:22Z"
+  },
+  {
+    "id": "polymarket-trading-cli-2026-08-21",
+    "display_name": "polymarket-trading-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "polymarket-trading-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-4217",
+            "osv_published_at": "2026-05-21T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-21T11:05:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-21T11:05:26Z",
+    "osv_earliest_published_at": "2026-05-21T00:00:00Z",
+    "source_published_at": "2026-05-21T00:00:00Z",
+    "observed_at": "2026-08-21T11:05:26Z",
+    "ingested_at": "2026-08-21T11:05:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://safedep.io/malicious-polymarket-npm-crypto-wallet-drainer/",
+    "ledger_commit_at": "2026-08-21T11:05:30Z",
+    "ledger_committed_at": "2026-08-21T11:05:30Z"
   }
 ]
