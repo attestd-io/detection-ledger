@@ -307355,5 +307355,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-21T11:40:33Z",
     "ledger_committed_at": "2026-08-21T11:40:33Z"
+  },
+  {
+    "id": "gfe-lx-watcher-2026-08-21",
+    "display_name": "@gfe/lx-watcher",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@gfe/lx-watcher",
+        "ecosystem": "npm",
+        "versions": [
+          "1.5.3",
+          "1.5.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14353",
+            "osv_published_at": "2026-08-21T14:29:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-21T14:58:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-21T14:58:39Z",
+    "osv_earliest_published_at": "2026-08-21T14:29:13Z",
+    "source_published_at": "2026-08-21T14:29:13Z",
+    "observed_at": "2026-08-21T14:58:39Z",
+    "ingested_at": "2026-08-21T14:58:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-21T14:58:42Z",
+    "ledger_committed_at": "2026-08-21T14:58:42Z"
   }
 ]
