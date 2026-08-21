@@ -306938,5 +306938,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-21T05:04:10Z",
     "ledger_committed_at": "2026-08-21T05:04:10Z"
+  },
+  {
+    "id": "moidevy-2026-08-21",
+    "display_name": "moidevy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "moidevy",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14348",
+            "osv_published_at": "2026-08-21T04:19:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-21T05:04:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-21T05:04:08Z",
+    "osv_earliest_published_at": "2026-08-21T04:19:16Z",
+    "source_published_at": "2026-08-21T04:19:16Z",
+    "observed_at": "2026-08-21T05:04:08Z",
+    "ingested_at": "2026-08-21T05:04:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-21T05:04:19Z",
+    "ledger_committed_at": "2026-08-21T05:04:19Z"
   }
 ]
