@@ -306673,5 +306673,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-20T21:55:50Z",
     "ledger_committed_at": "2026-08-20T21:55:50Z"
+  },
+  {
+    "id": "reqcrypts-2026-08-21",
+    "display_name": "reqcrypts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "reqcrypts",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1.0",
+          "0.1.1",
+          "0.1.2",
+          "0.1.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14341",
+            "osv_published_at": "2026-08-21T02:17:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-21T02:44:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-21T02:44:49Z",
+    "osv_earliest_published_at": "2026-08-21T02:17:41Z",
+    "source_published_at": "2026-08-21T02:17:41Z",
+    "observed_at": "2026-08-21T02:44:49Z",
+    "ingested_at": "2026-08-21T02:44:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-21T02:44:52Z",
+    "ledger_committed_at": "2026-08-21T02:44:52Z"
   }
 ]
