@@ -1,0 +1,37 @@
+{
+  "id": "js-lib-team-env-parser-2026-08-21",
+  "display_name": "@js-lib-team/env-parser",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@js-lib-team/env-parser",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14344",
+          "osv_published_at": "2026-08-21T03:56:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-21T04:31:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-21T04:31:23Z",
+  "osv_earliest_published_at": "2026-08-21T03:56:26Z",
+  "source_published_at": "2026-08-21T03:56:26Z",
+  "observed_at": "2026-08-21T04:31:23Z",
+  "ingested_at": "2026-08-21T04:31:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-21T04:31:25Z",
+  "ledger_committed_at": "2026-08-21T04:31:25Z"
+}
