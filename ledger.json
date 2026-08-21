@@ -307431,5 +307431,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-21T17:33:26Z",
     "ledger_committed_at": "2026-08-21T17:33:26Z"
+  },
+  {
+    "id": "fuel-react-2026-08-21",
+    "display_name": "fuel-react",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fuel-react",
+        "ecosystem": "npm",
+        "versions": [
+          "91.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14355",
+            "osv_published_at": "2026-08-21T22:10:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-21T22:59:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-21T22:59:46Z",
+    "osv_earliest_published_at": "2026-08-21T22:10:33Z",
+    "source_published_at": "2026-08-21T22:10:33Z",
+    "observed_at": "2026-08-21T22:59:46Z",
+    "ingested_at": "2026-08-21T22:59:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-21T22:59:49Z",
+    "ledger_committed_at": "2026-08-21T22:59:49Z"
   }
 ]
