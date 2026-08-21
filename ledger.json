@@ -306750,5 +306750,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-21T03:30:31Z",
     "ledger_committed_at": "2026-08-21T03:30:31Z"
+  },
+  {
+    "id": "chai-as-soul-2026-08-21",
+    "display_name": "chai-as-soul",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-as-soul",
+        "ecosystem": "npm",
+        "versions": [
+          "2.3.5",
+          "2.3.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14343",
+            "osv_published_at": "2026-08-21T03:48:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-21T04:00:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-21T04:00:54Z",
+    "osv_earliest_published_at": "2026-08-21T03:48:16Z",
+    "source_published_at": "2026-08-21T03:48:16Z",
+    "observed_at": "2026-08-21T04:00:54Z",
+    "ingested_at": "2026-08-21T04:00:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-21T04:00:57Z",
+    "ledger_committed_at": "2026-08-21T04:00:57Z"
   }
 ]
