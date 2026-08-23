@@ -308508,5 +308508,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-23T11:23:15Z",
     "ledger_committed_at": "2026-08-23T11:23:15Z"
+  },
+  {
+    "id": "sdgdfgdfhhhfd-chainvista-2026-08-23",
+    "display_name": "@sdgdfgdfhhhfd/chainvista",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@sdgdfgdfhhhfd/chainvista",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "2.0.0",
+          "2.0.1",
+          "2.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14382",
+            "osv_published_at": "2026-08-23T16:52:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-23T17:29:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-23T17:29:07Z",
+    "osv_earliest_published_at": "2026-08-23T16:52:27Z",
+    "source_published_at": "2026-08-23T16:52:27Z",
+    "observed_at": "2026-08-23T17:29:07Z",
+    "ingested_at": "2026-08-23T17:29:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-23T17:29:09Z",
+    "ledger_committed_at": "2026-08-23T17:29:09Z"
   }
 ]
