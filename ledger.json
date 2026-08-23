@@ -308159,5 +308159,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-23T03:46:27Z",
     "ledger_committed_at": "2026-08-23T03:46:27Z"
+  },
+  {
+    "id": "rollup-packages-polyfill-core-2026-08-23",
+    "display_name": "rollup-packages-polyfill-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rollup-packages-polyfill-core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.13.4",
+          "0.13.5",
+          "0.13.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-10160",
+            "osv_published_at": "2026-07-10T16:56:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-23T03:46:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-23T03:46:01Z",
+    "osv_earliest_published_at": "2026-07-10T16:56:40Z",
+    "source_published_at": "2026-07-10T16:56:40Z",
+    "observed_at": "2026-08-23T03:46:01Z",
+    "ingested_at": "2026-08-23T03:46:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-23T03:46:34Z",
+    "ledger_committed_at": "2026-08-23T03:46:34Z"
   }
 ]
