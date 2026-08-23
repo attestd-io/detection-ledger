@@ -1,0 +1,38 @@
+{
+  "id": "2-loadsight-web-2026-08-23",
+  "display_name": "2-loadsight-web",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "2-loadsight-web",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14363",
+          "osv_published_at": "2026-08-23T03:22:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-23T03:42:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-23T03:42:42Z",
+  "osv_earliest_published_at": "2026-08-23T03:22:00Z",
+  "source_published_at": "2026-08-23T03:22:00Z",
+  "observed_at": "2026-08-23T03:42:42Z",
+  "ingested_at": "2026-08-23T03:42:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-23T03:42:51Z",
+  "ledger_committed_at": "2026-08-23T03:42:51Z"
+}
