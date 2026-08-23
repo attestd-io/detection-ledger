@@ -307636,5 +307636,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-22T16:32:12Z",
     "ledger_committed_at": "2026-08-22T16:32:12Z"
+  },
+  {
+    "id": "10-shardsight-web-2026-08-23",
+    "display_name": "10-shardsight-web",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "10-shardsight-web",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14362",
+            "osv_published_at": "2026-08-23T03:22:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-23T03:42:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-23T03:42:41Z",
+    "osv_earliest_published_at": "2026-08-23T03:22:18Z",
+    "source_published_at": "2026-08-23T03:22:18Z",
+    "observed_at": "2026-08-23T03:42:41Z",
+    "ingested_at": "2026-08-23T03:42:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-23T03:42:44Z",
+    "ledger_committed_at": "2026-08-23T03:42:44Z"
   }
 ]
