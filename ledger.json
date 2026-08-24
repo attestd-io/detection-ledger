@@ -141715,14 +141715,19 @@
         "versions": [
           "20.6.6"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12070",
+            "osv_published_at": "2026-08-05T01:41:43Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-05T04:39:18Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-05T04:39:18Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-08-05T01:41:43Z",
     "source_published_at": null,
     "observed_at": "2026-08-05T04:39:18Z",
     "ingested_at": "2026-08-05T04:39:18Z",
@@ -141732,8 +141737,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://osv.dev/vulnerability/MAL-2026-12070",
-    "ledger_commit_at": "2026-08-05T04:39:47Z",
-    "ledger_committed_at": "2026-08-05T04:39:47Z"
+    "ledger_commit_at": "2026-08-24T13:51:34Z",
+    "ledger_committed_at": "2026-08-24T13:51:34Z"
   },
   {
     "id": "simple-date-formatter-util-15-2026-08-04",
