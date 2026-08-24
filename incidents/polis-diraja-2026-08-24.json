@@ -1,0 +1,43 @@
+{
+  "id": "polis-diraja-2026-08-24",
+  "display_name": "polis-diraja",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "polis-diraja",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14409",
+          "osv_published_at": "2026-08-24T12:36:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-24T13:50:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-24T13:50:39Z",
+  "osv_earliest_published_at": "2026-08-24T12:36:07Z",
+  "source_published_at": "2026-08-24T12:36:07Z",
+  "observed_at": "2026-08-24T13:50:39Z",
+  "ingested_at": "2026-08-24T13:50:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-24T13:51:15Z",
+  "ledger_committed_at": "2026-08-24T13:51:15Z"
+}
