@@ -309699,5 +309699,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T14:06:03Z",
     "ledger_committed_at": "2026-08-24T14:06:03Z"
+  },
+  {
+    "id": "dpg-media-7ehemel-2026-08-24",
+    "display_name": "dpg-media-7ehemel",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dpg-media-7ehemel",
+        "ecosystem": "npm",
+        "versions": [
+          "999.9.15"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14411",
+            "osv_published_at": "2026-08-24T14:00:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T14:36:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T14:36:29Z",
+    "osv_earliest_published_at": "2026-08-24T14:00:56Z",
+    "source_published_at": "2026-08-24T14:00:56Z",
+    "observed_at": "2026-08-24T14:36:29Z",
+    "ingested_at": "2026-08-24T14:36:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T14:36:32Z",
+    "ledger_committed_at": "2026-08-24T14:36:32Z"
   }
 ]
