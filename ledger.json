@@ -310406,5 +310406,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T16:55:33Z",
     "ledger_committed_at": "2026-08-24T16:55:33Z"
+  },
+  {
+    "id": "chai-as-mno-2026-08-24",
+    "display_name": "chai-as-mno",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chai-as-mno",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14427",
+            "osv_published_at": "2026-08-24T16:46:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T16:54:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T16:54:30Z",
+    "osv_earliest_published_at": "2026-08-24T16:46:38Z",
+    "source_published_at": "2026-08-24T16:46:38Z",
+    "observed_at": "2026-08-24T16:54:30Z",
+    "ingested_at": "2026-08-24T16:54:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T16:55:42Z",
+    "ledger_committed_at": "2026-08-24T16:55:42Z"
   }
 ]
