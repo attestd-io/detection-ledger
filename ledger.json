@@ -309040,5 +309040,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T05:26:03Z",
     "ledger_committed_at": "2026-08-24T05:26:03Z"
+  },
+  {
+    "id": "sm-billing-form-2026-08-24",
+    "display_name": "sm-billing-form",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sm-billing-form",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0",
+          "99.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14395",
+            "osv_published_at": "2026-08-24T05:06:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T05:25:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T05:25:39Z",
+    "osv_earliest_published_at": "2026-08-24T05:06:49Z",
+    "source_published_at": "2026-08-24T05:06:49Z",
+    "observed_at": "2026-08-24T05:25:39Z",
+    "ingested_at": "2026-08-24T05:25:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T05:26:11Z",
+    "ledger_committed_at": "2026-08-24T05:26:11Z"
   }
 ]
