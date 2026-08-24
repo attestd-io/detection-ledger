@@ -1,0 +1,38 @@
+{
+  "id": "sm-payment-2026-08-24",
+  "display_name": "sm-payment",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sm-payment",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0",
+        "99.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14399",
+          "osv_published_at": "2026-08-24T05:06:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-24T05:25:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-24T05:25:44Z",
+  "osv_earliest_published_at": "2026-08-24T05:06:17Z",
+  "source_published_at": "2026-08-24T05:06:17Z",
+  "observed_at": "2026-08-24T05:25:44Z",
+  "ingested_at": "2026-08-24T05:25:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-24T05:26:43Z",
+  "ledger_committed_at": "2026-08-24T05:26:43Z"
+}
