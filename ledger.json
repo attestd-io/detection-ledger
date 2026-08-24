@@ -310047,5 +310047,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T16:39:03Z",
     "ledger_committed_at": "2026-08-24T16:39:03Z"
+  },
+  {
+    "id": "dotish-2026-08-24",
+    "display_name": "dotish",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dotish",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14418",
+            "osv_published_at": "2026-08-24T15:57:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T16:38:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T16:38:47Z",
+    "osv_earliest_published_at": "2026-08-24T15:57:50Z",
+    "source_published_at": "2026-08-24T15:57:50Z",
+    "observed_at": "2026-08-24T16:38:47Z",
+    "ingested_at": "2026-08-24T16:38:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T16:39:13Z",
+    "ledger_committed_at": "2026-08-24T16:39:13Z"
   }
 ]
