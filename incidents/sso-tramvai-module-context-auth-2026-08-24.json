@@ -1,0 +1,37 @@
+{
+  "id": "sso-tramvai-module-context-auth-2026-08-24",
+  "display_name": "sso-tramvai-module-context-auth",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sso-tramvai-module-context-auth",
+      "ecosystem": "npm",
+      "versions": [
+        "20.4.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-12073",
+          "osv_published_at": "2026-08-05T01:47:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-24T16:11:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-24T16:11:29Z",
+  "osv_earliest_published_at": "2026-08-05T01:47:14Z",
+  "source_published_at": "2026-08-05T01:47:14Z",
+  "observed_at": "2026-08-24T16:11:29Z",
+  "ingested_at": "2026-08-24T16:11:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-24T16:11:32Z",
+  "ledger_committed_at": "2026-08-24T16:11:32Z"
+}
