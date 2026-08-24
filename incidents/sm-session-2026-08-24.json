@@ -1,0 +1,38 @@
+{
+  "id": "sm-session-2026-08-24",
+  "display_name": "sm-session",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sm-session",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0",
+        "99.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14400",
+          "osv_published_at": "2026-08-24T05:06:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-24T05:25:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-24T05:25:45Z",
+  "osv_earliest_published_at": "2026-08-24T05:06:41Z",
+  "source_published_at": "2026-08-24T05:06:41Z",
+  "observed_at": "2026-08-24T05:25:45Z",
+  "ingested_at": "2026-08-24T05:25:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-24T05:26:51Z",
+  "ledger_committed_at": "2026-08-24T05:26:51Z"
+}
