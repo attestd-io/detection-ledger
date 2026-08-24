@@ -309310,5 +309310,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T08:29:38Z",
     "ledger_committed_at": "2026-08-24T08:29:38Z"
+  },
+  {
+    "id": "agentgui-2026-08-24",
+    "display_name": "agentgui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "agentgui",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1127"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14402",
+            "osv_published_at": "2026-08-24T07:52:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T08:44:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T08:44:49Z",
+    "osv_earliest_published_at": "2026-08-24T07:52:43Z",
+    "source_published_at": "2026-08-24T07:52:43Z",
+    "observed_at": "2026-08-24T08:44:49Z",
+    "ingested_at": "2026-08-24T08:44:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T08:44:52Z",
+    "ledger_committed_at": "2026-08-24T08:44:52Z"
   }
 ]
