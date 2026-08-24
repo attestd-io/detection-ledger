@@ -310214,5 +310214,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T16:54:35Z",
     "ledger_committed_at": "2026-08-24T16:54:35Z"
+  },
+  {
+    "id": "medisend-core-2026-08-24",
+    "display_name": "@medisend/core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@medisend/core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security-research"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14422",
+            "osv_published_at": "2026-08-24T16:46:21Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T16:54:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T16:54:23Z",
+    "osv_earliest_published_at": "2026-08-24T16:46:21Z",
+    "source_published_at": "2026-08-24T16:46:21Z",
+    "observed_at": "2026-08-24T16:54:23Z",
+    "ingested_at": "2026-08-24T16:54:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T16:54:43Z",
+    "ledger_committed_at": "2026-08-24T16:54:43Z"
   }
 ]
