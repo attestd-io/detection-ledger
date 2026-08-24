@@ -310665,5 +310665,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T16:56:31Z",
     "ledger_committed_at": "2026-08-24T16:56:31Z"
+  },
+  {
+    "id": "manticore-log-2026-08-24",
+    "display_name": "manticore-log",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "manticore-log",
+        "ecosystem": "npm",
+        "versions": [
+          "9.4.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14433",
+            "osv_published_at": "2026-08-24T16:39:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T16:54:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T16:54:40Z",
+    "osv_earliest_published_at": "2026-08-24T16:39:49Z",
+    "source_published_at": "2026-08-24T16:39:49Z",
+    "observed_at": "2026-08-24T16:54:40Z",
+    "ingested_at": "2026-08-24T16:54:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T16:56:39Z",
+    "ledger_committed_at": "2026-08-24T16:56:39Z"
   }
 ]
