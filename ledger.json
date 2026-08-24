@@ -310554,5 +310554,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-24T16:56:08Z",
     "ledger_committed_at": "2026-08-24T16:56:08Z"
+  },
+  {
+    "id": "hydration-dim-ui-2026-08-24",
+    "display_name": "hydration-dim-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hydration-dim-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14430",
+            "osv_published_at": "2026-08-24T16:44:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-24T16:54:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-24T16:54:37Z",
+    "osv_earliest_published_at": "2026-08-24T16:44:19Z",
+    "source_published_at": "2026-08-24T16:44:19Z",
+    "observed_at": "2026-08-24T16:54:37Z",
+    "ingested_at": "2026-08-24T16:54:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-24T16:56:16Z",
+    "ledger_committed_at": "2026-08-24T16:56:16Z"
   }
 ]
