@@ -1,0 +1,39 @@
+{
+  "id": "tailwind-scrollbar-hider-2026-08-25",
+  "display_name": "tailwind-scrollbar-hider",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tailwind-scrollbar-hider",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "5.0.1",
+        "5.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14512",
+          "osv_published_at": "2026-08-25T16:33:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-25T17:39:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-25T17:39:24Z",
+  "osv_earliest_published_at": "2026-08-25T16:33:19Z",
+  "source_published_at": "2026-08-25T16:33:19Z",
+  "observed_at": "2026-08-25T17:39:24Z",
+  "ingested_at": "2026-08-25T17:39:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-25T17:40:17Z",
+  "ledger_committed_at": "2026-08-25T17:40:17Z"
+}
