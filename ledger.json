@@ -313054,5 +313054,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-25T11:31:43Z",
     "ledger_committed_at": "2026-08-25T11:31:43Z"
+  },
+  {
+    "id": "statist-browser-typed-client-nfs-grocery-mobile-events-2026-08-25",
+    "display_name": "statist-browser-typed-client-nfs.grocery.mobile.events",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "statist-browser-typed-client-nfs.grocery.mobile.events",
+        "ecosystem": "npm",
+        "versions": [
+          "20.3.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-12074",
+            "osv_published_at": "2026-08-05T01:39:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-25T14:33:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-25T14:33:08Z",
+    "osv_earliest_published_at": "2026-08-05T01:39:33Z",
+    "source_published_at": "2026-08-05T01:39:33Z",
+    "observed_at": "2026-08-25T14:33:08Z",
+    "ingested_at": "2026-08-25T14:33:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-25T14:33:11Z",
+    "ledger_committed_at": "2026-08-25T14:33:11Z"
   }
 ]
