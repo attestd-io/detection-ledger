@@ -312191,5 +312191,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-25T06:43:40Z",
     "ledger_committed_at": "2026-08-25T06:43:40Z"
+  },
+  {
+    "id": "whatsgoodlookingbabycreed-2026-08-25",
+    "display_name": "whatsgoodlookingbabycreed",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "whatsgoodlookingbabycreed",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14470",
+            "osv_published_at": "2026-08-25T05:33:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-25T06:40:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-25T06:40:44Z",
+    "osv_earliest_published_at": "2026-08-25T05:33:29Z",
+    "source_published_at": "2026-08-25T05:33:29Z",
+    "observed_at": "2026-08-25T06:40:44Z",
+    "ingested_at": "2026-08-25T06:40:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-25T06:43:48Z",
+    "ledger_committed_at": "2026-08-25T06:43:48Z"
   }
 ]
