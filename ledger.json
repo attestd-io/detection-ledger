@@ -313762,5 +313762,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-25T17:39:39Z",
     "ledger_committed_at": "2026-08-25T17:39:39Z"
+  },
+  {
+    "id": "r4wk-book-2026-08-25",
+    "display_name": "r4wk-book",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "r4wk-book",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.0",
+          "2.2.1",
+          "2.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14509",
+            "osv_published_at": "2026-08-25T16:36:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-25T17:39:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-25T17:39:20Z",
+    "osv_earliest_published_at": "2026-08-25T16:36:51Z",
+    "source_published_at": "2026-08-25T16:36:51Z",
+    "observed_at": "2026-08-25T17:39:20Z",
+    "ingested_at": "2026-08-25T17:39:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-25T17:39:48Z",
+    "ledger_committed_at": "2026-08-25T17:39:48Z"
   }
 ]
