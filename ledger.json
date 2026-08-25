@@ -313914,5 +313914,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-25T17:40:17Z",
     "ledger_committed_at": "2026-08-25T17:40:17Z"
+  },
+  {
+    "id": "typedoc-xyz-2026-08-25",
+    "display_name": "typedoc-xyz",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "typedoc-xyz",
+        "ecosystem": "npm",
+        "versions": [
+          "0.28.19"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14513",
+            "osv_published_at": "2026-08-25T16:36:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-25T17:39:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-25T17:39:43Z",
+    "osv_earliest_published_at": "2026-08-25T16:36:51Z",
+    "source_published_at": "2026-08-25T16:36:51Z",
+    "observed_at": "2026-08-25T17:39:43Z",
+    "ingested_at": "2026-08-25T17:39:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-25T17:40:26Z",
+    "ledger_committed_at": "2026-08-25T17:40:26Z"
   }
 ]
