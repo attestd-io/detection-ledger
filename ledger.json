@@ -312864,5 +312864,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-25T08:59:02Z",
     "ledger_committed_at": "2026-08-25T08:59:02Z"
+  },
+  {
+    "id": "spf-analytics-2026-08-25",
+    "display_name": "spf-analytics",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "spf-analytics",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14486",
+            "osv_published_at": "2026-08-25T08:30:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-25T08:58:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-25T08:58:56Z",
+    "osv_earliest_published_at": "2026-08-25T08:30:04Z",
+    "source_published_at": "2026-08-25T08:30:04Z",
+    "observed_at": "2026-08-25T08:58:56Z",
+    "ingested_at": "2026-08-25T08:58:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-25T08:59:11Z",
+    "ledger_committed_at": "2026-08-25T08:59:11Z"
   }
 ]
