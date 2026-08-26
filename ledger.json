@@ -314181,5 +314181,43 @@
     "advisory_url": "https://app.safedep.io/community/malysis/01KP6NEZQP4591VAD7H9AAEJVT",
     "ledger_commit_at": "2026-08-26T03:50:35Z",
     "ledger_committed_at": "2026-08-26T03:50:35Z"
+  },
+  {
+    "id": "renovate-config-doctolib-2026-08-26",
+    "display_name": "renovate-config-doctolib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "renovate-config-doctolib",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.15",
+          "9.9.16"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2830",
+            "osv_published_at": "2026-04-17T06:20:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T03:50:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T03:50:43Z",
+    "osv_earliest_published_at": "2026-04-17T06:20:10Z",
+    "source_published_at": "2026-04-17T06:20:10Z",
+    "observed_at": "2026-08-26T03:50:43Z",
+    "ingested_at": "2026-08-26T03:50:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://app.safedep.io/community/malysis/01KPD1H8Q0V7ZHX0HDRF42WK92",
+    "ledger_commit_at": "2026-08-26T03:50:46Z",
+    "ledger_committed_at": "2026-08-26T03:50:46Z"
   }
 ]
