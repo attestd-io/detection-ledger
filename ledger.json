@@ -315203,5 +315203,68 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-26T19:46:33Z",
     "ledger_committed_at": "2026-08-26T19:46:33Z"
+  },
+  {
+    "id": "self-certificates-2026-08-26",
+    "display_name": "self-certificates",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "self-certificates",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.0.9",
+          "1.1.1",
+          "1.1.2",
+          "1.1.3",
+          "1.1.4",
+          "1.1.5",
+          "1.1.6",
+          "1.1.7",
+          "1.1.8",
+          "1.1.9",
+          "1.2.0",
+          "1.2.2",
+          "1.2.3",
+          "1.2.4",
+          "1.2.5",
+          "1.2.6",
+          "1.2.7",
+          "1.2.8",
+          "1.2.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14543",
+            "osv_published_at": "2026-08-26T19:13:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T20:01:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T20:01:47Z",
+    "osv_earliest_published_at": "2026-08-26T19:13:44Z",
+    "source_published_at": "2026-08-26T19:13:44Z",
+    "observed_at": "2026-08-26T20:01:47Z",
+    "ingested_at": "2026-08-26T20:01:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-26T20:01:49Z",
+    "ledger_committed_at": "2026-08-26T20:01:49Z"
   }
 ]
