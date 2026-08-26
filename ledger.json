@@ -315123,5 +315123,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-26T14:41:28Z",
     "ledger_committed_at": "2026-08-26T14:41:28Z"
+  },
+  {
+    "id": "svelte-vli-ui-2026-08-26",
+    "display_name": "svelte-vli-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "svelte-vli-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14541",
+            "osv_published_at": "2026-08-26T16:51:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T18:15:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T18:15:10Z",
+    "osv_earliest_published_at": "2026-08-26T16:51:45Z",
+    "source_published_at": "2026-08-26T16:51:45Z",
+    "observed_at": "2026-08-26T18:15:10Z",
+    "ingested_at": "2026-08-26T18:15:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-26T18:15:13Z",
+    "ledger_committed_at": "2026-08-26T18:15:13Z"
   }
 ]
