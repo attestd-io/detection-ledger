@@ -314874,5 +314874,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-26T14:26:21Z",
     "ledger_committed_at": "2026-08-26T14:26:21Z"
+  },
+  {
+    "id": "hydration-vli-ui-2026-08-26",
+    "display_name": "hydration-vli-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hydration-vli-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14535",
+            "osv_published_at": "2026-08-26T14:17:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T14:25:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T14:25:58Z",
+    "osv_earliest_published_at": "2026-08-26T14:17:54Z",
+    "source_published_at": "2026-08-26T14:17:54Z",
+    "observed_at": "2026-08-26T14:25:58Z",
+    "ingested_at": "2026-08-26T14:25:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-26T14:26:31Z",
+    "ledger_committed_at": "2026-08-26T14:26:31Z"
   }
 ]
