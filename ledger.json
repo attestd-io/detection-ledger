@@ -314141,5 +314141,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-26T00:40:32Z",
     "ledger_committed_at": "2026-08-26T00:40:32Z"
+  },
+  {
+    "id": "express-security-policy-2026-08-26",
+    "display_name": "express-security-policy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "express-security-policy",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-2828",
+            "osv_published_at": "2026-04-17T06:20:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T03:50:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T03:50:33Z",
+    "osv_earliest_published_at": "2026-04-17T06:20:31Z",
+    "source_published_at": "2026-04-17T06:20:31Z",
+    "observed_at": "2026-08-26T03:50:33Z",
+    "ingested_at": "2026-08-26T03:50:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://app.safedep.io/community/malysis/01KP6NEZQP4591VAD7H9AAEJVT",
+    "ledger_commit_at": "2026-08-26T03:50:35Z",
+    "ledger_committed_at": "2026-08-26T03:50:35Z"
   }
 ]
