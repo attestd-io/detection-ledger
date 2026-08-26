@@ -314494,5 +314494,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-26T09:36:06Z",
     "ledger_committed_at": "2026-08-26T09:36:06Z"
+  },
+  {
+    "id": "omniauth-recharge-rails-example-2026-08-26",
+    "display_name": "omniauth-recharge-rails-example",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "omniauth-recharge-rails-example",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14526",
+            "osv_published_at": "2026-08-26T07:50:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T09:36:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T09:36:04Z",
+    "osv_earliest_published_at": "2026-08-26T07:50:58Z",
+    "source_published_at": "2026-08-26T07:50:58Z",
+    "observed_at": "2026-08-26T09:36:04Z",
+    "ingested_at": "2026-08-26T09:36:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-26T09:36:14Z",
+    "ledger_committed_at": "2026-08-26T09:36:14Z"
   }
 ]
