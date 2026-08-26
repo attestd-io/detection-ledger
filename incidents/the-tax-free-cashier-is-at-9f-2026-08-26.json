@@ -1,0 +1,40 @@
+{
+  "id": "the-tax-free-cashier-is-at-9f-2026-08-26",
+  "display_name": "the_tax_free_cashier_is_at_9f",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "the_tax_free_cashier_is_at_9f",
+      "ecosystem": "npm",
+      "versions": [
+        "1995.3.2-0.miasma",
+        "1995.3.20",
+        "2026.6.2-5.hades.no.isshouni",
+        "2026.6.3-0.hades.no.isshouni"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14549",
+          "osv_published_at": "2026-08-26T22:09:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-26T22:18:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-26T22:18:47Z",
+  "osv_earliest_published_at": "2026-08-26T22:09:18Z",
+  "source_published_at": "2026-08-26T22:09:18Z",
+  "observed_at": "2026-08-26T22:18:47Z",
+  "ingested_at": "2026-08-26T22:18:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-26T22:19:13Z",
+  "ledger_committed_at": "2026-08-26T22:19:13Z"
+}
