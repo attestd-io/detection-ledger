@@ -314219,5 +314219,42 @@
     "advisory_url": "https://app.safedep.io/community/malysis/01KPD1H8Q0V7ZHX0HDRF42WK92",
     "ledger_commit_at": "2026-08-26T03:50:46Z",
     "ledger_committed_at": "2026-08-26T03:50:46Z"
+  },
+  {
+    "id": "array-shuffler-utils-99-2026-08-26",
+    "display_name": "array-shuffler-utils-99",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "array-shuffler-utils-99",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14519",
+            "osv_published_at": "2026-08-26T03:50:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T04:30:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T04:30:25Z",
+    "osv_earliest_published_at": "2026-08-26T03:50:51Z",
+    "source_published_at": "2026-08-26T03:50:51Z",
+    "observed_at": "2026-08-26T04:30:25Z",
+    "ingested_at": "2026-08-26T04:30:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-26T04:30:28Z",
+    "ledger_committed_at": "2026-08-26T04:30:28Z"
   }
 ]
