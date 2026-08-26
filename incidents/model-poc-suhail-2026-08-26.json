@@ -1,0 +1,37 @@
+{
+  "id": "model-poc-suhail-2026-08-26",
+  "display_name": "model-poc-suhail",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "model-poc-suhail",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.14"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3030",
+          "osv_published_at": "2026-04-24T15:35:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-26T09:36:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-26T09:36:03Z",
+  "osv_earliest_published_at": "2026-04-24T15:35:46Z",
+  "source_published_at": "2026-04-24T15:35:46Z",
+  "observed_at": "2026-08-26T09:36:03Z",
+  "ingested_at": "2026-08-26T09:36:03Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-26T09:36:06Z",
+  "ledger_committed_at": "2026-08-26T09:36:06Z"
+}
