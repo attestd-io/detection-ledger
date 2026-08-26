@@ -1,0 +1,44 @@
+{
+  "id": "fivem-tool-helper-2026-08-26",
+  "display_name": "fivem-tool-helper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fivem-tool-helper",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14520",
+          "osv_published_at": "2026-08-26T03:40:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-26T04:30:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-26T04:30:30Z",
+  "osv_earliest_published_at": "2026-08-26T03:40:38Z",
+  "source_published_at": "2026-08-26T03:40:38Z",
+  "observed_at": "2026-08-26T04:30:30Z",
+  "ingested_at": "2026-08-26T04:30:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-26T04:30:43Z",
+  "ledger_committed_at": "2026-08-26T04:30:43Z"
+}
