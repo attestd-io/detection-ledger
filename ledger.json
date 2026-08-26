@@ -314987,5 +314987,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-26T14:26:57Z",
     "ledger_committed_at": "2026-08-26T14:26:57Z"
+  },
+  {
+    "id": "spotify-url-resolvers-2026-08-26",
+    "display_name": "spotify-url-resolvers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "spotify-url-resolvers",
+        "ecosystem": "npm",
+        "versions": [
+          "3.4.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14538",
+            "osv_published_at": "2026-08-26T14:19:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T14:26:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T14:26:03Z",
+    "osv_earliest_published_at": "2026-08-26T14:19:00Z",
+    "source_published_at": "2026-08-26T14:19:00Z",
+    "observed_at": "2026-08-26T14:26:03Z",
+    "ingested_at": "2026-08-26T14:26:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-26T14:27:05Z",
+    "ledger_committed_at": "2026-08-26T14:27:05Z"
   }
 ]
