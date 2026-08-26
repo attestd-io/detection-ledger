@@ -314345,5 +314345,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-26T04:30:43Z",
     "ledger_committed_at": "2026-08-26T04:30:43Z"
+  },
+  {
+    "id": "syntaxerror-package-12345-2026-08-26",
+    "display_name": "syntaxerror-package-12345",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "syntaxerror-package-12345",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14522",
+            "osv_published_at": "2026-08-26T04:16:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-26T05:01:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-26T05:01:02Z",
+    "osv_earliest_published_at": "2026-08-26T04:16:50Z",
+    "source_published_at": "2026-08-26T04:16:50Z",
+    "observed_at": "2026-08-26T05:01:02Z",
+    "ingested_at": "2026-08-26T05:01:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-26T05:01:05Z",
+    "ledger_committed_at": "2026-08-26T05:01:05Z"
   }
 ]
