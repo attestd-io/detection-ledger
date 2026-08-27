@@ -315672,5 +315672,53 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-27T09:48:09Z",
     "ledger_committed_at": "2026-08-27T09:48:09Z"
+  },
+  {
+    "id": "cortana-md-engine-2026-08-27",
+    "display_name": "@cortana-md/engine",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@cortana-md/engine",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.68",
+          "1.2.69",
+          "1.2.70",
+          "1.2.71",
+          "1.2.72",
+          "1.2.75",
+          "1.2.76",
+          "1.2.77",
+          "1.3.0",
+          "1.3.1",
+          "1.3.3",
+          "1.4.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14553",
+            "osv_published_at": "2026-08-27T06:26:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-27T10:49:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-27T10:49:00Z",
+    "osv_earliest_published_at": "2026-08-27T06:26:19Z",
+    "source_published_at": "2026-08-27T06:26:19Z",
+    "observed_at": "2026-08-27T10:49:00Z",
+    "ingested_at": "2026-08-27T10:49:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-27T10:49:03Z",
+    "ledger_committed_at": "2026-08-27T10:49:03Z"
   }
 ]
