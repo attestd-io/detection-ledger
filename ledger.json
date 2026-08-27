@@ -316339,5 +316339,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-27T18:57:24Z",
     "ledger_committed_at": "2026-08-27T18:57:24Z"
+  },
+  {
+    "id": "tailwindcss-form-styles-2026-08-27",
+    "display_name": "tailwindcss-form-styles",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tailwindcss-form-styles",
+        "ecosystem": "npm",
+        "versions": [
+          "0.5.15"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14568",
+            "osv_published_at": "2026-08-27T18:21:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-27T18:57:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-27T18:57:22Z",
+    "osv_earliest_published_at": "2026-08-27T18:21:41Z",
+    "source_published_at": "2026-08-27T18:21:41Z",
+    "observed_at": "2026-08-27T18:57:22Z",
+    "ingested_at": "2026-08-27T18:57:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-27T18:57:32Z",
+    "ledger_committed_at": "2026-08-27T18:57:32Z"
   }
 ]
