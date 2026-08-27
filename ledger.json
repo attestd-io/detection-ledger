@@ -294075,14 +294075,19 @@
           "1.2.1",
           "1.2.2"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5209",
+            "osv_published_at": "2026-06-05T00:53:43Z"
+          }
+        ]
       }
     ],
     "malware_type": "deprecated_release",
     "attestd_detected_at": "2026-08-14T19:39:28Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-14T19:39:28Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2026-06-05T00:53:43Z",
     "source_published_at": null,
     "observed_at": "2026-08-14T19:39:28Z",
     "ingested_at": "2026-08-14T19:39:28Z",
@@ -294092,8 +294097,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40vapi-ai%2Fserver-sdk",
-    "ledger_commit_at": "2026-08-14T19:39:31Z",
-    "ledger_committed_at": "2026-08-14T19:39:31Z"
+    "ledger_commit_at": "2026-08-27T14:13:11Z",
+    "ledger_committed_at": "2026-08-27T14:13:11Z"
   },
   {
     "id": "funny-booth-agent-core-2026-08-14",
