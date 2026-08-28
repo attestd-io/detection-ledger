@@ -320606,5 +320606,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-28T10:55:25Z",
     "ledger_committed_at": "2026-08-28T10:55:25Z"
+  },
+  {
+    "id": "yamlformatter-utils-2026-08-28",
+    "display_name": "yamlformatter-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "yamlformatter-utils",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14590",
+            "osv_published_at": "2026-08-28T10:01:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-28T10:55:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-28T10:55:10Z",
+    "osv_earliest_published_at": "2026-08-28T10:01:36Z",
+    "source_published_at": "2026-08-28T10:01:36Z",
+    "observed_at": "2026-08-28T10:55:10Z",
+    "ingested_at": "2026-08-28T10:55:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-28T10:55:32Z",
+    "ledger_committed_at": "2026-08-28T10:55:32Z"
   }
 ]
