@@ -1,0 +1,40 @@
+{
+  "id": "html-to-gutenberg-2026-08-28",
+  "display_name": "html-to-gutenberg",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "html-to-gutenberg",
+      "ecosystem": "npm",
+      "versions": [
+        "4.2.12",
+        "4.2.13",
+        "4.2.15",
+        "4.2.16"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6359",
+          "osv_published_at": "2026-06-24T01:51:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-28T17:50:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-28T17:50:00Z",
+  "osv_earliest_published_at": "2026-06-24T01:51:00Z",
+  "source_published_at": "2026-06-24T01:51:00Z",
+  "observed_at": "2026-08-28T17:50:00Z",
+  "ingested_at": "2026-08-28T17:50:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-28T18:42:23Z",
+  "ledger_committed_at": "2026-08-28T18:42:23Z"
+}
