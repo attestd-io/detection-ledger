@@ -1,0 +1,37 @@
+{
+  "id": "3layerdipstack5tuhr5-2026-08-28",
+  "display_name": "3layerdipstack5tuhr5",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "3layerdipstack5tuhr5",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14638",
+          "osv_published_at": "2026-08-28T15:35:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-28T16:31:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-28T16:31:38Z",
+  "osv_earliest_published_at": "2026-08-28T15:35:19Z",
+  "source_published_at": "2026-08-28T15:35:19Z",
+  "observed_at": "2026-08-28T16:31:38Z",
+  "ingested_at": "2026-08-28T16:31:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-28T16:34:36Z",
+  "ledger_committed_at": "2026-08-28T16:34:36Z"
+}
