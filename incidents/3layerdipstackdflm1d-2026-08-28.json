@@ -1,0 +1,37 @@
+{
+  "id": "3layerdipstackdflm1d-2026-08-28",
+  "display_name": "3layerdipstackdflm1d",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "3layerdipstackdflm1d",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-14725",
+          "osv_published_at": "2026-08-28T15:35:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-28T16:33:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-28T16:33:09Z",
+  "osv_earliest_published_at": "2026-08-28T15:35:20Z",
+  "source_published_at": "2026-08-28T15:35:20Z",
+  "observed_at": "2026-08-28T16:33:09Z",
+  "ingested_at": "2026-08-28T16:33:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-28T16:41:48Z",
+  "ledger_committed_at": "2026-08-28T16:41:48Z"
+}
