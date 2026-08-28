@@ -337921,5 +337921,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-28T18:36:31Z",
     "ledger_committed_at": "2026-08-28T18:36:31Z"
+  },
+  {
+    "id": "desmos-graphing-mh7e6p9s-2026-08-28",
+    "display_name": "desmos-graphing-mh7e6p9s",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "desmos-graphing-mh7e6p9s",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15233",
+            "osv_published_at": "2026-08-28T15:35:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-28T17:48:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-28T17:48:34Z",
+    "osv_earliest_published_at": "2026-08-28T15:35:12Z",
+    "source_published_at": "2026-08-28T15:35:12Z",
+    "observed_at": "2026-08-28T17:48:34Z",
+    "ingested_at": "2026-08-28T17:48:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-28T18:36:39Z",
+    "ledger_committed_at": "2026-08-28T18:36:39Z"
   }
 ]
