@@ -340359,5 +340359,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-28T23:50:54Z",
     "ledger_committed_at": "2026-08-28T23:50:54Z"
+  },
+  {
+    "id": "mkt-ui-library-2026-08-28",
+    "display_name": "mkt-ui-library",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mkt-ui-library",
+        "ecosystem": "npm",
+        "versions": [
+          "45.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15540",
+            "osv_published_at": "2026-08-28T23:15:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-28T23:48:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-28T23:48:58Z",
+    "osv_earliest_published_at": "2026-08-28T23:15:47Z",
+    "source_published_at": "2026-08-28T23:15:47Z",
+    "observed_at": "2026-08-28T23:48:58Z",
+    "ingested_at": "2026-08-28T23:48:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-28T23:51:01Z",
+    "ledger_committed_at": "2026-08-28T23:51:01Z"
   }
 ]
