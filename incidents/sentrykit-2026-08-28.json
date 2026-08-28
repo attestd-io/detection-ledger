@@ -1,0 +1,37 @@
+{
+  "id": "sentrykit-2026-08-28",
+  "display_name": "sentrykit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sentrykit",
+      "ecosystem": "npm",
+      "versions": [
+        "30.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15544",
+          "osv_published_at": "2026-08-28T23:17:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-28T23:49:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-28T23:49:03Z",
+  "osv_earliest_published_at": "2026-08-28T23:17:48Z",
+  "source_published_at": "2026-08-28T23:17:48Z",
+  "observed_at": "2026-08-28T23:49:03Z",
+  "ingested_at": "2026-08-28T23:49:03Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-28T23:51:41Z",
+  "ledger_committed_at": "2026-08-28T23:51:41Z"
+}
