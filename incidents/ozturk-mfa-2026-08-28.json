@@ -1,0 +1,43 @@
+{
+  "id": "ozturk-mfa-2026-08-28",
+  "display_name": "ozturk-mfa",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ozturk-mfa",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15493",
+          "osv_published_at": "2026-08-28T18:19:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-28T21:14:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-28T21:14:36Z",
+  "osv_earliest_published_at": "2026-08-28T18:19:27Z",
+  "source_published_at": "2026-08-28T18:19:27Z",
+  "observed_at": "2026-08-28T21:14:36Z",
+  "ingested_at": "2026-08-28T21:14:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-28T21:15:14Z",
+  "ledger_committed_at": "2026-08-28T21:15:14Z"
+}
