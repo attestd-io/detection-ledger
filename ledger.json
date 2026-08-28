@@ -320320,5 +320320,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-28T00:45:04Z",
     "ledger_committed_at": "2026-08-28T00:45:04Z"
+  },
+  {
+    "id": "flyteplugins-redis-2026-08-28",
+    "display_name": "flyteplugins-redis",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "flyteplugins-redis",
+        "ecosystem": "pypi",
+        "versions": [
+          "2.6.10"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14584",
+            "osv_published_at": "2026-08-27T21:48:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-28T00:44:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-28T00:44:45Z",
+    "osv_earliest_published_at": "2026-08-27T21:48:34Z",
+    "source_published_at": "2026-08-27T21:48:34Z",
+    "observed_at": "2026-08-28T00:44:45Z",
+    "ingested_at": "2026-08-28T00:44:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-28T00:45:13Z",
+    "ledger_committed_at": "2026-08-28T00:45:13Z"
   }
 ]
