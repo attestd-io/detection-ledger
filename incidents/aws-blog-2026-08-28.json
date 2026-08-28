@@ -1,0 +1,39 @@
+{
+  "id": "aws-blog-2026-08-28",
+  "display_name": "aws-blog",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "aws-blog",
+      "ecosystem": "npm",
+      "versions": [
+        "45.0.0",
+        "45.0.1",
+        "45.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15498",
+          "osv_published_at": "2026-08-28T23:12:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-28T23:48:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-28T23:48:44Z",
+  "osv_earliest_published_at": "2026-08-28T23:12:05Z",
+  "source_published_at": "2026-08-28T23:12:05Z",
+  "observed_at": "2026-08-28T23:48:44Z",
+  "ingested_at": "2026-08-28T23:48:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-28T23:49:08Z",
+  "ledger_committed_at": "2026-08-28T23:49:08Z"
+}
