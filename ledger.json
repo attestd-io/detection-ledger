@@ -325390,5 +325390,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-28T17:48:12Z",
     "ledger_committed_at": "2026-08-28T17:48:12Z"
+  },
+  {
+    "id": "3layerdipstackl21ibf-2026-08-28",
+    "display_name": "3layerdipstackl21ibf",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "3layerdipstackl21ibf",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-14810",
+            "osv_published_at": "2026-08-28T15:35:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-28T17:43:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-28T17:43:09Z",
+    "osv_earliest_published_at": "2026-08-28T15:35:22Z",
+    "source_published_at": "2026-08-28T15:35:22Z",
+    "observed_at": "2026-08-28T17:43:09Z",
+    "ingested_at": "2026-08-28T17:43:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-28T17:48:19Z",
+    "ledger_committed_at": "2026-08-28T17:48:19Z"
   }
 ]
