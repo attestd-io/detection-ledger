@@ -339693,19 +339693,31 @@
         "package": "@7nohe/openapi-react-query-codegen",
         "ecosystem": "npm",
         "versions": [
+          "0.0.0-365d4eb738d3146583431948d3ba6e27a32556be",
+          "0.0.0-ec7876d6c917dad516ba69bbfafc948b834bf0ab",
           "0.5.4",
           "0.5.5",
-          "1.6.3"
+          "1.6.3",
+          "1.6.4",
+          "2.2.1",
+          "2.2.2",
+          "3.0.3",
+          "3.0.4"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15494",
+            "osv_published_at": "2026-08-28T22:59:24Z"
+          }
+        ]
       }
     ],
     "malware_type": "deprecated_release",
     "attestd_detected_at": "2026-08-28T22:54:38Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-28T22:54:38Z",
-    "osv_earliest_published_at": null,
-    "source_published_at": null,
+    "osv_earliest_published_at": "2026-08-28T22:59:24Z",
+    "source_published_at": "2026-08-28T22:59:24Z",
     "observed_at": "2026-08-28T22:54:38Z",
     "ingested_at": "2026-08-28T22:54:38Z",
     "first_served_at": null,
@@ -339714,7 +339726,7 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%407nohe%2Fopenapi-react-query-codegen",
-    "ledger_commit_at": "2026-08-28T22:55:00Z",
-    "ledger_committed_at": "2026-08-28T22:55:00Z"
+    "ledger_commit_at": "2026-08-28T23:32:30Z",
+    "ledger_committed_at": "2026-08-28T23:32:30Z"
   }
 ]
