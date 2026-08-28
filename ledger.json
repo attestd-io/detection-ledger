@@ -340100,5 +340100,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-28T23:49:55Z",
     "ledger_committed_at": "2026-08-28T23:49:55Z"
+  },
+  {
+    "id": "firestore-lite-2026-08-28",
+    "display_name": "firestore-lite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "firestore-lite",
+        "ecosystem": "npm",
+        "versions": [
+          "45.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15534",
+            "osv_published_at": "2026-08-28T23:15:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-28T23:48:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-28T23:48:52Z",
+    "osv_earliest_published_at": "2026-08-28T23:15:40Z",
+    "source_published_at": "2026-08-28T23:15:40Z",
+    "observed_at": "2026-08-28T23:48:52Z",
+    "ingested_at": "2026-08-28T23:48:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-28T23:50:02Z",
+    "ledger_committed_at": "2026-08-28T23:50:02Z"
   }
 ]
