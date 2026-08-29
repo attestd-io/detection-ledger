@@ -342655,5 +342655,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-29T23:30:45Z",
     "ledger_committed_at": "2026-08-29T23:30:45Z"
+  },
+  {
+    "id": "grafeno-webhook-2026-08-29",
+    "display_name": "grafeno-webhook",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "grafeno-webhook",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15573",
+            "osv_published_at": "2026-08-29T23:11:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-29T23:30:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-29T23:30:35Z",
+    "osv_earliest_published_at": "2026-08-29T23:11:06Z",
+    "source_published_at": "2026-08-29T23:11:06Z",
+    "observed_at": "2026-08-29T23:30:35Z",
+    "ingested_at": "2026-08-29T23:30:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-29T23:30:54Z",
+    "ledger_committed_at": "2026-08-29T23:30:54Z"
   }
 ]
