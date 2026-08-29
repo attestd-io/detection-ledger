@@ -341326,5 +341326,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-29T01:58:13Z",
     "ledger_committed_at": "2026-08-29T01:58:13Z"
+  },
+  {
+    "id": "npm-extension-2026-08-29",
+    "display_name": "npm-extension",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "npm-extension",
+        "ecosystem": "npm",
+        "versions": [
+          "45.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15515",
+            "osv_published_at": "2026-08-28T23:12:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-29T01:56:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-29T01:56:33Z",
+    "osv_earliest_published_at": "2026-08-28T23:12:49Z",
+    "source_published_at": "2026-08-28T23:12:49Z",
+    "observed_at": "2026-08-29T01:56:33Z",
+    "ingested_at": "2026-08-29T01:56:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-29T01:58:22Z",
+    "ledger_committed_at": "2026-08-29T01:58:22Z"
   }
 ]
