@@ -340770,5 +340770,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-29T01:51:48Z",
     "ledger_committed_at": "2026-08-29T01:51:48Z"
+  },
+  {
+    "id": "alimama-minisite-2026-08-29",
+    "display_name": "alimama-minisite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "alimama-minisite",
+        "ecosystem": "npm",
+        "versions": [
+          "45.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15495",
+            "osv_published_at": "2026-08-28T23:13:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-29T01:56:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-29T01:56:19Z",
+    "osv_earliest_published_at": "2026-08-28T23:13:04Z",
+    "source_published_at": "2026-08-28T23:13:04Z",
+    "observed_at": "2026-08-29T01:56:19Z",
+    "ingested_at": "2026-08-29T01:56:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-29T01:56:24Z",
+    "ledger_committed_at": "2026-08-29T01:56:24Z"
   }
 ]
