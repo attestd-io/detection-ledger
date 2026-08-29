@@ -341622,5 +341622,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-29T01:59:15Z",
     "ledger_committed_at": "2026-08-29T01:59:15Z"
+  },
+  {
+    "id": "tabbables-2026-08-29",
+    "display_name": "tabbables",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tabbables",
+        "ecosystem": "npm",
+        "versions": [
+          "45.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15524",
+            "osv_published_at": "2026-08-28T23:13:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-29T01:56:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-29T01:56:40Z",
+    "osv_earliest_published_at": "2026-08-28T23:13:26Z",
+    "source_published_at": "2026-08-28T23:13:26Z",
+    "observed_at": "2026-08-29T01:56:40Z",
+    "ingested_at": "2026-08-29T01:56:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-29T01:59:22Z",
+    "ledger_committed_at": "2026-08-29T01:59:22Z"
   }
 ]
