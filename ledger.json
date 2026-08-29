@@ -342190,5 +342190,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-29T02:39:23Z",
     "ledger_committed_at": "2026-08-29T02:39:23Z"
+  },
+  {
+    "id": "techportal-2026-08-29",
+    "display_name": "techportal",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "techportal",
+        "ecosystem": "npm",
+        "versions": [
+          "4.0.10"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15561",
+            "osv_published_at": "2026-08-29T02:13:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-29T02:37:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-29T02:37:49Z",
+    "osv_earliest_published_at": "2026-08-29T02:13:42Z",
+    "source_published_at": "2026-08-29T02:13:42Z",
+    "observed_at": "2026-08-29T02:37:49Z",
+    "ingested_at": "2026-08-29T02:37:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-29T02:39:31Z",
+    "ledger_committed_at": "2026-08-29T02:39:31Z"
   }
 ]
