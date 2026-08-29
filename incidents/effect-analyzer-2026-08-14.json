@@ -10,14 +10,19 @@
       "versions": [
         "0.3.1"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-5245",
+          "osv_published_at": "2026-06-05T00:53:43Z"
+        }
+      ]
     }
   ],
   "malware_type": "deprecated_release",
   "attestd_detected_at": "2026-08-14T04:27:19Z",
   "flagged_at": null,
   "confirmed_at": "2026-08-14T04:27:19Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-05T00:53:43Z",
   "source_published_at": null,
   "observed_at": "2026-08-14T04:27:19Z",
   "ingested_at": "2026-08-14T04:27:19Z",
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/effect-analyzer",
-  "ledger_commit_at": "2026-08-14T04:27:23Z",
-  "ledger_committed_at": "2026-08-14T04:27:23Z"
+  "ledger_commit_at": "2026-08-29T11:12:28Z",
+  "ledger_committed_at": "2026-08-29T11:12:28Z"
 }
