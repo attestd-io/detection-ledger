@@ -1,0 +1,37 @@
+{
+  "id": "testrelic-playwright-analytics-2026-08-29",
+  "display_name": "@testrelic/playwright-analytics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@testrelic/playwright-analytics",
+      "ecosystem": "npm",
+      "versions": [
+        "2.13.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15565",
+          "osv_published_at": "2026-08-29T03:00:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-29T03:23:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-29T03:23:43Z",
+  "osv_earliest_published_at": "2026-08-29T03:00:52Z",
+  "source_published_at": "2026-08-29T03:00:52Z",
+  "observed_at": "2026-08-29T03:23:43Z",
+  "ingested_at": "2026-08-29T03:23:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-29T03:23:48Z",
+  "ledger_committed_at": "2026-08-29T03:23:48Z"
+}
