@@ -341890,5 +341890,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-29T02:38:11Z",
     "ledger_committed_at": "2026-08-29T02:38:11Z"
+  },
+  {
+    "id": "es6-migrator-2026-08-29",
+    "display_name": "es6-migrator",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "es6-migrator",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15553",
+            "osv_published_at": "2026-08-29T02:13:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-29T02:37:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-29T02:37:38Z",
+    "osv_earliest_published_at": "2026-08-29T02:13:09Z",
+    "source_published_at": "2026-08-29T02:13:09Z",
+    "observed_at": "2026-08-29T02:37:38Z",
+    "ingested_at": "2026-08-29T02:37:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-29T02:38:20Z",
+    "ledger_committed_at": "2026-08-29T02:38:20Z"
   }
 ]
