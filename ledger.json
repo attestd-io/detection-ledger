@@ -341289,5 +341289,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-29T01:58:05Z",
     "ledger_committed_at": "2026-08-29T01:58:05Z"
+  },
+  {
+    "id": "mintel-taskbar-2026-08-29",
+    "display_name": "mintel-taskbar",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mintel-taskbar",
+        "ecosystem": "npm",
+        "versions": [
+          "45.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15514",
+            "osv_published_at": "2026-08-28T23:12:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-29T01:56:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-29T01:56:33Z",
+    "osv_earliest_published_at": "2026-08-28T23:12:41Z",
+    "source_published_at": "2026-08-28T23:12:41Z",
+    "observed_at": "2026-08-29T01:56:33Z",
+    "ingested_at": "2026-08-29T01:56:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-29T01:58:13Z",
+    "ledger_committed_at": "2026-08-29T01:58:13Z"
   }
 ]
