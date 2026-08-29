@@ -1,0 +1,37 @@
+{
+  "id": "katal-logger-2026-08-29",
+  "display_name": "katal-logger",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "katal-logger",
+      "ecosystem": "npm",
+      "versions": [
+        "45.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15513",
+          "osv_published_at": "2026-08-28T23:13:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-29T01:56:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-29T01:56:32Z",
+  "osv_earliest_published_at": "2026-08-28T23:13:52Z",
+  "source_published_at": "2026-08-28T23:13:52Z",
+  "observed_at": "2026-08-29T01:56:32Z",
+  "ingested_at": "2026-08-29T01:56:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-29T01:58:05Z",
+  "ledger_committed_at": "2026-08-29T01:58:05Z"
+}
