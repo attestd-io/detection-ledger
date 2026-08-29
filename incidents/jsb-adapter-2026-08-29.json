@@ -1,0 +1,37 @@
+{
+  "id": "jsb-adapter-2026-08-29",
+  "display_name": "jsb-adapter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jsb-adapter",
+      "ecosystem": "npm",
+      "versions": [
+        "45.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15512",
+          "osv_published_at": "2026-08-28T23:13:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-29T01:56:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-29T01:56:31Z",
+  "osv_earliest_published_at": "2026-08-28T23:13:14Z",
+  "source_published_at": "2026-08-28T23:13:14Z",
+  "observed_at": "2026-08-29T01:56:31Z",
+  "ingested_at": "2026-08-29T01:56:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-29T01:57:57Z",
+  "ledger_committed_at": "2026-08-29T01:57:57Z"
+}
