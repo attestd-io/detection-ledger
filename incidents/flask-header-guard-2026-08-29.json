@@ -1,0 +1,37 @@
+{
+  "id": "flask-header-guard-2026-08-29",
+  "display_name": "flask-header-guard",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "flask-header-guard",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15566",
+          "osv_published_at": "2026-08-29T11:29:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-29T11:48:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-29T11:48:08Z",
+  "osv_earliest_published_at": "2026-08-29T11:29:06Z",
+  "source_published_at": "2026-08-29T11:29:06Z",
+  "observed_at": "2026-08-29T11:48:08Z",
+  "ingested_at": "2026-08-29T11:48:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-29T11:48:12Z",
+  "ledger_committed_at": "2026-08-29T11:48:12Z"
+}
