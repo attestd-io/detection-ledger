@@ -1,0 +1,37 @@
+{
+  "id": "grafeno-billing-2026-08-29",
+  "display_name": "grafeno-billing",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "grafeno-billing",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15571",
+          "osv_published_at": "2026-08-29T23:10:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-29T23:30:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-29T23:30:33Z",
+  "osv_earliest_published_at": "2026-08-29T23:10:56Z",
+  "source_published_at": "2026-08-29T23:10:56Z",
+  "observed_at": "2026-08-29T23:30:33Z",
+  "ingested_at": "2026-08-29T23:30:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-29T23:30:36Z",
+  "ledger_committed_at": "2026-08-29T23:30:36Z"
+}
