@@ -1,0 +1,38 @@
+{
+  "id": "h2-codex-2026-08-30",
+  "display_name": "h2-codex",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "h2-codex",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0",
+        "2.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15583",
+          "osv_published_at": "2026-08-30T16:35:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-30T17:34:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-30T17:34:39Z",
+  "osv_earliest_published_at": "2026-08-30T16:35:22Z",
+  "source_published_at": "2026-08-30T16:35:22Z",
+  "observed_at": "2026-08-30T17:34:39Z",
+  "ingested_at": "2026-08-30T17:34:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-30T17:35:07Z",
+  "ledger_committed_at": "2026-08-30T17:35:07Z"
+}
