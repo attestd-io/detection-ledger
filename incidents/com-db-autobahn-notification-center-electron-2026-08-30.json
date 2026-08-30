@@ -1,0 +1,37 @@
+{
+  "id": "com-db-autobahn-notification-center-electron-2026-08-30",
+  "display_name": "com.db.autobahn.notification-center-electron",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "com.db.autobahn.notification-center-electron",
+      "ecosystem": "npm",
+      "versions": [
+        "88.88.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15590",
+          "osv_published_at": "2026-08-30T02:04:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-30T23:25:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-30T23:25:12Z",
+  "osv_earliest_published_at": "2026-08-30T02:04:57Z",
+  "source_published_at": "2026-08-30T02:04:57Z",
+  "observed_at": "2026-08-30T23:25:12Z",
+  "ingested_at": "2026-08-30T23:25:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-30T23:25:22Z",
+  "ledger_committed_at": "2026-08-30T23:25:22Z"
+}
