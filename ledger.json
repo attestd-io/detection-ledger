@@ -343260,5 +343260,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-30T22:24:20Z",
     "ledger_committed_at": "2026-08-30T22:24:20Z"
+  },
+  {
+    "id": "autobahn-electron-probe-2026-08-30",
+    "display_name": "autobahn-electron-probe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "autobahn-electron-probe",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15589",
+            "osv_published_at": "2026-08-30T01:25:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-30T23:25:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-30T23:25:12Z",
+    "osv_earliest_published_at": "2026-08-30T01:25:47Z",
+    "source_published_at": "2026-08-30T01:25:47Z",
+    "observed_at": "2026-08-30T23:25:12Z",
+    "ingested_at": "2026-08-30T23:25:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-30T23:25:14Z",
+    "ledger_committed_at": "2026-08-30T23:25:14Z"
   }
 ]
