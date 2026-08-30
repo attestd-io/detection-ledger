@@ -343186,5 +343186,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-30T17:35:30Z",
     "ledger_committed_at": "2026-08-30T17:35:30Z"
+  },
+  {
+    "id": "real-browser-plus-2026-08-30",
+    "display_name": "real-browser-plus",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "real-browser-plus",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15587",
+            "osv_published_at": "2026-08-30T16:35:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-30T17:34:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-30T17:34:44Z",
+    "osv_earliest_published_at": "2026-08-30T16:35:22Z",
+    "source_published_at": "2026-08-30T16:35:22Z",
+    "observed_at": "2026-08-30T17:34:44Z",
+    "ingested_at": "2026-08-30T17:34:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-30T17:35:38Z",
+    "ledger_committed_at": "2026-08-30T17:35:38Z"
   }
 ]
