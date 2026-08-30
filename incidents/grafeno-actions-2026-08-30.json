@@ -1,0 +1,37 @@
+{
+  "id": "grafeno-actions-2026-08-30",
+  "display_name": "grafeno-actions",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "grafeno-actions",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15596",
+          "osv_published_at": "2026-08-28T22:20:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-30T23:25:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-30T23:25:18Z",
+  "osv_earliest_published_at": "2026-08-28T22:20:34Z",
+  "source_published_at": "2026-08-28T22:20:34Z",
+  "observed_at": "2026-08-30T23:25:18Z",
+  "ingested_at": "2026-08-30T23:25:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-30T23:26:08Z",
+  "ledger_committed_at": "2026-08-30T23:26:08Z"
+}
