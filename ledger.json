@@ -345210,5 +345210,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-31T18:34:37Z",
     "ledger_committed_at": "2026-08-31T18:34:37Z"
+  },
+  {
+    "id": "tailwind-modernanimation-2026-08-31",
+    "display_name": "tailwind-modernanimation",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tailwind-modernanimation",
+        "ecosystem": "npm",
+        "versions": [
+          "2.3.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15635",
+            "osv_published_at": "2026-08-31T18:01:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-31T18:32:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-31T18:32:47Z",
+    "osv_earliest_published_at": "2026-08-31T18:01:37Z",
+    "source_published_at": "2026-08-31T18:01:37Z",
+    "observed_at": "2026-08-31T18:32:47Z",
+    "ingested_at": "2026-08-31T18:32:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-31T18:34:46Z",
+    "ledger_committed_at": "2026-08-31T18:34:46Z"
   }
 ]
