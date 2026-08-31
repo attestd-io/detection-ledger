@@ -343891,5 +343891,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-08-31T05:31:33Z",
     "ledger_committed_at": "2026-08-31T05:31:33Z"
+  },
+  {
+    "id": "worrisome-reutil-2026-08-31",
+    "display_name": "@worrisome/reutil",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@worrisome/reutil",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15604",
+            "osv_published_at": "2026-08-26T14:55:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-08-31T07:18:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-08-31T07:18:32Z",
+    "osv_earliest_published_at": "2026-08-26T14:55:09Z",
+    "source_published_at": "2026-08-26T14:55:09Z",
+    "observed_at": "2026-08-31T07:18:32Z",
+    "ingested_at": "2026-08-31T07:18:32Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-08-31T07:18:35Z",
+    "ledger_committed_at": "2026-08-31T07:18:35Z"
   }
 ]
