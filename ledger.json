@@ -233175,14 +233175,19 @@
         "versions": [
           "0.0.4"
         ],
-        "osv_entries": []
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2025-191197",
+            "osv_published_at": "2025-11-25T00:16:49Z"
+          }
+        ]
       }
     ],
     "malware_type": "malware",
     "attestd_detected_at": "2026-08-09T04:21:24Z",
     "flagged_at": null,
     "confirmed_at": "2026-08-09T04:21:24Z",
-    "osv_earliest_published_at": null,
+    "osv_earliest_published_at": "2025-11-25T00:16:49Z",
     "source_published_at": null,
     "observed_at": "2026-08-09T04:21:24Z",
     "ingested_at": "2026-08-09T04:21:24Z",
@@ -233192,8 +233197,8 @@
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "https://registry.npmjs.org/%40browserbasehq%2Fsdk-functions",
-    "ledger_commit_at": "2026-08-09T04:42:18Z",
-    "ledger_committed_at": "2026-08-09T04:42:18Z"
+    "ledger_commit_at": "2026-08-31T16:50:14Z",
+    "ledger_committed_at": "2026-08-31T16:50:14Z"
   },
   {
     "id": "browserbasehq-stagehand-2026-08-09",
