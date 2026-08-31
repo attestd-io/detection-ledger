@@ -1,0 +1,44 @@
+{
+  "id": "kisama-js-2026-08-31",
+  "display_name": "kisama-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "kisama-js",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.8",
+        "0.1.9",
+        "0.2.0",
+        "0.2.4",
+        "0.3.0",
+        "0.3.5",
+        "0.4.6",
+        "0.4.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15645",
+          "osv_published_at": "2026-08-31T17:28:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-31T20:03:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-31T20:03:23Z",
+  "osv_earliest_published_at": "2026-08-31T17:28:09Z",
+  "source_published_at": "2026-08-31T17:28:09Z",
+  "observed_at": "2026-08-31T20:03:23Z",
+  "ingested_at": "2026-08-31T20:03:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-31T20:04:07Z",
+  "ledger_committed_at": "2026-08-31T20:04:07Z"
+}
