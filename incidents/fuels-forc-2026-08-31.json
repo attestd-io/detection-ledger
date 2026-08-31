@@ -1,0 +1,37 @@
+{
+  "id": "fuels-forc-2026-08-31",
+  "display_name": "fuels-forc",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fuels-forc",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15626",
+          "osv_published_at": "2026-08-31T18:02:35Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-08-31T18:31:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-08-31T18:31:34Z",
+  "osv_earliest_published_at": "2026-08-31T18:02:35Z",
+  "source_published_at": "2026-08-31T18:02:35Z",
+  "observed_at": "2026-08-31T18:31:34Z",
+  "ingested_at": "2026-08-31T18:31:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-08-31T18:32:19Z",
+  "ledger_committed_at": "2026-08-31T18:32:19Z"
+}
