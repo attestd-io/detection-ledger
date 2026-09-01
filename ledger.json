@@ -347680,40 +347680,53 @@
     "ledger_committed_at": "2026-09-01T14:04:57Z"
   },
   {
-    "id": "asdsafsadad-2026-09-01",
-    "display_name": "asdsafsadad",
+    "id": "curse-dependent-2026-09-01",
+    "display_name": "curse-dependent",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "asdsafsadad",
+        "package": "curse-dependent",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1"
+          "1.0.0",
+          "9.9.11",
+          "9.9.12",
+          "9.9.13",
+          "9.9.15",
+          "9.9.16",
+          "9.9.17",
+          "9.9.18",
+          "9.9.19",
+          "9.9.20",
+          "9.9.21",
+          "9.9.22",
+          "9.9.23",
+          "9.9.9"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-11241",
-            "osv_published_at": "2026-07-31T00:52:45Z"
+            "osv_id": "MAL-2026-11272",
+            "osv_published_at": "2026-07-30T22:35:06Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-09-01T14:05:39Z",
+    "attestd_detected_at": "2026-09-01T14:05:42Z",
     "flagged_at": null,
-    "confirmed_at": "2026-09-01T14:05:39Z",
-    "osv_earliest_published_at": "2026-07-31T00:52:45Z",
-    "source_published_at": "2026-07-31T00:52:45Z",
-    "observed_at": "2026-09-01T14:05:39Z",
-    "ingested_at": "2026-09-01T14:05:39Z",
+    "confirmed_at": "2026-09-01T14:05:42Z",
+    "osv_earliest_published_at": "2026-07-30T22:35:06Z",
+    "source_published_at": "2026-07-30T22:35:06Z",
+    "observed_at": "2026-09-01T14:05:42Z",
+    "ingested_at": "2026-09-01T14:05:42Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-09-01T14:05:44Z",
-    "ledger_committed_at": "2026-09-01T14:05:44Z"
+    "ledger_commit_at": "2026-09-01T14:05:52Z",
+    "ledger_committed_at": "2026-09-01T14:05:52Z"
   }
 ]
