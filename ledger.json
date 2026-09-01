@@ -347265,5 +347265,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-01T11:29:24Z",
     "ledger_committed_at": "2026-09-01T11:29:24Z"
+  },
+  {
+    "id": "grua-icons-2026-09-01",
+    "display_name": "@grua/icons",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@grua/icons",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11214",
+            "osv_published_at": "2026-07-30T21:48:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-01T11:30:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-01T11:30:37Z",
+    "osv_earliest_published_at": "2026-07-30T21:48:05Z",
+    "source_published_at": "2026-07-30T21:48:05Z",
+    "observed_at": "2026-09-01T11:30:37Z",
+    "ingested_at": "2026-09-01T11:30:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-01T11:30:40Z",
+    "ledger_committed_at": "2026-09-01T11:30:40Z"
   }
 ]
