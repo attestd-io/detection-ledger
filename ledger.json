@@ -348383,5 +348383,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-01T14:09:11Z",
     "ledger_committed_at": "2026-09-01T14:09:11Z"
+  },
+  {
+    "id": "yuva2210-okx-poc-rce-impact-2026-09-01",
+    "display_name": "@yuva2210/okx-poc-rce-impact",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@yuva2210/okx-poc-rce-impact",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15687",
+            "osv_published_at": "2026-08-24T16:34:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-01T14:08:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-01T14:08:02Z",
+    "osv_earliest_published_at": "2026-08-24T16:34:29Z",
+    "source_published_at": "2026-08-24T16:34:29Z",
+    "observed_at": "2026-09-01T14:08:02Z",
+    "ingested_at": "2026-09-01T14:08:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-01T14:09:22Z",
+    "ledger_committed_at": "2026-09-01T14:09:22Z"
   }
 ]
