@@ -347100,5 +347100,42 @@
     "advisory_url": "https://app.safedep.io/community/malysis/01KKPW1BJVS4VPHW9RBW7N996Y",
     "ledger_commit_at": "2026-09-01T11:27:10Z",
     "ledger_committed_at": "2026-09-01T11:27:10Z"
+  },
+  {
+    "id": "ethers-sdk-wallet-2026-09-01",
+    "display_name": "@ethers-sdk/wallet",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@ethers-sdk/wallet",
+        "ecosystem": "npm",
+        "versions": [
+          "5.8.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11211",
+            "osv_published_at": "2026-07-30T21:43:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-01T11:27:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-01T11:27:17Z",
+    "osv_earliest_published_at": "2026-07-30T21:43:33Z",
+    "source_published_at": "2026-07-30T21:43:33Z",
+    "observed_at": "2026-09-01T11:27:17Z",
+    "ingested_at": "2026-09-01T11:27:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-01T11:27:21Z",
+    "ledger_committed_at": "2026-09-01T11:27:21Z"
   }
 ]
