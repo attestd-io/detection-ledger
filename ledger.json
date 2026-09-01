@@ -348642,5 +348642,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-01T14:10:23Z",
     "ledger_committed_at": "2026-09-01T14:10:23Z"
+  },
+  {
+    "id": "argoncrypt-2026-09-01",
+    "display_name": "argoncrypt",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "argoncrypt",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-5506",
+            "osv_published_at": "2026-06-10T14:09:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-01T14:09:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-01T14:09:01Z",
+    "osv_earliest_published_at": "2026-06-10T14:09:55Z",
+    "source_published_at": "2026-06-10T14:09:55Z",
+    "observed_at": "2026-09-01T14:09:01Z",
+    "ingested_at": "2026-09-01T14:09:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-01T14:10:32Z",
+    "ledger_committed_at": "2026-09-01T14:10:32Z"
   }
 ]
