@@ -347678,5 +347678,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-01T14:04:57Z",
     "ledger_committed_at": "2026-09-01T14:04:57Z"
+  },
+  {
+    "id": "asdsafsadad-2026-09-01",
+    "display_name": "asdsafsadad",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "asdsafsadad",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-11241",
+            "osv_published_at": "2026-07-31T00:52:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-01T14:05:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-01T14:05:39Z",
+    "osv_earliest_published_at": "2026-07-31T00:52:45Z",
+    "source_published_at": "2026-07-31T00:52:45Z",
+    "observed_at": "2026-09-01T14:05:39Z",
+    "ingested_at": "2026-09-01T14:05:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-01T14:05:44Z",
+    "ledger_committed_at": "2026-09-01T14:05:44Z"
   }
 ]
