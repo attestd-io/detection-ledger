@@ -346686,5 +346686,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-01T03:46:24Z",
     "ledger_committed_at": "2026-09-01T03:46:24Z"
+  },
+  {
+    "id": "fuels-versions-2026-09-01",
+    "display_name": "fuels-versions",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fuels-versions",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15673",
+            "osv_published_at": "2026-08-31T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-01T05:45:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-01T05:45:56Z",
+    "osv_earliest_published_at": "2026-08-31T00:00:00Z",
+    "source_published_at": "2026-08-31T00:00:00Z",
+    "observed_at": "2026-09-01T05:45:56Z",
+    "ingested_at": "2026-09-01T05:45:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-01T05:45:59Z",
+    "ledger_committed_at": "2026-09-01T05:45:59Z"
   }
 ]
