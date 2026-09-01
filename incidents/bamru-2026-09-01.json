@@ -1,0 +1,38 @@
+{
+  "id": "bamru-2026-09-01",
+  "display_name": "bamru",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bamru",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "unpublished"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15674",
+          "osv_published_at": "2026-08-25T17:50:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-01T07:32:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-01T07:32:43Z",
+  "osv_earliest_published_at": "2026-08-25T17:50:18Z",
+  "source_published_at": "2026-08-25T17:50:18Z",
+  "observed_at": "2026-09-01T07:32:43Z",
+  "ingested_at": "2026-09-01T07:32:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-01T07:32:45Z",
+  "ledger_committed_at": "2026-09-01T07:32:45Z"
+}
