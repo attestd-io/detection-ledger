@@ -348716,5 +348716,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-01T14:10:41Z",
     "ledger_committed_at": "2026-09-01T14:10:41Z"
+  },
+  {
+    "id": "tallyboxlite-2026-09-01",
+    "display_name": "tallyboxlite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tallyboxlite",
+        "ecosystem": "pypi",
+        "versions": [
+          "1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15809",
+            "osv_published_at": "2026-09-01T14:53:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-01T15:40:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-01T15:40:11Z",
+    "osv_earliest_published_at": "2026-09-01T14:53:04Z",
+    "source_published_at": "2026-09-01T14:53:04Z",
+    "observed_at": "2026-09-01T15:40:11Z",
+    "ingested_at": "2026-09-01T15:40:11Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-01T15:40:15Z",
+    "ledger_committed_at": "2026-09-01T15:40:15Z"
   }
 ]
