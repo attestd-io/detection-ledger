@@ -1,0 +1,37 @@
+{
+  "id": "passsport1-2026-09-01",
+  "display_name": "passsport1",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "passsport1",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11344",
+          "osv_published_at": "2026-07-31T00:52:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-01T14:05:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-01T14:05:49Z",
+  "osv_earliest_published_at": "2026-07-31T00:52:45Z",
+  "source_published_at": "2026-07-31T00:52:45Z",
+  "observed_at": "2026-09-01T14:05:49Z",
+  "ingested_at": "2026-09-01T14:05:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-01T14:07:31Z",
+  "ledger_committed_at": "2026-09-01T14:07:31Z"
+}
