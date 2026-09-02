@@ -1,0 +1,38 @@
+{
+  "id": "cminhouse-api-gateway-nodejs-2026-09-02",
+  "display_name": "cminhouse-api-gateway-nodejs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cminhouse-api-gateway-nodejs",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.0",
+        "999.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15815",
+          "osv_published_at": "2026-09-02T03:56:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-02T04:39:20Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-02T04:39:20Z",
+  "osv_earliest_published_at": "2026-09-02T03:56:59Z",
+  "source_published_at": "2026-09-02T03:56:59Z",
+  "observed_at": "2026-09-02T04:39:20Z",
+  "ingested_at": "2026-09-02T04:39:20Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-02T04:39:37Z",
+  "ledger_committed_at": "2026-09-02T04:39:37Z"
+}
