@@ -1,0 +1,38 @@
+{
+  "id": "stellarshift-evm-address-kit-2026-09-02",
+  "display_name": "@stellarshift/evm-address-kit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@stellarshift/evm-address-kit",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15823",
+          "osv_published_at": "2026-09-02T22:06:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-02T22:27:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-02T22:27:35Z",
+  "osv_earliest_published_at": "2026-09-02T22:06:55Z",
+  "source_published_at": "2026-09-02T22:06:55Z",
+  "observed_at": "2026-09-02T22:27:35Z",
+  "ingested_at": "2026-09-02T22:27:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-02T22:27:52Z",
+  "ledger_committed_at": "2026-09-02T22:27:52Z"
+}
