@@ -348965,5 +348965,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-02T02:52:27Z",
     "ledger_committed_at": "2026-09-02T02:52:27Z"
+  },
+  {
+    "id": "bt2-api-gateway-node-js-2026-09-02",
+    "display_name": "bt2-api-gateway-node-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "bt2-api-gateway-node-js",
+        "ecosystem": "npm",
+        "versions": [
+          "999.0.0",
+          "999.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15813",
+            "osv_published_at": "2026-09-02T03:57:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-02T04:39:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-02T04:39:18Z",
+    "osv_earliest_published_at": "2026-09-02T03:57:07Z",
+    "source_published_at": "2026-09-02T03:57:07Z",
+    "observed_at": "2026-09-02T04:39:18Z",
+    "ingested_at": "2026-09-02T04:39:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-02T04:39:20Z",
+    "ledger_committed_at": "2026-09-02T04:39:20Z"
   }
 ]
