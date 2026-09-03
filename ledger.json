@@ -349770,5 +349770,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-03T05:50:44Z",
     "ledger_committed_at": "2026-09-03T05:50:44Z"
+  },
+  {
+    "id": "viertechjs-baileys-2026-09-03",
+    "display_name": "@viertechjs/baileys",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@viertechjs/baileys",
+        "ecosystem": "npm",
+        "versions": [
+          "6.7.22",
+          "7.0.0-rc14"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15831",
+            "osv_published_at": "2026-09-01T21:36:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-03T05:50:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-03T05:50:42Z",
+    "osv_earliest_published_at": "2026-09-01T21:36:46Z",
+    "source_published_at": "2026-09-01T21:36:46Z",
+    "observed_at": "2026-09-03T05:50:42Z",
+    "ingested_at": "2026-09-03T05:50:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-03T05:50:52Z",
+    "ledger_committed_at": "2026-09-03T05:50:52Z"
   }
 ]
