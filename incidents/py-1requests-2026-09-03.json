@@ -1,0 +1,37 @@
+{
+  "id": "py-1requests-2026-09-03",
+  "display_name": "py-1requests",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "py-1requests",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15861",
+          "osv_published_at": "2026-09-03T17:02:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-03T17:21:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-03T17:21:34Z",
+  "osv_earliest_published_at": "2026-09-03T17:02:02Z",
+  "source_published_at": "2026-09-03T17:02:02Z",
+  "observed_at": "2026-09-03T17:21:34Z",
+  "ingested_at": "2026-09-03T17:21:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-03T17:21:54Z",
+  "ledger_committed_at": "2026-09-03T17:21:54Z"
+}
