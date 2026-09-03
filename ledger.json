@@ -349845,5 +349845,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-03T05:51:14Z",
     "ledger_committed_at": "2026-09-03T05:51:14Z"
+  },
+  {
+    "id": "daisypick-2026-09-03",
+    "display_name": "daisypick",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "daisypick",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.1.0",
+          "1.2.0",
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15835",
+            "osv_published_at": "2026-09-02T11:18:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-03T05:50:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-03T05:50:52Z",
+    "osv_earliest_published_at": "2026-09-02T11:18:04Z",
+    "source_published_at": "2026-09-02T11:18:04Z",
+    "observed_at": "2026-09-03T05:50:52Z",
+    "ingested_at": "2026-09-03T05:50:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-03T05:51:24Z",
+    "ledger_committed_at": "2026-09-03T05:51:24Z"
   }
 ]
