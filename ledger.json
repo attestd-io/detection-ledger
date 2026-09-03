@@ -350037,40 +350037,41 @@
     "ledger_committed_at": "2026-09-03T05:52:04Z"
   },
   {
-    "id": "google-cloud-mono-repo-helper-2026-09-03",
-    "display_name": "google-cloud-mono-repo-helper",
+    "id": "google-internal-cloud-audit-security-check-2026-09-03",
+    "display_name": "google-internal-cloud-audit-security-check",
     "campaign": null,
     "detection_source": "osv",
     "packages": [
       {
-        "package": "google-cloud-mono-repo-helper",
+        "package": "google-internal-cloud-audit-security-check",
         "ecosystem": "npm",
         "versions": [
-          "1.0.1777211772"
+          "99.9.1777210552",
+          "99.9.1777210553"
         ],
         "osv_entries": [
           {
-            "osv_id": "MAL-2026-15841",
+            "osv_id": "MAL-2026-15842",
             "osv_published_at": "2026-09-03T02:46:19Z"
           }
         ]
       }
     ],
     "malware_type": "malware",
-    "attestd_detected_at": "2026-09-03T05:51:10Z",
+    "attestd_detected_at": "2026-09-03T05:51:12Z",
     "flagged_at": null,
-    "confirmed_at": "2026-09-03T05:51:10Z",
+    "confirmed_at": "2026-09-03T05:51:12Z",
     "osv_earliest_published_at": "2026-09-03T02:46:19Z",
     "source_published_at": "2026-09-03T02:46:19Z",
-    "observed_at": "2026-09-03T05:51:10Z",
-    "ingested_at": "2026-09-03T05:51:10Z",
+    "observed_at": "2026-09-03T05:51:12Z",
+    "ingested_at": "2026-09-03T05:51:12Z",
     "first_served_at": null,
     "hours_ahead_of_osv": null,
     "hours_ahead_of_press": null,
     "press_coverage_at": null,
     "press_urls": [],
     "advisory_url": "",
-    "ledger_commit_at": "2026-09-03T05:52:12Z",
-    "ledger_committed_at": "2026-09-03T05:52:12Z"
+    "ledger_commit_at": "2026-09-03T05:52:21Z",
+    "ledger_committed_at": "2026-09-03T05:52:21Z"
   }
 ]
