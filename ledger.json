@@ -350793,5 +350793,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-03T16:50:20Z",
     "ledger_committed_at": "2026-09-03T16:50:20Z"
+  },
+  {
+    "id": "0requests-2026-09-03",
+    "display_name": "0requests",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "0requests",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15859",
+            "osv_published_at": "2026-09-03T17:00:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-03T17:21:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-03T17:21:32Z",
+    "osv_earliest_published_at": "2026-09-03T17:00:47Z",
+    "source_published_at": "2026-09-03T17:00:47Z",
+    "observed_at": "2026-09-03T17:21:32Z",
+    "ingested_at": "2026-09-03T17:21:32Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-03T17:21:35Z",
+    "ledger_committed_at": "2026-09-03T17:21:35Z"
   }
 ]
