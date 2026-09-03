@@ -1,0 +1,42 @@
+{
+  "id": "viertechjs-wb-2026-09-03",
+  "display_name": "@viertechjs/wb",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@viertechjs/wb",
+      "ecosystem": "npm",
+      "versions": [
+        "6.0.0-vier.3",
+        "6.0.0-vier.4",
+        "6.0.0-vier.5",
+        "6.0.0-vier.6",
+        "6.0.0-vier.7",
+        "6.0.0-vier.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15832",
+          "osv_published_at": "2026-09-01T21:36:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-03T05:50:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-03T05:50:44Z",
+  "osv_earliest_published_at": "2026-09-01T21:36:46Z",
+  "source_published_at": "2026-09-01T21:36:46Z",
+  "observed_at": "2026-09-03T05:50:44Z",
+  "ingested_at": "2026-09-03T05:50:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-03T05:50:59Z",
+  "ledger_committed_at": "2026-09-03T05:50:59Z"
+}
