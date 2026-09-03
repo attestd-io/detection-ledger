@@ -1,0 +1,37 @@
+{
+  "id": "apple-cktool-internal-api-v9-2026-09-03",
+  "display_name": "apple-cktool-internal-api-v9",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "apple-cktool-internal-api-v9",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15833",
+          "osv_published_at": "2026-09-03T02:46:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-03T05:50:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-03T05:50:49Z",
+  "osv_earliest_published_at": "2026-09-03T02:46:19Z",
+  "source_published_at": "2026-09-03T02:46:19Z",
+  "observed_at": "2026-09-03T05:50:49Z",
+  "ingested_at": "2026-09-03T05:50:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-03T05:51:14Z",
+  "ledger_committed_at": "2026-09-03T05:51:14Z"
+}
