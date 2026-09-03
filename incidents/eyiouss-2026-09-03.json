@@ -1,0 +1,39 @@
+{
+  "id": "eyiouss-2026-09-03",
+  "display_name": "eyiouss",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eyiouss",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.21",
+        "3.0.22",
+        "4.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15836",
+          "osv_published_at": "2026-09-02T06:01:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-03T05:50:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-03T05:50:55Z",
+  "osv_earliest_published_at": "2026-09-02T06:01:15Z",
+  "source_published_at": "2026-09-02T06:01:15Z",
+  "observed_at": "2026-09-03T05:50:55Z",
+  "ingested_at": "2026-09-03T05:50:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-03T05:51:32Z",
+  "ledger_committed_at": "2026-09-03T05:51:32Z"
+}
