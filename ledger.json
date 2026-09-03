@@ -350608,5 +350608,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-03T16:35:35Z",
     "ledger_committed_at": "2026-09-03T16:35:35Z"
+  },
+  {
+    "id": "quantixfinance-token-2026-09-03",
+    "display_name": "@quantixfinance/token",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@quantixfinance/token",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15854",
+            "osv_published_at": "2026-09-03T15:51:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-03T16:34:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-03T16:34:56Z",
+    "osv_earliest_published_at": "2026-09-03T15:51:24Z",
+    "source_published_at": "2026-09-03T15:51:24Z",
+    "observed_at": "2026-09-03T16:34:56Z",
+    "ingested_at": "2026-09-03T16:34:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-03T16:35:43Z",
+    "ledger_committed_at": "2026-09-03T16:35:43Z"
   }
 ]
