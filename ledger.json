@@ -353386,5 +353386,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-04T06:58:32Z",
     "ledger_committed_at": "2026-09-04T06:58:32Z"
+  },
+  {
+    "id": "real-router-telemetry-2026-09-04",
+    "display_name": "real-router-telemetry",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "real-router-telemetry",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15924",
+            "osv_published_at": "2026-09-04T06:34:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-04T06:57:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-04T06:57:50Z",
+    "osv_earliest_published_at": "2026-09-04T06:34:52Z",
+    "source_published_at": "2026-09-04T06:34:52Z",
+    "observed_at": "2026-09-04T06:57:50Z",
+    "ingested_at": "2026-09-04T06:57:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-04T06:58:41Z",
+    "ledger_committed_at": "2026-09-04T06:58:41Z"
   }
 ]
