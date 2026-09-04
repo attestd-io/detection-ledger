@@ -1,0 +1,38 @@
+{
+  "id": "houdus-2026-09-04",
+  "display_name": "houdus",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "houdus",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15933",
+          "osv_published_at": "2026-09-04T22:49:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-04T23:32:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-04T23:32:16Z",
+  "osv_earliest_published_at": "2026-09-04T22:49:16Z",
+  "source_published_at": "2026-09-04T22:49:16Z",
+  "observed_at": "2026-09-04T23:32:16Z",
+  "ingested_at": "2026-09-04T23:32:16Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-04T23:32:19Z",
+  "ledger_committed_at": "2026-09-04T23:32:19Z"
+}
