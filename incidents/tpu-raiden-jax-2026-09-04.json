@@ -1,0 +1,37 @@
+{
+  "id": "tpu-raiden-jax-2026-09-04",
+  "display_name": "tpu-raiden-jax",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tpu-raiden-jax",
+      "ecosystem": "pypi",
+      "versions": [
+        "99.99.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15930",
+          "osv_published_at": "2026-09-04T15:00:35Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-04T15:52:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-04T15:52:29Z",
+  "osv_earliest_published_at": "2026-09-04T15:00:35Z",
+  "source_published_at": "2026-09-04T15:00:35Z",
+  "observed_at": "2026-09-04T15:52:29Z",
+  "ingested_at": "2026-09-04T15:52:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-04T15:52:50Z",
+  "ledger_committed_at": "2026-09-04T15:52:50Z"
+}
