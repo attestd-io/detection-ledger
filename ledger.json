@@ -353200,5 +353200,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-04T06:41:59Z",
     "ledger_committed_at": "2026-09-04T06:41:59Z"
+  },
+  {
+    "id": "box-sign-client-poc-2026-09-04",
+    "display_name": "box-sign-client-poc",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "box-sign-client-poc",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15921",
+            "osv_published_at": "2026-09-04T06:38:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-04T06:57:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-04T06:57:43Z",
+    "osv_earliest_published_at": "2026-09-04T06:38:27Z",
+    "source_published_at": "2026-09-04T06:38:27Z",
+    "observed_at": "2026-09-04T06:57:43Z",
+    "ingested_at": "2026-09-04T06:57:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-04T06:57:46Z",
+    "ledger_committed_at": "2026-09-04T06:57:46Z"
   }
 ]
