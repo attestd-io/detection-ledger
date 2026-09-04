@@ -1,0 +1,37 @@
+{
+  "id": "bx-ui-framework-microfrontend-2026-09-04",
+  "display_name": "@bx-ui-framework/microfrontend",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@bx-ui-framework/microfrontend",
+      "ecosystem": "npm",
+      "versions": [
+        "15.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15868",
+          "osv_published_at": "2026-09-04T01:12:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-04T01:32:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-04T01:32:41Z",
+  "osv_earliest_published_at": "2026-09-04T01:12:00Z",
+  "source_published_at": "2026-09-04T01:12:00Z",
+  "observed_at": "2026-09-04T01:32:41Z",
+  "ingested_at": "2026-09-04T01:32:41Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-04T01:32:46Z",
+  "ledger_committed_at": "2026-09-04T01:32:46Z"
+}
