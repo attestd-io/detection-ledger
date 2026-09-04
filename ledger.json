@@ -351513,5 +351513,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-04T04:06:49Z",
     "ledger_committed_at": "2026-09-04T04:06:49Z"
+  },
+  {
+    "id": "cbc97b7a-2026-09-04",
+    "display_name": "cbc97b7a",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cbc97b7a",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1787999566.0",
+          "1.1787999998.0",
+          "1.1788000497.0",
+          "1.1788006723.0",
+          "1.1788016922.0",
+          "1.1788423886.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15878",
+            "osv_published_at": "2026-09-03T08:59:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-04T04:06:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-04T04:06:14Z",
+    "osv_earliest_published_at": "2026-09-03T08:59:06Z",
+    "source_published_at": "2026-09-03T08:59:06Z",
+    "observed_at": "2026-09-04T04:06:14Z",
+    "ingested_at": "2026-09-04T04:06:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-04T04:06:57Z",
+    "ledger_committed_at": "2026-09-04T04:06:57Z"
   }
 ]
