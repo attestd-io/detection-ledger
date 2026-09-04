@@ -351017,5 +351017,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-03T19:54:01Z",
     "ledger_committed_at": "2026-09-03T19:54:01Z"
+  },
+  {
+    "id": "avigilon-node-webrtc-2026-09-04",
+    "display_name": "@avigilon/node-webrtc",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@avigilon/node-webrtc",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.4",
+          "2.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15865",
+            "osv_published_at": "2026-09-03T23:59:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-04T00:59:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-04T00:59:58Z",
+    "osv_earliest_published_at": "2026-09-03T23:59:14Z",
+    "source_published_at": "2026-09-03T23:59:14Z",
+    "observed_at": "2026-09-04T00:59:58Z",
+    "ingested_at": "2026-09-04T00:59:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-04T01:00:00Z",
+    "ledger_committed_at": "2026-09-04T01:00:00Z"
   }
 ]
