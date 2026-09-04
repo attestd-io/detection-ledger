@@ -1,0 +1,39 @@
+{
+  "id": "mcp-consultasdeveiculos-client-2026-09-04",
+  "display_name": "mcp-consultasdeveiculos-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mcp-consultasdeveiculos-client",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.2",
+        "0.1.0",
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15869",
+          "osv_published_at": "2026-09-04T01:32:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-04T02:03:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-04T02:03:52Z",
+  "osv_earliest_published_at": "2026-09-04T01:32:21Z",
+  "source_published_at": "2026-09-04T01:32:21Z",
+  "observed_at": "2026-09-04T02:03:52Z",
+  "ingested_at": "2026-09-04T02:03:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-04T02:03:54Z",
+  "ledger_committed_at": "2026-09-04T02:03:54Z"
+}
