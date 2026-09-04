@@ -352635,5 +352635,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-04T04:38:50Z",
     "ledger_committed_at": "2026-09-04T04:38:50Z"
+  },
+  {
+    "id": "tiny-folder-tree-2026-09-04",
+    "display_name": "tiny-folder-tree",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tiny-folder-tree",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15907",
+            "osv_published_at": "2026-09-04T03:45:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-04T04:37:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-04T04:37:33Z",
+    "osv_earliest_published_at": "2026-09-04T03:45:10Z",
+    "source_published_at": "2026-09-04T03:45:10Z",
+    "observed_at": "2026-09-04T04:37:33Z",
+    "ingested_at": "2026-09-04T04:37:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-04T04:38:59Z",
+    "ledger_committed_at": "2026-09-04T04:38:59Z"
   }
 ]
