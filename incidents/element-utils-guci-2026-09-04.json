@@ -1,0 +1,37 @@
+{
+  "id": "element-utils-guci-2026-09-04",
+  "display_name": "element-utils-guci",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "element-utils-guci",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15882",
+          "osv_published_at": "2026-09-03T08:38:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-04T04:06:20Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-04T04:06:20Z",
+  "osv_earliest_published_at": "2026-09-03T08:38:43Z",
+  "source_published_at": "2026-09-03T08:38:43Z",
+  "observed_at": "2026-09-04T04:06:20Z",
+  "ingested_at": "2026-09-04T04:06:20Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-04T04:07:29Z",
+  "ledger_committed_at": "2026-09-04T04:07:29Z"
+}
