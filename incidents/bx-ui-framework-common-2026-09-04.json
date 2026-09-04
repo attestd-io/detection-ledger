@@ -1,0 +1,38 @@
+{
+  "id": "bx-ui-framework-common-2026-09-04",
+  "display_name": "@bx-ui-framework/common",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@bx-ui-framework/common",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.0",
+        "15.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15867",
+          "osv_published_at": "2026-09-04T01:11:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-04T01:32:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-04T01:32:22Z",
+  "osv_earliest_published_at": "2026-09-04T01:11:52Z",
+  "source_published_at": "2026-09-04T01:11:52Z",
+  "observed_at": "2026-09-04T01:32:22Z",
+  "ingested_at": "2026-09-04T01:32:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-04T01:32:26Z",
+  "ledger_committed_at": "2026-09-04T01:32:26Z"
+}
