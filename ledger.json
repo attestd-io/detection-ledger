@@ -351402,5 +351402,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-04T04:06:26Z",
     "ledger_committed_at": "2026-09-04T04:06:26Z"
+  },
+  {
+    "id": "btree-lru-cache-2026-09-04",
+    "display_name": "btree-lru-cache",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "btree-lru-cache",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15875",
+            "osv_published_at": "2026-09-03T10:14:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-04T04:06:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-04T04:06:10Z",
+    "osv_earliest_published_at": "2026-09-03T10:14:06Z",
+    "source_published_at": "2026-09-03T10:14:06Z",
+    "observed_at": "2026-09-04T04:06:10Z",
+    "ingested_at": "2026-09-04T04:06:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-04T04:06:34Z",
+    "ledger_committed_at": "2026-09-04T04:06:34Z"
   }
 ]
