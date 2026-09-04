@@ -1,0 +1,37 @@
+{
+  "id": "dsh-waste-market-2026-09-04",
+  "display_name": "dsh-waste-market",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dsh-waste-market",
+      "ecosystem": "npm",
+      "versions": [
+        "0.6.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-15879",
+          "osv_published_at": "2026-09-03T16:53:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-04T04:06:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-04T04:06:15Z",
+  "osv_earliest_published_at": "2026-09-03T16:53:38Z",
+  "source_published_at": "2026-09-03T16:53:38Z",
+  "observed_at": "2026-09-04T04:06:15Z",
+  "ingested_at": "2026-09-04T04:06:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-04T04:07:06Z",
+  "ledger_committed_at": "2026-09-04T04:07:06Z"
+}
