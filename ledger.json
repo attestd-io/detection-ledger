@@ -353760,5 +353760,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-04T23:32:19Z",
     "ledger_committed_at": "2026-09-04T23:32:19Z"
+  },
+  {
+    "id": "dbt-sa-cli-2026-09-05",
+    "display_name": "dbt-sa-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dbt-sa-cli",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15934",
+            "osv_published_at": "2026-09-05T05:59:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-05T06:39:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-05T06:39:35Z",
+    "osv_earliest_published_at": "2026-09-05T05:59:33Z",
+    "source_published_at": "2026-09-05T05:59:33Z",
+    "observed_at": "2026-09-05T06:39:35Z",
+    "ingested_at": "2026-09-05T06:39:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-05T06:39:37Z",
+    "ledger_committed_at": "2026-09-05T06:39:37Z"
   }
 ]
