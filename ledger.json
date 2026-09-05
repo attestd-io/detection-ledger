@@ -353834,5 +353834,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-05T08:26:13Z",
     "ledger_committed_at": "2026-09-05T08:26:13Z"
+  },
+  {
+    "id": "trongridew-2026-09-05",
+    "display_name": "trongridew",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "trongridew",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15936",
+            "osv_published_at": "2026-09-05T20:26:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-05T20:53:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-05T20:53:49Z",
+    "osv_earliest_published_at": "2026-09-05T20:26:18Z",
+    "source_published_at": "2026-09-05T20:26:18Z",
+    "observed_at": "2026-09-05T20:53:49Z",
+    "ingested_at": "2026-09-05T20:53:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-05T20:53:52Z",
+    "ledger_committed_at": "2026-09-05T20:53:52Z"
   }
 ]
