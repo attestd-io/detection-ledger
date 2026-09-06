@@ -1,0 +1,32 @@
+{
+  "id": "executable-stories-init-2026-09-06",
+  "display_name": "executable-stories-init",
+  "campaign": null,
+  "detection_source": "npm_deprecation",
+  "packages": [
+    {
+      "package": "executable-stories-init",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.2"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "deprecated_release",
+  "attestd_detected_at": "2026-09-06T22:21:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-06T22:21:05Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-06T22:21:05Z",
+  "ingested_at": "2026-09-06T22:21:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/executable-stories-init",
+  "ledger_commit_at": "2026-09-06T22:21:09Z",
+  "ledger_committed_at": "2026-09-06T22:21:09Z"
+}
