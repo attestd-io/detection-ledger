@@ -353871,5 +353871,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-05T20:53:52Z",
     "ledger_committed_at": "2026-09-05T20:53:52Z"
+  },
+  {
+    "id": "minecraftmodes-2026-09-06",
+    "display_name": "minecraftmodes",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "minecraftmodes",
+        "ecosystem": "pypi",
+        "versions": [
+          "0.3.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15937",
+            "osv_published_at": "2026-09-06T10:37:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-06T10:53:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-06T10:53:17Z",
+    "osv_earliest_published_at": "2026-09-06T10:37:59Z",
+    "source_published_at": "2026-09-06T10:37:59Z",
+    "observed_at": "2026-09-06T10:53:17Z",
+    "ingested_at": "2026-09-06T10:53:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-06T10:53:21Z",
+    "ledger_committed_at": "2026-09-06T10:53:21Z"
   }
 ]
