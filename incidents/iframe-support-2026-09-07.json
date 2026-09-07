@@ -1,0 +1,55 @@
+{
+  "id": "iframe-support-2026-09-07",
+  "display_name": "iframe-support",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "iframe-support",
+      "ecosystem": "npm",
+      "versions": [
+        "1.791.305",
+        "10.988.504",
+        "2.777.304",
+        "20.859.426",
+        "3.918.634",
+        "30.888.648",
+        "4.938.587",
+        "40.840.654",
+        "5.718.415",
+        "50.890.552",
+        "6.925.357",
+        "60.891.305",
+        "7.781.431",
+        "70.780.364",
+        "8.762.632",
+        "80.929.316",
+        "9.970.580",
+        "90.846.377",
+        "9998.755.301"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3789",
+          "osv_published_at": "2022-06-20T20:19:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:45:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:45:32Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:04Z",
+  "source_published_at": "2022-06-20T20:19:04Z",
+  "observed_at": "2026-09-07T05:45:32Z",
+  "ingested_at": "2026-09-07T05:45:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T08:57:09Z",
+  "ledger_committed_at": "2026-09-07T08:57:09Z"
+}
