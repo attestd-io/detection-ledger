@@ -1,0 +1,38 @@
+{
+  "id": "sketch-pexels-2026-09-07",
+  "display_name": "sketch-pexels",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sketch-pexels",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0",
+        "2.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6148",
+          "osv_published_at": "2022-07-08T12:06:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:09:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:09:55Z",
+  "osv_earliest_published_at": "2022-07-08T12:06:11Z",
+  "source_published_at": "2022-07-08T12:06:11Z",
+  "observed_at": "2026-09-07T09:09:55Z",
+  "ingested_at": "2026-09-07T09:09:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:26:54Z",
+  "ledger_committed_at": "2026-09-07T16:26:54Z"
+}
