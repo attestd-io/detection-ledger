@@ -1,0 +1,37 @@
+{
+  "id": "flexbiz-server-2026-09-07",
+  "display_name": "flexbiz-server",
+  "campaign": "ucs-private",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "flexbiz-server",
+      "ecosystem": "npm",
+      "versions": [
+        "12.7.0",
+        "12.7.10",
+        "12.7.9",
+        "12.8.0",
+        "12.8.1",
+        "12.8.4"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:44:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:44:26Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T10:44:26Z",
+  "ingested_at": "2026-09-07T10:44:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/flexbiz-server",
+  "ledger_commit_at": "2026-09-07T18:44:30Z",
+  "ledger_committed_at": "2026-09-07T18:44:30Z"
+}
