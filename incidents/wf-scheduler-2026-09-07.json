@@ -1,0 +1,38 @@
+{
+  "id": "wf-scheduler-2026-09-07",
+  "display_name": "wf_scheduler",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wf_scheduler",
+      "ecosystem": "npm",
+      "versions": [
+        "96.10.10",
+        "96.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7126",
+          "osv_published_at": "2022-06-20T20:09:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:07:20Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:07:20Z",
+  "osv_earliest_published_at": "2022-06-20T20:09:21Z",
+  "source_published_at": "2022-06-20T20:09:21Z",
+  "observed_at": "2026-09-07T11:07:20Z",
+  "ingested_at": "2026-09-07T11:07:20Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:32:59Z",
+  "ledger_committed_at": "2026-09-07T19:32:59Z"
+}
