@@ -683784,5 +683784,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:01:08Z",
     "ledger_committed_at": "2026-09-07T23:01:08Z"
+  },
+  {
+    "id": "multivariate-experiments-2026-09-07",
+    "display_name": "multivariate-experiments",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "multivariate-experiments",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.9999.9998",
+          "9999.9999.9999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-609",
+            "osv_published_at": "2023-06-06T06:45:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:01:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:01:04Z",
+    "osv_earliest_published_at": "2023-06-06T06:45:23Z",
+    "source_published_at": "2023-06-06T06:45:23Z",
+    "observed_at": "2026-09-07T13:01:04Z",
+    "ingested_at": "2026-09-07T13:01:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:01:18Z",
+    "ledger_committed_at": "2026-09-07T23:01:18Z"
   }
 ]
