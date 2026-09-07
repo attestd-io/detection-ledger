@@ -447334,5 +447334,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T09:07:48Z",
     "ledger_committed_at": "2026-09-07T09:07:48Z"
+  },
+  {
+    "id": "inherigss-2026-09-07",
+    "display_name": "inherigss",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "inherigss",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3842",
+            "osv_published_at": "2022-08-19T03:55:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:49:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:49:51Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:16Z",
+    "source_published_at": "2022-08-19T03:55:16Z",
+    "observed_at": "2026-09-07T05:49:51Z",
+    "ingested_at": "2026-09-07T05:49:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T09:07:57Z",
+    "ledger_committed_at": "2026-09-07T09:07:57Z"
   }
 ]
