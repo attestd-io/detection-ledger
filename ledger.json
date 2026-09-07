@@ -538697,5 +538697,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:47:04Z",
     "ledger_committed_at": "2026-09-07T14:47:04Z"
+  },
+  {
+    "id": "rcmp-ui-2026-09-07",
+    "display_name": "rcmp-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rcmp-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5610",
+            "osv_published_at": "2022-06-20T20:23:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:15:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:15:27Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:18Z",
+    "source_published_at": "2022-06-20T20:23:18Z",
+    "observed_at": "2026-09-07T08:15:27Z",
+    "ingested_at": "2026-09-07T08:15:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:47:22Z",
+    "ledger_committed_at": "2026-09-07T14:47:22Z"
   }
 ]
