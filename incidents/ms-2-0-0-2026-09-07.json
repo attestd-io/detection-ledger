@@ -1,0 +1,37 @@
+{
+  "id": "ms-2-0-0-2026-09-07",
+  "display_name": "ms-2.0.0",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ms-2.0.0",
+      "ecosystem": "npm",
+      "versions": [
+        "1.5.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4719",
+          "osv_published_at": "2022-06-08T08:43:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:49:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:49:33Z",
+  "osv_earliest_published_at": "2022-06-08T08:43:53Z",
+  "source_published_at": "2022-06-08T08:43:53Z",
+  "observed_at": "2026-09-07T06:49:33Z",
+  "ingested_at": "2026-09-07T06:49:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:04:38Z",
+  "ledger_committed_at": "2026-09-07T12:04:38Z"
+}
