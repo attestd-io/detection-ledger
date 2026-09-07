@@ -612689,5 +612689,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:25:07Z",
     "ledger_committed_at": "2026-09-07T18:25:07Z"
+  },
+  {
+    "id": "unibet-package-2026-09-07",
+    "display_name": "unibet_package",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "unibet_package",
+        "ecosystem": "npm",
+        "versions": [
+          "1.10.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6778",
+            "osv_published_at": "2022-07-21T10:55:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:37:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:37:15Z",
+    "osv_earliest_published_at": "2022-07-21T10:55:49Z",
+    "source_published_at": "2022-07-21T10:55:49Z",
+    "observed_at": "2026-09-07T10:37:15Z",
+    "ingested_at": "2026-09-07T10:37:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:25:16Z",
+    "ledger_committed_at": "2026-09-07T18:25:16Z"
   }
 ]
