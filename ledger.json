@@ -488464,5 +488464,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:03:45Z",
     "ledger_committed_at": "2026-09-07T12:03:45Z"
+  },
+  {
+    "id": "mrg-xray-2026-09-07",
+    "display_name": "mrg-xray",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mrg-xray",
+        "ecosystem": "npm",
+        "versions": [
+          "99.15.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4714",
+            "osv_published_at": "2022-06-20T20:19:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:49:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:49:29Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:52Z",
+    "source_published_at": "2022-06-20T20:19:52Z",
+    "observed_at": "2026-09-07T06:49:29Z",
+    "ingested_at": "2026-09-07T06:49:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:03:54Z",
+    "ledger_committed_at": "2026-09-07T12:03:54Z"
   }
 ]
