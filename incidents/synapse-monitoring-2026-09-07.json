@@ -1,0 +1,37 @@
+{
+  "id": "synapse-monitoring-2026-09-07",
+  "display_name": "synapse-monitoring",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "synapse-monitoring",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.10"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6386",
+          "osv_published_at": "2022-06-20T20:11:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:39:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:39:43Z",
+  "osv_earliest_published_at": "2022-06-20T20:11:10Z",
+  "source_published_at": "2022-06-20T20:11:10Z",
+  "observed_at": "2026-09-07T09:39:43Z",
+  "ingested_at": "2026-09-07T09:39:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:18:16Z",
+  "ledger_committed_at": "2026-09-07T17:18:16Z"
+}
