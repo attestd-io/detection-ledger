@@ -1,0 +1,40 @@
+{
+  "id": "yelp-template-2026-09-07",
+  "display_name": "yelp_template",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "yelp_template",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.12",
+        "10.0.12",
+        "10.0.16",
+        "11.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7343",
+          "osv_published_at": "2022-06-20T20:24:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:19:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:19:51Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:30Z",
+  "source_published_at": "2022-06-20T20:24:30Z",
+  "observed_at": "2026-09-07T11:19:51Z",
+  "ingested_at": "2026-09-07T11:19:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:12:05Z",
+  "ledger_committed_at": "2026-09-07T20:12:05Z"
+}
