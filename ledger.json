@@ -406325,5 +406325,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:31:36Z",
     "ledger_committed_at": "2026-09-07T06:31:36Z"
+  },
+  {
+    "id": "fbt-top-level-repo-2026-09-07",
+    "display_name": "fbt-top-level-repo",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fbt-top-level-repo",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2979",
+            "osv_published_at": "2022-06-20T20:25:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:05:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:05:57Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:59Z",
+    "source_published_at": "2022-06-20T20:25:59Z",
+    "observed_at": "2026-09-07T05:05:57Z",
+    "ingested_at": "2026-09-07T05:05:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:31:45Z",
+    "ledger_committed_at": "2026-09-07T06:31:45Z"
   }
 ]
