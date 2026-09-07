@@ -693724,5 +693724,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:44:23Z",
     "ledger_committed_at": "2026-09-07T23:44:23Z"
+  },
+  {
+    "id": "fb-chat-api-temp-2026-09-07",
+    "display_name": "fb-chat-api-temp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fb-chat-api-temp",
+        "ecosystem": "npm",
+        "versions": [
+          "10.4.22"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8172",
+            "osv_published_at": "2023-09-19T04:50:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:15:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:15:00Z",
+    "osv_earliest_published_at": "2023-09-19T04:50:23Z",
+    "source_published_at": "2023-09-19T04:50:23Z",
+    "observed_at": "2026-09-07T13:15:00Z",
+    "ingested_at": "2026-09-07T13:15:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:44:33Z",
+    "ledger_committed_at": "2026-09-07T23:44:33Z"
   }
 ]
