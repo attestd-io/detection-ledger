@@ -1,0 +1,37 @@
+{
+  "id": "synapse-managed-private-endpoints-2026-09-07",
+  "display_name": "synapse-managed-private-endpoints",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "synapse-managed-private-endpoints",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6385",
+          "osv_published_at": "2022-06-20T20:11:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:39:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:39:42Z",
+  "osv_earliest_published_at": "2022-06-20T20:11:10Z",
+  "source_published_at": "2022-06-20T20:11:10Z",
+  "observed_at": "2026-09-07T09:39:42Z",
+  "ingested_at": "2026-09-07T09:39:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:18:06Z",
+  "ledger_committed_at": "2026-09-07T17:18:06Z"
+}
