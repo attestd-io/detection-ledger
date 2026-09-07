@@ -681680,5 +681680,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:51:52Z",
     "ledger_committed_at": "2026-09-07T22:51:52Z"
+  },
+  {
+    "id": "karma-i-ua-2026-09-07",
+    "display_name": "karma-i-ua",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "karma-i-ua",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-547",
+            "osv_published_at": "2023-01-30T11:42:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:57:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:57:50Z",
+    "osv_earliest_published_at": "2023-01-30T11:42:12Z",
+    "source_published_at": "2023-01-30T11:42:12Z",
+    "observed_at": "2026-09-07T12:57:50Z",
+    "ingested_at": "2026-09-07T12:57:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:52:04Z",
+    "ledger_committed_at": "2026-09-07T22:52:04Z"
   }
 ]
