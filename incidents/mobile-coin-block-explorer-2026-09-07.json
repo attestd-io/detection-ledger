@@ -1,0 +1,37 @@
+{
+  "id": "mobile-coin-block-explorer-2026-09-07",
+  "display_name": "mobile-coin-block-explorer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mobile-coin-block-explorer",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-606",
+          "osv_published_at": "2023-04-03T06:24:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:01:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:01:00Z",
+  "osv_earliest_published_at": "2023-04-03T06:24:39Z",
+  "source_published_at": "2023-04-03T06:24:39Z",
+  "observed_at": "2026-09-07T13:01:00Z",
+  "ingested_at": "2026-09-07T13:01:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:00:48Z",
+  "ledger_committed_at": "2026-09-07T23:00:48Z"
+}
