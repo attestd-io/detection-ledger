@@ -425614,5 +425614,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:43:24Z",
     "ledger_committed_at": "2026-09-07T07:43:24Z"
+  },
+  {
+    "id": "googlesitekit-2026-09-07",
+    "display_name": "googlesitekit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "googlesitekit",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "2.0.0",
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3418",
+            "osv_published_at": "2022-06-20T20:22:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:18:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:18:47Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:16Z",
+    "source_published_at": "2022-06-20T20:22:16Z",
+    "observed_at": "2026-09-07T05:18:47Z",
+    "ingested_at": "2026-09-07T05:18:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:43:33Z",
+    "ledger_committed_at": "2026-09-07T07:43:33Z"
   }
 ]
