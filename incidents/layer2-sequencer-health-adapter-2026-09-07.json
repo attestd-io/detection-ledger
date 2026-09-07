@@ -1,0 +1,39 @@
+{
+  "id": "layer2-sequencer-health-adapter-2026-09-07",
+  "display_name": "layer2-sequencer-health-adapter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "layer2-sequencer-health-adapter",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.0.0",
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4263",
+          "osv_published_at": "2022-06-20T20:12:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:16:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:16:51Z",
+  "osv_earliest_published_at": "2022-06-20T20:12:03Z",
+  "source_published_at": "2022-06-20T20:12:03Z",
+  "observed_at": "2026-09-07T06:16:51Z",
+  "ingested_at": "2026-09-07T06:16:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T10:42:26Z",
+  "ledger_committed_at": "2026-09-07T10:42:26Z"
+}
