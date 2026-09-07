@@ -1,0 +1,37 @@
+{
+  "id": "fake-la-2026-09-07",
+  "display_name": "fake_la",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fake_la",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2962",
+          "osv_published_at": "2022-06-20T20:12:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:05:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:05:37Z",
+  "osv_earliest_published_at": "2022-06-20T20:12:26Z",
+  "source_published_at": "2022-06-20T20:12:26Z",
+  "observed_at": "2026-09-07T05:05:37Z",
+  "ingested_at": "2026-09-07T05:05:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:29:03Z",
+  "ledger_committed_at": "2026-09-07T06:29:03Z"
+}
