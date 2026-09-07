@@ -524189,5 +524189,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:48:07Z",
     "ledger_committed_at": "2026-09-07T13:48:07Z"
+  },
+  {
+    "id": "primeo-scs-compiler-2026-09-07",
+    "display_name": "@primeo/scs-compiler",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@primeo/scs-compiler",
+        "ecosystem": "npm",
+        "versions": [
+          "2.999.999",
+          "2.9999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-529",
+            "osv_published_at": "2022-06-20T20:15:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:51:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:51:36Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:25Z",
+    "source_published_at": "2022-06-20T20:15:25Z",
+    "observed_at": "2026-09-07T07:51:36Z",
+    "ingested_at": "2026-09-07T07:51:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:48:16Z",
+    "ledger_committed_at": "2026-09-07T13:48:16Z"
   }
 ]
