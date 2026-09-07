@@ -1,0 +1,39 @@
+{
+  "id": "frontend-framework-paypal-2026-09-07",
+  "display_name": "frontend-framework-paypal",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "frontend-framework-paypal",
+      "ecosystem": "npm",
+      "versions": [
+        "67.5.2",
+        "68.5.2",
+        "69.5.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3221",
+          "osv_published_at": "2022-06-20T20:19:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:13:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:13:55Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:49Z",
+  "source_published_at": "2022-06-20T20:19:49Z",
+  "observed_at": "2026-09-07T05:13:55Z",
+  "ingested_at": "2026-09-07T05:13:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:12:10Z",
+  "ledger_committed_at": "2026-09-07T07:12:10Z"
+}
