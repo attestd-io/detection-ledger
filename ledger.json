@@ -475019,5 +475019,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:10:14Z",
     "ledger_committed_at": "2026-09-07T11:10:14Z"
+  },
+  {
+    "id": "lookout-dingbats-2026-09-07",
+    "display_name": "lookout-dingbats",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lookout-dingbats",
+        "ecosystem": "npm",
+        "versions": [
+          "1.9346.3",
+          "2.9346.3",
+          "3.9346.3",
+          "4.9346.3",
+          "5.9346.3",
+          "6.9346.3",
+          "7.9346.3",
+          "8.9346.3",
+          "9343.9346.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4395",
+            "osv_published_at": "2022-06-20T20:20:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:41:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:41:32Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:48Z",
+    "source_published_at": "2022-06-20T20:20:48Z",
+    "observed_at": "2026-09-07T06:41:32Z",
+    "ingested_at": "2026-09-07T06:41:32Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:10:22Z",
+    "ledger_committed_at": "2026-09-07T11:10:22Z"
   }
 ]
