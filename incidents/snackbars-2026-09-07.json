@@ -1,0 +1,45 @@
+{
+  "id": "snackbars-2026-09-07",
+  "display_name": "snackbars",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "snackbars",
+      "ecosystem": "npm",
+      "versions": [
+        "0.9653.5",
+        "1.0.2330",
+        "1.9653.5",
+        "2.9653.5",
+        "3.9653.5",
+        "5.9653.5",
+        "6.9653.5",
+        "7.9653.5",
+        "963.9653.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6185",
+          "osv_published_at": "2022-06-20T20:19:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:11:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:11:48Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:18Z",
+  "source_published_at": "2022-06-20T20:19:18Z",
+  "observed_at": "2026-09-07T09:11:48Z",
+  "ingested_at": "2026-09-07T09:11:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:33:48Z",
+  "ledger_committed_at": "2026-09-07T16:33:48Z"
+}
