@@ -1,0 +1,32 @@
+{
+  "id": "mono-pub-2026-09-07",
+  "display_name": "mono-pub",
+  "campaign": "buffer-mono",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "mono-pub",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:48:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:48:17Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T12:48:17Z",
+  "ingested_at": "2026-09-07T12:48:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/mono-pub",
+  "ledger_commit_at": "2026-09-07T22:10:03Z",
+  "ledger_committed_at": "2026-09-07T22:10:03Z"
+}
