@@ -1,0 +1,40 @@
+{
+  "id": "threlte-core-2026-09-07",
+  "display_name": "@threlte/core",
+  "campaign": "epc-apps",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@threlte/core",
+      "ecosystem": "npm",
+      "versions": [
+        "3.13.1",
+        "3.13.10",
+        "3.13.2",
+        "3.13.4",
+        "3.13.5",
+        "3.13.6",
+        "3.13.7",
+        "3.13.8",
+        "3.13.9"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:30:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:30:29Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T04:30:29Z",
+  "ingested_at": "2026-09-07T04:30:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40threlte%2Fcore",
+  "ledger_commit_at": "2026-09-07T04:48:10Z",
+  "ledger_committed_at": "2026-09-07T04:48:10Z"
+}
