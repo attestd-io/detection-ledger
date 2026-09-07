@@ -380079,5 +380079,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:01:26Z",
     "ledger_committed_at": "2026-09-07T05:01:26Z"
+  },
+  {
+    "id": "dds-client-side-logger-2026-09-07",
+    "display_name": "dds-client-side-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dds-client-side-logger",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.5",
+          "1.544.2",
+          "2.545.2",
+          "3.546.2",
+          "4.547.2",
+          "5.548.2",
+          "6.549.2",
+          "7.550.2",
+          "8.551.2",
+          "9.552.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2384",
+            "osv_published_at": "2022-06-20T20:13:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:37:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:37:05Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:09Z",
+    "source_published_at": "2022-06-20T20:13:09Z",
+    "observed_at": "2026-09-07T04:37:05Z",
+    "ingested_at": "2026-09-07T04:37:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:01:34Z",
+    "ledger_committed_at": "2026-09-07T05:01:34Z"
   }
 ]
