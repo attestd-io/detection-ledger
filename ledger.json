@@ -484707,5 +484707,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:48:52Z",
     "ledger_committed_at": "2026-09-07T11:48:52Z"
+  },
+  {
+    "id": "mitui-base-client-2026-09-07",
+    "display_name": "mitui-base-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mitui-base-client",
+        "ecosystem": "npm",
+        "versions": [
+          "8.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4617",
+            "osv_published_at": "2022-06-20T20:22:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:47:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:47:41Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:37Z",
+    "source_published_at": "2022-06-20T20:22:37Z",
+    "observed_at": "2026-09-07T06:47:41Z",
+    "ingested_at": "2026-09-07T06:47:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:49:01Z",
+    "ledger_committed_at": "2026-09-07T11:49:01Z"
   }
 ]
