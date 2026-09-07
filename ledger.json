@@ -472996,5 +472996,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:03:30Z",
     "ledger_committed_at": "2026-09-07T11:03:30Z"
+  },
+  {
+    "id": "lodash-isstgrng-2026-09-07",
+    "display_name": "lodash.isstgrng",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lodash.isstgrng",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4359",
+            "osv_published_at": "2022-08-19T03:55:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:31:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:31:13Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:16Z",
+    "source_published_at": "2022-08-19T03:55:16Z",
+    "observed_at": "2026-09-07T06:31:13Z",
+    "ingested_at": "2026-09-07T06:31:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:03:40Z",
+    "ledger_committed_at": "2026-09-07T11:03:40Z"
   }
 ]
