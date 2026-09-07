@@ -512299,5 +512299,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:02:42Z",
     "ledger_committed_at": "2026-09-07T13:02:42Z"
+  },
+  {
+    "id": "officeonline-2026-09-07",
+    "display_name": "officeonline",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "officeonline",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5029",
+            "osv_published_at": "2022-06-20T20:22:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:30:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:30:47Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:54Z",
+    "source_published_at": "2022-06-20T20:22:54Z",
+    "observed_at": "2026-09-07T07:30:47Z",
+    "ingested_at": "2026-09-07T07:30:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:02:51Z",
+    "ledger_committed_at": "2026-09-07T13:02:51Z"
   }
 ]
