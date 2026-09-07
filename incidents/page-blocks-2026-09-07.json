@@ -1,0 +1,38 @@
+{
+  "id": "page-blocks-2026-09-07",
+  "display_name": "page-blocks",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "page-blocks",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.1",
+        "999.9.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5189",
+          "osv_published_at": "2022-06-20T20:20:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:47:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:47:56Z",
+  "osv_earliest_published_at": "2022-06-20T20:20:53Z",
+  "source_published_at": "2022-06-20T20:20:53Z",
+  "observed_at": "2026-09-07T07:47:56Z",
+  "ingested_at": "2026-09-07T07:47:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:30:49Z",
+  "ledger_committed_at": "2026-09-07T13:30:49Z"
+}
