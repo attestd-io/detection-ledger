@@ -1,0 +1,43 @@
+{
+  "id": "ui-dependency-confusion-2026-09-07",
+  "display_name": "ui-dependency-confusion",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ui-dependency-confusion",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.9",
+        "1.0.2",
+        "1.1.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6750",
+          "osv_published_at": "2022-06-20T20:18:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:34:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:34:21Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:56Z",
+  "source_published_at": "2022-06-20T20:18:56Z",
+  "observed_at": "2026-09-07T10:34:21Z",
+  "ingested_at": "2026-09-07T10:34:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:20:17Z",
+  "ledger_committed_at": "2026-09-07T18:20:17Z"
+}
