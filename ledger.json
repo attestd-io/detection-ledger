@@ -535211,5 +535211,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:32:44Z",
     "ledger_committed_at": "2026-09-07T14:32:44Z"
+  },
+  {
+    "id": "ramp106-timetable-2026-09-07",
+    "display_name": "@ramp106/timetable",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@ramp106/timetable",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9",
+          "99.10.9",
+          "99.11.9",
+          "99.12.9",
+          "99.13.9",
+          "99.14.9",
+          "99.15.9",
+          "99.16.9",
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-554",
+            "osv_published_at": "2022-06-20T18:19:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:11:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:11:17Z",
+    "osv_earliest_published_at": "2022-06-20T18:19:36Z",
+    "source_published_at": "2022-06-20T18:19:36Z",
+    "observed_at": "2026-09-07T08:11:17Z",
+    "ingested_at": "2026-09-07T08:11:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:32:54Z",
+    "ledger_committed_at": "2026-09-07T14:32:54Z"
   }
 ]
