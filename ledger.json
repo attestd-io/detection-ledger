@@ -483917,5 +483917,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:45:37Z",
     "ledger_committed_at": "2026-09-07T11:45:37Z"
+  },
+  {
+    "id": "mindtap-static-lib-2026-09-07",
+    "display_name": "mindtap-static-lib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mindtap-static-lib",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4597",
+            "osv_published_at": "2022-06-20T20:23:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:47:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:47:23Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:57Z",
+    "source_published_at": "2022-06-20T20:23:57Z",
+    "observed_at": "2026-09-07T06:47:23Z",
+    "ingested_at": "2026-09-07T06:47:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:45:47Z",
+    "ledger_committed_at": "2026-09-07T11:45:47Z"
   }
 ]
