@@ -677503,5 +677503,61 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:33:13Z",
     "ledger_committed_at": "2026-09-07T22:33:13Z"
+  },
+  {
+    "id": "fca-tpk-2026-09-07",
+    "display_name": "fca-tpk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fca-tpk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.10",
+          "1.1.11",
+          "1.1.12",
+          "1.1.13",
+          "1.1.14",
+          "1.1.15",
+          "1.1.16",
+          "1.1.17",
+          "1.1.18",
+          "1.1.19",
+          "1.1.20",
+          "1.1.21",
+          "1.1.22",
+          "1.1.23",
+          "1.1.8",
+          "1.1.9",
+          "1.5.2",
+          "10.4.19",
+          "10.5.19",
+          "10.5.20"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-424",
+            "osv_published_at": "2023-07-11T03:05:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:53:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:53:09Z",
+    "osv_earliest_published_at": "2023-07-11T03:05:51Z",
+    "source_published_at": "2023-07-11T03:05:51Z",
+    "observed_at": "2026-09-07T12:53:09Z",
+    "ingested_at": "2026-09-07T12:53:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:33:23Z",
+    "ledger_committed_at": "2026-09-07T22:33:23Z"
   }
 ]
