@@ -681531,5 +681531,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:51:05Z",
     "ledger_committed_at": "2026-09-07T22:51:05Z"
+  },
+  {
+    "id": "juggler-sdk-2026-09-07",
+    "display_name": "juggler-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "juggler-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "103.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-542",
+            "osv_published_at": "2023-01-30T10:12:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:57:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:57:46Z",
+    "osv_earliest_published_at": "2023-01-30T10:12:00Z",
+    "source_published_at": "2023-01-30T10:12:00Z",
+    "observed_at": "2026-09-07T12:57:46Z",
+    "ingested_at": "2026-09-07T12:57:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:51:16Z",
+    "ledger_committed_at": "2026-09-07T22:51:16Z"
   }
 ]
