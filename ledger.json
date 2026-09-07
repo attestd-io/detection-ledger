@@ -528511,5 +528511,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:05:22Z",
     "ledger_committed_at": "2026-09-07T14:05:22Z"
+  },
+  {
+    "id": "pocjenkircetest-2026-09-07",
+    "display_name": "pocjenkircetest",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pocjenkircetest",
+        "ecosystem": "npm",
+        "versions": [
+          "0.30.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5389",
+            "osv_published_at": "2022-06-01T09:07:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:55:40Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:55:40Z",
+    "osv_earliest_published_at": "2022-06-01T09:07:44Z",
+    "source_published_at": "2022-06-01T09:07:44Z",
+    "observed_at": "2026-09-07T07:55:40Z",
+    "ingested_at": "2026-09-07T07:55:40Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:05:32Z",
+    "ledger_committed_at": "2026-09-07T14:05:32Z"
   }
 ]
