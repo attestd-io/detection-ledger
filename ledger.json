@@ -385897,5 +385897,41 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:21:57Z",
     "ledger_committed_at": "2026-09-07T05:21:57Z"
+  },
+  {
+    "id": "bhsd-codemirror-mediawiki-2026-09-07",
+    "display_name": "@bhsd/codemirror-mediawiki",
+    "campaign": "epic-mw",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@bhsd/codemirror-mediawiki",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.14",
+          "2.1.6",
+          "2.19.5",
+          "2.28.1",
+          "2.4.7"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:47:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:47:35Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:47:35Z",
+    "ingested_at": "2026-09-07T04:47:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40bhsd%2Fcodemirror-mediawiki",
+    "ledger_commit_at": "2026-09-07T05:22:06Z",
+    "ledger_committed_at": "2026-09-07T05:22:06Z"
   }
 ]
