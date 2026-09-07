@@ -1,0 +1,33 @@
+{
+  "id": "posthog-react-native-2026-09-07",
+  "display_name": "posthog-react-native",
+  "campaign": "react-native-tscodegen",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "posthog-react-native",
+      "ecosystem": "npm",
+      "versions": [
+        "4.11.1",
+        "4.12.5"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:12:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:12:12Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T08:12:12Z",
+  "ingested_at": "2026-09-07T08:12:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/posthog-react-native",
+  "ledger_commit_at": "2026-09-07T14:34:58Z",
+  "ledger_committed_at": "2026-09-07T14:34:58Z"
+}
