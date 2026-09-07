@@ -608294,5 +608294,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:06:28Z",
     "ledger_committed_at": "2026-09-07T18:06:28Z"
+  },
+  {
+    "id": "tweetnalc-2026-09-07",
+    "display_name": "tweetnalc",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tweetnalc",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6686",
+            "osv_published_at": "2022-08-30T01:38:43Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:30:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:30:03Z",
+    "osv_earliest_published_at": "2022-08-30T01:38:43Z",
+    "source_published_at": "2022-08-30T01:38:43Z",
+    "observed_at": "2026-09-07T10:30:03Z",
+    "ingested_at": "2026-09-07T10:30:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:06:38Z",
+    "ledger_committed_at": "2026-09-07T18:06:38Z"
   }
 ]
