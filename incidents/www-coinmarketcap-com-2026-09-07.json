@@ -1,0 +1,42 @@
+{
+  "id": "www-coinmarketcap-com-2026-09-07",
+  "display_name": "www.coinmarketcap.com",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "www.coinmarketcap.com",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7252",
+          "osv_published_at": "2022-08-17T04:07:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:13:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:13:34Z",
+  "osv_earliest_published_at": "2022-08-17T04:07:46Z",
+  "source_published_at": "2022-08-17T04:07:46Z",
+  "observed_at": "2026-09-07T11:13:34Z",
+  "ingested_at": "2026-09-07T11:13:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:54:47Z",
+  "ledger_committed_at": "2026-09-07T19:54:47Z"
+}
