@@ -641005,5 +641005,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:08:59Z",
     "ledger_committed_at": "2026-09-07T20:08:59Z"
+  },
+  {
+    "id": "yello133-2026-09-07",
+    "display_name": "yello133",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "yello133",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7333",
+            "osv_published_at": "2022-06-20T20:11:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:17:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:17:43Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:31Z",
+    "source_published_at": "2022-06-20T20:11:31Z",
+    "observed_at": "2026-09-07T11:17:43Z",
+    "ingested_at": "2026-09-07T11:17:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:09:09Z",
+    "ledger_committed_at": "2026-09-07T20:09:09Z"
   }
 ]
