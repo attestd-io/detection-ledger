@@ -478358,5 +478358,43 @@
     "advisory_url": "https://registry.npmjs.org/%40okx_ai%2Fokx-trade-mcp",
     "ledger_commit_at": "2026-09-07T11:23:27Z",
     "ledger_committed_at": "2026-09-07T11:23:27Z"
+  },
+  {
+    "id": "rivascva-dt-idl-2026-09-07",
+    "display_name": "@rivascva/dt-idl",
+    "campaign": "nab-trade",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@rivascva/dt-idl",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:44:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:44:16Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:44:16Z",
+    "ingested_at": "2026-09-07T06:44:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40rivascva%2Fdt-idl",
+    "ledger_commit_at": "2026-09-07T11:23:37Z",
+    "ledger_committed_at": "2026-09-07T11:23:37Z"
   }
 ]
