@@ -570413,5 +570413,38 @@
     "advisory_url": "https://registry.npmjs.org/%40digital-herd%2Fcontent-hub-sdk",
     "ledger_commit_at": "2026-09-07T17:01:14Z",
     "ledger_committed_at": "2026-09-07T17:01:14Z"
+  },
+  {
+    "id": "diia-inhouse-configs-2026-09-07",
+    "display_name": "@diia-inhouse/configs",
+    "campaign": "aia-digital",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@diia-inhouse/configs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.26.4",
+          "1.31.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:25:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:25:08Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T09:25:08Z",
+    "ingested_at": "2026-09-07T09:25:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40diia-inhouse%2Fconfigs",
+    "ledger_commit_at": "2026-09-07T17:01:24Z",
+    "ledger_committed_at": "2026-09-07T17:01:24Z"
   }
 ]
