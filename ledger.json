@@ -397074,5 +397074,69 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:00:14Z",
     "ledger_committed_at": "2026-09-07T06:00:14Z"
+  },
+  {
+    "id": "epic-ue-fonts-2026-09-07",
+    "display_name": "epic-ue-fonts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "epic-ue-fonts",
+        "ecosystem": "npm",
+        "versions": [
+          "1.849.342",
+          "1.998.1",
+          "10.755.568",
+          "2.961.341",
+          "2.998.1",
+          "20.879.562",
+          "3.809.653",
+          "3.998.1",
+          "30.942.578",
+          "4.765.466",
+          "4.998.1",
+          "40.833.664",
+          "5.983.368",
+          "5.998.1",
+          "50.849.515",
+          "6.776.599",
+          "6.998.1",
+          "60.723.508",
+          "7.730.360",
+          "7.998.1",
+          "70.904.427",
+          "8.975.349",
+          "8.998.1",
+          "80.859.598",
+          "9.772.687",
+          "90.701.594",
+          "9998.801.393",
+          "9998.998.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2770",
+            "osv_published_at": "2022-06-02T10:50:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:57:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:57:23Z",
+    "osv_earliest_published_at": "2022-06-02T10:50:08Z",
+    "source_published_at": "2022-06-02T10:50:08Z",
+    "observed_at": "2026-09-07T04:57:23Z",
+    "ingested_at": "2026-09-07T04:57:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:00:23Z",
+    "ledger_committed_at": "2026-09-07T06:00:23Z"
   }
 ]
