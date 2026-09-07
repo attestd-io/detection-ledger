@@ -467348,5 +467348,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:40:48Z",
     "ledger_committed_at": "2026-09-07T10:40:48Z"
+  },
+  {
+    "id": "lamalamalama-2026-09-07",
+    "display_name": "lamalamalama",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lamalamalama",
+        "ecosystem": "npm",
+        "versions": [
+          "1.998.1",
+          "2.998.1",
+          "3.998.1",
+          "4.998.1",
+          "5.998.1",
+          "6.998.1",
+          "7.998.1",
+          "8.998.1",
+          "9998.998.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4253",
+            "osv_published_at": "2022-06-20T20:20:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:16:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:16:42Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:25Z",
+    "source_published_at": "2022-06-20T20:20:25Z",
+    "observed_at": "2026-09-07T06:16:42Z",
+    "ingested_at": "2026-09-07T06:16:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:40:56Z",
+    "ledger_committed_at": "2026-09-07T10:40:56Z"
   }
 ]
