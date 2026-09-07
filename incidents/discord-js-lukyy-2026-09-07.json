@@ -1,0 +1,38 @@
+{
+  "id": "discord-js-lukyy-2026-09-07",
+  "display_name": "discord.js-lukyy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "discord.js-lukyy",
+      "ecosystem": "npm",
+      "versions": [
+        "11.5.1",
+        "11.6.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-258",
+          "osv_published_at": "2023-02-25T04:38:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:44:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:44:14Z",
+  "osv_earliest_published_at": "2023-02-25T04:38:16Z",
+  "source_published_at": "2023-02-25T04:38:16Z",
+  "observed_at": "2026-09-07T12:44:14Z",
+  "ingested_at": "2026-09-07T12:44:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:04:11Z",
+  "ledger_committed_at": "2026-09-07T22:04:11Z"
+}
