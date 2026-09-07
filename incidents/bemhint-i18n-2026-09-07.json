@@ -1,0 +1,37 @@
+{
+  "id": "bemhint-i18n-2026-09-07",
+  "display_name": "bemhint.i18n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bemhint.i18n",
+      "ecosystem": "npm",
+      "versions": [
+        "0.2.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-127",
+          "osv_published_at": "2023-01-30T11:42:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:30:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:30:00Z",
+  "osv_earliest_published_at": "2023-01-30T11:42:12Z",
+  "source_published_at": "2023-01-30T11:42:12Z",
+  "observed_at": "2026-09-07T12:30:00Z",
+  "ingested_at": "2026-09-07T12:30:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:32:54Z",
+  "ledger_committed_at": "2026-09-07T21:32:54Z"
+}
