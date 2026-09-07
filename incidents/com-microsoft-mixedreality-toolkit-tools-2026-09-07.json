@@ -1,0 +1,38 @@
+{
+  "id": "com-microsoft-mixedreality-toolkit-tools-2026-09-07",
+  "display_name": "com.microsoft.mixedreality.toolkit.tools",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "com.microsoft.mixedreality.toolkit.tools",
+      "ecosystem": "npm",
+      "versions": [
+        "4.4.7",
+        "4.4.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2044",
+          "osv_published_at": "2022-06-20T20:14:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T03:52:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T03:52:38Z",
+  "osv_earliest_published_at": "2022-06-20T20:14:27Z",
+  "source_published_at": "2022-06-20T20:14:27Z",
+  "observed_at": "2026-09-07T03:52:38Z",
+  "ingested_at": "2026-09-07T03:52:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T04:01:07Z",
+  "ledger_committed_at": "2026-09-07T04:01:07Z"
+}
