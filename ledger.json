@@ -471052,5 +471052,67 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:55:50Z",
     "ledger_committed_at": "2026-09-07T10:55:50Z"
+  },
+  {
+    "id": "medicare-tools-core-2026-09-07",
+    "display_name": "@medicare-tools/core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@medicare-tools/core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9537.2",
+          "0.9537.3",
+          "1.9537.2",
+          "1.9537.3",
+          "1.9537.4",
+          "1.9537.5",
+          "2.9537.2",
+          "2.9537.3",
+          "2.9537.4",
+          "2.9537.5",
+          "3.9537.2",
+          "3.9537.3",
+          "4.9537.2",
+          "4.9537.3",
+          "5.9537.2",
+          "5.9537.3",
+          "6.9537.2",
+          "6.9537.3",
+          "7.9537.2",
+          "7.9537.3",
+          "8.9537.2",
+          "8.9537.3",
+          "9.9537.2",
+          "9.9537.3",
+          "9233.9537.2",
+          "9233.9537.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-431",
+            "osv_published_at": "2022-06-20T21:10:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:29:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:29:23Z",
+    "osv_earliest_published_at": "2022-06-20T21:10:08Z",
+    "source_published_at": "2022-06-20T21:10:08Z",
+    "observed_at": "2026-09-07T06:29:23Z",
+    "ingested_at": "2026-09-07T06:29:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:55:58Z",
+    "ledger_committed_at": "2026-09-07T10:55:58Z"
   }
 ]
