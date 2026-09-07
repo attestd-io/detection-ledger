@@ -392031,5 +392031,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:42:43Z",
     "ledger_committed_at": "2026-09-07T05:42:43Z"
+  },
+  {
+    "id": "ebayui-ads-2026-09-07",
+    "display_name": "ebayui-ads",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ebayui-ads",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "99.99.99",
+          "99.99.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2653",
+            "osv_published_at": "2022-09-14T07:23:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:52:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:52:04Z",
+    "osv_earliest_published_at": "2022-09-14T07:23:10Z",
+    "source_published_at": "2022-09-14T07:23:10Z",
+    "observed_at": "2026-09-07T04:52:04Z",
+    "ingested_at": "2026-09-07T04:52:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:42:51Z",
+    "ledger_committed_at": "2026-09-07T05:42:51Z"
   }
 ]
