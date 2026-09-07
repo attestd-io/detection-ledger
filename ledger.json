@@ -515928,5 +515928,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:17:25Z",
     "ledger_committed_at": "2026-09-07T13:17:25Z"
+  },
+  {
+    "id": "opentelemetry-instrumentation-azure-sdk-2026-09-07",
+    "display_name": "opentelemetry-instrumentation-azure-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "opentelemetry-instrumentation-azure-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "99.10.10",
+          "99.10.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5103",
+            "osv_published_at": "2022-06-20T20:11:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:44:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:44:49Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:12Z",
+    "source_published_at": "2022-06-20T20:11:12Z",
+    "observed_at": "2026-09-07T07:44:49Z",
+    "ingested_at": "2026-09-07T07:44:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:17:35Z",
+    "ledger_committed_at": "2026-09-07T13:17:35Z"
   }
 ]
