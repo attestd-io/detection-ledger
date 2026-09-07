@@ -656773,5 +656773,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:03:59Z",
     "ledger_committed_at": "2026-09-07T21:03:59Z"
+  },
+  {
+    "id": "airtable-client-2026-09-07",
+    "display_name": "airtable-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "airtable-client",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.0",
+          "9.9.1",
+          "9.9.2",
+          "9.9.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-914",
+            "osv_published_at": "2022-06-20T20:26:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:02:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:02:23Z",
+    "osv_earliest_published_at": "2022-06-20T20:26:13Z",
+    "source_published_at": "2022-06-20T20:26:13Z",
+    "observed_at": "2026-09-07T12:02:23Z",
+    "ingested_at": "2026-09-07T12:02:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:04:09Z",
+    "ledger_committed_at": "2026-09-07T21:04:09Z"
   }
 ]
