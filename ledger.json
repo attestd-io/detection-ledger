@@ -362512,5 +362512,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:10:57Z",
     "ledger_committed_at": "2026-09-07T04:10:57Z"
+  },
+  {
+    "id": "com-unity-scriptablebuildpipeline-2026-09-07",
+    "display_name": "com.unity.scriptablebuildpipeline",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "com.unity.scriptablebuildpipeline",
+        "ecosystem": "npm",
+        "versions": [
+          "1.14.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2102",
+            "osv_published_at": "2022-06-20T20:25:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:53:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:53:30Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:15Z",
+    "source_published_at": "2022-06-20T20:25:15Z",
+    "observed_at": "2026-09-07T03:53:30Z",
+    "ingested_at": "2026-09-07T03:53:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:11:05Z",
+    "ledger_committed_at": "2026-09-07T04:11:05Z"
   }
 ]
