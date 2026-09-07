@@ -483580,5 +483580,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:44:16Z",
     "ledger_committed_at": "2026-09-07T11:44:16Z"
+  },
+  {
+    "id": "microsoft-internq-2026-09-07",
+    "display_name": "microsoft-internq",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "microsoft-internq",
+        "ecosystem": "npm",
+        "versions": [
+          "2.4.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4588",
+            "osv_published_at": "2022-06-20T20:21:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:47:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:47:16Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:32Z",
+    "source_published_at": "2022-06-20T20:21:32Z",
+    "observed_at": "2026-09-07T06:47:16Z",
+    "ingested_at": "2026-09-07T06:47:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:44:25Z",
+    "ledger_committed_at": "2026-09-07T11:44:25Z"
   }
 ]
