@@ -672089,5 +672089,37 @@
     "advisory_url": "https://registry.npmjs.org/%40siemens%2Felement-translate-ng",
     "ledger_commit_at": "2026-09-07T22:09:43Z",
     "ledger_committed_at": "2026-09-07T22:09:43Z"
+  },
+  {
+    "id": "mono-jsx-2026-09-07",
+    "display_name": "mono-jsx",
+    "campaign": "buffer-mono",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "mono-jsx",
+        "ecosystem": "npm",
+        "versions": [
+          "0.8.0-beta.10"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:48:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:48:16Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T12:48:16Z",
+    "ingested_at": "2026-09-07T12:48:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/mono-jsx",
+    "ledger_commit_at": "2026-09-07T22:09:53Z",
+    "ledger_committed_at": "2026-09-07T22:09:53Z"
   }
 ]
