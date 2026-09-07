@@ -615332,5 +615332,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:37:23Z",
     "ledger_committed_at": "2026-09-07T18:37:23Z"
+  },
+  {
+    "id": "uc-maps-provider-google-react-2026-09-07",
+    "display_name": "@uc-maps/provider-google.react",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@uc-maps/provider-google.react",
+        "ecosystem": "npm",
+        "versions": [
+          "5.0.14",
+          "5.99.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-683",
+            "osv_published_at": "2022-06-20T20:09:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:41:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:41:18Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:00Z",
+    "source_published_at": "2022-06-20T20:09:00Z",
+    "observed_at": "2026-09-07T10:41:18Z",
+    "ingested_at": "2026-09-07T10:41:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:37:34Z",
+    "ledger_committed_at": "2026-09-07T18:37:34Z"
   }
 ]
