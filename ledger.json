@@ -620869,5 +620869,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:00:32Z",
     "ledger_committed_at": "2026-09-07T19:00:32Z"
+  },
+  {
+    "id": "volcan0x-2026-09-07",
+    "display_name": "volcan0x",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "volcan0x",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6963",
+            "osv_published_at": "2022-06-02T10:38:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:49:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:49:46Z",
+    "osv_earliest_published_at": "2022-06-02T10:38:35Z",
+    "source_published_at": "2022-06-02T10:38:35Z",
+    "observed_at": "2026-09-07T10:49:46Z",
+    "ingested_at": "2026-09-07T10:49:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:00:42Z",
+    "ledger_committed_at": "2026-09-07T19:00:42Z"
   }
 ]
