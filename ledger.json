@@ -392864,5 +392864,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:45:32Z",
     "ledger_committed_at": "2026-09-07T05:45:32Z"
+  },
+  {
+    "id": "education-components-2026-09-07",
+    "display_name": "education-components",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "education-components",
+        "ecosystem": "npm",
+        "versions": [
+          "999.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2671",
+            "osv_published_at": "2022-06-20T20:20:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:52:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:52:33Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:49Z",
+    "source_published_at": "2022-06-20T20:20:49Z",
+    "observed_at": "2026-09-07T04:52:33Z",
+    "ingested_at": "2026-09-07T04:52:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:45:39Z",
+    "ledger_committed_at": "2026-09-07T05:45:39Z"
   }
 ]
