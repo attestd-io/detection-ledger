@@ -1,0 +1,37 @@
+{
+  "id": "iotex-explorer-2026-09-07",
+  "display_name": "iotex-explorer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "iotex-explorer",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3946",
+          "osv_published_at": "2022-08-09T07:24:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:56:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:56:44Z",
+  "osv_earliest_published_at": "2022-08-09T07:24:25Z",
+  "source_published_at": "2022-08-09T07:24:25Z",
+  "observed_at": "2026-09-07T05:56:44Z",
+  "ingested_at": "2026-09-07T05:56:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:46:04Z",
+  "ledger_committed_at": "2026-09-07T09:46:04Z"
+}
