@@ -678041,5 +678041,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:35:35Z",
     "ledger_committed_at": "2026-09-07T22:35:35Z"
+  },
+  {
+    "id": "fhr-jake-2026-09-07",
+    "display_name": "fhr-jake",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fhr-jake",
+        "ecosystem": "npm",
+        "versions": [
+          "2.5.5",
+          "2.5.6",
+          "2.5.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-436",
+            "osv_published_at": "2023-07-12T00:41:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:53:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:53:43Z",
+    "osv_earliest_published_at": "2023-07-12T00:41:25Z",
+    "source_published_at": "2023-07-12T00:41:25Z",
+    "observed_at": "2026-09-07T12:53:43Z",
+    "ingested_at": "2026-09-07T12:53:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:35:46Z",
+    "ledger_committed_at": "2026-09-07T22:35:46Z"
   }
 ]
