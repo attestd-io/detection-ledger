@@ -668561,5 +668561,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:53:53Z",
     "ledger_committed_at": "2026-09-07T21:53:53Z"
+  },
+  {
+    "id": "danikpack-2026-09-07",
+    "display_name": "danikpack",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "danikpack",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-223",
+            "osv_published_at": "2023-05-01T10:08:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:41:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:41:20Z",
+    "osv_earliest_published_at": "2023-05-01T10:08:35Z",
+    "source_published_at": "2023-05-01T10:08:35Z",
+    "observed_at": "2026-09-07T12:41:20Z",
+    "ingested_at": "2026-09-07T12:41:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:54:03Z",
+    "ledger_committed_at": "2026-09-07T21:54:03Z"
   }
 ]
