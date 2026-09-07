@@ -568553,5 +568553,53 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:53:42Z",
     "ledger_committed_at": "2026-09-07T16:53:42Z"
+  },
+  {
+    "id": "spr-svg-loaders-2026-09-07",
+    "display_name": "spr-svg-loaders",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "spr-svg-loaders",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.0.9",
+          "1.9.10",
+          "1.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6265",
+            "osv_published_at": "2022-05-31T13:29:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:23:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:23:06Z",
+    "osv_earliest_published_at": "2022-05-31T13:29:37Z",
+    "source_published_at": "2022-05-31T13:29:37Z",
+    "observed_at": "2026-09-07T09:23:06Z",
+    "ingested_at": "2026-09-07T09:23:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:53:53Z",
+    "ledger_committed_at": "2026-09-07T16:53:53Z"
   }
 ]
