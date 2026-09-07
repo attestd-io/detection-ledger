@@ -578483,5 +578483,37 @@
     "advisory_url": "https://registry.npmjs.org/%40things-factory%2Fintegration-marketplace",
     "ledger_commit_at": "2026-09-07T17:03:15Z",
     "ledger_committed_at": "2026-09-07T17:03:15Z"
+  },
+  {
+    "id": "verifiables-request-converter-2026-09-07",
+    "display_name": "@verifiables/request-converter",
+    "campaign": "aia-digital",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@verifiables/request-converter",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:37:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:37:04Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T09:37:04Z",
+    "ingested_at": "2026-09-07T09:37:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40verifiables%2Frequest-converter",
+    "ledger_commit_at": "2026-09-07T17:03:25Z",
+    "ledger_committed_at": "2026-09-07T17:03:25Z"
   }
 ]
