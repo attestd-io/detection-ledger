@@ -1,0 +1,37 @@
+{
+  "id": "terser-ebrpack-plugin-2026-09-07",
+  "display_name": "terser-ebrpack-plugin",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "terser-ebrpack-plugin",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6461",
+          "osv_published_at": "2022-08-19T03:55:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:46:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:46:34Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:21Z",
+  "source_published_at": "2022-08-19T03:55:21Z",
+  "observed_at": "2026-09-07T09:46:34Z",
+  "ingested_at": "2026-09-07T09:46:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:32:32Z",
+  "ledger_committed_at": "2026-09-07T17:32:32Z"
+}
