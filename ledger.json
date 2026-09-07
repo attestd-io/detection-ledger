@@ -424082,5 +424082,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:37:35Z",
     "ledger_committed_at": "2026-09-07T07:37:35Z"
+  },
+  {
+    "id": "hrsites-fb-with-city-suggests-2026-09-07",
+    "display_name": "@hrsites/fb-with-city-suggests",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@hrsites/fb-with-city-suggests",
+        "ecosystem": "npm",
+        "versions": [
+          "1.763.0",
+          "2.764.0",
+          "3.765.0",
+          "4.766.0",
+          "5.767.0",
+          "6.768.0",
+          "948.769.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-338",
+            "osv_published_at": "2022-06-20T20:16:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:18:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:18:01Z",
+    "osv_earliest_published_at": "2022-06-20T20:16:42Z",
+    "source_published_at": "2022-06-20T20:16:42Z",
+    "observed_at": "2026-09-07T05:18:01Z",
+    "ingested_at": "2026-09-07T05:18:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:37:44Z",
+    "ledger_committed_at": "2026-09-07T07:37:44Z"
   }
 ]
