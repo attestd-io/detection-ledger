@@ -1,0 +1,38 @@
+{
+  "id": "zmarta-analytics-2026-09-07",
+  "display_name": "zmarta-analytics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zmarta-analytics",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.0",
+        "99.10.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7402",
+          "osv_published_at": "2022-06-20T20:19:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:36:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:36:09Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:17Z",
+  "source_published_at": "2022-06-20T20:19:17Z",
+  "observed_at": "2026-09-07T11:36:09Z",
+  "ingested_at": "2026-09-07T11:36:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:23:58Z",
+  "ledger_committed_at": "2026-09-07T20:23:58Z"
+}
