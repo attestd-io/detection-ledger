@@ -472841,5 +472841,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:02:54Z",
     "ledger_committed_at": "2026-09-07T11:02:54Z"
+  },
+  {
+    "id": "localforage-memorystoragedriver-2026-09-07",
+    "display_name": "localforage-memorystoragedriver",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "localforage-memorystoragedriver",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4355",
+            "osv_published_at": "2022-06-20T20:22:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:31:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:31:09Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:46Z",
+    "source_published_at": "2022-06-20T20:22:46Z",
+    "observed_at": "2026-09-07T06:31:09Z",
+    "ingested_at": "2026-09-07T06:31:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:03:03Z",
+    "ledger_committed_at": "2026-09-07T11:03:03Z"
   }
 ]
