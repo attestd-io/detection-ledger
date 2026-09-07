@@ -582504,5 +582504,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:20:13Z",
     "ledger_committed_at": "2026-09-07T17:20:13Z"
+  },
+  {
+    "id": "aia-digital-ui-library-2026-09-07",
+    "display_name": "@aia-digital/ui-library",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@aia-digital/ui-library",
+        "ecosystem": "npm",
+        "versions": [
+          "2.3.106",
+          "2.3.107",
+          "2.3.108",
+          "2.4.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-64",
+            "osv_published_at": "2022-06-20T20:24:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:39:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:39:58Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:03Z",
+    "source_published_at": "2022-06-20T20:24:03Z",
+    "observed_at": "2026-09-07T09:39:58Z",
+    "ingested_at": "2026-09-07T09:39:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:20:22Z",
+    "ledger_committed_at": "2026-09-07T17:20:22Z"
   }
 ]
