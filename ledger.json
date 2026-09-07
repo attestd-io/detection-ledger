@@ -587293,5 +587293,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:40:40Z",
     "ledger_committed_at": "2026-09-07T17:40:40Z"
+  },
+  {
+    "id": "the-clojure-worker-2026-09-07",
+    "display_name": "the-clojure-worker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "the-clojure-worker",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6545",
+            "osv_published_at": "2022-06-20T20:21:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:51:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:51:28Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:46Z",
+    "source_published_at": "2022-06-20T20:21:46Z",
+    "observed_at": "2026-09-07T09:51:28Z",
+    "ingested_at": "2026-09-07T09:51:28Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:40:49Z",
+    "ledger_committed_at": "2026-09-07T17:40:49Z"
   }
 ]
