@@ -534094,5 +534094,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:27:49Z",
     "ledger_committed_at": "2026-09-07T14:27:49Z"
+  },
+  {
+    "id": "ptokens-erc777-smart-contract-2026-09-07",
+    "display_name": "ptokens-erc777-smart-contract",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ptokens-erc777-smart-contract",
+        "ecosystem": "npm",
+        "versions": [
+          "5.5.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5511",
+            "osv_published_at": "2022-07-18T13:58:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:10:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:10:46Z",
+    "osv_earliest_published_at": "2022-07-18T13:58:58Z",
+    "source_published_at": "2022-07-18T13:58:58Z",
+    "observed_at": "2026-09-07T08:10:46Z",
+    "ingested_at": "2026-09-07T08:10:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:28:02Z",
+    "ledger_committed_at": "2026-09-07T14:28:02Z"
   }
 ]
