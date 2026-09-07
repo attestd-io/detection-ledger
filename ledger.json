@@ -525993,5 +525993,62 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:55:09Z",
     "ledger_committed_at": "2026-09-07T13:55:09Z"
+  },
+  {
+    "id": "pidl-react-2026-09-07",
+    "display_name": "pidl-react",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pidl-react",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "0.863.0",
+          "1.863.0",
+          "1.864.0",
+          "10.872.0",
+          "2.864.0",
+          "2.865.0",
+          "3.865.0",
+          "3.866.0",
+          "4.866.0",
+          "4.867.0",
+          "5.867.0",
+          "5.868.0",
+          "6.868.0",
+          "6.869.0",
+          "7.869.0",
+          "7.870.0",
+          "8.870.0",
+          "8.871.0",
+          "9.871.0",
+          "921.872.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5331",
+            "osv_published_at": "2022-07-22T10:23:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:52:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:52:43Z",
+    "osv_earliest_published_at": "2022-07-22T10:23:54Z",
+    "source_published_at": "2022-07-22T10:23:54Z",
+    "observed_at": "2026-09-07T07:52:43Z",
+    "ingested_at": "2026-09-07T07:52:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:55:18Z",
+    "ledger_committed_at": "2026-09-07T13:55:18Z"
   }
 ]
