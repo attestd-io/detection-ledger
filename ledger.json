@@ -360683,5 +360683,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:03:25Z",
     "ledger_committed_at": "2026-09-07T04:03:25Z"
+  },
+  {
+    "id": "com-unity-burst-2026-09-07",
+    "display_name": "com.unity.burst",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "com.unity.burst",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2056",
+            "osv_published_at": "2022-06-20T18:19:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:52:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:52:48Z",
+    "osv_earliest_published_at": "2022-06-20T18:19:34Z",
+    "source_published_at": "2022-06-20T18:19:34Z",
+    "observed_at": "2026-09-07T03:52:48Z",
+    "ingested_at": "2026-09-07T03:52:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:03:32Z",
+    "ledger_committed_at": "2026-09-07T04:03:32Z"
   }
 ]
