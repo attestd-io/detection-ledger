@@ -1,0 +1,38 @@
+{
+  "id": "ufx-lib-hive-out-spec-2026-09-07",
+  "display_name": "ufx-lib-hive-out-spec",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ufx-lib-hive-out-spec",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.2",
+        "0.0.1-security.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6738",
+          "osv_published_at": "2022-06-20T20:17:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:33:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:33:57Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:56Z",
+  "source_published_at": "2022-06-20T20:17:56Z",
+  "observed_at": "2026-09-07T10:33:57Z",
+  "ingested_at": "2026-09-07T10:33:57Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:18:00Z",
+  "ledger_committed_at": "2026-09-07T18:18:00Z"
+}
