@@ -606536,5 +606536,66 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:58:51Z",
     "ledger_committed_at": "2026-09-07T17:58:51Z"
+  },
+  {
+    "id": "trezor-ui-components-2026-09-07",
+    "display_name": "trezor-ui-components",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "trezor-ui-components",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.0-beta.1",
+          "1.0.0-beta.10",
+          "1.0.0-beta.11",
+          "1.0.0-beta.12",
+          "1.0.0-beta.13",
+          "1.0.0-beta.14",
+          "1.0.0-beta.15",
+          "1.0.0-beta.16",
+          "1.0.0-beta.17",
+          "1.0.0-beta.18",
+          "1.0.0-beta.19",
+          "1.0.0-beta.2",
+          "1.0.0-beta.20",
+          "1.0.0-beta.21",
+          "1.0.0-beta.22",
+          "1.0.0-beta.23",
+          "1.0.0-beta.24",
+          "1.0.0-beta.3",
+          "1.0.0-beta.4",
+          "1.0.0-beta.5",
+          "1.0.0-beta.6",
+          "1.0.0-beta.7",
+          "1.0.0-beta.8",
+          "1.0.0-beta.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6646",
+            "osv_published_at": "2022-05-31T13:24:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:16:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:16:07Z",
+    "osv_earliest_published_at": "2022-05-31T13:24:03Z",
+    "source_published_at": "2022-05-31T13:24:03Z",
+    "observed_at": "2026-09-07T10:16:07Z",
+    "ingested_at": "2026-09-07T10:16:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:59:01Z",
+    "ledger_committed_at": "2026-09-07T17:59:01Z"
   }
 ]
