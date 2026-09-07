@@ -480876,5 +480876,58 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:33:50Z",
     "ledger_committed_at": "2026-09-07T11:33:50Z"
+  },
+  {
+    "id": "mcs-landings-blocks-2026-09-07",
+    "display_name": "mcs-landings-blocks",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mcs-landings-blocks",
+        "ecosystem": "npm",
+        "versions": [
+          "1.9537.0",
+          "1.9872.2",
+          "2.9872.2",
+          "2.9877.0",
+          "3.9872.0",
+          "3.9872.2",
+          "4.9872.0",
+          "4.9872.2",
+          "5.9872.0",
+          "5.9872.2",
+          "6.9872.0",
+          "6.9872.2",
+          "7.9872.0",
+          "7.9872.2",
+          "8.9872.2",
+          "9865.9872.0",
+          "9865.9872.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4521",
+            "osv_published_at": "2022-06-20T21:08:21Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:45:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:45:51Z",
+    "osv_earliest_published_at": "2022-06-20T21:08:21Z",
+    "source_published_at": "2022-06-20T21:08:21Z",
+    "observed_at": "2026-09-07T06:45:51Z",
+    "ingested_at": "2026-09-07T06:45:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:34:04Z",
+    "ledger_committed_at": "2026-09-07T11:34:04Z"
   }
 ]
