@@ -1,0 +1,39 @@
+{
+  "id": "rqzax-database-2026-09-07",
+  "display_name": "rqzax-database",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rqzax-database",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.2.3",
+        "1.2.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-749",
+          "osv_published_at": "2023-07-04T03:24:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:06:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:06:24Z",
+  "osv_earliest_published_at": "2023-07-04T03:24:54Z",
+  "source_published_at": "2023-07-04T03:24:54Z",
+  "observed_at": "2026-09-07T13:06:24Z",
+  "ingested_at": "2026-09-07T13:06:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:18:46Z",
+  "ledger_committed_at": "2026-09-07T23:18:46Z"
+}
