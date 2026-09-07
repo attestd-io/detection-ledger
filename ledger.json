@@ -664078,5 +664078,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:35:16Z",
     "ledger_committed_at": "2026-09-07T21:35:16Z"
+  },
+  {
+    "id": "breaking-the-habit-of-being-yourself-how-to-lose-your-mind-and-create-a-new-one-by-joe-dispenza-on-m-2026-09-07",
+    "display_name": "breaking-the-habit-of-being-yourself-how-to-lose-your-mind-and-create-a-new-one-by-joe-dispenza-on-m",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "breaking-the-habit-of-being-yourself-how-to-lose-your-mind-and-create-a-new-one-by-joe-dispenza-on-m",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-143",
+            "osv_published_at": "2023-05-10T13:24:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:31:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:31:19Z",
+    "osv_earliest_published_at": "2023-05-10T13:24:33Z",
+    "source_published_at": "2023-05-10T13:24:33Z",
+    "observed_at": "2026-09-07T12:31:19Z",
+    "ingested_at": "2026-09-07T12:31:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:35:26Z",
+    "ledger_committed_at": "2026-09-07T21:35:26Z"
   }
 ]
