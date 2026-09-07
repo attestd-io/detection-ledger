@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-js-sdk-2026-09-07",
+  "display_name": "lenovo-js-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "lenovo-js-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "5.1.3",
+        "9.1.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4283",
+          "osv_published_at": "2022-06-20T20:12:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:20:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:20:13Z",
+  "osv_earliest_published_at": "2022-06-20T20:12:36Z",
+  "source_published_at": "2022-06-20T20:12:36Z",
+  "observed_at": "2026-09-07T06:20:13Z",
+  "ingested_at": "2026-09-07T06:20:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T10:51:08Z",
+  "ledger_committed_at": "2026-09-07T10:51:08Z"
+}
