@@ -667297,5 +667297,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:48:32Z",
     "ledger_committed_at": "2026-09-07T21:48:32Z"
+  },
+  {
+    "id": "chalk-animate-cjs-2026-09-07",
+    "display_name": "chalk-animate-cjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "chalk-animate-cjs",
+        "ecosystem": "npm",
+        "versions": [
+          "3.1.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-168",
+            "osv_published_at": "2023-07-12T00:41:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:38:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:38:29Z",
+    "osv_earliest_published_at": "2023-07-12T00:41:25Z",
+    "source_published_at": "2023-07-12T00:41:25Z",
+    "observed_at": "2026-09-07T12:38:29Z",
+    "ingested_at": "2026-09-07T12:38:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:48:41Z",
+    "ledger_committed_at": "2026-09-07T21:48:41Z"
   }
 ]
