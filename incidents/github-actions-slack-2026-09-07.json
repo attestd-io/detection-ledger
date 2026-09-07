@@ -1,0 +1,40 @@
+{
+  "id": "github-actions-slack-2026-09-07",
+  "display_name": "github-actions-slack",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "github-actions-slack",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-semantically-released",
+        "1.0.0",
+        "1.0.1",
+        "20.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-474",
+          "osv_published_at": "2023-01-11T03:51:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:56:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:56:31Z",
+  "osv_earliest_published_at": "2023-01-11T03:51:04Z",
+  "source_published_at": "2023-01-11T03:51:04Z",
+  "observed_at": "2026-09-07T12:56:31Z",
+  "ingested_at": "2026-09-07T12:56:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:42:06Z",
+  "ledger_committed_at": "2026-09-07T22:42:06Z"
+}
