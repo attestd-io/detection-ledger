@@ -391466,5 +391466,55 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:40:47Z",
     "ledger_committed_at": "2026-09-07T05:40:47Z"
+  },
+  {
+    "id": "dyson-careers-2026-09-07",
+    "display_name": "dyson-careers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dyson-careers",
+        "ecosystem": "npm",
+        "versions": [
+          "15.0.6",
+          "15.0.7",
+          "15.0.8",
+          "2.0.0",
+          "2.0.1",
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.0.6",
+          "20.0.10",
+          "20.0.11",
+          "20.0.5",
+          "20.0.6",
+          "20.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2638",
+            "osv_published_at": "2022-06-20T20:19:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:51:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:51:45Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:10Z",
+    "source_published_at": "2022-06-20T20:19:10Z",
+    "observed_at": "2026-09-07T04:51:45Z",
+    "ingested_at": "2026-09-07T04:51:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:40:56Z",
+    "ledger_committed_at": "2026-09-07T05:40:56Z"
   }
 ]
