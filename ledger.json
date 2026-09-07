@@ -465441,5 +465441,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:33:06Z",
     "ledger_committed_at": "2026-09-07T10:33:06Z"
+  },
+  {
+    "id": "koop-componentenbibliotheek-2026-09-07",
+    "display_name": "koop-componentenbibliotheek",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "koop-componentenbibliotheek",
+        "ecosystem": "npm",
+        "versions": [
+          "1.9.20-hotfix3",
+          "1.9.21"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4215",
+            "osv_published_at": "2022-06-20T20:25:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:14:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:14:09Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:56Z",
+    "source_published_at": "2022-06-20T20:25:56Z",
+    "observed_at": "2026-09-07T06:14:09Z",
+    "ingested_at": "2026-09-07T06:14:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:33:15Z",
+    "ledger_committed_at": "2026-09-07T10:33:15Z"
   }
 ]
