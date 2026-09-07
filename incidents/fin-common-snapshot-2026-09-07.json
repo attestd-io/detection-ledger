@@ -1,0 +1,38 @@
+{
+  "id": "fin-common-snapshot-2026-09-07",
+  "display_name": "fin-common-snapshot",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fin-common-snapshot",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.9",
+        "99.9.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3036",
+          "osv_published_at": "2022-06-20T21:13:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:09:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:09:37Z",
+  "osv_earliest_published_at": "2022-06-20T21:13:14Z",
+  "source_published_at": "2022-06-20T21:13:14Z",
+  "observed_at": "2026-09-07T05:09:37Z",
+  "ingested_at": "2026-09-07T05:09:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:43:05Z",
+  "ledger_committed_at": "2026-09-07T06:43:05Z"
+}
