@@ -1,0 +1,38 @@
+{
+  "id": "creation-ct630-usb-driver-5w-2026-09-07",
+  "display_name": "creation_ct630_usb_driver__5w",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "creation_ct630_usb_driver__5w",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "unpublished"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-214",
+          "osv_published_at": "2023-05-09T00:00:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:40:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:40:51Z",
+  "osv_earliest_published_at": "2023-05-09T00:00:21Z",
+  "source_published_at": "2023-05-09T00:00:21Z",
+  "observed_at": "2026-09-07T12:40:51Z",
+  "ingested_at": "2026-09-07T12:40:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:53:04Z",
+  "ledger_committed_at": "2026-09-07T21:53:04Z"
+}
