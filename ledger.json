@@ -378730,5 +378730,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:56:31Z",
     "ledger_committed_at": "2026-09-07T04:56:31Z"
+  },
+  {
+    "id": "datanode-explorer-2026-09-07",
+    "display_name": "datanode-explorer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "datanode-explorer",
+        "ecosystem": "npm",
+        "versions": [
+          "999.999.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2354",
+            "osv_published_at": "2022-06-20T20:23:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:33:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:33:28Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:36Z",
+    "source_published_at": "2022-06-20T20:23:36Z",
+    "observed_at": "2026-09-07T04:33:28Z",
+    "ingested_at": "2026-09-07T04:33:28Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:56:39Z",
+    "ledger_committed_at": "2026-09-07T04:56:39Z"
   }
 ]
