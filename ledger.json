@@ -666552,5 +666552,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:45:33Z",
     "ledger_committed_at": "2026-09-07T21:45:33Z"
+  },
+  {
+    "id": "ipmacjs-2026-09-07",
+    "display_name": "ipmacjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ipmacjs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.3.3",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1552",
+            "osv_published_at": "2023-05-15T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:37:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:37:51Z",
+    "osv_earliest_published_at": "2023-05-15T00:00:00Z",
+    "source_published_at": "2023-05-15T00:00:00Z",
+    "observed_at": "2026-09-07T12:37:51Z",
+    "ingested_at": "2026-09-07T12:37:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:45:42Z",
+    "ledger_committed_at": "2026-09-07T21:45:42Z"
   }
 ]
