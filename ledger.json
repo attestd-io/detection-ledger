@@ -582124,5 +582124,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:18:38Z",
     "ledger_committed_at": "2026-09-07T17:18:38Z"
+  },
+  {
+    "id": "sync-express-2026-09-07",
+    "display_name": "sync-express",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sync-express",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6389",
+            "osv_published_at": "2022-06-08T08:43:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:39:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:39:46Z",
+    "osv_earliest_published_at": "2022-06-08T08:43:52Z",
+    "source_published_at": "2022-06-08T08:43:52Z",
+    "observed_at": "2026-09-07T09:39:46Z",
+    "ingested_at": "2026-09-07T09:39:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:18:48Z",
+    "ledger_committed_at": "2026-09-07T17:18:48Z"
   }
 ]
