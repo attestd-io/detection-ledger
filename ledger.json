@@ -496753,5 +496753,37 @@
     "advisory_url": "https://registry.npmjs.org/%40file-type%2Fpdf",
     "ledger_commit_at": "2026-09-07T12:35:28Z",
     "ledger_committed_at": "2026-09-07T12:35:28Z"
+  },
+  {
+    "id": "lifecycle-utils-2026-09-07",
+    "display_name": "lifecycle-utils",
+    "campaign": "0xten",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "lifecycle-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:04:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:04:01Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T07:04:01Z",
+    "ingested_at": "2026-09-07T07:04:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/lifecycle-utils",
+    "ledger_commit_at": "2026-09-07T12:35:41Z",
+    "ledger_committed_at": "2026-09-07T12:35:41Z"
   }
 ]
