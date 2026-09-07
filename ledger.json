@@ -436056,5 +436056,44 @@
     "advisory_url": "https://registry.npmjs.org/minimal-shared",
     "ledger_commit_at": "2026-09-07T08:20:01Z",
     "ledger_committed_at": "2026-09-07T08:20:01Z"
+  },
+  {
+    "id": "react-theme-switch-animation-2026-09-07",
+    "display_name": "react-theme-switch-animation",
+    "campaign": "instant-api-hooks",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "react-theme-switch-animation",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.10",
+          "0.0.11",
+          "0.0.13",
+          "0.0.14",
+          "0.0.15",
+          "0.0.16",
+          "0.0.4",
+          "0.0.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:32:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:32:01Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:32:01Z",
+    "ingested_at": "2026-09-07T05:32:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/react-theme-switch-animation",
+    "ledger_commit_at": "2026-09-07T08:20:12Z",
+    "ledger_committed_at": "2026-09-07T08:20:12Z"
   }
 ]
