@@ -1,0 +1,37 @@
+{
+  "id": "pig-13-prod-2026-09-07",
+  "display_name": "pig_13_prod",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pig_13_prod",
+      "ecosystem": "npm",
+      "versions": [
+        "69.69.69"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5332",
+          "osv_published_at": "2022-10-24T04:21:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:52:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:52:44Z",
+  "osv_earliest_published_at": "2022-10-24T04:21:39Z",
+  "source_published_at": "2022-10-24T04:21:39Z",
+  "observed_at": "2026-09-07T07:52:44Z",
+  "ingested_at": "2026-09-07T07:52:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:55:27Z",
+  "ledger_committed_at": "2026-09-07T13:55:27Z"
+}
