@@ -663152,5 +663152,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:31:17Z",
     "ledger_committed_at": "2026-09-07T21:31:17Z"
+  },
+  {
+    "id": "axios-proxy-2026-09-07",
+    "display_name": "axios-proxy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "axios-proxy",
+        "ecosystem": "npm",
+        "versions": [
+          "1.7.3",
+          "1.7.4",
+          "1.7.7",
+          "1.7.9",
+          "1.8.9",
+          "1.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-116",
+            "osv_published_at": "2023-03-06T00:23:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:28:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:28:35Z",
+    "osv_earliest_published_at": "2023-03-06T00:23:52Z",
+    "source_published_at": "2023-03-06T00:23:52Z",
+    "observed_at": "2026-09-07T12:28:35Z",
+    "ingested_at": "2026-09-07T12:28:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:31:27Z",
+    "ledger_committed_at": "2026-09-07T21:31:27Z"
   }
 ]
