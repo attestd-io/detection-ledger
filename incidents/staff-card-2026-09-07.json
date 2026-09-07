@@ -1,0 +1,37 @@
+{
+  "id": "staff-card-2026-09-07",
+  "display_name": "staff-card",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "staff-card",
+      "ecosystem": "npm",
+      "versions": [
+        "999.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6288",
+          "osv_published_at": "2022-06-20T20:19:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:23:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:23:30Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:38Z",
+  "source_published_at": "2022-06-20T20:19:38Z",
+  "observed_at": "2026-09-07T09:23:30Z",
+  "ingested_at": "2026-09-07T09:23:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:57:47Z",
+  "ledger_committed_at": "2026-09-07T16:57:47Z"
+}
