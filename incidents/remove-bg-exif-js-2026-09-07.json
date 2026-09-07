@@ -1,0 +1,58 @@
+{
+  "id": "remove-bg-exif-js-2026-09-07",
+  "display_name": "@remove-bg/exif-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@remove-bg/exif-js",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.2",
+        "0.1.1",
+        "1.879.0",
+        "1.879.1",
+        "10.888.0",
+        "10.888.1",
+        "2.880.0",
+        "2.880.1",
+        "3.881.0",
+        "3.881.1",
+        "4.882.0",
+        "4.882.1",
+        "5.883.0",
+        "5.883.1",
+        "6.884.0",
+        "6.884.1",
+        "7.885.0",
+        "7.885.1",
+        "8.886.0",
+        "8.886.1",
+        "9.887.0",
+        "9.887.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-559",
+          "osv_published_at": "2022-06-20T20:12:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:13:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:13:09Z",
+  "osv_earliest_published_at": "2022-06-20T20:12:47Z",
+  "source_published_at": "2022-06-20T20:12:47Z",
+  "observed_at": "2026-09-07T08:13:09Z",
+  "ingested_at": "2026-09-07T08:13:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T14:41:49Z",
+  "ledger_committed_at": "2026-09-07T14:41:49Z"
+}
