@@ -1,0 +1,38 @@
+{
+  "id": "angieslist-composed-components-2026-09-07",
+  "display_name": "angieslist-composed-components",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "angieslist-composed-components",
+      "ecosystem": "npm",
+      "versions": [
+        "6.2.1-dcec96e.4",
+        "6.2.2-dcec96e.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-997",
+          "osv_published_at": "2022-05-17T08:45:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:24:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:24:22Z",
+  "osv_earliest_published_at": "2022-05-17T08:45:49Z",
+  "source_published_at": "2022-05-17T08:45:49Z",
+  "observed_at": "2026-09-07T12:24:22Z",
+  "ingested_at": "2026-09-07T12:24:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:18:38Z",
+  "ledger_committed_at": "2026-09-07T21:18:38Z"
+}
