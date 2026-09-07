@@ -408029,5 +408029,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:37:22Z",
     "ledger_committed_at": "2026-09-07T06:37:22Z"
+  },
+  {
+    "id": "fetch-xd-2026-09-07",
+    "display_name": "fetch-xd",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fetch-xd",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3014",
+            "osv_published_at": "2022-08-19T07:23:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:07:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:07:03Z",
+    "osv_earliest_published_at": "2022-08-19T07:23:05Z",
+    "source_published_at": "2022-08-19T07:23:05Z",
+    "observed_at": "2026-09-07T05:07:03Z",
+    "ingested_at": "2026-09-07T05:07:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:37:31Z",
+    "ledger_committed_at": "2026-09-07T06:37:31Z"
   }
 ]
