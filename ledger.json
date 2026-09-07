@@ -666288,5 +666288,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:44:20Z",
     "ledger_committed_at": "2026-09-07T21:44:20Z"
+  },
+  {
+    "id": "usaa-qtest-reporter-2026-09-07",
+    "display_name": "usaa-qtest-reporter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "usaa-qtest-reporter",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1531",
+            "osv_published_at": "2023-08-21T02:29:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:35:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:35:59Z",
+    "osv_earliest_published_at": "2023-08-21T02:29:50Z",
+    "source_published_at": "2023-08-21T02:29:50Z",
+    "observed_at": "2026-09-07T12:35:59Z",
+    "ingested_at": "2026-09-07T12:35:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:44:30Z",
+    "ledger_committed_at": "2026-09-07T21:44:30Z"
   }
 ]
