@@ -1,0 +1,38 @@
+{
+  "id": "woo-interest-in-products-2026-09-07",
+  "display_name": "woo-interest-in-products",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "woo-interest-in-products",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.4",
+        "0.0.1-security.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7214",
+          "osv_published_at": "2022-06-20T20:17:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:12:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:12:54Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:42Z",
+  "source_published_at": "2022-06-20T20:17:42Z",
+  "observed_at": "2026-09-07T11:12:54Z",
+  "ingested_at": "2026-09-07T11:12:54Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:48:41Z",
+  "ledger_committed_at": "2026-09-07T19:48:41Z"
+}
