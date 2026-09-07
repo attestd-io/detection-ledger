@@ -465700,5 +465700,44 @@
     "advisory_url": "https://registry.npmjs.org/%40feedmepos%2Fmf-e-invoice",
     "ledger_commit_at": "2026-09-07T10:34:10Z",
     "ledger_committed_at": "2026-09-07T10:34:10Z"
+  },
+  {
+    "id": "genesislcap-foundation-reporting-2026-09-07",
+    "display_name": "@genesislcap/foundation-reporting",
+    "campaign": "maui-mf",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@genesislcap/foundation-reporting",
+        "ecosystem": "npm",
+        "versions": [
+          "10.2.1-alpha-05b9ae3.0",
+          "10.3.0",
+          "10.3.1",
+          "10.3.1-alpha-08364b6.0",
+          "10.3.1-alpha-f57517c.0",
+          "9.0.1-alpha-1972929.0",
+          "9.0.1-alpha-3155c9c.0",
+          "9.0.1-alpha-b5c5eb7.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:14:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:14:55Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:14:55Z",
+    "ingested_at": "2026-09-07T06:14:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40genesislcap%2Ffoundation-reporting",
+    "ledger_commit_at": "2026-09-07T10:34:21Z",
+    "ledger_committed_at": "2026-09-07T10:34:21Z"
   }
 ]
