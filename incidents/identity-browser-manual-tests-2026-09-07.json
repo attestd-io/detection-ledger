@@ -1,0 +1,38 @@
+{
+  "id": "identity-browser-manual-tests-2026-09-07",
+  "display_name": "identity-browser-manual-tests",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "identity-browser-manual-tests",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0",
+        "99.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3767",
+          "osv_published_at": "2022-06-20T20:10:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:45:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:45:07Z",
+  "osv_earliest_published_at": "2022-06-20T20:10:48Z",
+  "source_published_at": "2022-06-20T20:10:48Z",
+  "observed_at": "2026-09-07T05:45:07Z",
+  "ingested_at": "2026-09-07T05:45:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T08:53:30Z",
+  "ledger_committed_at": "2026-09-07T08:53:30Z"
+}
