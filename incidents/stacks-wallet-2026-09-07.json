@@ -1,0 +1,37 @@
+{
+  "id": "stacks-wallet-2026-09-07",
+  "display_name": "stacks-wallet",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "stacks-wallet",
+      "ecosystem": "npm",
+      "versions": [
+        "8.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6287",
+          "osv_published_at": "2022-06-20T20:15:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:23:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:23:29Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:38Z",
+  "source_published_at": "2022-06-20T20:15:38Z",
+  "observed_at": "2026-09-07T09:23:29Z",
+  "ingested_at": "2026-09-07T09:23:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:57:39Z",
+  "ledger_committed_at": "2026-09-07T16:57:39Z"
+}
