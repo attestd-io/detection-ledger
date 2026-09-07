@@ -1,0 +1,37 @@
+{
+  "id": "workspaces-api-2026-09-07",
+  "display_name": "workspaces_api",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "workspaces_api",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7229",
+          "osv_published_at": "2022-06-20T20:24:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:13:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:13:08Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:12Z",
+  "source_published_at": "2022-06-20T20:24:12Z",
+  "observed_at": "2026-09-07T11:13:08Z",
+  "ingested_at": "2026-09-07T11:13:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:50:57Z",
+  "ledger_committed_at": "2026-09-07T19:50:57Z"
+}
