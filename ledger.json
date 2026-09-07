@@ -606634,5 +606634,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:59:11Z",
     "ledger_committed_at": "2026-09-07T17:59:11Z"
+  },
+  {
+    "id": "tribe-api-2026-09-07",
+    "display_name": "tribe-api",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tribe-api",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9877.2",
+          "1.9877.2",
+          "2.9877.2",
+          "3.9877.2",
+          "4.9877.2",
+          "5.9877.2",
+          "6.9877.2",
+          "7.9877.2",
+          "8.9877.2",
+          "9344.9877.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6648",
+            "osv_published_at": "2022-06-20T20:19:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:16:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:16:10Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:40Z",
+    "source_published_at": "2022-06-20T20:19:40Z",
+    "observed_at": "2026-09-07T10:16:10Z",
+    "ingested_at": "2026-09-07T10:16:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:59:20Z",
+    "ledger_committed_at": "2026-09-07T17:59:20Z"
   }
 ]
