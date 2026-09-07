@@ -1,0 +1,38 @@
+{
+  "id": "sam-jobs-2026-09-07",
+  "display_name": "sam_jobs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sam_jobs",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.0",
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5914",
+          "osv_published_at": "2022-06-20T20:15:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:41:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:41:05Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:08Z",
+  "source_published_at": "2022-06-20T20:15:08Z",
+  "observed_at": "2026-09-07T08:41:05Z",
+  "ingested_at": "2026-09-07T08:41:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T15:45:18Z",
+  "ledger_committed_at": "2026-09-07T15:45:18Z"
+}
