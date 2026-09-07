@@ -442185,5 +442185,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T08:46:57Z",
     "ledger_committed_at": "2026-09-07T08:46:57Z"
+  },
+  {
+    "id": "huobi-trading-view-swap-2026-09-07",
+    "display_name": "huobi-trading-view-swap",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "huobi-trading-view-swap",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3725",
+            "osv_published_at": "2022-06-20T20:26:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:37:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:37:54Z",
+    "osv_earliest_published_at": "2022-06-20T20:26:20Z",
+    "source_published_at": "2022-06-20T20:26:20Z",
+    "observed_at": "2026-09-07T05:37:54Z",
+    "ingested_at": "2026-09-07T05:37:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T08:47:07Z",
+    "ledger_committed_at": "2026-09-07T08:47:07Z"
   }
 ]
