@@ -564931,5 +564931,37 @@
     "advisory_url": "https://registry.npmjs.org/eslint-config-prettier",
     "ledger_commit_at": "2026-09-07T16:39:11Z",
     "ledger_committed_at": "2026-09-07T16:39:11Z"
+  },
+  {
+    "id": "eslint-plugin-react-jsx-2026-09-07",
+    "display_name": "eslint-plugin-react-jsx",
+    "campaign": "adnovum-eslint",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "eslint-plugin-react-jsx",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:16:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:16:06Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T09:16:06Z",
+    "ingested_at": "2026-09-07T09:16:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/eslint-plugin-react-jsx",
+    "ledger_commit_at": "2026-09-07T16:39:20Z",
+    "ledger_committed_at": "2026-09-07T16:39:20Z"
   }
 ]
