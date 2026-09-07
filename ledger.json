@@ -682370,5 +682370,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:54:54Z",
     "ledger_committed_at": "2026-09-07T22:54:54Z"
+  },
+  {
+    "id": "libponenunber-js-2026-09-07",
+    "display_name": "libponenunber-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "libponenunber-js",
+        "ecosystem": "npm",
+        "versions": [
+          "16.10.10",
+          "16.11.10"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-567",
+            "osv_published_at": "2023-06-01T05:26:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:58:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:58:11Z",
+    "osv_earliest_published_at": "2023-06-01T05:26:27Z",
+    "source_published_at": "2023-06-01T05:26:27Z",
+    "observed_at": "2026-09-07T12:58:11Z",
+    "ingested_at": "2026-09-07T12:58:11Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:55:04Z",
+    "ledger_committed_at": "2026-09-07T22:55:04Z"
   }
 ]
