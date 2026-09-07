@@ -469408,5 +469408,37 @@
     "advisory_url": "https://registry.npmjs.org/di-scheduler-sla-fe",
     "ledger_commit_at": "2026-09-07T10:49:35Z",
     "ledger_committed_at": "2026-09-07T10:49:35Z"
+  },
+  {
+    "id": "digital-human-chatbot-js-2026-09-07",
+    "display_name": "digital-human-chatbot-js",
+    "campaign": "md-fe",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "digital-human-chatbot-js",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.8-beta.29"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:19:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:19:53Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:19:53Z",
+    "ingested_at": "2026-09-07T06:19:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/digital-human-chatbot-js",
+    "ledger_commit_at": "2026-09-07T10:49:45Z",
+    "ledger_committed_at": "2026-09-07T10:49:45Z"
   }
 ]
