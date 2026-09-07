@@ -682059,5 +682059,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:53:34Z",
     "ledger_committed_at": "2026-09-07T22:53:34Z"
+  },
+  {
+    "id": "kroniko-2026-09-07",
+    "display_name": "kroniko",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "kroniko",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.2",
+          "1.1.6",
+          "1.33.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-558",
+            "osv_published_at": "2023-01-30T11:42:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:58:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:58:01Z",
+    "osv_earliest_published_at": "2023-01-30T11:42:13Z",
+    "source_published_at": "2023-01-30T11:42:13Z",
+    "observed_at": "2026-09-07T12:58:01Z",
+    "ingested_at": "2026-09-07T12:58:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:53:45Z",
+    "ledger_committed_at": "2026-09-07T22:53:45Z"
   }
 ]
