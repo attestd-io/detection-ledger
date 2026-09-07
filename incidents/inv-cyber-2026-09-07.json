@@ -1,0 +1,37 @@
+{
+  "id": "inv-cyber-2026-09-07",
+  "display_name": "inv-cyber",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "inv-cyber",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3917",
+          "osv_published_at": "2022-06-01T09:25:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:55:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:55:23Z",
+  "osv_earliest_published_at": "2022-06-01T09:25:12Z",
+  "source_published_at": "2022-06-01T09:25:12Z",
+  "observed_at": "2026-09-07T05:55:23Z",
+  "ingested_at": "2026-09-07T05:55:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:42:52Z",
+  "ledger_committed_at": "2026-09-07T09:42:52Z"
+}
