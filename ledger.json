@@ -390265,5 +390265,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:36:33Z",
     "ledger_committed_at": "2026-09-07T05:36:33Z"
+  },
+  {
+    "id": "duckrymwhlpaneos-2026-09-07",
+    "display_name": "duckrymwhlpaneos",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "duckrymwhlpaneos",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.91"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2608",
+            "osv_published_at": "2022-07-11T21:50:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:51:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:51:08Z",
+    "osv_earliest_published_at": "2022-07-11T21:50:08Z",
+    "source_published_at": "2022-07-11T21:50:08Z",
+    "observed_at": "2026-09-07T04:51:08Z",
+    "ingested_at": "2026-09-07T04:51:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:36:41Z",
+    "ledger_committed_at": "2026-09-07T05:36:41Z"
   }
 ]
