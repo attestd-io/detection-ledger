@@ -669823,5 +669823,39 @@
     "advisory_url": "https://registry.npmjs.org/%40raisely%2Fcli",
     "ledger_commit_at": "2026-09-07T21:59:31Z",
     "ledger_committed_at": "2026-09-07T21:59:31Z"
+  },
+  {
+    "id": "bililive-cli-2026-09-07",
+    "display_name": "bililive-cli",
+    "campaign": "bingads-webui-campaign",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "bililive-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0",
+          "1.2.1",
+          "1.2.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:43:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:43:31Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T12:43:31Z",
+    "ingested_at": "2026-09-07T12:43:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/bililive-cli",
+    "ledger_commit_at": "2026-09-07T21:59:40Z",
+    "ledger_committed_at": "2026-09-07T21:59:40Z"
   }
 ]
