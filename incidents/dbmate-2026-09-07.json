@@ -1,0 +1,35 @@
+{
+  "id": "dbmate-2026-09-07",
+  "display_name": "dbmate",
+  "campaign": "mcm-schema",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "dbmate",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1001",
+        "0.0.1002",
+        "0.0.1003",
+        "0.0.1004"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:17:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:17:48Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T06:17:48Z",
+  "ingested_at": "2026-09-07T06:17:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/dbmate",
+  "ledger_commit_at": "2026-09-07T10:44:22Z",
+  "ledger_committed_at": "2026-09-07T10:44:22Z"
+}
