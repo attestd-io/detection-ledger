@@ -1,0 +1,38 @@
+{
+  "id": "zalando-tech-radar-2026-09-07",
+  "display_name": "zalando-tech-radar",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zalando-tech-radar",
+      "ecosystem": "npm",
+      "versions": [
+        "2023.5.0",
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-1006",
+          "osv_published_at": "2023-05-11T07:01:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:24:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:24:35Z",
+  "osv_earliest_published_at": "2023-05-11T07:01:36Z",
+  "source_published_at": "2023-05-11T07:01:36Z",
+  "observed_at": "2026-09-07T12:24:35Z",
+  "ingested_at": "2026-09-07T12:24:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:19:59Z",
+  "ledger_committed_at": "2026-09-07T21:19:59Z"
+}
