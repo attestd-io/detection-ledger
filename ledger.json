@@ -492838,5 +492838,37 @@
     "advisory_url": "https://registry.npmjs.org/%40effect%2Fplatform-node",
     "ledger_commit_at": "2026-09-07T12:19:30Z",
     "ledger_committed_at": "2026-09-07T12:19:30Z"
+  },
+  {
+    "id": "github-copilot-linux-x64-2026-09-07",
+    "display_name": "@github/copilot-linux-x64",
+    "campaign": "onehaufe-platform",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@github/copilot-linux-x64",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:54:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:54:02Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:54:02Z",
+    "ingested_at": "2026-09-07T06:54:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40github%2Fcopilot-linux-x64",
+    "ledger_commit_at": "2026-09-07T12:19:40Z",
+    "ledger_committed_at": "2026-09-07T12:19:40Z"
   }
 ]
