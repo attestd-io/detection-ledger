@@ -583226,5 +583226,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:23:22Z",
     "ledger_committed_at": "2026-09-07T17:23:22Z"
+  },
+  {
+    "id": "taf-three-dimensional-view-2026-09-07",
+    "display_name": "taf-three-dimensional-view",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "taf-three-dimensional-view",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "2.0.0",
+          "3.0.0",
+          "3.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6412",
+            "osv_published_at": "2022-06-20T21:13:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:42:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:42:30Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:12Z",
+    "source_published_at": "2022-06-20T21:13:12Z",
+    "observed_at": "2026-09-07T09:42:30Z",
+    "ingested_at": "2026-09-07T09:42:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:23:32Z",
+    "ledger_committed_at": "2026-09-07T17:23:32Z"
   }
 ]
