@@ -1,0 +1,37 @@
+{
+  "id": "jiser-sp-2026-09-07",
+  "display_name": "jiser-sp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jiser-sp",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-534",
+          "osv_published_at": "2023-02-12T21:53:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:57:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:57:36Z",
+  "osv_earliest_published_at": "2023-02-12T21:53:58Z",
+  "source_published_at": "2023-02-12T21:53:58Z",
+  "observed_at": "2026-09-07T12:57:36Z",
+  "ingested_at": "2026-09-07T12:57:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:50:06Z",
+  "ledger_committed_at": "2026-09-07T22:50:06Z"
+}
