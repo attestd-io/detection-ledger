@@ -448291,5 +448291,52 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T09:11:32Z",
     "ledger_committed_at": "2026-09-07T09:11:32Z"
+  },
+  {
+    "id": "intern-scocco-rce-2026-09-07",
+    "display_name": "intern_scocco_rce",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "intern_scocco_rce",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.5.1",
+          "1.5.2",
+          "1.5.3",
+          "1.5.4",
+          "1.5.5",
+          "1.5.6",
+          "1.5.7",
+          "1.5.8",
+          "1.5.9",
+          "1.6.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3865",
+            "osv_published_at": "2022-06-20T20:24:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:51:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:51:12Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:11Z",
+    "source_published_at": "2022-06-20T20:24:11Z",
+    "observed_at": "2026-09-07T05:51:12Z",
+    "ingested_at": "2026-09-07T05:51:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T09:11:41Z",
+    "ledger_committed_at": "2026-09-07T09:11:41Z"
   }
 ]
