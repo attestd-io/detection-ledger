@@ -554898,5 +554898,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:56:13Z",
     "ledger_committed_at": "2026-09-07T15:56:13Z"
+  },
+  {
+    "id": "sdk-release-2026-09-07",
+    "display_name": "sdk-release",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sdk-release",
+        "ecosystem": "npm",
+        "versions": [
+          "5.0.245",
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5977",
+            "osv_published_at": "2022-06-20T07:27:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:43:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:43:29Z",
+    "osv_earliest_published_at": "2022-06-20T07:27:55Z",
+    "source_published_at": "2022-06-20T07:27:55Z",
+    "observed_at": "2026-09-07T08:43:29Z",
+    "ingested_at": "2026-09-07T08:43:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:56:23Z",
+    "ledger_committed_at": "2026-09-07T15:56:23Z"
   }
 ]
