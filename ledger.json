@@ -665497,5 +665497,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:40:47Z",
     "ledger_committed_at": "2026-09-07T21:40:47Z"
+  },
+  {
+    "id": "as-ui-deals-2026-09-07",
+    "display_name": "as-ui-deals",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "as-ui-deals",
+        "ecosystem": "npm",
+        "versions": [
+          "6.2.3",
+          "6.3.3",
+          "7.4.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1510",
+            "osv_published_at": "2023-08-21T03:19:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:35:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:35:39Z",
+    "osv_earliest_published_at": "2023-08-21T03:19:42Z",
+    "source_published_at": "2023-08-21T03:19:42Z",
+    "observed_at": "2026-09-07T12:35:39Z",
+    "ingested_at": "2026-09-07T12:35:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:40:57Z",
+    "ledger_committed_at": "2026-09-07T21:40:57Z"
   }
 ]
