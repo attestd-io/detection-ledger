@@ -662104,5 +662104,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:27:06Z",
     "ledger_committed_at": "2026-09-07T21:27:06Z"
+  },
+  {
+    "id": "ethereum-cryptographyyy-2026-09-07",
+    "display_name": "ethereum-cryptographyyy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ethereum-cryptographyyy",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0",
+          "2.0.1",
+          "2.0.2",
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.0.6",
+          "2.0.7",
+          "2.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1057",
+            "osv_published_at": "2023-08-08T11:41:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:26:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:26:52Z",
+    "osv_earliest_published_at": "2023-08-08T11:41:52Z",
+    "source_published_at": "2023-08-08T11:41:52Z",
+    "observed_at": "2026-09-07T12:26:52Z",
+    "ingested_at": "2026-09-07T12:26:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:27:17Z",
+    "ledger_committed_at": "2026-09-07T21:27:17Z"
   }
 ]
