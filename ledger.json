@@ -623702,5 +623702,54 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:12:34Z",
     "ledger_committed_at": "2026-09-07T19:12:34Z"
+  },
+  {
+    "id": "waffles-icons-2026-09-07",
+    "display_name": "waffles-icons",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "waffles-icons",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2",
+          "0.0.7",
+          "1.344.7",
+          "1.345.2",
+          "2.345.7",
+          "2.346.2",
+          "3.346.7",
+          "3.347.2",
+          "4.347.7",
+          "4.348.2",
+          "5.348.7",
+          "5.349.2",
+          "6.350.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7030",
+            "osv_published_at": "2022-07-12T21:24:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:54:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:54:17Z",
+    "osv_earliest_published_at": "2022-07-12T21:24:22Z",
+    "source_published_at": "2022-07-12T21:24:22Z",
+    "observed_at": "2026-09-07T10:54:17Z",
+    "ingested_at": "2026-09-07T10:54:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:12:43Z",
+    "ledger_committed_at": "2026-09-07T19:12:43Z"
   }
 ]
