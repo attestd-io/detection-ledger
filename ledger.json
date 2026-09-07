@@ -569271,5 +569271,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:56:49Z",
     "ledger_committed_at": "2026-09-07T16:56:49Z"
+  },
+  {
+    "id": "ssnap-web-2026-09-07",
+    "display_name": "ssnap-web",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ssnap-web",
+        "ecosystem": "npm",
+        "versions": [
+          "999.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6283",
+            "osv_published_at": "2022-06-20T20:20:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:23:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:23:24Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:26Z",
+    "source_published_at": "2022-06-20T20:20:26Z",
+    "observed_at": "2026-09-07T09:23:24Z",
+    "ingested_at": "2026-09-07T09:23:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:56:58Z",
+    "ledger_committed_at": "2026-09-07T16:56:58Z"
   }
 ]
