@@ -1,0 +1,48 @@
+{
+  "id": "guest-payment-2026-09-07",
+  "display_name": "guest-payment",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "guest-payment",
+      "ecosystem": "npm",
+      "versions": [
+        "0.9631.0",
+        "1.0.9631",
+        "1.9631.0",
+        "2.9631.0",
+        "3.9631.0",
+        "4.9631.0",
+        "5.9631.0",
+        "6.9631.0",
+        "7.9631.0",
+        "8.9631.0",
+        "9.9631.0",
+        "9653.9631.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3495",
+          "osv_published_at": "2022-06-20T20:19:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:24:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:24:43Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:43Z",
+  "source_published_at": "2022-06-20T20:19:43Z",
+  "observed_at": "2026-09-07T05:24:43Z",
+  "ingested_at": "2026-09-07T05:24:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:58:15Z",
+  "ledger_committed_at": "2026-09-07T07:58:15Z"
+}
