@@ -646916,5 +646916,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:32:42Z",
     "ledger_committed_at": "2026-09-07T20:32:42Z"
+  },
+  {
+    "id": "xvideos-proxy-2026-09-07",
+    "display_name": "@xvideos/proxy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@xvideos/proxy",
+        "ecosystem": "npm",
+        "versions": [
+          "574.5.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-771",
+            "osv_published_at": "2022-06-20T20:18:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:38:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:38:59Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:30Z",
+    "source_published_at": "2022-06-20T20:18:30Z",
+    "observed_at": "2026-09-07T11:38:59Z",
+    "ingested_at": "2026-09-07T11:38:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:32:52Z",
+    "ledger_committed_at": "2026-09-07T20:32:52Z"
   }
 ]
