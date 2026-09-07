@@ -645788,5 +645788,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:27:43Z",
     "ledger_committed_at": "2026-09-07T20:27:43Z"
+  },
+  {
+    "id": "xvideos-app-2026-09-07",
+    "display_name": "@xvideos/app",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@xvideos/app",
+        "ecosystem": "npm",
+        "versions": [
+          "849.0.20"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-744",
+            "osv_published_at": "2022-06-20T20:18:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:36:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:36:33Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:36Z",
+    "source_published_at": "2022-06-20T20:18:36Z",
+    "observed_at": "2026-09-07T11:36:33Z",
+    "ingested_at": "2026-09-07T11:36:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:27:53Z",
+    "ledger_committed_at": "2026-09-07T20:27:53Z"
   }
 ]
