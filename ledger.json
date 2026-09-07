@@ -565927,5 +565927,39 @@
     "advisory_url": "https://registry.npmjs.org/%40founderhq%2Fjourneys",
     "ledger_commit_at": "2026-09-07T16:42:39Z",
     "ledger_committed_at": "2026-09-07T16:42:39Z"
+  },
+  {
+    "id": "github-copilot-2026-09-07",
+    "display_name": "@github/copilot",
+    "campaign": "talent-journey",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@github/copilot",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "0.0.1",
+          "0.0.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:20:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:20:13Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T09:20:13Z",
+    "ingested_at": "2026-09-07T09:20:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40github%2Fcopilot",
+    "ledger_commit_at": "2026-09-07T16:42:48Z",
+    "ledger_committed_at": "2026-09-07T16:42:48Z"
   }
 ]
