@@ -368261,5 +368261,37 @@
     "advisory_url": "https://registry.npmjs.org/%40huma-finance%2Fpermissionless-sdk",
     "ledger_commit_at": "2026-09-07T04:29:17Z",
     "ledger_committed_at": "2026-09-07T04:29:17Z"
+  },
+  {
+    "id": "injectivelabs-sdk-ts-2026-09-07",
+    "display_name": "@injectivelabs/sdk-ts",
+    "campaign": "e-finance",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@injectivelabs/sdk-ts",
+        "ecosystem": "npm",
+        "versions": [
+          "1.20.21"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:00:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:00:45Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:00:45Z",
+    "ingested_at": "2026-09-07T04:00:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Fsdk-ts",
+    "ledger_commit_at": "2026-09-07T04:29:25Z",
+    "ledger_committed_at": "2026-09-07T04:29:25Z"
   }
 ]
