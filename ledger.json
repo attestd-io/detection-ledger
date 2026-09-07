@@ -535368,5 +535368,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:33:23Z",
     "ledger_committed_at": "2026-09-07T14:33:23Z"
+  },
+  {
+    "id": "qiwi-neutrino-presets-2026-09-07",
+    "display_name": "qiwi-neutrino-presets",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "qiwi-neutrino-presets",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5543",
+            "osv_published_at": "2022-06-20T20:22:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:11:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:11:21Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:09Z",
+    "source_published_at": "2022-06-20T20:22:09Z",
+    "observed_at": "2026-09-07T08:11:21Z",
+    "ingested_at": "2026-09-07T08:11:21Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:33:33Z",
+    "ledger_committed_at": "2026-09-07T14:33:33Z"
   }
 ]
