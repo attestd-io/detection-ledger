@@ -1,0 +1,38 @@
+{
+  "id": "gxm-reference-web-auth-server-2026-09-07",
+  "display_name": "gxm-reference-web-auth-server",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gxm-reference-web-auth-server",
+      "ecosystem": "npm",
+      "versions": [
+        "1.33.7",
+        "1.33.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3538",
+          "osv_published_at": "2022-06-20T20:08:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:28:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:28:16Z",
+  "osv_earliest_published_at": "2022-06-20T20:08:39Z",
+  "source_published_at": "2022-06-20T20:08:39Z",
+  "observed_at": "2026-09-07T05:28:16Z",
+  "ingested_at": "2026-09-07T05:28:16Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T08:07:34Z",
+  "ledger_committed_at": "2026-09-07T08:07:34Z"
+}
