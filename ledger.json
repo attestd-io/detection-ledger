@@ -520741,5 +520741,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:34:50Z",
     "ledger_committed_at": "2026-09-07T13:34:50Z"
+  },
+  {
+    "id": "papiea-core-2026-09-07",
+    "display_name": "papiea-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "papiea-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.49",
+          "1.0.88"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5210",
+            "osv_published_at": "2022-08-16T08:46:51Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:49:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:49:32Z",
+    "osv_earliest_published_at": "2022-08-16T08:46:51Z",
+    "source_published_at": "2022-08-16T08:46:51Z",
+    "observed_at": "2026-09-07T07:49:32Z",
+    "ingested_at": "2026-09-07T07:49:32Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:35:00Z",
+    "ledger_committed_at": "2026-09-07T13:35:00Z"
   }
 ]
