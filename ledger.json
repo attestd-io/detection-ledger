@@ -607993,5 +607993,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:05:09Z",
     "ledger_committed_at": "2026-09-07T18:05:09Z"
+  },
+  {
+    "id": "tuikit-2026-09-07",
+    "display_name": "tuikit",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tuikit",
+        "ecosystem": "npm",
+        "versions": [
+          "19.0.0",
+          "19.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6679",
+            "osv_published_at": "2022-12-12T07:44:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:29:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:29:55Z",
+    "osv_earliest_published_at": "2022-12-12T07:44:48Z",
+    "source_published_at": "2022-12-12T07:44:48Z",
+    "observed_at": "2026-09-07T10:29:55Z",
+    "ingested_at": "2026-09-07T10:29:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:05:18Z",
+    "ledger_committed_at": "2026-09-07T18:05:18Z"
   }
 ]
