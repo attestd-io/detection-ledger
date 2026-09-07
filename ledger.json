@@ -415458,5 +415458,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:04:51Z",
     "ledger_committed_at": "2026-09-07T07:04:51Z"
+  },
+  {
+    "id": "free-pokemon-go-coins-2022-pogokemon-go-spoofer-2026-09-07",
+    "display_name": "free-pokemon-go-coins-2022-pogokemon-go-spoofer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "free-pokemon-go-coins-2022-pogokemon-go-spoofer",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.24"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3178",
+            "osv_published_at": "2022-06-20T20:14:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:13:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:13:00Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:39Z",
+    "source_published_at": "2022-06-20T20:14:39Z",
+    "observed_at": "2026-09-07T05:13:00Z",
+    "ingested_at": "2026-09-07T05:13:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:05:00Z",
+    "ledger_committed_at": "2026-09-07T07:05:00Z"
   }
 ]
