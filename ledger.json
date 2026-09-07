@@ -682523,5 +682523,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:55:34Z",
     "ledger_committed_at": "2026-09-07T22:55:34Z"
+  },
+  {
+    "id": "lmru-pilot-main-2026-09-07",
+    "display_name": "lmru-pilot-main",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lmru-pilot-main",
+        "ecosystem": "npm",
+        "versions": [
+          "69.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-570",
+            "osv_published_at": "2023-01-11T02:25:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:59:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:59:24Z",
+    "osv_earliest_published_at": "2023-01-11T02:25:32Z",
+    "source_published_at": "2023-01-11T02:25:32Z",
+    "observed_at": "2026-09-07T12:59:24Z",
+    "ingested_at": "2026-09-07T12:59:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:55:44Z",
+    "ledger_committed_at": "2026-09-07T22:55:44Z"
   }
 ]
