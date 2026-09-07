@@ -669689,5 +669689,38 @@
     "advisory_url": "https://registry.npmjs.org/%40coding-chimera%2Fchimera",
     "ledger_commit_at": "2026-09-07T21:58:51Z",
     "ledger_committed_at": "2026-09-07T21:58:51Z"
+  },
+  {
+    "id": "ctrl-qbittorrent-2026-09-07",
+    "display_name": "@ctrl/qbittorrent",
+    "campaign": "bingads-webui-campaign",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@ctrl/qbittorrent",
+        "ecosystem": "npm",
+        "versions": [
+          "9.7.1",
+          "9.7.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:42:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:42:37Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T12:42:37Z",
+    "ingested_at": "2026-09-07T12:42:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
+    "ledger_commit_at": "2026-09-07T21:59:01Z",
+    "ledger_committed_at": "2026-09-07T21:59:01Z"
   }
 ]
