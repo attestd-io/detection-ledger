@@ -696037,5 +696037,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:54:38Z",
     "ledger_committed_at": "2026-09-07T23:54:38Z"
+  },
+  {
+    "id": "agent-core-2026-09-07",
+    "display_name": "agent-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "agent-core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "0.0.2",
+          "1.0.0",
+          "25.25.25"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-83",
+            "osv_published_at": "2023-01-10T11:36:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:16:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:16:59Z",
+    "osv_earliest_published_at": "2023-01-10T11:36:33Z",
+    "source_published_at": "2023-01-10T11:36:33Z",
+    "observed_at": "2026-09-07T13:16:59Z",
+    "ingested_at": "2026-09-07T13:16:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:54:48Z",
+    "ledger_committed_at": "2026-09-07T23:54:48Z"
   }
 ]
