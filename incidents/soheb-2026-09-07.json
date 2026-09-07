@@ -1,0 +1,37 @@
+{
+  "id": "soheb-2026-09-07",
+  "display_name": "soheb",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "soheb",
+      "ecosystem": "npm",
+      "versions": [
+        "3.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6203",
+          "osv_published_at": "2022-06-20T20:19:31Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:19:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:19:04Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:31Z",
+  "source_published_at": "2022-06-20T20:19:31Z",
+  "observed_at": "2026-09-07T09:19:04Z",
+  "ingested_at": "2026-09-07T09:19:04Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:41:15Z",
+  "ledger_committed_at": "2026-09-07T16:41:15Z"
+}
