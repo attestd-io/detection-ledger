@@ -354127,5 +354127,50 @@
     "advisory_url": "https://registry.npmjs.org/executable-stories-init",
     "ledger_commit_at": "2026-09-06T22:21:09Z",
     "ledger_committed_at": "2026-09-06T22:21:09Z"
+  },
+  {
+    "id": "1cattunnel-2026-09-07",
+    "display_name": "1cattunnel",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "1cattunnel",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.2-b.1",
+          "0.1.2-b.2",
+          "0.1.2-b.3",
+          "0.2.0",
+          "0.3.0",
+          "0.3.1",
+          "0.3.2",
+          "0.3.4",
+          "0.5.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-15943",
+            "osv_published_at": "2026-09-06T03:12:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T02:08:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T02:08:06Z",
+    "osv_earliest_published_at": "2026-09-06T03:12:58Z",
+    "source_published_at": "2026-09-06T03:12:58Z",
+    "observed_at": "2026-09-07T02:08:06Z",
+    "ingested_at": "2026-09-07T02:08:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T02:08:09Z",
+    "ledger_committed_at": "2026-09-07T02:08:09Z"
   }
 ]
