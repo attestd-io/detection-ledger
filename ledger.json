@@ -548795,5 +548795,38 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:30:08Z",
     "ledger_committed_at": "2026-09-07T15:30:08Z"
+  },
+  {
+    "id": "tanstack-router-ssr-query-core-2026-09-07",
+    "display_name": "@tanstack/router-ssr-query-core",
+    "campaign": "sfcc-core",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@tanstack/router-ssr-query-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.168.3",
+          "1.168.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:34:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:34:21Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T08:34:21Z",
+    "ingested_at": "2026-09-07T08:34:21Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40tanstack%2Frouter-ssr-query-core",
+    "ledger_commit_at": "2026-09-07T15:30:18Z",
+    "ledger_committed_at": "2026-09-07T15:30:18Z"
   }
 ]
