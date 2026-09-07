@@ -555010,5 +555010,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:56:42Z",
     "ledger_committed_at": "2026-09-07T15:56:42Z"
+  },
+  {
+    "id": "specials-ib-auth-2026-09-07",
+    "display_name": "@specials/ib-auth",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@specials/ib-auth",
+        "ecosystem": "npm",
+        "versions": [
+          "999.1.1",
+          "999.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-598",
+            "osv_published_at": "2022-06-20T20:21:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:43:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:43:32Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:00Z",
+    "source_published_at": "2022-06-20T20:21:00Z",
+    "observed_at": "2026-09-07T08:43:32Z",
+    "ingested_at": "2026-09-07T08:43:32Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:56:51Z",
+    "ledger_committed_at": "2026-09-07T15:56:51Z"
   }
 ]
