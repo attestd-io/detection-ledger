@@ -632510,5 +632510,67 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:34:17Z",
     "ledger_committed_at": "2026-09-07T19:34:17Z"
+  },
+  {
+    "id": "wheen-2026-09-07",
+    "display_name": "wheen",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wheen",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.1.0",
+          "1.1.1",
+          "1.2.0",
+          "1.2.1",
+          "1.2.2",
+          "1.2.3",
+          "2.0.0",
+          "2.0.1",
+          "2.0.2",
+          "2.0.3",
+          "2.0.4",
+          "2.0.5",
+          "2.0.6",
+          "2.0.7",
+          "2.1.0",
+          "2.1.1",
+          "2.1.2",
+          "2.1.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7134",
+            "osv_published_at": "2022-08-18T06:07:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:08:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:08:44Z",
+    "osv_earliest_published_at": "2022-08-18T06:07:46Z",
+    "source_published_at": "2022-08-18T06:07:46Z",
+    "observed_at": "2026-09-07T11:08:44Z",
+    "ingested_at": "2026-09-07T11:08:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:34:27Z",
+    "ledger_committed_at": "2026-09-07T19:34:27Z"
   }
 ]
