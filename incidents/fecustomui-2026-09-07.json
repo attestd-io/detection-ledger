@@ -1,0 +1,37 @@
+{
+  "id": "fecustomui-2026-09-07",
+  "display_name": "fecustomui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fecustomui",
+      "ecosystem": "npm",
+      "versions": [
+        "999.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2997",
+          "osv_published_at": "2022-07-05T11:56:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:06:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:06:31Z",
+  "osv_earliest_published_at": "2022-07-05T11:56:38Z",
+  "source_published_at": "2022-07-05T11:56:38Z",
+  "observed_at": "2026-09-07T05:06:31Z",
+  "ingested_at": "2026-09-07T05:06:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:34:26Z",
+  "ledger_committed_at": "2026-09-07T06:34:26Z"
+}
