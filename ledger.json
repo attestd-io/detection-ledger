@@ -567949,5 +567949,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:51:08Z",
     "ledger_committed_at": "2026-09-07T16:51:08Z"
+  },
+  {
+    "id": "spotify-debouncer-2026-09-07",
+    "display_name": "spotify-debouncer",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "spotify-debouncer",
+        "ecosystem": "npm",
+        "versions": [
+          "0.999.1",
+          "1.999.1",
+          "2.999.1",
+          "3.999.1",
+          "999.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6250",
+            "osv_published_at": "2022-06-20T20:25:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:22:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:22:47Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:03Z",
+    "source_published_at": "2022-06-20T20:25:03Z",
+    "observed_at": "2026-09-07T09:22:47Z",
+    "ingested_at": "2026-09-07T09:22:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:51:19Z",
+    "ledger_committed_at": "2026-09-07T16:51:19Z"
   }
 ]
