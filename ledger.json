@@ -548002,5 +548002,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:26:45Z",
     "ledger_committed_at": "2026-09-07T15:26:45Z"
+  },
+  {
+    "id": "rkpacktest-2026-09-07",
+    "display_name": "rkpacktest",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rkpacktest",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5817",
+            "osv_published_at": "2022-05-31T13:37:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:31:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:31:06Z",
+    "osv_earliest_published_at": "2022-05-31T13:37:28Z",
+    "source_published_at": "2022-05-31T13:37:28Z",
+    "observed_at": "2026-09-07T08:31:06Z",
+    "ingested_at": "2026-09-07T08:31:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:26:55Z",
+    "ledger_committed_at": "2026-09-07T15:26:55Z"
   }
 ]
