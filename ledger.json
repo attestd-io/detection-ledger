@@ -632352,5 +632352,51 @@
     "advisory_url": "https://registry.npmjs.org/%40signpdf%2Futils",
     "ledger_commit_at": "2026-09-07T19:33:38Z",
     "ledger_committed_at": "2026-09-07T19:33:38Z"
+  },
+  {
+    "id": "wg5-2026-09-07",
+    "display_name": "wg5",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wg5",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "1.455.0",
+          "2.456.0",
+          "3.457.0",
+          "4.458.0",
+          "5.459.0",
+          "6.460.0",
+          "7.461.0",
+          "8.462.0",
+          "912.462.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7130",
+            "osv_published_at": "2022-06-20T20:14:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:08:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:08:37Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:19Z",
+    "source_published_at": "2022-06-20T20:14:19Z",
+    "observed_at": "2026-09-07T11:08:37Z",
+    "ingested_at": "2026-09-07T11:08:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:33:48Z",
+    "ledger_committed_at": "2026-09-07T19:33:48Z"
   }
 ]
