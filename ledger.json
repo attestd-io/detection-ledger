@@ -641421,5 +641421,55 @@
     "advisory_url": "https://registry.npmjs.org/%40paxoslabs%2Famplify-sdk",
     "ledger_commit_at": "2026-09-07T20:10:47Z",
     "ledger_committed_at": "2026-09-07T20:10:47Z"
+  },
+  {
+    "id": "propmix-profet-common-header-2026-09-07",
+    "display_name": "@propmix/profet-common-header",
+    "campaign": "ws-amplify",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@propmix/profet-common-header",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.21-unstable",
+          "2.0.0-unstable",
+          "2.0.1-unstable",
+          "2.0.2-unstable",
+          "2.0.3-unstable",
+          "2.2.1-unstable",
+          "2.4.1-unstable",
+          "2.4.2-unstable",
+          "2.4.3-unstable",
+          "2.4.4-unstable",
+          "3.0.16-logout-event-beta",
+          "3.0.4-unstable",
+          "3.0.4-unstable.2",
+          "3.4.0",
+          "4.0.0-unstable",
+          "4.0.1-unstable",
+          "4.0.2-unstable",
+          "4.1.0-unstable",
+          "4.1.1-unstable"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:19:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:19:04Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T11:19:04Z",
+    "ingested_at": "2026-09-07T11:19:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40propmix%2Fprofet-common-header",
+    "ledger_commit_at": "2026-09-07T20:10:57Z",
+    "ledger_committed_at": "2026-09-07T20:10:57Z"
   }
 ]
