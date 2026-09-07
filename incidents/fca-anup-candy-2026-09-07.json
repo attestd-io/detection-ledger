@@ -1,0 +1,38 @@
+{
+  "id": "fca-anup-candy-2026-09-07",
+  "display_name": "fca-anup-candy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fca-anup-candy",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.1",
+        "10.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-383",
+          "osv_published_at": "2023-07-18T01:05:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:50:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:50:10Z",
+  "osv_earliest_published_at": "2023-07-18T01:05:42Z",
+  "source_published_at": "2023-07-18T01:05:42Z",
+  "observed_at": "2026-09-07T12:50:10Z",
+  "ingested_at": "2026-09-07T12:50:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:22:35Z",
+  "ledger_committed_at": "2026-09-07T22:22:35Z"
+}
