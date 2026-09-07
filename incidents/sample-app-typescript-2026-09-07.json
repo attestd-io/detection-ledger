@@ -1,0 +1,37 @@
+{
+  "id": "sample-app-typescript-2026-09-07",
+  "display_name": "sample-app-typescript",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sample-app-typescript",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-755",
+          "osv_published_at": "2023-06-13T02:59:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:06:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:06:30Z",
+  "osv_earliest_published_at": "2023-06-13T02:59:39Z",
+  "source_published_at": "2023-06-13T02:59:39Z",
+  "observed_at": "2026-09-07T13:06:30Z",
+  "ingested_at": "2026-09-07T13:06:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:19:58Z",
+  "ledger_committed_at": "2026-09-07T23:19:58Z"
+}
