@@ -1,0 +1,37 @@
+{
+  "id": "charlie-sql-designer-2026-09-07",
+  "display_name": "charlie-sql-designer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "charlie-sql-designer",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-170",
+          "osv_published_at": "2023-04-21T02:42:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:38:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:38:31Z",
+  "osv_earliest_published_at": "2023-04-21T02:42:23Z",
+  "source_published_at": "2023-04-21T02:42:23Z",
+  "observed_at": "2026-09-07T12:38:31Z",
+  "ingested_at": "2026-09-07T12:38:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:49:10Z",
+  "ledger_committed_at": "2026-09-07T21:49:10Z"
+}
