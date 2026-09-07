@@ -1,0 +1,44 @@
+{
+  "id": "trezor-translations-manager-2026-09-07",
+  "display_name": "trezor-translations-manager",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "trezor-translations-manager",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6645",
+          "osv_published_at": "2022-05-31T13:24:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:16:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:16:03Z",
+  "osv_earliest_published_at": "2022-05-31T13:24:03Z",
+  "source_published_at": "2022-05-31T13:24:03Z",
+  "observed_at": "2026-09-07T10:16:03Z",
+  "ingested_at": "2026-09-07T10:16:03Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:58:51Z",
+  "ledger_committed_at": "2026-09-07T17:58:51Z"
+}
