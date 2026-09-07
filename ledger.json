@@ -472542,5 +472542,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:01:40Z",
     "ledger_committed_at": "2026-09-07T11:01:40Z"
+  },
+  {
+    "id": "lob-openapi-2026-09-07",
+    "display_name": "lob-openapi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lob-openapi",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.5",
+          "2.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4347",
+            "osv_published_at": "2022-06-20T20:22:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:31:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:31:02Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:48Z",
+    "source_published_at": "2022-06-20T20:22:48Z",
+    "observed_at": "2026-09-07T06:31:02Z",
+    "ingested_at": "2026-09-07T06:31:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:01:49Z",
+    "ledger_committed_at": "2026-09-07T11:01:49Z"
   }
 ]
