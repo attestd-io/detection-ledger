@@ -502071,5 +502071,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:50:04Z",
     "ledger_committed_at": "2026-09-07T12:50:04Z"
+  },
+  {
+    "id": "nsg-setclient-2026-09-07",
+    "display_name": "nsg-setclient",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "nsg-setclient",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4961",
+            "osv_published_at": "2022-06-20T20:21:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:19:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:19:12Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:05Z",
+    "source_published_at": "2022-06-20T20:21:05Z",
+    "observed_at": "2026-09-07T07:19:12Z",
+    "ingested_at": "2026-09-07T07:19:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:50:13Z",
+    "ledger_committed_at": "2026-09-07T12:50:13Z"
   }
 ]
