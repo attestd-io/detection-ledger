@@ -613214,5 +613214,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:27:29Z",
     "ledger_committed_at": "2026-09-07T18:27:29Z"
+  },
+  {
+    "id": "universal-authenticator-library-js-example-2026-09-07",
+    "display_name": "universal-authenticator-library-js-example",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "universal-authenticator-library-js-example",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6791",
+            "osv_published_at": "2022-06-08T09:01:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:38:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:38:05Z",
+    "osv_earliest_published_at": "2022-06-08T09:01:01Z",
+    "source_published_at": "2022-06-08T09:01:01Z",
+    "observed_at": "2026-09-07T10:38:05Z",
+    "ingested_at": "2026-09-07T10:38:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:27:39Z",
+    "ledger_committed_at": "2026-09-07T18:27:39Z"
   }
 ]
