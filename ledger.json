@@ -493032,5 +493032,39 @@
     "advisory_url": "https://registry.npmjs.org/zapier-platform-cli",
     "ledger_commit_at": "2026-09-07T12:20:27Z",
     "ledger_committed_at": "2026-09-07T12:20:27Z"
+  },
+  {
+    "id": "zapier-platform-core-2026-09-07",
+    "display_name": "zapier-platform-core",
+    "campaign": "onehaufe-platform",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "zapier-platform-core",
+        "ecosystem": "npm",
+        "versions": [
+          "18.0.2",
+          "18.0.3",
+          "18.0.4"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:54:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:54:34Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:54:34Z",
+    "ingested_at": "2026-09-07T06:54:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/zapier-platform-core",
+    "ledger_commit_at": "2026-09-07T12:20:37Z",
+    "ledger_committed_at": "2026-09-07T12:20:37Z"
   }
 ]
