@@ -1,0 +1,55 @@
+{
+  "id": "dropins-sdk-refactor-2026-09-07",
+  "display_name": "dropins_sdk_refactor",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dropins_sdk_refactor",
+      "ecosystem": "npm",
+      "versions": [
+        "1.813.486",
+        "10.711.354",
+        "2.914.505",
+        "20.924.682",
+        "3.847.642",
+        "30.918.411",
+        "4.713.605",
+        "40.811.490",
+        "5.807.364",
+        "50.973.568",
+        "6.995.400",
+        "60.798.337",
+        "7.926.523",
+        "70.940.344",
+        "8.987.373",
+        "80.988.371",
+        "9.806.486",
+        "90.985.351",
+        "9998.902.657"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2595",
+          "osv_published_at": "2022-06-20T20:18:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:50:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:50:52Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:40Z",
+  "source_published_at": "2022-06-20T20:18:40Z",
+  "observed_at": "2026-09-07T04:50:52Z",
+  "ingested_at": "2026-09-07T04:50:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T05:34:47Z",
+  "ledger_committed_at": "2026-09-07T05:34:47Z"
+}
