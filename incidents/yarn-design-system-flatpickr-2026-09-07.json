@@ -1,0 +1,37 @@
+{
+  "id": "yarn-design-system-flatpickr-2026-09-07",
+  "display_name": "yarn-design-system-flatpickr",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "yarn-design-system-flatpickr",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7326",
+          "osv_published_at": "2022-06-20T20:16:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:17:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:17:35Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:12Z",
+  "source_published_at": "2022-06-20T20:16:12Z",
+  "observed_at": "2026-09-07T11:17:35Z",
+  "ingested_at": "2026-09-07T11:17:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:07:50Z",
+  "ledger_committed_at": "2026-09-07T20:07:50Z"
+}
