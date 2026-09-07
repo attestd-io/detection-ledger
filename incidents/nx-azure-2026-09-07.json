@@ -1,0 +1,38 @@
+{
+  "id": "nx-azure-2026-09-07",
+  "display_name": "nx-azure",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nx-azure",
+      "ecosystem": "npm",
+      "versions": [
+        "5.0.0",
+        "6.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4983",
+          "osv_published_at": "2022-06-20T20:18:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:29:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:29:55Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:19Z",
+  "source_published_at": "2022-06-20T20:18:19Z",
+  "observed_at": "2026-09-07T07:29:55Z",
+  "ingested_at": "2026-09-07T07:29:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:55:32Z",
+  "ledger_committed_at": "2026-09-07T12:55:32Z"
+}
