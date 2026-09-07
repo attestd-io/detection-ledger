@@ -1,0 +1,38 @@
+{
+  "id": "webpixels-css-2026-09-07",
+  "display_name": "@webpixels/css",
+  "campaign": "lxo-blocks",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@webpixels/css",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.0",
+        "1.2.1",
+        "1.2.11",
+        "1.2.12",
+        "1.2.13",
+        "2.0.0",
+        "2.0.0-beta11"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:03:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:03:32Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T06:03:32Z",
+  "ingested_at": "2026-09-07T06:03:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40webpixels%2Fcss",
+  "ledger_commit_at": "2026-09-07T09:59:26Z",
+  "ledger_committed_at": "2026-09-07T09:59:26Z"
+}
