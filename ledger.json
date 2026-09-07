@@ -383772,5 +383772,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:14:14Z",
     "ledger_committed_at": "2026-09-07T05:14:14Z"
+  },
+  {
+    "id": "digitalexam-2026-09-07",
+    "display_name": "digitalexam",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "digitalexam",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2473",
+            "osv_published_at": "2022-06-20T20:23:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:43:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:43:24Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:30Z",
+    "source_published_at": "2022-06-20T20:23:30Z",
+    "observed_at": "2026-09-07T04:43:24Z",
+    "ingested_at": "2026-09-07T04:43:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:14:22Z",
+    "ledger_committed_at": "2026-09-07T05:14:22Z"
   }
 ]
