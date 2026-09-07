@@ -500214,5 +500214,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:46:03Z",
     "ledger_committed_at": "2026-09-07T12:46:03Z"
+  },
+  {
+    "id": "npm-ransomware-2026-09-07",
+    "display_name": "npm_ransomware",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "npm_ransomware",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.1.1",
+          "1.1.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4944",
+            "osv_published_at": "2022-05-31T13:36:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:16:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:16:36Z",
+    "osv_earliest_published_at": "2022-05-31T13:36:55Z",
+    "source_published_at": "2022-05-31T13:36:55Z",
+    "observed_at": "2026-09-07T07:16:36Z",
+    "ingested_at": "2026-09-07T07:16:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:46:12Z",
+    "ledger_committed_at": "2026-09-07T12:46:12Z"
   }
 ]
