@@ -442370,5 +442370,52 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T08:47:43Z",
     "ledger_committed_at": "2026-09-07T08:47:43Z"
+  },
+  {
+    "id": "jumpstart-ui-utils-2026-09-07",
+    "display_name": "@jumpstart-ui/utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@jumpstart-ui/utils",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.11",
+          "1.640.0",
+          "10.649.0",
+          "2.641.0",
+          "3.642.0",
+          "4.643.0",
+          "5.644.0",
+          "6.645.0",
+          "7.646.0",
+          "8.647.0",
+          "9.648.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-373",
+            "osv_published_at": "2022-06-20T20:09:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:37:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:37:59Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:44Z",
+    "source_published_at": "2022-06-20T20:09:44Z",
+    "observed_at": "2026-09-07T05:37:59Z",
+    "ingested_at": "2026-09-07T05:37:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T08:47:54Z",
+    "ledger_committed_at": "2026-09-07T08:47:54Z"
   }
 ]
