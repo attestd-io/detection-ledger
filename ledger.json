@@ -382378,5 +382378,37 @@
     "advisory_url": "https://registry.npmjs.org/%40asyncapi%2Fspecs",
     "ledger_commit_at": "2026-09-07T05:09:25Z",
     "ledger_committed_at": "2026-09-07T05:09:25Z"
+  },
+  {
+    "id": "posthog-js-2026-09-07",
+    "display_name": "posthog-js",
+    "campaign": "epc-libraries",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "posthog-js",
+        "ecosystem": "npm",
+        "versions": [
+          "1.297.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:41:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:41:45Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:41:45Z",
+    "ingested_at": "2026-09-07T04:41:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/posthog-js",
+    "ledger_commit_at": "2026-09-07T05:09:32Z",
+    "ledger_committed_at": "2026-09-07T05:09:32Z"
   }
 ]
