@@ -551888,5 +551888,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:43:22Z",
     "ledger_committed_at": "2026-09-07T15:43:22Z"
+  },
+  {
+    "id": "safari-prevent-zoom-2026-09-07",
+    "display_name": "safari-prevent-zoom",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "safari-prevent-zoom",
+        "ecosystem": "npm",
+        "versions": [
+          "999.0.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5904",
+            "osv_published_at": "2022-06-20T20:23:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:40:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:40:37Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:37Z",
+    "source_published_at": "2022-06-20T20:23:37Z",
+    "observed_at": "2026-09-07T08:40:37Z",
+    "ingested_at": "2026-09-07T08:40:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:43:33Z",
+    "ledger_committed_at": "2026-09-07T15:43:33Z"
   }
 ]
