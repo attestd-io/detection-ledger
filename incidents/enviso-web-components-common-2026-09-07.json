@@ -1,0 +1,41 @@
+{
+  "id": "enviso-web-components-common-2026-09-07",
+  "display_name": "enviso-web-components-common",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "enviso-web-components-common",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.0",
+        "9.9.1",
+        "9.9.2",
+        "9.9.3",
+        "9.9.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2755",
+          "osv_published_at": "2022-06-20T20:26:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:57:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:57:03Z",
+  "osv_earliest_published_at": "2022-06-20T20:26:11Z",
+  "source_published_at": "2022-06-20T20:26:11Z",
+  "observed_at": "2026-09-07T04:57:03Z",
+  "ingested_at": "2026-09-07T04:57:03Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T05:58:13Z",
+  "ledger_committed_at": "2026-09-07T05:58:13Z"
+}
