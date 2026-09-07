@@ -1,0 +1,40 @@
+{
+  "id": "tra-arifvauchat-api-2026-09-07",
+  "display_name": "tra-arifvauchat-api",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tra-arifvauchat-api",
+      "ecosystem": "npm",
+      "versions": [
+        "2.4.9",
+        "3.4.9",
+        "3.5.0",
+        "3.6.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-1443",
+          "osv_published_at": "2023-08-10T06:01:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:31:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:31:28Z",
+  "osv_earliest_published_at": "2023-08-10T06:01:26Z",
+  "source_published_at": "2023-08-10T06:01:26Z",
+  "observed_at": "2026-09-07T12:31:28Z",
+  "ingested_at": "2026-09-07T12:31:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:36:05Z",
+  "ledger_committed_at": "2026-09-07T21:36:05Z"
+}
