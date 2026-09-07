@@ -416768,5 +416768,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:10:18Z",
     "ledger_committed_at": "2026-09-07T07:10:18Z"
+  },
+  {
+    "id": "freekws-devportal-api-client-nestjs-2026-09-07",
+    "display_name": "freekws-devportal-api-client-nestjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "freekws-devportal-api-client-nestjs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.2.2",
+          "4.0.2",
+          "4.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3210",
+            "osv_published_at": "2022-08-22T06:23:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:13:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:13:31Z",
+    "osv_earliest_published_at": "2022-08-22T06:23:13Z",
+    "source_published_at": "2022-08-22T06:23:13Z",
+    "observed_at": "2026-09-07T05:13:31Z",
+    "ingested_at": "2026-09-07T05:13:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:10:26Z",
+    "ledger_committed_at": "2026-09-07T07:10:26Z"
   }
 ]
