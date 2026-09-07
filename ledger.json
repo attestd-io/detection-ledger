@@ -430153,5 +430153,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:56:41Z",
     "ledger_committed_at": "2026-09-07T07:56:41Z"
+  },
+  {
+    "id": "gruntconric4opy-2026-09-07",
+    "display_name": "gruntconric4opy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gruntconric4opy",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3486",
+            "osv_published_at": "2022-08-19T03:55:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:24:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:24:31Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:09Z",
+    "source_published_at": "2022-08-19T03:55:09Z",
+    "observed_at": "2026-09-07T05:24:31Z",
+    "ingested_at": "2026-09-07T05:24:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:56:49Z",
+    "ledger_committed_at": "2026-09-07T07:56:49Z"
   }
 ]
