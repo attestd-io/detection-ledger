@@ -584423,5 +584423,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:28:38Z",
     "ledger_committed_at": "2026-09-07T17:28:38Z"
+  },
+  {
+    "id": "teamcity-project-status-2026-09-07",
+    "display_name": "teamcity-project-status",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "teamcity-project-status",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.4",
+          "0.0.1-security.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6438",
+            "osv_published_at": "2022-06-20T20:17:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:44:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:44:56Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:33Z",
+    "source_published_at": "2022-06-20T20:17:33Z",
+    "observed_at": "2026-09-07T09:44:56Z",
+    "ingested_at": "2026-09-07T09:44:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:28:47Z",
+    "ledger_committed_at": "2026-09-07T17:28:47Z"
   }
 ]
