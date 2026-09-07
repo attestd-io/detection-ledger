@@ -1,0 +1,38 @@
+{
+  "id": "modlink-2026-09-07",
+  "display_name": "modlink",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "modlink",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.4",
+        "0.0.1-security.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4664",
+          "osv_published_at": "2022-06-20T20:17:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:48:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:48:30Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:16Z",
+  "source_published_at": "2022-06-20T20:17:16Z",
+  "observed_at": "2026-09-07T06:48:30Z",
+  "ingested_at": "2026-09-07T06:48:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T11:55:53Z",
+  "ledger_committed_at": "2026-09-07T11:55:53Z"
+}
