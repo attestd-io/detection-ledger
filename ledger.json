@@ -691819,5 +691819,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:36:52Z",
     "ledger_committed_at": "2026-09-07T23:36:52Z"
+  },
+  {
+    "id": "react-morning-2026-09-07",
+    "display_name": "react-morning",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-morning",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.10",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8092",
+            "osv_published_at": "2023-09-12T06:13:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:11:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:11:19Z",
+    "osv_earliest_published_at": "2023-09-12T06:13:41Z",
+    "source_published_at": "2023-09-12T06:13:41Z",
+    "observed_at": "2026-09-07T13:11:19Z",
+    "ingested_at": "2026-09-07T13:11:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:37:01Z",
+    "ledger_committed_at": "2026-09-07T23:37:01Z"
   }
 ]
