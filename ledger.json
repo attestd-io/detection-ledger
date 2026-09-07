@@ -656613,5 +656613,52 @@
     "advisory_url": "https://registry.npmjs.org/create-components-template",
     "ledger_commit_at": "2026-09-07T21:03:21Z",
     "ledger_committed_at": "2026-09-07T21:03:21Z"
+  },
+  {
+    "id": "airbnb-fejax-2026-09-07",
+    "display_name": "airbnb-fejax",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "airbnb-fejax",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.15",
+          "1.789.0",
+          "10.798.0",
+          "2.790.0",
+          "3.791.0",
+          "4.792.0",
+          "5.793.0",
+          "6.794.0",
+          "7.795.0",
+          "8.796.0",
+          "9.797.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-910",
+            "osv_published_at": "2022-06-20T20:13:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:02:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:02:19Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:11Z",
+    "source_published_at": "2022-06-20T20:13:11Z",
+    "observed_at": "2026-09-07T12:02:19Z",
+    "ingested_at": "2026-09-07T12:02:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:03:30Z",
+    "ledger_committed_at": "2026-09-07T21:03:30Z"
   }
 ]
