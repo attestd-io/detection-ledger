@@ -443058,5 +443058,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T08:51:11Z",
     "ledger_committed_at": "2026-09-07T08:51:11Z"
+  },
+  {
+    "id": "ibiza-universe-2026-09-07",
+    "display_name": "ibiza-universe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ibiza-universe",
+        "ecosystem": "npm",
+        "versions": [
+          "4.22.1",
+          "4.22.2",
+          "4.22.3",
+          "4.22.4",
+          "4.22.5",
+          "4.22.6",
+          "4.22.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3747",
+            "osv_published_at": "2022-10-04T07:00:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:44:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:44:43Z",
+    "osv_earliest_published_at": "2022-10-04T07:00:40Z",
+    "source_published_at": "2022-10-04T07:00:40Z",
+    "observed_at": "2026-09-07T05:44:43Z",
+    "ingested_at": "2026-09-07T05:44:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T08:51:22Z",
+    "ledger_committed_at": "2026-09-07T08:51:22Z"
   }
 ]
