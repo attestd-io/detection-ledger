@@ -550905,5 +550905,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:39:06Z",
     "ledger_committed_at": "2026-09-07T15:39:06Z"
+  },
+  {
+    "id": "rwvoloe-2026-09-07",
+    "display_name": "rwvoloe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rwvoloe",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5880",
+            "osv_published_at": "2022-08-19T03:55:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:40:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:40:12Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:20Z",
+    "source_published_at": "2022-08-19T03:55:20Z",
+    "observed_at": "2026-09-07T08:40:12Z",
+    "ingested_at": "2026-09-07T08:40:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:39:16Z",
+    "ledger_committed_at": "2026-09-07T15:39:16Z"
   }
 ]
