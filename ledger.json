@@ -664153,5 +664153,57 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:35:36Z",
     "ledger_committed_at": "2026-09-07T21:35:36Z"
+  },
+  {
+    "id": "brightening-2026-09-07",
+    "display_name": "brightening",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "brightening",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.6.0",
+          "1.6.1",
+          "1.6.2",
+          "1.6.3",
+          "1.6.4",
+          "1.6.4-alpha",
+          "1.6.4-test",
+          "1.6.5",
+          "1.6.6",
+          "1.7.0-alpha",
+          "1.7.1",
+          "1.7.1-alpha",
+          "1.7.2",
+          "1.8.1-alpha",
+          "1.8.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-144",
+            "osv_published_at": "2023-05-01T10:17:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:31:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:31:24Z",
+    "osv_earliest_published_at": "2023-05-01T10:17:38Z",
+    "source_published_at": "2023-05-01T10:17:38Z",
+    "observed_at": "2026-09-07T12:31:24Z",
+    "ingested_at": "2026-09-07T12:31:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:35:46Z",
+    "ledger_committed_at": "2026-09-07T21:35:46Z"
   }
 ]
