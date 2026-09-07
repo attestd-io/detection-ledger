@@ -674376,5 +674376,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:19:52Z",
     "ledger_committed_at": "2026-09-07T22:19:52Z"
+  },
+  {
+    "id": "fc-spinner-2026-09-07",
+    "display_name": "fc-spinner",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fc-spinner",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.9999.9999",
+          "9999.9999.99999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-368",
+            "osv_published_at": "2023-06-06T06:45:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:49:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:49:51Z",
+    "osv_earliest_published_at": "2023-06-06T06:45:25Z",
+    "source_published_at": "2023-06-06T06:45:25Z",
+    "observed_at": "2026-09-07T12:49:51Z",
+    "ingested_at": "2026-09-07T12:49:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:20:02Z",
+    "ledger_committed_at": "2026-09-07T22:20:02Z"
   }
 ]
