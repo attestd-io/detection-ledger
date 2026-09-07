@@ -465804,5 +465804,43 @@
     "advisory_url": "https://registry.npmjs.org/%40mentionflow%2Fsdk",
     "ledger_commit_at": "2026-09-07T10:34:40Z",
     "ledger_committed_at": "2026-09-07T10:34:40Z"
+  },
+  {
+    "id": "caliperx2-components-2026-09-07",
+    "display_name": "@caliperx2/components",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@caliperx2/components",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "9999.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-16007",
+            "osv_published_at": "2026-09-07T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:15:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:15:10Z",
+    "osv_earliest_published_at": "2026-09-07T00:00:00Z",
+    "source_published_at": "2026-09-07T00:00:00Z",
+    "observed_at": "2026-09-07T06:15:10Z",
+    "ingested_at": "2026-09-07T06:15:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:34:48Z",
+    "ledger_committed_at": "2026-09-07T10:34:48Z"
   }
 ]
