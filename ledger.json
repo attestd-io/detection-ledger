@@ -408605,5 +408605,37 @@
     "advisory_url": "https://registry.npmjs.org/%40sap-ux%2Fcontrol-property-editor",
     "ledger_commit_at": "2026-09-07T06:39:35Z",
     "ledger_committed_at": "2026-09-07T06:39:35Z"
+  },
+  {
+    "id": "sap-ux-environment-check-2026-09-07",
+    "display_name": "@sap-ux/environment-check",
+    "campaign": "gs-ux-uitoolkit-react",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@sap-ux/environment-check",
+        "ecosystem": "npm",
+        "versions": [
+          "0.15.3"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:08:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:08:25Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:08:25Z",
+    "ingested_at": "2026-09-07T05:08:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40sap-ux%2Fenvironment-check",
+    "ledger_commit_at": "2026-09-07T06:39:44Z",
+    "ledger_committed_at": "2026-09-07T06:39:44Z"
   }
 ]
