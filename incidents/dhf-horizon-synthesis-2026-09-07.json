@@ -1,0 +1,51 @@
+{
+  "id": "dhf-horizon-synthesis-2026-09-07",
+  "display_name": "dhf-horizon-synthesis",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dhf-horizon-synthesis",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.1.0",
+        "1.1.1",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.2.6",
+        "1.2.7",
+        "1.3.7",
+        "1.3.8",
+        "1.3.9",
+        "1.4.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-250",
+          "osv_published_at": "2023-02-07T05:22:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:44:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:44:07Z",
+  "osv_earliest_published_at": "2023-02-07T05:22:42Z",
+  "source_published_at": "2023-02-07T05:22:42Z",
+  "observed_at": "2026-09-07T12:44:07Z",
+  "ingested_at": "2026-09-07T12:44:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:02:53Z",
+  "ledger_committed_at": "2026-09-07T22:02:53Z"
+}
