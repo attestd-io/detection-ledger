@@ -418578,5 +418578,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:16:45Z",
     "ledger_committed_at": "2026-09-07T07:16:45Z"
+  },
+  {
+    "id": "fuv-app-2026-09-07",
+    "display_name": "fuv-app",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fuv-app",
+        "ecosystem": "npm",
+        "versions": [
+          "900.0.0",
+          "900.1.0",
+          "902.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3252",
+            "osv_published_at": "2022-06-20T20:21:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:14:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:14:27Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:57Z",
+    "source_published_at": "2022-06-20T20:21:57Z",
+    "observed_at": "2026-09-07T05:14:27Z",
+    "ingested_at": "2026-09-07T05:14:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:16:54Z",
+    "ledger_committed_at": "2026-09-07T07:16:54Z"
   }
 ]
