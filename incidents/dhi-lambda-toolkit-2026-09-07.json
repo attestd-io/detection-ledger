@@ -1,0 +1,38 @@
+{
+  "id": "dhi-lambda-toolkit-2026-09-07",
+  "display_name": "dhi-lambda-toolkit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dhi-lambda-toolkit",
+      "ecosystem": "npm",
+      "versions": [
+        "666.6.6",
+        "676.6.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8323",
+          "osv_published_at": "2023-10-10T05:11:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:17:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:17:12Z",
+  "osv_earliest_published_at": "2023-10-10T05:11:30Z",
+  "source_published_at": "2023-10-10T05:11:30Z",
+  "observed_at": "2026-09-07T13:17:12Z",
+  "ingested_at": "2026-09-07T13:17:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:55:37Z",
+  "ledger_committed_at": "2026-09-07T23:55:37Z"
+}
