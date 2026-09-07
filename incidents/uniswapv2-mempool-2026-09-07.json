@@ -1,0 +1,38 @@
+{
+  "id": "uniswapv2-mempool-2026-09-07",
+  "display_name": "@uniswapv2/mempool",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@uniswapv2/mempool",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-691",
+          "osv_published_at": "2022-10-31T05:07:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:47:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:47:23Z",
+  "osv_earliest_published_at": "2022-10-31T05:07:51Z",
+  "source_published_at": "2022-10-31T05:07:51Z",
+  "observed_at": "2026-09-07T10:47:23Z",
+  "ingested_at": "2026-09-07T10:47:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:51:26Z",
+  "ledger_committed_at": "2026-09-07T18:51:26Z"
+}
