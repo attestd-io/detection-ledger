@@ -511308,5 +511308,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:58:43Z",
     "ledger_committed_at": "2026-09-07T12:58:43Z"
+  },
+  {
+    "id": "obfuscation-detector2-2026-09-07",
+    "display_name": "obfuscation-detector2",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "obfuscation-detector2",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.10",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5004",
+            "osv_published_at": "2022-09-08T05:30:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:30:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:30:17Z",
+    "osv_earliest_published_at": "2022-09-08T05:30:11Z",
+    "source_published_at": "2022-09-08T05:30:11Z",
+    "observed_at": "2026-09-07T07:30:17Z",
+    "ingested_at": "2026-09-07T07:30:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:58:52Z",
+    "ledger_committed_at": "2026-09-07T12:58:52Z"
   }
 ]
