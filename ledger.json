@@ -607597,5 +607597,38 @@
     "advisory_url": "https://registry.npmjs.org/ts-fsrs",
     "ledger_commit_at": "2026-09-07T18:03:28Z",
     "ledger_committed_at": "2026-09-07T18:03:28Z"
+  },
+  {
+    "id": "vue-history-state-2026-09-07",
+    "display_name": "vue-history-state",
+    "campaign": "transaction-history",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "vue-history-state",
+        "ecosystem": "npm",
+        "versions": [
+          "0.13.1-0",
+          "0.14.1-0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:29:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:29:42Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T10:29:42Z",
+    "ingested_at": "2026-09-07T10:29:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/vue-history-state",
+    "ledger_commit_at": "2026-09-07T18:03:37Z",
+    "ledger_committed_at": "2026-09-07T18:03:37Z"
   }
 ]
