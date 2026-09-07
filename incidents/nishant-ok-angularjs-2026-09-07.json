@@ -1,0 +1,37 @@
+{
+  "id": "nishant-ok-angularjs-2026-09-07",
+  "display_name": "nishant-ok-angularjs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nishant-ok-angularjs",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4857",
+          "osv_published_at": "2022-07-25T11:10:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:55:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:55:25Z",
+  "osv_earliest_published_at": "2022-07-25T11:10:24Z",
+  "source_published_at": "2022-07-25T11:10:24Z",
+  "observed_at": "2026-09-07T06:55:25Z",
+  "ingested_at": "2026-09-07T06:55:25Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:28:12Z",
+  "ledger_committed_at": "2026-09-07T12:28:12Z"
+}
