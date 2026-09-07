@@ -1,0 +1,39 @@
+{
+  "id": "primeo-authentication-2026-09-07",
+  "display_name": "@primeo/authentication",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@primeo/authentication",
+      "ecosystem": "npm",
+      "versions": [
+        "2.9999.999",
+        "3.999.999",
+        "3.9999.999"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-521",
+          "osv_published_at": "2022-06-20T20:15:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:49:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:49:31Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:26Z",
+  "source_published_at": "2022-06-20T20:15:26Z",
+  "observed_at": "2026-09-07T07:49:31Z",
+  "ingested_at": "2026-09-07T07:49:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:34:50Z",
+  "ledger_committed_at": "2026-09-07T13:34:50Z"
+}
