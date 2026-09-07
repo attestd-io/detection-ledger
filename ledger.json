@@ -358506,5 +358506,57 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T03:54:51Z",
     "ledger_committed_at": "2026-09-07T03:54:51Z"
+  },
+  {
+    "id": "colorajs-2026-09-07",
+    "display_name": "colorajs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "colorajs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7",
+          "1.0.8",
+          "1.0.9",
+          "1.1.0",
+          "1.1.1",
+          "1.1.2",
+          "1.1.3",
+          "1.1.4",
+          "1.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2002",
+            "osv_published_at": "2022-10-31T01:28:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:51:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:51:52Z",
+    "osv_earliest_published_at": "2022-10-31T01:28:15Z",
+    "source_published_at": "2022-10-31T01:28:15Z",
+    "observed_at": "2026-09-07T03:51:52Z",
+    "ingested_at": "2026-09-07T03:51:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T03:55:02Z",
+    "ledger_committed_at": "2026-09-07T03:55:02Z"
   }
 ]
