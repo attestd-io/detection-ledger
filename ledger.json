@@ -487126,5 +487126,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:58:31Z",
     "ledger_committed_at": "2026-09-07T11:58:31Z"
+  },
+  {
+    "id": "monday-ui-react-core-vibe-2026-09-07",
+    "display_name": "monday-ui-react-core-vibe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "monday-ui-react-core-vibe",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.9",
+          "1.763.9",
+          "2.764.9",
+          "3.765.9",
+          "4.766.9",
+          "5.767.9",
+          "6.768.9",
+          "7.769.9",
+          "8.770.9",
+          "9.771.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4681",
+            "osv_published_at": "2022-06-20T20:09:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:48:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:48:47Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:41Z",
+    "source_published_at": "2022-06-20T20:09:41Z",
+    "observed_at": "2026-09-07T06:48:47Z",
+    "ingested_at": "2026-09-07T06:48:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:58:40Z",
+    "ledger_committed_at": "2026-09-07T11:58:40Z"
   }
 ]
