@@ -635038,5 +635038,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:44:13Z",
     "ledger_committed_at": "2026-09-07T19:44:13Z"
+  },
+  {
+    "id": "wm-cookies-api-2026-09-07",
+    "display_name": "wm-cookies-api",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wm-cookies-api",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7191",
+            "osv_published_at": "2022-07-20T11:20:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:12:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:12:12Z",
+    "osv_earliest_published_at": "2022-07-20T11:20:55Z",
+    "source_published_at": "2022-07-20T11:20:55Z",
+    "observed_at": "2026-09-07T11:12:12Z",
+    "ingested_at": "2026-09-07T11:12:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:44:23Z",
+    "ledger_committed_at": "2026-09-07T19:44:23Z"
   }
 ]
