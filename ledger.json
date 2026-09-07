@@ -470338,5 +470338,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:53:07Z",
     "ledger_committed_at": "2026-09-07T10:53:07Z"
+  },
+  {
+    "id": "lexruntime-2026-09-07",
+    "display_name": "lexruntime",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lexruntime",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9.9",
+          "1.9.9",
+          "100.9.9",
+          "2.9.9",
+          "3.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4292",
+            "osv_published_at": "2022-06-20T20:25:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:21:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:21:29Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:13Z",
+    "source_published_at": "2022-06-20T20:25:13Z",
+    "observed_at": "2026-09-07T06:21:29Z",
+    "ingested_at": "2026-09-07T06:21:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:53:16Z",
+    "ledger_committed_at": "2026-09-07T10:53:16Z"
   }
 ]
