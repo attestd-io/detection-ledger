@@ -478326,5 +478326,37 @@
     "advisory_url": "https://registry.npmjs.org/%40neutral-trade%2Fsdk",
     "ledger_commit_at": "2026-09-07T11:23:18Z",
     "ledger_committed_at": "2026-09-07T11:23:18Z"
+  },
+  {
+    "id": "okx-ai-okx-trade-mcp-2026-09-07",
+    "display_name": "@okx_ai/okx-trade-mcp",
+    "campaign": "nab-trade",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@okx_ai/okx-trade-mcp",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.9"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:44:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:44:07Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:44:07Z",
+    "ingested_at": "2026-09-07T06:44:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40okx_ai%2Fokx-trade-mcp",
+    "ledger_commit_at": "2026-09-07T11:23:27Z",
+    "ledger_committed_at": "2026-09-07T11:23:27Z"
   }
 ]
