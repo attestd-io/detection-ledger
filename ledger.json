@@ -687041,5 +687041,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:15:37Z",
     "ledger_committed_at": "2026-09-07T23:15:37Z"
+  },
+  {
+    "id": "railties-2026-09-07",
+    "display_name": "railties",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "railties",
+        "ecosystem": "npm",
+        "versions": [
+          "12.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-718",
+            "osv_published_at": "2023-01-30T23:51:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:05:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:05:01Z",
+    "osv_earliest_published_at": "2023-01-30T23:51:35Z",
+    "source_published_at": "2023-01-30T23:51:35Z",
+    "observed_at": "2026-09-07T13:05:01Z",
+    "ingested_at": "2026-09-07T13:05:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:15:47Z",
+    "ledger_committed_at": "2026-09-07T23:15:47Z"
   }
 ]
