@@ -533131,5 +533131,64 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:23:54Z",
     "ledger_committed_at": "2026-09-07T14:23:54Z"
+  },
+  {
+    "id": "protobufjs-databricks-2026-09-07",
+    "display_name": "protobufjs-databricks",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "protobufjs-databricks",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "0.1.1",
+          "0.1.3",
+          "1.796.2",
+          "1.796.3",
+          "10.785.2",
+          "10.785.3",
+          "2.797.2",
+          "2.797.3",
+          "3.798.2",
+          "3.798.3",
+          "4.799.2",
+          "4.799.3",
+          "5.780.2",
+          "5.780.3",
+          "6.781.2",
+          "6.781.3",
+          "7.782.2",
+          "7.782.3",
+          "8.783.2",
+          "8.783.3",
+          "9.784.2",
+          "9.784.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5489",
+            "osv_published_at": "2022-06-20T20:12:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:09:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:09:59Z",
+    "osv_earliest_published_at": "2022-06-20T20:12:36Z",
+    "source_published_at": "2022-06-20T20:12:36Z",
+    "observed_at": "2026-09-07T08:09:59Z",
+    "ingested_at": "2026-09-07T08:09:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:24:03Z",
+    "ledger_committed_at": "2026-09-07T14:24:03Z"
   }
 ]
