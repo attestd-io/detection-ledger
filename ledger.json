@@ -380658,5 +380658,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:03:26Z",
     "ledger_committed_at": "2026-09-07T05:03:26Z"
+  },
+  {
+    "id": "deepemrge-2026-09-07",
+    "display_name": "deepemrge",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "deepemrge",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2397",
+            "osv_published_at": "2022-08-19T03:55:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:37:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:37:42Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:14Z",
+    "source_published_at": "2022-08-19T03:55:14Z",
+    "observed_at": "2026-09-07T04:37:42Z",
+    "ingested_at": "2026-09-07T04:37:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:03:35Z",
+    "ledger_committed_at": "2026-09-07T05:03:35Z"
   }
 ]
