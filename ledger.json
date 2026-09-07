@@ -621538,5 +621538,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:03:23Z",
     "ledger_committed_at": "2026-09-07T19:03:23Z"
+  },
+  {
+    "id": "upc2web-font-firasans-2026-09-07",
+    "display_name": "@upc2web/font-firasans",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@upc2web/font-firasans",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-698",
+            "osv_published_at": "2022-11-18T05:55:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:50:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:50:24Z",
+    "osv_earliest_published_at": "2022-11-18T05:55:30Z",
+    "source_published_at": "2022-11-18T05:55:30Z",
+    "observed_at": "2026-09-07T10:50:24Z",
+    "ingested_at": "2026-09-07T10:50:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:03:32Z",
+    "ledger_committed_at": "2026-09-07T19:03:32Z"
   }
 ]
