@@ -1,0 +1,40 @@
+{
+  "id": "react-popper-old-2026-09-07",
+  "display_name": "react_popper_old",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "react_popper_old",
+      "ecosystem": "npm",
+      "versions": [
+        "999999.10.1",
+        "999999.10.9",
+        "999999.11.9",
+        "999999.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5683",
+          "osv_published_at": "2022-08-10T16:10:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:18:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:18:55Z",
+  "osv_earliest_published_at": "2022-08-10T16:10:52Z",
+  "source_published_at": "2022-08-10T16:10:52Z",
+  "observed_at": "2026-09-07T08:18:55Z",
+  "ingested_at": "2026-09-07T08:18:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T15:02:03Z",
+  "ledger_committed_at": "2026-09-07T15:02:03Z"
+}
