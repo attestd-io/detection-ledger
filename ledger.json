@@ -658486,5 +658486,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:11:37Z",
     "ledger_committed_at": "2026-09-07T21:11:37Z"
+  },
+  {
+    "id": "amazon-timestream-tools-2026-09-07",
+    "display_name": "amazon-timestream-tools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "amazon-timestream-tools",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-959",
+            "osv_published_at": "2022-06-20T20:25:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:22:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:22:14Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:41Z",
+    "source_published_at": "2022-06-20T20:25:41Z",
+    "observed_at": "2026-09-07T12:22:14Z",
+    "ingested_at": "2026-09-07T12:22:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:11:47Z",
+    "ledger_committed_at": "2026-09-07T21:11:47Z"
   }
 ]
