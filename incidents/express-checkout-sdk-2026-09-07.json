@@ -1,0 +1,47 @@
+{
+  "id": "express-checkout-sdk-2026-09-07",
+  "display_name": "express-checkout-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "express-checkout-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "0.9666.0",
+        "1.0.9666",
+        "1.9666.0",
+        "2.9666.0",
+        "3.9666.0",
+        "4.9666.0",
+        "5.9666.0",
+        "6.9666.0",
+        "7.9666.0",
+        "8.9666.0",
+        "9455.9666.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2926",
+          "osv_published_at": "2022-06-20T20:19:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:04:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:04:56Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:33Z",
+  "source_published_at": "2022-06-20T20:19:33Z",
+  "observed_at": "2026-09-07T05:04:56Z",
+  "ingested_at": "2026-09-07T05:04:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:23:54Z",
+  "ledger_committed_at": "2026-09-07T06:23:54Z"
+}
