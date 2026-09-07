@@ -388731,5 +388731,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:31:45Z",
     "ledger_committed_at": "2026-09-07T05:31:45Z"
+  },
+  {
+    "id": "douyin-js-jdk-2026-09-07",
+    "display_name": "douyin-js-jdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "douyin-js-jdk",
+        "ecosystem": "npm",
+        "versions": [
+          "9.1.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2575",
+            "osv_published_at": "2022-06-20T20:12:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:50:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:50:10Z",
+    "osv_earliest_published_at": "2022-06-20T20:12:39Z",
+    "source_published_at": "2022-06-20T20:12:39Z",
+    "observed_at": "2026-09-07T04:50:10Z",
+    "ingested_at": "2026-09-07T04:50:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:31:53Z",
+    "ledger_committed_at": "2026-09-07T05:31:53Z"
   }
 ]
