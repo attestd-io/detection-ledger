@@ -652456,5 +652456,62 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:45:46Z",
     "ledger_committed_at": "2026-09-07T20:45:46Z"
+  },
+  {
+    "id": "ac-appleicons-2026-09-07",
+    "display_name": "ac-appleicons",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ac-appleicons",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.12",
+          "1.0.685",
+          "1.685.0",
+          "1.878.0",
+          "10.887.0",
+          "2.787.0",
+          "2.879.0",
+          "3.788.0",
+          "3.880.0",
+          "4.789.0",
+          "4.881.0",
+          "5.790.0",
+          "5.882.0",
+          "6.791.0",
+          "6.883.0",
+          "7.821.0",
+          "7.884.0",
+          "8.831.0",
+          "8.885.0",
+          "9.886.0",
+          "921.832.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-812",
+            "osv_published_at": "2022-07-22T10:24:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:58:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:58:16Z",
+    "osv_earliest_published_at": "2022-07-22T10:24:27Z",
+    "source_published_at": "2022-07-22T10:24:27Z",
+    "observed_at": "2026-09-07T11:58:16Z",
+    "ingested_at": "2026-09-07T11:58:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:45:57Z",
+    "ledger_committed_at": "2026-09-07T20:45:57Z"
   }
 ]
