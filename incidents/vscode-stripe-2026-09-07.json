@@ -1,0 +1,37 @@
+{
+  "id": "vscode-stripe-2026-09-07",
+  "display_name": "vscode-stripe",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vscode-stripe",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6978",
+          "osv_published_at": "2022-06-20T20:21:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:50:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:50:23Z",
+  "osv_earliest_published_at": "2022-06-20T20:21:41Z",
+  "source_published_at": "2022-06-20T20:21:41Z",
+  "observed_at": "2026-09-07T10:50:23Z",
+  "ingested_at": "2026-09-07T10:50:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:03:13Z",
+  "ledger_committed_at": "2026-09-07T19:03:13Z"
+}
