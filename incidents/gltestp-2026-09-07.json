@@ -1,0 +1,37 @@
+{
+  "id": "gltestp-2026-09-07",
+  "display_name": "gltestp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gltestp",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3398",
+          "osv_published_at": "2022-06-20T20:16:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:18:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:18:18Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:13Z",
+  "source_published_at": "2022-06-20T20:16:13Z",
+  "observed_at": "2026-09-07T05:18:18Z",
+  "ingested_at": "2026-09-07T05:18:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:40:41Z",
+  "ledger_committed_at": "2026-09-07T07:40:41Z"
+}
