@@ -1,0 +1,40 @@
+{
+  "id": "teleterm-2026-09-07",
+  "display_name": "teleterm",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "teleterm",
+      "ecosystem": "npm",
+      "versions": [
+        "10.1.1",
+        "10.1.2",
+        "11.11.11",
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6450",
+          "osv_published_at": "2022-12-12T06:53:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:45:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:45:12Z",
+  "osv_earliest_published_at": "2022-12-12T06:53:14Z",
+  "source_published_at": "2022-12-12T06:53:14Z",
+  "observed_at": "2026-09-07T09:45:12Z",
+  "ingested_at": "2026-09-07T09:45:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:30:43Z",
+  "ledger_committed_at": "2026-09-07T17:30:43Z"
+}
