@@ -484662,5 +484662,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:48:42Z",
     "ledger_committed_at": "2026-09-07T11:48:42Z"
+  },
+  {
+    "id": "mitek-science-mweb-sdk-2026-09-07",
+    "display_name": "mitek-science-mweb-sdk",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mitek-science-mweb-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.5772.2",
+          "2.5772.2",
+          "3.5772.2",
+          "4.5772.2",
+          "5.5772.2",
+          "6.5772.2",
+          "7.5772.2",
+          "8.5772.2",
+          "9425.5772.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4616",
+            "osv_published_at": "2022-06-20T21:08:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:47:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:47:41Z",
+    "osv_earliest_published_at": "2022-06-20T21:08:16Z",
+    "source_published_at": "2022-06-20T21:08:16Z",
+    "observed_at": "2026-09-07T06:47:41Z",
+    "ingested_at": "2026-09-07T06:47:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:48:52Z",
+    "ledger_committed_at": "2026-09-07T11:48:52Z"
   }
 ]
