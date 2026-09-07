@@ -1,0 +1,46 @@
+{
+  "id": "omega-tracker-omg-abstract-strategy-plugin-2026-09-07",
+  "display_name": "@omega-tracker/omg-abstract-strategy-plugin",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@omega-tracker/omg-abstract-strategy-plugin",
+      "ecosystem": "npm",
+      "versions": [
+        "0.736.0",
+        "1.736.0",
+        "2.736.0",
+        "3.738.0",
+        "4.739.0",
+        "5.740.0",
+        "6.741.0",
+        "7.742.0",
+        "8.744.0",
+        "934.746.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-480",
+          "osv_published_at": "2022-06-20T20:15:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:51:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:51:59Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:43Z",
+  "source_published_at": "2022-06-20T20:15:43Z",
+  "observed_at": "2026-09-07T06:51:59Z",
+  "ingested_at": "2026-09-07T06:51:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:17:02Z",
+  "ledger_committed_at": "2026-09-07T12:17:02Z"
+}
