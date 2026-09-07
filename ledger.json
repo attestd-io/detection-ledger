@@ -474365,5 +474365,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:08:55Z",
     "ledger_committed_at": "2026-09-07T11:08:55Z"
+  },
+  {
+    "id": "loki-price-2026-09-07",
+    "display_name": "loki-price",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "loki-price",
+        "ecosystem": "npm",
+        "versions": [
+          "13.0.0",
+          "3.1.1",
+          "3.1.1-beta.15",
+          "3.1.1-beta.2",
+          "3.1.15",
+          "3.16.15"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4387",
+            "osv_published_at": "2022-06-20T20:18:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:40:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:40:36Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:18Z",
+    "source_published_at": "2022-06-20T20:18:18Z",
+    "observed_at": "2026-09-07T06:40:36Z",
+    "ingested_at": "2026-09-07T06:40:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:09:04Z",
+    "ledger_committed_at": "2026-09-07T11:09:04Z"
   }
 ]
