@@ -614080,5 +614080,43 @@
     "advisory_url": "https://registry.npmjs.org/react-native-paygilant-wrapper",
     "ledger_commit_at": "2026-09-07T18:31:49Z",
     "ledger_committed_at": "2026-09-07T18:31:49Z"
+  },
+  {
+    "id": "uc-maps-layer-select-react-2026-09-07",
+    "display_name": "@uc-maps/layer-select.react",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@uc-maps/layer-select.react",
+        "ecosystem": "npm",
+        "versions": [
+          "6.0.8",
+          "6.99.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-680",
+            "osv_published_at": "2022-06-20T20:09:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:39:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:39:52Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:01Z",
+    "source_published_at": "2022-06-20T20:09:01Z",
+    "observed_at": "2026-09-07T10:39:52Z",
+    "ingested_at": "2026-09-07T10:39:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:31:59Z",
+    "ledger_committed_at": "2026-09-07T18:31:59Z"
   }
 ]
