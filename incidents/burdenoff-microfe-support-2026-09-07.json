@@ -1,0 +1,33 @@
+{
+  "id": "burdenoff-microfe-support-2026-09-07",
+  "display_name": "@burdenoff/microfe-support",
+  "campaign": "status-waku-voting",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@burdenoff/microfe-support",
+      "ecosystem": "npm",
+      "versions": [
+        "2026.2.1",
+        "2026.2.2"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:07:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:07:52Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T09:07:52Z",
+  "ingested_at": "2026-09-07T09:07:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40burdenoff%2Fmicrofe-support",
+  "ledger_commit_at": "2026-09-07T16:21:09Z",
+  "ledger_committed_at": "2026-09-07T16:21:09Z"
+}
