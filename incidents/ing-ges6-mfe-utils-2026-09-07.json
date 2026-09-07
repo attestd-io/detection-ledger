@@ -1,0 +1,55 @@
+{
+  "id": "ing-ges6-mfe-utils-2026-09-07",
+  "display_name": "ing-ges6-mfe-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ing-ges6-mfe-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.9",
+        "0.1.2",
+        "1.409.0",
+        "1.410.2",
+        "2.410.0",
+        "2.411.2",
+        "3.411.0",
+        "4.412.0",
+        "4.413.2",
+        "5.413.0",
+        "5.414.2",
+        "6.414.0",
+        "6.415.2",
+        "7.415.0",
+        "7.416.2",
+        "8.416.0",
+        "8.417.2",
+        "9.417.0",
+        "9.418.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3824",
+          "osv_published_at": "2022-09-21T06:33:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:49:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:49:32Z",
+  "osv_earliest_published_at": "2022-09-21T06:33:46Z",
+  "source_published_at": "2022-09-21T06:33:46Z",
+  "observed_at": "2026-09-07T05:49:32Z",
+  "ingested_at": "2026-09-07T05:49:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:05:03Z",
+  "ledger_committed_at": "2026-09-07T09:05:03Z"
+}
