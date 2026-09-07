@@ -558140,5 +558140,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:09:36Z",
     "ledger_committed_at": "2026-09-07T16:09:36Z"
+  },
+  {
+    "id": "sfdc-funnel-chart-2026-09-07",
+    "display_name": "sfdc-funnel-chart",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sfdc-funnel-chart",
+        "ecosystem": "npm",
+        "versions": [
+          "44.44.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6051",
+            "osv_published_at": "2022-06-20T20:14:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:45:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:45:03Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:59Z",
+    "source_published_at": "2022-06-20T20:14:59Z",
+    "observed_at": "2026-09-07T08:45:03Z",
+    "ingested_at": "2026-09-07T08:45:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:09:46Z",
+    "ledger_committed_at": "2026-09-07T16:09:46Z"
   }
 ]
