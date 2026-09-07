@@ -390191,5 +390191,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:36:16Z",
     "ledger_committed_at": "2026-09-07T05:36:16Z"
+  },
+  {
+    "id": "duckduckgo-plus-2026-09-07",
+    "display_name": "duckduckgo_plus",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "duckduckgo_plus",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2606",
+            "osv_published_at": "2022-06-20T20:21:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:51:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:51:07Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:53Z",
+    "source_published_at": "2022-06-20T20:21:53Z",
+    "observed_at": "2026-09-07T04:51:07Z",
+    "ingested_at": "2026-09-07T04:51:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:36:23Z",
+    "ledger_committed_at": "2026-09-07T05:36:23Z"
   }
 ]
