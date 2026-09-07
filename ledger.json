@@ -607309,5 +607309,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:02:00Z",
     "ledger_committed_at": "2026-09-07T18:02:00Z"
+  },
+  {
+    "id": "tslint-blueprint-palantir-2026-09-07",
+    "display_name": "tslint-blueprint-palantir",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tslint-blueprint-palantir",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6666",
+            "osv_published_at": "2022-06-20T20:21:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:28:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:28:22Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:47Z",
+    "source_published_at": "2022-06-20T20:21:47Z",
+    "observed_at": "2026-09-07T10:28:22Z",
+    "ingested_at": "2026-09-07T10:28:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:02:10Z",
+    "ledger_committed_at": "2026-09-07T18:02:10Z"
   }
 ]
