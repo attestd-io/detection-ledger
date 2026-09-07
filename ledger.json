@@ -673057,5 +673057,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:14:05Z",
     "ledger_committed_at": "2026-09-07T22:14:05Z"
+  },
+  {
+    "id": "fb-chat-fca-2026-09-07",
+    "display_name": "fb-chat-fca",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fb-chat-fca",
+        "ecosystem": "npm",
+        "versions": [
+          "10.4.22"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-326",
+            "osv_published_at": "2023-07-12T00:48:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:49:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:49:07Z",
+    "osv_earliest_published_at": "2023-07-12T00:48:38Z",
+    "source_published_at": "2023-07-12T00:48:38Z",
+    "observed_at": "2026-09-07T12:49:07Z",
+    "ingested_at": "2026-09-07T12:49:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:14:16Z",
+    "ledger_committed_at": "2026-09-07T22:14:16Z"
   }
 ]
