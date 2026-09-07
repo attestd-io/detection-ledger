@@ -564963,5 +564963,51 @@
     "advisory_url": "https://registry.npmjs.org/eslint-plugin-react-jsx",
     "ledger_commit_at": "2026-09-07T16:39:20Z",
     "ledger_committed_at": "2026-09-07T16:39:20Z"
+  },
+  {
+    "id": "ta-web-platform-localezone-2026-09-07",
+    "display_name": "@ta-web-platform/localezone",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@ta-web-platform/localezone",
+        "ecosystem": "npm",
+        "versions": [
+          "0.636.0",
+          "1.636.0",
+          "2.637.0",
+          "3.638.0",
+          "4.639.0",
+          "5.640.0",
+          "6.641.0",
+          "7.642.0",
+          "8.643.0",
+          "951.644.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-620",
+            "osv_published_at": "2022-06-20T20:16:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:16:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:16:16Z",
+    "osv_earliest_published_at": "2022-06-20T20:16:17Z",
+    "source_published_at": "2022-06-20T20:16:17Z",
+    "observed_at": "2026-09-07T09:16:16Z",
+    "ingested_at": "2026-09-07T09:16:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:39:31Z",
+    "ledger_committed_at": "2026-09-07T16:39:31Z"
   }
 ]
