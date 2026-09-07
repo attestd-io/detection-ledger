@@ -1,0 +1,37 @@
+{
+  "id": "plugin-bugfix-v8-spread-parameters-in-optional-chaining-2026-09-07",
+  "display_name": "plugin-bugfix-v8-spread-parameters-in-optional-chaining",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "plugin-bugfix-v8-spread-parameters-in-optional-chaining",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5367",
+          "osv_published_at": "2022-06-20T20:09:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:55:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:55:17Z",
+  "osv_earliest_published_at": "2022-06-20T20:09:48Z",
+  "source_published_at": "2022-06-20T20:09:48Z",
+  "observed_at": "2026-09-07T07:55:17Z",
+  "ingested_at": "2026-09-07T07:55:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T14:02:01Z",
+  "ledger_committed_at": "2026-09-07T14:02:01Z"
+}
