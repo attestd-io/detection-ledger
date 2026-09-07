@@ -1,0 +1,42 @@
+{
+  "id": "worki-lib-candidate-common-2026-09-07",
+  "display_name": "@worki/lib-candidate-common",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@worki/lib-candidate-common",
+      "ecosystem": "npm",
+      "versions": [
+        "1.9999.0",
+        "2.9999.0",
+        "3.9999.0",
+        "4.9999.0",
+        "5.9999.0",
+        "9999.9999.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-732",
+          "osv_published_at": "2022-06-20T20:24:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:17:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:17:26Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:02Z",
+  "source_published_at": "2022-06-20T20:24:02Z",
+  "observed_at": "2026-09-07T11:17:26Z",
+  "ingested_at": "2026-09-07T11:17:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:06:41Z",
+  "ledger_committed_at": "2026-09-07T20:06:41Z"
+}
