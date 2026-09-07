@@ -487246,5 +487246,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:58:59Z",
     "ledger_committed_at": "2026-09-07T11:58:59Z"
+  },
+  {
+    "id": "mongo-rabbit-bridge-2026-09-07",
+    "display_name": "mongo.rabbit.bridge",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mongo.rabbit.bridge",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.4",
+          "6.9.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4684",
+            "osv_published_at": "2022-06-20T20:09:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:48:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:48:49Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:27Z",
+    "source_published_at": "2022-06-20T20:09:27Z",
+    "observed_at": "2026-09-07T06:48:49Z",
+    "ingested_at": "2026-09-07T06:48:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:59:07Z",
+    "ledger_committed_at": "2026-09-07T11:59:07Z"
   }
 ]
