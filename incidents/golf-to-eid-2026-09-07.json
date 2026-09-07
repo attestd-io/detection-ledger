@@ -1,0 +1,40 @@
+{
+  "id": "golf-to-eid-2026-09-07",
+  "display_name": "golf-to-eid",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "golf-to-eid",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "100.0.0",
+        "2.0.0",
+        "3.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3406",
+          "osv_published_at": "2022-06-20T20:25:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:18:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:18:29Z",
+  "osv_earliest_published_at": "2022-06-20T20:25:25Z",
+  "source_published_at": "2022-06-20T20:25:25Z",
+  "observed_at": "2026-09-07T05:18:29Z",
+  "ingested_at": "2026-09-07T05:18:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:41:48Z",
+  "ledger_committed_at": "2026-09-07T07:41:48Z"
+}
