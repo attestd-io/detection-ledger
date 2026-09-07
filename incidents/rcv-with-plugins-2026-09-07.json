@@ -1,0 +1,55 @@
+{
+  "id": "rcv-with-plugins-2026-09-07",
+  "display_name": "rcv-with-plugins",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rcv-with-plugins",
+      "ecosystem": "npm",
+      "versions": [
+        "0.99.99",
+        "1.99.99",
+        "10.99.99",
+        "11.99.99",
+        "12.99.99",
+        "13.99.99",
+        "14.99.99",
+        "15.99.99",
+        "16.99.99",
+        "2.99.99",
+        "3.99.99",
+        "4.99.99",
+        "5.99.99",
+        "6.99.99",
+        "7.99.99",
+        "8.48.2",
+        "8.48.7",
+        "8.99.99",
+        "9.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5616",
+          "osv_published_at": "2022-06-20T20:23:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:15:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:15:37Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:43Z",
+  "source_published_at": "2022-06-20T20:23:43Z",
+  "observed_at": "2026-09-07T08:15:37Z",
+  "ingested_at": "2026-09-07T08:15:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T14:49:08Z",
+  "ledger_committed_at": "2026-09-07T14:49:08Z"
+}
