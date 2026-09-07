@@ -665460,5 +665460,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:40:37Z",
     "ledger_committed_at": "2026-09-07T21:40:37Z"
+  },
+  {
+    "id": "caas-assembly-2026-09-07",
+    "display_name": "caas-assembly",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "caas-assembly",
+        "ecosystem": "npm",
+        "versions": [
+          "20.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-151",
+            "osv_published_at": "2023-03-31T02:16:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:35:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:35:38Z",
+    "osv_earliest_published_at": "2023-03-31T02:16:07Z",
+    "source_published_at": "2023-03-31T02:16:07Z",
+    "observed_at": "2026-09-07T12:35:38Z",
+    "ingested_at": "2026-09-07T12:35:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:40:47Z",
+    "ledger_committed_at": "2026-09-07T21:40:47Z"
   }
 ]
