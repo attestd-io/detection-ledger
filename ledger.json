@@ -667959,5 +667959,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:51:17Z",
     "ledger_committed_at": "2026-09-07T21:51:17Z"
+  },
+  {
+    "id": "confusion-1337-2026-09-07",
+    "display_name": "confusion-1337",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "confusion-1337",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-205",
+            "osv_published_at": "2023-07-10T02:53:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:40:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:40:19Z",
+    "osv_earliest_published_at": "2023-07-10T02:53:08Z",
+    "source_published_at": "2023-07-10T02:53:08Z",
+    "observed_at": "2026-09-07T12:40:19Z",
+    "ingested_at": "2026-09-07T12:40:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:51:28Z",
+    "ledger_committed_at": "2026-09-07T21:51:28Z"
   }
 ]
