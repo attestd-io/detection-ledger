@@ -1,0 +1,38 @@
+{
+  "id": "mbed-drivers-2026-09-07",
+  "display_name": "mbed-drivers",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mbed-drivers",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.0",
+        "6.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4513",
+          "osv_published_at": "2022-06-20T20:14:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:45:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:45:39Z",
+  "osv_earliest_published_at": "2022-06-20T20:14:19Z",
+  "source_published_at": "2022-06-20T20:14:19Z",
+  "observed_at": "2026-09-07T06:45:39Z",
+  "ingested_at": "2026-09-07T06:45:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T11:32:45Z",
+  "ledger_committed_at": "2026-09-07T11:32:45Z"
+}
