@@ -420293,5 +420293,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:23:16Z",
     "ledger_committed_at": "2026-09-07T07:23:16Z"
+  },
+  {
+    "id": "gauntlet-solana-2026-09-07",
+    "display_name": "gauntlet-solana",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gauntlet-solana",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.0.0",
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3293",
+            "osv_published_at": "2022-06-20T20:11:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:15:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:15:14Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:59Z",
+    "source_published_at": "2022-06-20T20:11:59Z",
+    "observed_at": "2026-09-07T05:15:14Z",
+    "ingested_at": "2026-09-07T05:15:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:23:24Z",
+    "ledger_committed_at": "2026-09-07T07:23:24Z"
   }
 ]
