@@ -1,0 +1,45 @@
+{
+  "id": "federalist-uswds-jekyll-2026-09-07",
+  "display_name": "federalist-uswds-jekyll",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "federalist-uswds-jekyll",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.999",
+        "0.999.999",
+        "1.19.999",
+        "1.3.999",
+        "1.39.999",
+        "1.999.0",
+        "2.1.999",
+        "2.2.0",
+        "999.999.999"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3000",
+          "osv_published_at": "2022-06-20T21:10:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:06:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:06:40Z",
+  "osv_earliest_published_at": "2022-06-20T21:10:15Z",
+  "source_published_at": "2022-06-20T21:10:15Z",
+  "observed_at": "2026-09-07T05:06:40Z",
+  "ingested_at": "2026-09-07T05:06:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:35:22Z",
+  "ledger_committed_at": "2026-09-07T06:35:22Z"
+}
