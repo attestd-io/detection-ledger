@@ -1,0 +1,37 @@
+{
+  "id": "fca-hrz-reup-2026-09-07",
+  "display_name": "fca-hrz-reup",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fca-hrz-reup",
+      "ecosystem": "npm",
+      "versions": [
+        "1.5.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-1034",
+          "osv_published_at": "2023-08-01T04:52:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:26:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:26:26Z",
+  "osv_earliest_published_at": "2023-08-01T04:52:10Z",
+  "source_published_at": "2023-08-01T04:52:10Z",
+  "observed_at": "2026-09-07T12:26:26Z",
+  "ingested_at": "2026-09-07T12:26:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:24:20Z",
+  "ledger_committed_at": "2026-09-07T21:24:20Z"
+}
