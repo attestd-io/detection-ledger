@@ -1,0 +1,39 @@
+{
+  "id": "playwright-internal-2026-09-07",
+  "display_name": "playwright-internal",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "playwright-internal",
+      "ecosystem": "npm",
+      "versions": [
+        "1.36.0-next",
+        "1.36.1-next",
+        "3.3.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8277",
+          "osv_published_at": "2023-10-02T05:45:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:16:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:16:38Z",
+  "osv_earliest_published_at": "2023-10-02T05:45:27Z",
+  "source_published_at": "2023-10-02T05:45:27Z",
+  "observed_at": "2026-09-07T13:16:38Z",
+  "ingested_at": "2026-09-07T13:16:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:53:24Z",
+  "ledger_committed_at": "2026-09-07T23:53:24Z"
+}
