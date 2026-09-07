@@ -404021,5 +404021,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:23:14Z",
     "ledger_committed_at": "2026-09-07T06:23:14Z"
+  },
+  {
+    "id": "expert-car-broker-adapter-2026-09-07",
+    "display_name": "expert-car-broker-adapter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "expert-car-broker-adapter",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.0.0",
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2922",
+            "osv_published_at": "2022-06-20T20:11:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:04:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:04:51Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:58Z",
+    "source_published_at": "2022-06-20T20:11:58Z",
+    "observed_at": "2026-09-07T05:04:51Z",
+    "ingested_at": "2026-09-07T05:04:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:23:23Z",
+    "ledger_committed_at": "2026-09-07T06:23:23Z"
   }
 ]
