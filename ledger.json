@@ -371124,5 +371124,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:39:01Z",
     "ledger_committed_at": "2026-09-07T04:39:01Z"
+  },
+  {
+    "id": "csp-login-app-2026-09-07",
+    "display_name": "csp-login-app",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "csp-login-app",
+        "ecosystem": "npm",
+        "versions": [
+          "1.30.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2265",
+            "osv_published_at": "2022-07-21T10:55:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:10:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:10:43Z",
+    "osv_earliest_published_at": "2022-07-21T10:55:48Z",
+    "source_published_at": "2022-07-21T10:55:48Z",
+    "observed_at": "2026-09-07T04:10:43Z",
+    "ingested_at": "2026-09-07T04:10:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:39:10Z",
+    "ledger_committed_at": "2026-09-07T04:39:10Z"
   }
 ]
