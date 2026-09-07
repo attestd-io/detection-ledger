@@ -476773,5 +476773,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:17:09Z",
     "ledger_committed_at": "2026-09-07T11:17:09Z"
+  },
+  {
+    "id": "lyft-service-plugin-service-client-2026-09-07",
+    "display_name": "lyft-service-plugin-service-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lyft-service-plugin-service-client",
+        "ecosystem": "npm",
+        "versions": [
+          "1.99.99",
+          "2.99.98",
+          "2.99.99",
+          "99.99.98"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4437",
+            "osv_published_at": "2022-06-20T20:13:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:42:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:42:20Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:00Z",
+    "source_published_at": "2022-06-20T20:13:00Z",
+    "observed_at": "2026-09-07T06:42:20Z",
+    "ingested_at": "2026-09-07T06:42:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:17:18Z",
+    "ledger_committed_at": "2026-09-07T11:17:18Z"
   }
 ]
