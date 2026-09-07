@@ -408141,5 +408141,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:37:48Z",
     "ledger_committed_at": "2026-09-07T06:37:48Z"
+  },
+  {
+    "id": "fetlife-assets-2026-09-07",
+    "display_name": "fetlife-assets",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fetlife-assets",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.0",
+          "9.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3017",
+            "osv_published_at": "2022-06-20T18:20:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:07:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:07:05Z",
+    "osv_earliest_published_at": "2022-06-20T18:20:42Z",
+    "source_published_at": "2022-06-20T18:20:42Z",
+    "observed_at": "2026-09-07T05:07:05Z",
+    "ingested_at": "2026-09-07T05:07:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:37:56Z",
+    "ledger_committed_at": "2026-09-07T06:37:56Z"
   }
 ]
