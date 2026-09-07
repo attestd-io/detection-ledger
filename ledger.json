@@ -621092,5 +621092,67 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:01:34Z",
     "ledger_committed_at": "2026-09-07T19:01:34Z"
+  },
+  {
+    "id": "unpkg-semver-wix-recorder-2026-09-07",
+    "display_name": "@unpkg-semver/wix-recorder",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@unpkg-semver/wix-recorder",
+        "ecosystem": "npm",
+        "versions": [
+          "0.99.99",
+          "0.999.999",
+          "1.77.3",
+          "1.9.9",
+          "1.999.999",
+          "2.9.9",
+          "2.99.99",
+          "2.999.999",
+          "3.9.9",
+          "3.99.99",
+          "3.999.999",
+          "4.9.9",
+          "4.99.99",
+          "4.999.999",
+          "5.9.9",
+          "5.99.99",
+          "5.999.999",
+          "6.9.9",
+          "6.99.99",
+          "6.999.999",
+          "7.9.9",
+          "7.99.99",
+          "7.999.999",
+          "8.9.9",
+          "8.99.99",
+          "8.999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-697",
+            "osv_published_at": "2022-06-20T20:21:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:49:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:49:55Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:27Z",
+    "source_published_at": "2022-06-20T20:21:27Z",
+    "observed_at": "2026-09-07T10:49:55Z",
+    "ingested_at": "2026-09-07T10:49:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:01:42Z",
+    "ledger_committed_at": "2026-09-07T19:01:42Z"
   }
 ]
