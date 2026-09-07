@@ -568713,5 +568713,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:54:23Z",
     "ledger_committed_at": "2026-09-07T16:54:23Z"
+  },
+  {
+    "id": "spring-boot-devtools-2026-09-07",
+    "display_name": "spring-boot-devtools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "spring-boot-devtools",
+        "ecosystem": "npm",
+        "versions": [
+          "69.69.69"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6269",
+            "osv_published_at": "2022-10-24T04:21:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:23:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:23:09Z",
+    "osv_earliest_published_at": "2022-10-24T04:21:38Z",
+    "source_published_at": "2022-10-24T04:21:38Z",
+    "observed_at": "2026-09-07T09:23:09Z",
+    "ingested_at": "2026-09-07T09:23:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:54:32Z",
+    "ledger_committed_at": "2026-09-07T16:54:32Z"
   }
 ]
