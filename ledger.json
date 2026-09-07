@@ -673995,5 +673995,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:18:12Z",
     "ledger_committed_at": "2026-09-07T22:18:12Z"
+  },
+  {
+    "id": "fc-modal-2026-09-07",
+    "display_name": "fc-modal",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fc-modal",
+        "ecosystem": "npm",
+        "versions": [
+          "9999.9999.9999",
+          "9999.9999.99999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-358",
+            "osv_published_at": "2023-06-06T06:45:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:49:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:49:41Z",
+    "osv_earliest_published_at": "2023-06-06T06:45:25Z",
+    "source_published_at": "2023-06-06T06:45:25Z",
+    "observed_at": "2026-09-07T12:49:41Z",
+    "ingested_at": "2026-09-07T12:49:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:18:22Z",
+    "ledger_committed_at": "2026-09-07T22:18:22Z"
   }
 ]
