@@ -1,0 +1,45 @@
+{
+  "id": "idse-common-ui-2026-09-07",
+  "display_name": "@idse/common-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@idse/common-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.12",
+        "1.663.0",
+        "2.664.0",
+        "4.666.0",
+        "5.667.0",
+        "6.668.0",
+        "7.669.0",
+        "8.670.0",
+        "9.671.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-345",
+          "osv_published_at": "2022-06-20T20:12:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:23:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:23:46Z",
+  "osv_earliest_published_at": "2022-06-20T20:12:54Z",
+  "source_published_at": "2022-06-20T20:12:54Z",
+  "observed_at": "2026-09-07T05:23:46Z",
+  "ingested_at": "2026-09-07T05:23:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:50:58Z",
+  "ledger_committed_at": "2026-09-07T07:50:58Z"
+}
