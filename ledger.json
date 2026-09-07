@@ -689055,5 +689055,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:24:34Z",
     "ledger_committed_at": "2026-09-07T23:24:34Z"
+  },
+  {
+    "id": "fca-supportbot-2026-09-07",
+    "display_name": "fca-supportbot",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fca-supportbot",
+        "ecosystem": "npm",
+        "versions": [
+          "8.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-7901",
+            "osv_published_at": "2023-08-24T01:27:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:07:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:07:05Z",
+    "osv_earliest_published_at": "2023-08-24T01:27:19Z",
+    "source_published_at": "2023-08-24T01:27:19Z",
+    "observed_at": "2026-09-07T13:07:05Z",
+    "ingested_at": "2026-09-07T13:07:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:24:44Z",
+    "ledger_committed_at": "2026-09-07T23:24:44Z"
   }
 ]
