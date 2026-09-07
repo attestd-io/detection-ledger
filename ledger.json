@@ -613981,5 +613981,37 @@
     "advisory_url": "https://registry.npmjs.org/gorsejs",
     "ledger_commit_at": "2026-09-07T18:31:20Z",
     "ledger_committed_at": "2026-09-07T18:31:20Z"
+  },
+  {
+    "id": "loro-codemirror-2026-09-07",
+    "display_name": "loro-codemirror",
+    "campaign": "alice-bob",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "loro-codemirror",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.4"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:39:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:39:38Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T10:39:38Z",
+    "ingested_at": "2026-09-07T10:39:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/loro-codemirror",
+    "ledger_commit_at": "2026-09-07T18:31:29Z",
+    "ledger_committed_at": "2026-09-07T18:31:29Z"
   }
 ]
