@@ -383642,5 +383642,61 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:13:50Z",
     "ledger_committed_at": "2026-09-07T05:13:50Z"
+  },
+  {
+    "id": "dig-tokens-2026-09-07",
+    "display_name": "dig-tokens",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dig-tokens",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "1.877.367",
+          "10.810.542",
+          "2.952.530",
+          "20.964.474",
+          "3.939.359",
+          "30.894.411",
+          "4.712.382",
+          "40.876.530",
+          "5.907.492",
+          "50.887.424",
+          "6.787.564",
+          "60.977.637",
+          "7.879.508",
+          "70.886.408",
+          "8.872.521",
+          "80.931.386",
+          "9.877.315",
+          "90.742.610",
+          "9998.898.459"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2470",
+            "osv_published_at": "2022-06-14T07:37:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:43:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:43:21Z",
+    "osv_earliest_published_at": "2022-06-14T07:37:27Z",
+    "source_published_at": "2022-06-14T07:37:27Z",
+    "observed_at": "2026-09-07T04:43:21Z",
+    "ingested_at": "2026-09-07T04:43:21Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:13:59Z",
+    "ledger_committed_at": "2026-09-07T05:13:59Z"
   }
 ]
