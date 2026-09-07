@@ -1,0 +1,37 @@
+{
+  "id": "sfdc-stream-2026-09-07",
+  "display_name": "sfdc-stream",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sfdc-stream",
+      "ecosystem": "npm",
+      "versions": [
+        "44.44.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6057",
+          "osv_published_at": "2022-06-20T20:15:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:45:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:45:08Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:02Z",
+  "source_published_at": "2022-06-20T20:15:02Z",
+  "observed_at": "2026-09-07T08:45:08Z",
+  "ingested_at": "2026-09-07T08:45:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:10:41Z",
+  "ledger_committed_at": "2026-09-07T16:10:41Z"
+}
