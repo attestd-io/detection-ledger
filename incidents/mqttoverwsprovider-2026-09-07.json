@@ -1,0 +1,41 @@
+{
+  "id": "mqttoverwsprovider-2026-09-07",
+  "display_name": "mqttoverwsprovider",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mqttoverwsprovider",
+      "ecosystem": "npm",
+      "versions": [
+        "0.9.9",
+        "1.9.9",
+        "100.9.9",
+        "2.9.9",
+        "3.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4704",
+          "osv_published_at": "2022-06-20T20:25:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:49:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:49:09Z",
+  "osv_earliest_published_at": "2022-06-20T20:25:13Z",
+  "source_published_at": "2022-06-20T20:25:13Z",
+  "observed_at": "2026-09-07T06:49:09Z",
+  "ingested_at": "2026-09-07T06:49:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:02:22Z",
+  "ledger_committed_at": "2026-09-07T12:02:22Z"
+}
