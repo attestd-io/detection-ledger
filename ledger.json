@@ -643327,5 +643327,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:19:04Z",
     "ledger_committed_at": "2026-09-07T20:19:04Z"
+  },
+  {
+    "id": "zero-falhas-vilao-2026-09-07",
+    "display_name": "zero-falhas-vilao",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "zero-falhas-vilao",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7384",
+            "osv_published_at": "2022-09-05T02:59:03Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:22:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:22:19Z",
+    "osv_earliest_published_at": "2022-09-05T02:59:03Z",
+    "source_published_at": "2022-09-05T02:59:03Z",
+    "observed_at": "2026-09-07T11:22:19Z",
+    "ingested_at": "2026-09-07T11:22:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:19:14Z",
+    "ledger_committed_at": "2026-09-07T20:19:14Z"
   }
 ]
