@@ -1,0 +1,47 @@
+{
+  "id": "aer-css-vars-2026-09-07",
+  "display_name": "aer_css-vars",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "aer_css-vars",
+      "ecosystem": "npm",
+      "versions": [
+        "0.6933.0",
+        "1.0.6933",
+        "1.6933.0",
+        "2.6933.0",
+        "3.6933.0",
+        "4.6933.0",
+        "5.6933.0",
+        "6.6933.0",
+        "7.6933.0",
+        "8.6933.0",
+        "9233.6933.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-879",
+          "osv_published_at": "2022-06-20T20:16:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:01:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:01:10Z",
+  "osv_earliest_published_at": "2022-06-20T20:16:18Z",
+  "source_published_at": "2022-06-20T20:16:18Z",
+  "observed_at": "2026-09-07T12:01:10Z",
+  "ingested_at": "2026-09-07T12:01:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:57:00Z",
+  "ledger_committed_at": "2026-09-07T20:57:00Z"
+}
