@@ -416393,5 +416393,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:08:42Z",
     "ledger_committed_at": "2026-09-07T07:08:42Z"
+  },
+  {
+    "id": "free-rocket-league-keys-hakc-2022-2026-09-07",
+    "display_name": "free-rocket-league-keys-hakc-2022",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "free-rocket-league-keys-hakc-2022",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.25",
+          "1.2.26"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3200",
+            "osv_published_at": "2022-06-20T20:14:45Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:13:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:13:22Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:45Z",
+    "source_published_at": "2022-06-20T20:14:45Z",
+    "observed_at": "2026-09-07T05:13:22Z",
+    "ingested_at": "2026-09-07T05:13:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:08:51Z",
+    "ledger_committed_at": "2026-09-07T07:08:51Z"
   }
 ]
