@@ -461850,5 +461850,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:18:16Z",
     "ledger_committed_at": "2026-09-07T10:18:16Z"
+  },
+  {
+    "id": "kbn-ui-shared-deps-2026-09-07",
+    "display_name": "kbn-ui-shared-deps",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "kbn-ui-shared-deps",
+        "ecosystem": "npm",
+        "versions": [
+          "1.9877.0",
+          "2.9877.0",
+          "3.9877.0",
+          "4.9877.0",
+          "5.9877.0",
+          "6.9877.0",
+          "7.9877.0",
+          "8.9877.0",
+          "9236.9877.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4126",
+            "osv_published_at": "2022-06-20T20:23:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:10:54Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:10:54Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:39Z",
+    "source_published_at": "2022-06-20T20:23:39Z",
+    "observed_at": "2026-09-07T06:10:54Z",
+    "ingested_at": "2026-09-07T06:10:54Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:18:25Z",
+    "ledger_committed_at": "2026-09-07T10:18:25Z"
   }
 ]
