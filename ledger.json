@@ -551833,5 +551833,60 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:43:13Z",
     "ledger_committed_at": "2026-09-07T15:43:13Z"
+  },
+  {
+    "id": "saddlebag-events-2026-09-07",
+    "display_name": "saddlebag-events",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "saddlebag-events",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "1.640.0",
+          "1.640.1",
+          "2.641.0",
+          "2.641.1",
+          "3.642.0",
+          "3.642.1",
+          "4.643.0",
+          "4.643.1",
+          "5.644.0",
+          "5.644.1",
+          "6.645.0",
+          "6.645.1",
+          "7.646.0",
+          "7.646.1",
+          "8.647.0",
+          "8.647.1",
+          "966.648.0",
+          "966.648.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5903",
+            "osv_published_at": "2022-06-20T20:12:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:40:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:40:36Z",
+    "osv_earliest_published_at": "2022-06-20T20:12:27Z",
+    "source_published_at": "2022-06-20T20:12:27Z",
+    "observed_at": "2026-09-07T08:40:36Z",
+    "ingested_at": "2026-09-07T08:40:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:43:22Z",
+    "ledger_committed_at": "2026-09-07T15:43:22Z"
   }
 ]
