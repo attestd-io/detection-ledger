@@ -546569,5 +546569,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:21:22Z",
     "ledger_committed_at": "2026-09-07T15:21:22Z"
+  },
+  {
+    "id": "richsite-2026-09-07",
+    "display_name": "richsite",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "richsite",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5788",
+            "osv_published_at": "2022-10-31T04:51:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:22:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:22:43Z",
+    "osv_earliest_published_at": "2022-10-31T04:51:55Z",
+    "source_published_at": "2022-10-31T04:51:55Z",
+    "observed_at": "2026-09-07T08:22:43Z",
+    "ingested_at": "2026-09-07T08:22:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:21:32Z",
+    "ledger_committed_at": "2026-09-07T15:21:32Z"
   }
 ]
