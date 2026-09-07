@@ -518907,5 +518907,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:27:37Z",
     "ledger_committed_at": "2026-09-07T13:27:37Z"
+  },
+  {
+    "id": "oz-player-2026-09-07",
+    "display_name": "oz-player",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "oz-player",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.983",
+          "1.937.0",
+          "2.932.0",
+          "3.812.0",
+          "4.922.0",
+          "5.862.0",
+          "6.962.0",
+          "7.949.0",
+          "8.649.0",
+          "923.649.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5165",
+            "osv_published_at": "2022-06-20T20:19:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:47:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:47:27Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:13Z",
+    "source_published_at": "2022-06-20T20:19:13Z",
+    "observed_at": "2026-09-07T07:47:27Z",
+    "ingested_at": "2026-09-07T07:47:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:27:47Z",
+    "ledger_committed_at": "2026-09-07T13:27:47Z"
   }
 ]
