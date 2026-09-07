@@ -540416,5 +540416,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:54:58Z",
     "ledger_committed_at": "2026-09-07T14:54:58Z"
+  },
+  {
+    "id": "react-instantsearch-hooks-dom-2026-09-07",
+    "display_name": "react-instantsearch-hooks-dom",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-instantsearch-hooks-dom",
+        "ecosystem": "npm",
+        "versions": [
+          "999.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5649",
+            "osv_published_at": "2022-06-20T20:11:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:16:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:16:43Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:32Z",
+    "source_published_at": "2022-06-20T20:11:32Z",
+    "observed_at": "2026-09-07T08:16:43Z",
+    "ingested_at": "2026-09-07T08:16:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:55:09Z",
+    "ledger_committed_at": "2026-09-07T14:55:09Z"
   }
 ]
