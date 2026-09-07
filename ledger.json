@@ -647995,5 +647995,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:38:28Z",
     "ledger_committed_at": "2026-09-07T20:38:28Z"
+  },
+  {
+    "id": "zeos-libs-auth-client-2026-09-07",
+    "display_name": "@zeos-libs/auth-client",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@zeos-libs/auth-client",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.10"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-793",
+            "osv_published_at": "2022-06-20T21:09:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:50:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:50:31Z",
+    "osv_earliest_published_at": "2022-06-20T21:09:12Z",
+    "source_published_at": "2022-06-20T21:09:12Z",
+    "observed_at": "2026-09-07T11:50:31Z",
+    "ingested_at": "2026-09-07T11:50:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:38:38Z",
+    "ledger_committed_at": "2026-09-07T20:38:38Z"
   }
 ]
