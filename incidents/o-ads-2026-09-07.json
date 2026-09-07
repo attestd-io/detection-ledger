@@ -1,0 +1,37 @@
+{
+  "id": "o-ads-2026-09-07",
+  "display_name": "o-ads",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "o-ads",
+      "ecosystem": "npm",
+      "versions": [
+        "10.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4991",
+          "osv_published_at": "2022-06-20T20:22:35Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:30:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:30:02Z",
+  "osv_earliest_published_at": "2022-06-20T20:22:35Z",
+  "source_published_at": "2022-06-20T20:22:35Z",
+  "observed_at": "2026-09-07T07:30:02Z",
+  "ingested_at": "2026-09-07T07:30:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:56:45Z",
+  "ledger_committed_at": "2026-09-07T12:56:45Z"
+}
