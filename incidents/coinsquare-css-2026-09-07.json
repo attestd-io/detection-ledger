@@ -1,0 +1,47 @@
+{
+  "id": "coinsquare-css-2026-09-07",
+  "display_name": "coinsquare-css",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "coinsquare-css",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.12",
+        "1.763.9",
+        "10.772.9",
+        "2.764.9",
+        "3.765.9",
+        "4.766.9",
+        "5.767.9",
+        "6.768.9",
+        "7.769.9",
+        "8.770.9",
+        "9.771.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-1989",
+          "osv_published_at": "2022-07-22T10:06:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T03:49:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T03:49:53Z",
+  "osv_earliest_published_at": "2022-07-22T10:06:02Z",
+  "source_published_at": "2022-07-22T10:06:02Z",
+  "observed_at": "2026-09-07T03:49:53Z",
+  "ingested_at": "2026-09-07T03:49:53Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T03:52:12Z",
+  "ledger_committed_at": "2026-09-07T03:52:12Z"
+}
