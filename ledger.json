@@ -438769,5 +438769,37 @@
     "advisory_url": "https://registry.npmjs.org/%40rookiestar%2Feng-lang-tutor",
     "ledger_commit_at": "2026-09-07T08:32:02Z",
     "ledger_committed_at": "2026-09-07T08:32:02Z"
+  },
+  {
+    "id": "fca-project-orion-2026-09-07",
+    "display_name": "fca-project-orion",
+    "campaign": "it-eng",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "fca-project-orion",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:34:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:34:49Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:34:49Z",
+    "ingested_at": "2026-09-07T05:34:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/fca-project-orion",
+    "ledger_commit_at": "2026-09-07T08:32:13Z",
+    "ledger_committed_at": "2026-09-07T08:32:13Z"
   }
 ]
