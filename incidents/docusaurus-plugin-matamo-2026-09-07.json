@@ -1,0 +1,37 @@
+{
+  "id": "docusaurus-plugin-matamo-2026-09-07",
+  "display_name": "docusaurus-plugin-matamo",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "docusaurus-plugin-matamo",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-1010",
+          "osv_published_at": "2023-07-31T04:49:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:24:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:24:39Z",
+  "osv_earliest_published_at": "2023-07-31T04:49:37Z",
+  "source_published_at": "2023-07-31T04:49:37Z",
+  "observed_at": "2026-09-07T12:24:39Z",
+  "ingested_at": "2026-09-07T12:24:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:20:38Z",
+  "ledger_committed_at": "2026-09-07T21:20:38Z"
+}
