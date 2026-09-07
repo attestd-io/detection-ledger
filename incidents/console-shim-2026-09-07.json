@@ -1,0 +1,39 @@
+{
+  "id": "console-shim-2026-09-07",
+  "display_name": "console-shim",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "console-shim",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.4",
+        "1.1.0",
+        "13.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2163",
+          "osv_published_at": "2022-06-20T18:20:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T03:57:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T03:57:40Z",
+  "osv_earliest_published_at": "2022-06-20T18:20:48Z",
+  "source_published_at": "2022-06-20T18:20:48Z",
+  "observed_at": "2026-09-07T03:57:40Z",
+  "ingested_at": "2026-09-07T03:57:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T04:22:00Z",
+  "ledger_committed_at": "2026-09-07T04:22:00Z"
+}
