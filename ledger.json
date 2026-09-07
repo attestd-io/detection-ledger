@@ -456419,5 +456419,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:03:44Z",
     "ledger_committed_at": "2026-09-07T10:03:44Z"
+  },
+  {
+    "id": "jpegd-adapter-2026-09-07",
+    "display_name": "jpegd-adapter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "jpegd-adapter",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.0.0",
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4048",
+            "osv_published_at": "2022-06-20T20:12:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:05:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:05:13Z",
+    "osv_earliest_published_at": "2022-06-20T20:12:02Z",
+    "source_published_at": "2022-06-20T20:12:02Z",
+    "observed_at": "2026-09-07T06:05:13Z",
+    "ingested_at": "2026-09-07T06:05:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:03:53Z",
+    "ledger_committed_at": "2026-09-07T10:03:53Z"
   }
 ]
