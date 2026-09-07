@@ -1,0 +1,37 @@
+{
+  "id": "gemini-exports-2026-09-07",
+  "display_name": "gemini-exports",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gemini-exports",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3325",
+          "osv_published_at": "2022-06-20T20:17:11Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:15:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:15:59Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:11Z",
+  "source_published_at": "2022-06-20T20:17:11Z",
+  "observed_at": "2026-09-07T05:15:59Z",
+  "ingested_at": "2026-09-07T05:15:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:28:42Z",
+  "ledger_committed_at": "2026-09-07T07:28:42Z"
+}
