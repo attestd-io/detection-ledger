@@ -462784,5 +462784,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:22:08Z",
     "ledger_committed_at": "2026-09-07T10:22:08Z"
+  },
+  {
+    "id": "keyvault-admin-2026-09-07",
+    "display_name": "keyvault-admin",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "keyvault-admin",
+        "ecosystem": "npm",
+        "versions": [
+          "99.10.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4149",
+            "osv_published_at": "2022-06-20T20:11:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:11:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:11:50Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:13Z",
+    "source_published_at": "2022-06-20T20:11:13Z",
+    "observed_at": "2026-09-07T06:11:50Z",
+    "ingested_at": "2026-09-07T06:11:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:22:17Z",
+    "ledger_committed_at": "2026-09-07T10:22:17Z"
   }
 ]
