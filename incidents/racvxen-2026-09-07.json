@@ -1,0 +1,38 @@
+{
+  "id": "racvxen-2026-09-07",
+  "display_name": "racvxen",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "racvxen",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5574",
+          "osv_published_at": "2022-08-19T03:55:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:12:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:12:46Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:12Z",
+  "source_published_at": "2022-08-19T03:55:12Z",
+  "observed_at": "2026-09-07T08:12:46Z",
+  "ingested_at": "2026-09-07T08:12:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T14:39:00Z",
+  "ledger_committed_at": "2026-09-07T14:39:00Z"
+}
