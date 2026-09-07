@@ -1,0 +1,37 @@
+{
+  "id": "xfi-client-core-2026-09-07",
+  "display_name": "xfi-client-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "xfi-client-core",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7272",
+          "osv_published_at": "2022-06-20T20:23:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:15:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:15:46Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:37Z",
+  "source_published_at": "2022-06-20T20:23:37Z",
+  "observed_at": "2026-09-07T11:15:46Z",
+  "ingested_at": "2026-09-07T11:15:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:58:09Z",
+  "ledger_committed_at": "2026-09-07T19:58:09Z"
+}
