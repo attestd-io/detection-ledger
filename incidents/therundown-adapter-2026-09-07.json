@@ -1,0 +1,39 @@
+{
+  "id": "therundown-adapter-2026-09-07",
+  "display_name": "therundown-adapter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "therundown-adapter",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.0.0",
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6551",
+          "osv_published_at": "2022-06-20T20:12:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:51:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:51:56Z",
+  "osv_earliest_published_at": "2022-06-20T20:12:17Z",
+  "source_published_at": "2022-06-20T20:12:17Z",
+  "observed_at": "2026-09-07T09:51:56Z",
+  "ingested_at": "2026-09-07T09:51:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:41:59Z",
+  "ledger_committed_at": "2026-09-07T17:41:59Z"
+}
