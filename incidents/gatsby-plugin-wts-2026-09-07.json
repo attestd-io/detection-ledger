@@ -1,0 +1,44 @@
+{
+  "id": "gatsby-plugin-wts-2026-09-07",
+  "display_name": "gatsby-plugin-wts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gatsby-plugin-wts",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.3",
+        "99.9.4",
+        "99.9.5",
+        "99.9.6",
+        "99.9.7",
+        "99.9.8",
+        "99.9.85",
+        "99.9.86"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3283",
+          "osv_published_at": "2022-06-20T20:21:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:15:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:15:01Z",
+  "osv_earliest_published_at": "2022-06-20T20:21:09Z",
+  "source_published_at": "2022-06-20T20:21:09Z",
+  "observed_at": "2026-09-07T05:15:01Z",
+  "ingested_at": "2026-09-07T05:15:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:21:54Z",
+  "ledger_committed_at": "2026-09-07T07:21:54Z"
+}
