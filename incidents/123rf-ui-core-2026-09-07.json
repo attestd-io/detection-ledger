@@ -1,0 +1,51 @@
+{
+  "id": "123rf-ui-core-2026-09-07",
+  "display_name": "123rf-ui-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "123rf-ui-core",
+      "ecosystem": "npm",
+      "versions": [
+        "12.879.9",
+        "3.999.0",
+        "4.999.0",
+        "5.999.0",
+        "5.999.9",
+        "6.999.0",
+        "7.999.0",
+        "7.999.999",
+        "8.799.9",
+        "8.819.9",
+        "9.839.9",
+        "9.849.9",
+        "9.859.9",
+        "9.865.9",
+        "9.868.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-14",
+          "osv_published_at": "2023-04-11T00:28:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:31:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:31:16Z",
+  "osv_earliest_published_at": "2023-04-11T00:28:43Z",
+  "source_published_at": "2023-04-11T00:28:43Z",
+  "observed_at": "2026-09-07T12:31:16Z",
+  "ingested_at": "2026-09-07T12:31:16Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:34:46Z",
+  "ledger_committed_at": "2026-09-07T21:34:46Z"
+}
