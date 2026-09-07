@@ -1,0 +1,37 @@
+{
+  "id": "zezedb-2026-09-07",
+  "display_name": "zezedb",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zezedb",
+      "ecosystem": "npm",
+      "versions": [
+        "1.10.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7387",
+          "osv_published_at": "2022-09-18T23:55:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:22:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:22:21Z",
+  "osv_earliest_published_at": "2022-09-18T23:55:14Z",
+  "source_published_at": "2022-09-18T23:55:14Z",
+  "observed_at": "2026-09-07T11:22:21Z",
+  "ingested_at": "2026-09-07T11:22:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:19:43Z",
+  "ledger_committed_at": "2026-09-07T20:19:43Z"
+}
