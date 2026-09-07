@@ -584740,5 +584740,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:29:52Z",
     "ledger_committed_at": "2026-09-07T17:29:52Z"
+  },
+  {
+    "id": "techtalkui-2026-09-07",
+    "display_name": "techtalkui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "techtalkui",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.16",
+          "9.9.17"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6446",
+            "osv_published_at": "2022-06-20T20:26:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:45:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:45:06Z",
+    "osv_earliest_published_at": "2022-06-20T20:26:34Z",
+    "source_published_at": "2022-06-20T20:26:34Z",
+    "observed_at": "2026-09-07T09:45:06Z",
+    "ingested_at": "2026-09-07T09:45:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:30:03Z",
+    "ledger_committed_at": "2026-09-07T17:30:03Z"
   }
 ]
