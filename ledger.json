@@ -656533,5 +656533,47 @@
     "advisory_url": "https://registry.npmjs.org/%40xenuiswatching%2Fhomebridge-hubspace",
     "ledger_commit_at": "2026-09-07T21:03:01Z",
     "ledger_committed_at": "2026-09-07T21:03:01Z"
+  },
+  {
+    "id": "cc-context-telemetry-2026-09-07",
+    "display_name": "cc-context-telemetry",
+    "campaign": "audi-cct",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "cc-context-telemetry",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "0.1.1",
+          "0.1.2",
+          "0.2.0",
+          "0.2.1",
+          "0.3.0",
+          "0.4.0",
+          "0.4.1",
+          "1.4.4",
+          "1.4.5",
+          "1.4.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:02:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:02:07Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T12:02:07Z",
+    "ingested_at": "2026-09-07T12:02:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/cc-context-telemetry",
+    "ledger_commit_at": "2026-09-07T21:03:12Z",
+    "ledger_committed_at": "2026-09-07T21:03:12Z"
   }
 ]
