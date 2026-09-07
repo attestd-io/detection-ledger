@@ -1,0 +1,37 @@
+{
+  "id": "swan-buyer-2026-09-07",
+  "display_name": "swan-buyer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "swan-buyer",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6373",
+          "osv_published_at": "2022-08-02T08:51:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:39:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:39:28Z",
+  "osv_earliest_published_at": "2022-08-02T08:51:08Z",
+  "source_published_at": "2022-08-02T08:51:08Z",
+  "observed_at": "2026-09-07T09:39:28Z",
+  "ingested_at": "2026-09-07T09:39:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:16:25Z",
+  "ledger_committed_at": "2026-09-07T17:16:25Z"
+}
