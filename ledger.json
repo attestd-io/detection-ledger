@@ -559876,5 +559876,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:16:48Z",
     "ledger_committed_at": "2026-09-07T16:16:48Z"
+  },
+  {
+    "id": "shopee-ui-react-2026-09-07",
+    "display_name": "shopee-ui-react",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "shopee-ui-react",
+        "ecosystem": "npm",
+        "versions": [
+          "2.10.49",
+          "2.10.50"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6094",
+            "osv_published_at": "2022-11-09T17:34:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:45:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:45:55Z",
+    "osv_earliest_published_at": "2022-11-09T17:34:26Z",
+    "source_published_at": "2022-11-09T17:34:26Z",
+    "observed_at": "2026-09-07T08:45:55Z",
+    "ingested_at": "2026-09-07T08:45:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:16:58Z",
+    "ledger_committed_at": "2026-09-07T16:16:58Z"
   }
 ]
