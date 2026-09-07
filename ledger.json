@@ -686056,5 +686056,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:11:17Z",
     "ledger_committed_at": "2026-09-07T23:11:17Z"
+  },
+  {
+    "id": "planet-view-2026-09-07",
+    "display_name": "planet-view",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "planet-view",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-684",
+            "osv_published_at": "2023-06-05T05:22:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:04:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:04:27Z",
+    "osv_earliest_published_at": "2023-06-05T05:22:32Z",
+    "source_published_at": "2023-06-05T05:22:32Z",
+    "observed_at": "2026-09-07T13:04:27Z",
+    "ingested_at": "2026-09-07T13:04:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:11:27Z",
+    "ledger_committed_at": "2026-09-07T23:11:27Z"
   }
 ]
