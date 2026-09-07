@@ -1,0 +1,46 @@
+{
+  "id": "agoric-servers-2026-09-07",
+  "display_name": "agoric-servers",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "agoric-servers",
+      "ecosystem": "npm",
+      "versions": [
+        "7.2.7",
+        "7.2.8",
+        "7.2.9",
+        "7.3.0",
+        "7.3.1",
+        "7.4.1",
+        "7.4.2",
+        "7.4.4",
+        "7.4.5",
+        "7.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-893",
+          "osv_published_at": "2022-06-20T07:27:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:01:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:01:28Z",
+  "osv_earliest_published_at": "2022-06-20T07:27:57Z",
+  "source_published_at": "2022-06-20T07:27:57Z",
+  "observed_at": "2026-09-07T12:01:28Z",
+  "ingested_at": "2026-09-07T12:01:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:59:26Z",
+  "ledger_committed_at": "2026-09-07T20:59:26Z"
+}
