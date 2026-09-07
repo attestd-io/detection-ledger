@@ -1,0 +1,32 @@
+{
+  "id": "microsoft-sp-office-ui-fabric-core-2026-09-07",
+  "display_name": "@microsoft/sp-office-ui-fabric-core",
+  "campaign": "roku-web-core",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@microsoft/sp-office-ui-fabric-core",
+      "ecosystem": "npm",
+      "versions": [
+        "1.20.0-dev.96"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:18:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:18:03Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T08:18:03Z",
+  "ingested_at": "2026-09-07T08:18:03Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40microsoft%2Fsp-office-ui-fabric-core",
+  "ledger_commit_at": "2026-09-07T14:59:13Z",
+  "ledger_committed_at": "2026-09-07T14:59:13Z"
+}
