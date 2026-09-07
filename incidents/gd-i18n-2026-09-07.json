@@ -1,0 +1,38 @@
+{
+  "id": "gd-i18n-2026-09-07",
+  "display_name": "gd-i18n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gd-i18n",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1111.3.47"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3309",
+          "osv_published_at": "2022-06-20T20:09:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:15:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:15:34Z",
+  "osv_earliest_published_at": "2022-06-20T20:09:55Z",
+  "source_published_at": "2022-06-20T20:09:55Z",
+  "observed_at": "2026-09-07T05:15:34Z",
+  "ingested_at": "2026-09-07T05:15:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:25:59Z",
+  "ledger_committed_at": "2026-09-07T07:25:59Z"
+}
