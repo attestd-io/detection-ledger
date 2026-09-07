@@ -1,0 +1,37 @@
+{
+  "id": "subek-2026-09-07",
+  "display_name": "subek",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "subek",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6344",
+          "osv_published_at": "2022-06-13T05:38:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:38:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:38:40Z",
+  "osv_earliest_published_at": "2022-06-13T05:38:55Z",
+  "source_published_at": "2022-06-13T05:38:55Z",
+  "observed_at": "2026-09-07T09:38:40Z",
+  "ingested_at": "2026-09-07T09:38:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:11:42Z",
+  "ledger_committed_at": "2026-09-07T17:11:42Z"
+}
