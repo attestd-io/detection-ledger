@@ -1,0 +1,38 @@
+{
+  "id": "create-components-template-2026-09-07",
+  "display_name": "create-components-template",
+  "campaign": "audi-cct",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "create-components-template",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:02:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:02:12Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T12:02:12Z",
+  "ingested_at": "2026-09-07T12:02:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/create-components-template",
+  "ledger_commit_at": "2026-09-07T21:03:21Z",
+  "ledger_committed_at": "2026-09-07T21:03:21Z"
+}
