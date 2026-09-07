@@ -628861,5 +628861,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:18:57Z",
     "ledger_committed_at": "2026-09-07T19:18:57Z"
+  },
+  {
+    "id": "wdesk-browser-environment-2026-09-07",
+    "display_name": "wdesk_browser_environment",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wdesk_browser_environment",
+        "ecosystem": "npm",
+        "versions": [
+          "1.3.2",
+          "1.6.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7057",
+            "osv_published_at": "2022-06-20T20:24:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:03:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:03:57Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:11Z",
+    "source_published_at": "2022-06-20T20:24:11Z",
+    "observed_at": "2026-09-07T11:03:57Z",
+    "ingested_at": "2026-09-07T11:03:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:19:07Z",
+    "ledger_committed_at": "2026-09-07T19:19:07Z"
   }
 ]
