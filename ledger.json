@@ -536814,5 +536814,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:39:40Z",
     "ledger_committed_at": "2026-09-07T14:39:40Z"
+  },
+  {
+    "id": "ramp-network-2026-09-07",
+    "display_name": "ramp-network",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ramp-network",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5579",
+            "osv_published_at": "2022-06-20T20:24:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:12:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:12:50Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:33Z",
+    "source_published_at": "2022-06-20T20:24:33Z",
+    "observed_at": "2026-09-07T08:12:50Z",
+    "ingested_at": "2026-09-07T08:12:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:39:50Z",
+    "ledger_committed_at": "2026-09-07T14:39:50Z"
   }
 ]
