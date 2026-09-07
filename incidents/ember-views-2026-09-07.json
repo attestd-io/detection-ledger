@@ -1,0 +1,39 @@
+{
+  "id": "ember-views-2026-09-07",
+  "display_name": "ember-views",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ember-views",
+      "ecosystem": "npm",
+      "versions": [
+        "0.8.1-zendesk",
+        "0.9.0-zendesk",
+        "0.9.1-zendesk"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2725",
+          "osv_published_at": "2022-06-20T21:13:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:56:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:56:28Z",
+  "osv_earliest_published_at": "2022-06-20T21:13:26Z",
+  "source_published_at": "2022-06-20T21:13:26Z",
+  "observed_at": "2026-09-07T04:56:28Z",
+  "ingested_at": "2026-09-07T04:56:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T05:54:20Z",
+  "ledger_committed_at": "2026-09-07T05:54:20Z"
+}
