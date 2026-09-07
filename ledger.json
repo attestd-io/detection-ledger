@@ -526855,5 +526855,38 @@
     "advisory_url": "https://registry.npmjs.org/%40codingame%2Fmonaco-vscode-api",
     "ledger_commit_at": "2026-09-07T13:58:37Z",
     "ledger_committed_at": "2026-09-07T13:58:37Z"
+  },
+  {
+    "id": "dopplerhq-node-sdk-2026-09-07",
+    "display_name": "@dopplerhq/node-sdk",
+    "campaign": "proto-services",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@dopplerhq/node-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:53:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:53:59Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T07:53:59Z",
+    "ingested_at": "2026-09-07T07:53:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40dopplerhq%2Fnode-sdk",
+    "ledger_commit_at": "2026-09-07T13:58:47Z",
+    "ledger_committed_at": "2026-09-07T13:58:47Z"
   }
 ]
