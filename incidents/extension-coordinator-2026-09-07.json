@@ -1,0 +1,38 @@
+{
+  "id": "extension-coordinator-2026-09-07",
+  "display_name": "extension-coordinator",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "extension-coordinator",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.6",
+        "3.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2939",
+          "osv_published_at": "2022-06-20T20:17:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:05:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:05:07Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:07Z",
+  "source_published_at": "2022-06-20T20:17:07Z",
+  "observed_at": "2026-09-07T05:05:07Z",
+  "ingested_at": "2026-09-07T05:05:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:25:24Z",
+  "ledger_committed_at": "2026-09-07T06:25:24Z"
+}
