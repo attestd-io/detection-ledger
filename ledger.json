@@ -418234,5 +418234,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:15:29Z",
     "ledger_committed_at": "2026-09-07T07:15:29Z"
+  },
+  {
+    "id": "fullcontact-wpengine-2026-09-07",
+    "display_name": "fullcontact-wpengine",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fullcontact-wpengine",
+        "ecosystem": "npm",
+        "versions": [
+          "1.10.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3244",
+            "osv_published_at": "2022-07-21T10:55:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:14:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:14:18Z",
+    "osv_earliest_published_at": "2022-07-21T10:55:49Z",
+    "source_published_at": "2022-07-21T10:55:49Z",
+    "observed_at": "2026-09-07T05:14:18Z",
+    "ingested_at": "2026-09-07T05:14:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:15:37Z",
+    "ledger_committed_at": "2026-09-07T07:15:37Z"
   }
 ]
