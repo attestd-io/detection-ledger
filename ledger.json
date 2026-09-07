@@ -442602,5 +442602,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T08:48:38Z",
     "ledger_committed_at": "2026-09-07T08:48:38Z"
+  },
+  {
+    "id": "hydrogen-monorepo-2026-09-07",
+    "display_name": "hydrogen-monorepo",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hydrogen-monorepo",
+        "ecosystem": "npm",
+        "versions": [
+          "9.8.9",
+          "9.9.9",
+          "99.9.0",
+          "99.9.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3735",
+            "osv_published_at": "2022-06-20T07:27:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:44:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:44:31Z",
+    "osv_earliest_published_at": "2022-06-20T07:27:56Z",
+    "source_published_at": "2022-06-20T07:27:56Z",
+    "observed_at": "2026-09-07T05:44:31Z",
+    "ingested_at": "2026-09-07T05:44:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T08:48:47Z",
+    "ledger_committed_at": "2026-09-07T08:48:47Z"
   }
 ]
