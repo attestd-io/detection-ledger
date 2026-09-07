@@ -518517,5 +518517,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:26:04Z",
     "ledger_committed_at": "2026-09-07T13:26:04Z"
+  },
+  {
+    "id": "ov-api-2026-09-07",
+    "display_name": "ov-api",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ov-api",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5155",
+            "osv_published_at": "2022-06-20T20:24:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:47:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:47:14Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:07Z",
+    "source_published_at": "2022-06-20T20:24:07Z",
+    "observed_at": "2026-09-07T07:47:14Z",
+    "ingested_at": "2026-09-07T07:47:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:26:12Z",
+    "ledger_committed_at": "2026-09-07T13:26:12Z"
   }
 ]
