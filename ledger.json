@@ -675074,5 +675074,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:22:56Z",
     "ledger_committed_at": "2026-09-07T22:22:56Z"
+  },
+  {
+    "id": "fca-chat-zach-2026-09-07",
+    "display_name": "fca-chat-zach",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fca-chat-zach",
+        "ecosystem": "npm",
+        "versions": [
+          "1.5.2",
+          "1.6.3",
+          "1.7.3",
+          "1.8.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-386",
+            "osv_published_at": "2023-07-26T02:12:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:50:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:50:13Z",
+    "osv_earliest_published_at": "2023-07-26T02:12:58Z",
+    "source_published_at": "2023-07-26T02:12:58Z",
+    "observed_at": "2026-09-07T12:50:13Z",
+    "ingested_at": "2026-09-07T12:50:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:23:08Z",
+    "ledger_committed_at": "2026-09-07T22:23:08Z"
   }
 ]
