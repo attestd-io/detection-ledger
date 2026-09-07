@@ -1,0 +1,40 @@
+{
+  "id": "indrasecuritylib-2026-09-07",
+  "display_name": "indrasecuritylib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "indrasecuritylib",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3807",
+          "osv_published_at": "2022-07-05T11:47:35Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:47:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:47:37Z",
+  "osv_earliest_published_at": "2022-07-05T11:47:35Z",
+  "source_published_at": "2022-07-05T11:47:35Z",
+  "observed_at": "2026-09-07T05:47:37Z",
+  "ingested_at": "2026-09-07T05:47:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:01:45Z",
+  "ledger_committed_at": "2026-09-07T09:01:45Z"
+}
