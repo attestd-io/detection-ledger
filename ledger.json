@@ -641042,5 +641042,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:09:09Z",
     "ledger_committed_at": "2026-09-07T20:09:09Z"
+  },
+  {
+    "id": "yelp-beans-2026-09-07",
+    "display_name": "yelp-beans",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "yelp-beans",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.10",
+          "9.9.11",
+          "9.9.12",
+          "9.9.13",
+          "9.9.14",
+          "9.9.15",
+          "9.9.16",
+          "9.9.21",
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7334",
+            "osv_published_at": "2022-06-20T20:26:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:17:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:17:44Z",
+    "osv_earliest_published_at": "2022-06-20T20:26:36Z",
+    "source_published_at": "2022-06-20T20:26:36Z",
+    "observed_at": "2026-09-07T11:17:44Z",
+    "ingested_at": "2026-09-07T11:17:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:09:19Z",
+    "ledger_committed_at": "2026-09-07T20:09:19Z"
   }
 ]
