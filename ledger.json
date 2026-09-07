@@ -496225,5 +496225,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:33:21Z",
     "ledger_committed_at": "2026-09-07T12:33:21Z"
+  },
+  {
+    "id": "node-namshi-mysql-2026-09-07",
+    "display_name": "node-namshi-mysql",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "node-namshi-mysql",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.4",
+          "0.0.1-security.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4888",
+            "osv_published_at": "2022-06-20T20:17:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:02:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:02:41Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:31Z",
+    "source_published_at": "2022-06-20T20:17:31Z",
+    "observed_at": "2026-09-07T07:02:41Z",
+    "ingested_at": "2026-09-07T07:02:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:33:30Z",
+    "ledger_committed_at": "2026-09-07T12:33:30Z"
   }
 ]
