@@ -652011,5 +652011,57 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:43:51Z",
     "ledger_committed_at": "2026-09-07T20:43:51Z"
+  },
+  {
+    "id": "aae-stream-2026-09-07",
+    "display_name": "aae-stream",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "aae-stream",
+        "ecosystem": "npm",
+        "versions": [
+          "100.0.0",
+          "101.0.0",
+          "102.0.0",
+          "103.0.0",
+          "104.0.0",
+          "105.0.0",
+          "106.0.0",
+          "109.0.0",
+          "120.0.0",
+          "122.0.0",
+          "123.0.0",
+          "124.0.0",
+          "125.0.0",
+          "126.0.0",
+          "128.0.0",
+          "130.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-801",
+            "osv_published_at": "2022-10-24T01:28:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:58:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:58:00Z",
+    "osv_earliest_published_at": "2022-10-24T01:28:39Z",
+    "source_published_at": "2022-10-24T01:28:39Z",
+    "observed_at": "2026-09-07T11:58:00Z",
+    "ingested_at": "2026-09-07T11:58:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:44:00Z",
+    "ledger_committed_at": "2026-09-07T20:44:00Z"
   }
 ]
