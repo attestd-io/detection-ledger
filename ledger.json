@@ -499161,5 +499161,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:41:40Z",
     "ledger_committed_at": "2026-09-07T12:41:40Z"
+  },
+  {
+    "id": "noshellatall-2026-09-07",
+    "display_name": "noshellatall",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "noshellatall",
+        "ecosystem": "npm",
+        "versions": [
+          "3.3.7",
+          "3.3.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4922",
+            "osv_published_at": "2022-06-20T20:15:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:08:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:08:36Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:56Z",
+    "source_published_at": "2022-06-20T20:15:56Z",
+    "observed_at": "2026-09-07T07:08:36Z",
+    "ingested_at": "2026-09-07T07:08:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:41:48Z",
+    "ledger_committed_at": "2026-09-07T12:41:48Z"
   }
 ]
