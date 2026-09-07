@@ -440589,5 +440589,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T08:42:32Z",
     "ledger_committed_at": "2026-09-07T08:42:32Z"
+  },
+  {
+    "id": "http-proxy-iddlemare-2026-09-07",
+    "display_name": "http-proxy-iddlemare",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "http-proxy-iddlemare",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3698",
+            "osv_published_at": "2022-08-19T03:55:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:36:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:36:17Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:15Z",
+    "source_published_at": "2022-08-19T03:55:15Z",
+    "observed_at": "2026-09-07T05:36:17Z",
+    "ingested_at": "2026-09-07T05:36:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T08:42:41Z",
+    "ledger_committed_at": "2026-09-07T08:42:41Z"
   }
 ]
