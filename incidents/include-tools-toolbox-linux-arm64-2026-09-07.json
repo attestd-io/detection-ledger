@@ -1,0 +1,32 @@
+{
+  "id": "include-tools-toolbox-linux-arm64-2026-09-07",
+  "display_name": "@include-tools/toolbox-linux-arm64",
+  "campaign": "manomano-toolbox",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@include-tools/toolbox-linux-arm64",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-preview1"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:07:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:07:08Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T06:07:08Z",
+  "ingested_at": "2026-09-07T06:07:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40include-tools%2Ftoolbox-linux-arm64",
+  "ledger_commit_at": "2026-09-07T10:14:42Z",
+  "ledger_committed_at": "2026-09-07T10:14:42Z"
+}
