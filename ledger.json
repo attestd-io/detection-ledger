@@ -618886,5 +618886,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:52:24Z",
     "ledger_committed_at": "2026-09-07T18:52:24Z"
+  },
+  {
+    "id": "videodashprefetchcache-2026-09-07",
+    "display_name": "videodashprefetchcache",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "videodashprefetchcache",
+        "ecosystem": "npm",
+        "versions": [
+          "100.1.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6916",
+            "osv_published_at": "2022-06-20T20:24:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:47:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:47:30Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:49Z",
+    "source_published_at": "2022-06-20T20:24:49Z",
+    "observed_at": "2026-09-07T10:47:30Z",
+    "ingested_at": "2026-09-07T10:47:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:52:33Z",
+    "ledger_committed_at": "2026-09-07T18:52:33Z"
   }
 ]
