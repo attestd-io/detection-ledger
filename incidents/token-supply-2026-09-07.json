@@ -1,0 +1,48 @@
+{
+  "id": "token-supply-2026-09-07",
+  "display_name": "token_supply",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "token_supply",
+      "ecosystem": "npm",
+      "versions": [
+        "99.0.0",
+        "99.23.0",
+        "99.23.1",
+        "99.23.2",
+        "99.23.3",
+        "99.23.4",
+        "99.23.5",
+        "99.23.6",
+        "99.30.0",
+        "99.30.1",
+        "99.30.2",
+        "99.30.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6602",
+          "osv_published_at": "2022-08-05T08:25:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:54:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:54:48Z",
+  "osv_earliest_published_at": "2022-08-05T08:25:22Z",
+  "source_published_at": "2022-08-05T08:25:22Z",
+  "observed_at": "2026-09-07T09:54:48Z",
+  "ingested_at": "2026-09-07T09:54:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:50:54Z",
+  "ledger_committed_at": "2026-09-07T17:50:54Z"
+}
