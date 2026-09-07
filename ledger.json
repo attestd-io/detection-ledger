@@ -533281,5 +533281,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:24:22Z",
     "ledger_committed_at": "2026-09-07T14:24:22Z"
+  },
+  {
+    "id": "protons-benchmark-2026-09-07",
+    "display_name": "protons-benchmark",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "protons-benchmark",
+        "ecosystem": "npm",
+        "versions": [
+          "0.155.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5492",
+            "osv_published_at": "2022-07-29T10:40:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:10:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:10:23Z",
+    "osv_earliest_published_at": "2022-07-29T10:40:33Z",
+    "source_published_at": "2022-07-29T10:40:33Z",
+    "observed_at": "2026-09-07T08:10:23Z",
+    "ingested_at": "2026-09-07T08:10:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:24:32Z",
+    "ledger_committed_at": "2026-09-07T14:24:32Z"
   }
 ]
