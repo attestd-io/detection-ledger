@@ -385594,5 +385594,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:20:52Z",
     "ledger_committed_at": "2026-09-07T05:20:52Z"
+  },
+  {
+    "id": "discord-js-request-2026-09-07",
+    "display_name": "discord.js-request",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "discord.js-request",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.2.0",
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2503",
+            "osv_published_at": "2022-07-18T07:53:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:47:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:47:08Z",
+    "osv_earliest_published_at": "2022-07-18T07:53:27Z",
+    "source_published_at": "2022-07-18T07:53:27Z",
+    "observed_at": "2026-09-07T04:47:08Z",
+    "ingested_at": "2026-09-07T04:47:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:21:00Z",
+    "ledger_committed_at": "2026-09-07T05:21:00Z"
   }
 ]
