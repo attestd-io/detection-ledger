@@ -469579,5 +469579,38 @@
     "advisory_url": "https://registry.npmjs.org/normalize-lsd-fe",
     "ledger_commit_at": "2026-09-07T10:50:11Z",
     "ledger_committed_at": "2026-09-07T10:50:11Z"
+  },
+  {
+    "id": "portal-fe-2026-09-07",
+    "display_name": "portal-fe",
+    "campaign": "md-fe",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "portal-fe",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.5",
+          "1.0.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:20:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:20:03Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:20:03Z",
+    "ingested_at": "2026-09-07T06:20:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/portal-fe",
+    "ledger_commit_at": "2026-09-07T10:50:20Z",
+    "ledger_committed_at": "2026-09-07T10:50:20Z"
   }
 ]
