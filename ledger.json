@@ -623788,5 +623788,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:12:58Z",
     "ledger_committed_at": "2026-09-07T19:12:58Z"
+  },
+  {
+    "id": "waffles2-presentation-2026-09-07",
+    "display_name": "waffles2-presentation",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "waffles2-presentation",
+        "ecosystem": "npm",
+        "versions": [
+          "8.2.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7032",
+            "osv_published_at": "2022-10-31T02:53:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:54:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:54:19Z",
+    "osv_earliest_published_at": "2022-10-31T02:53:01Z",
+    "source_published_at": "2022-10-31T02:53:01Z",
+    "observed_at": "2026-09-07T10:54:19Z",
+    "ingested_at": "2026-09-07T10:54:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:13:09Z",
+    "ledger_committed_at": "2026-09-07T19:13:09Z"
   }
 ]
