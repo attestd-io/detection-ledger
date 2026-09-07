@@ -375428,5 +375428,37 @@
     "advisory_url": "https://registry.npmjs.org/%40zoom%2Fmeetingsdk",
     "ledger_commit_at": "2026-09-07T04:45:14Z",
     "ledger_committed_at": "2026-09-07T04:45:14Z"
+  },
+  {
+    "id": "elysia-2026-09-07",
+    "display_name": "elysia",
+    "campaign": "employee-experience",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "elysia",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0-rc.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:21:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:21:20Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:21:20Z",
+    "ingested_at": "2026-09-07T04:21:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/elysia",
+    "ledger_commit_at": "2026-09-07T04:45:23Z",
+    "ledger_committed_at": "2026-09-07T04:45:23Z"
   }
 ]
