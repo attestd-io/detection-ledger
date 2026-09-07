@@ -472765,5 +472765,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:02:36Z",
     "ledger_committed_at": "2026-09-07T11:02:36Z"
+  },
+  {
+    "id": "local-payment-2026-09-07",
+    "display_name": "local-payment",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "local-payment",
+        "ecosystem": "npm",
+        "versions": [
+          "4.8.2",
+          "4.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4353",
+            "osv_published_at": "2022-06-20T20:12:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:31:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:31:08Z",
+    "osv_earliest_published_at": "2022-06-20T20:12:52Z",
+    "source_published_at": "2022-06-20T20:12:52Z",
+    "observed_at": "2026-09-07T06:31:08Z",
+    "ingested_at": "2026-09-07T06:31:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:02:45Z",
+    "ledger_committed_at": "2026-09-07T11:02:45Z"
   }
 ]
