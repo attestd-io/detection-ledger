@@ -524115,5 +524115,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:47:47Z",
     "ledger_committed_at": "2026-09-07T13:47:47Z"
+  },
+  {
+    "id": "perf-keyvault-secrets-2026-09-07",
+    "display_name": "perf-keyvault-secrets",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "perf-keyvault-secrets",
+        "ecosystem": "npm",
+        "versions": [
+          "99.10.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5288",
+            "osv_published_at": "2022-06-20T20:16:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:51:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:51:34Z",
+    "osv_earliest_published_at": "2022-06-20T20:16:52Z",
+    "source_published_at": "2022-06-20T20:16:52Z",
+    "observed_at": "2026-09-07T07:51:34Z",
+    "ingested_at": "2026-09-07T07:51:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:47:57Z",
+    "ledger_committed_at": "2026-09-07T13:47:57Z"
   }
 ]
