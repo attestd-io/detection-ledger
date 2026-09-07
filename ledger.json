@@ -438343,5 +438343,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T08:29:51Z",
     "ledger_committed_at": "2026-09-07T08:29:51Z"
+  },
+  {
+    "id": "holvipartners-2026-09-07",
+    "display_name": "holvipartners",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "holvipartners",
+        "ecosystem": "npm",
+        "versions": [
+          "15.0.1",
+          "9.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3657",
+            "osv_published_at": "2022-05-31T13:36:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:33:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:33:10Z",
+    "osv_earliest_published_at": "2022-05-31T13:36:23Z",
+    "source_published_at": "2022-05-31T13:36:23Z",
+    "observed_at": "2026-09-07T05:33:10Z",
+    "ingested_at": "2026-09-07T05:33:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T08:30:05Z",
+    "ledger_committed_at": "2026-09-07T08:30:05Z"
   }
 ]
