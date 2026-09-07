@@ -445269,5 +445269,37 @@
     "advisory_url": "https://registry.npmjs.org/%40viasat%2Fbeam-tokens",
     "ledger_commit_at": "2026-09-07T09:00:05Z",
     "ledger_committed_at": "2026-09-07T09:00:05Z"
+  },
+  {
+    "id": "brandc-2026-09-07",
+    "display_name": "brandc",
+    "campaign": "kindred-brand",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "brandc",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:47:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:47:24Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:47:24Z",
+    "ingested_at": "2026-09-07T05:47:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/brandc",
+    "ledger_commit_at": "2026-09-07T09:00:14Z",
+    "ledger_committed_at": "2026-09-07T09:00:14Z"
   }
 ]
