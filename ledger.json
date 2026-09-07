@@ -499085,5 +499085,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:41:22Z",
     "ledger_committed_at": "2026-09-07T12:41:22Z"
+  },
+  {
+    "id": "normaslizecss-2026-09-07",
+    "display_name": "normaslizecss",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "normaslizecss",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4920",
+            "osv_published_at": "2022-08-19T03:55:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:08:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:08:34Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:11Z",
+    "source_published_at": "2022-08-19T03:55:11Z",
+    "observed_at": "2026-09-07T07:08:34Z",
+    "ingested_at": "2026-09-07T07:08:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:41:31Z",
+    "ledger_committed_at": "2026-09-07T12:41:31Z"
   }
 ]
