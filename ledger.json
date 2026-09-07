@@ -590563,5 +590563,54 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:53:36Z",
     "ledger_committed_at": "2026-09-07T17:53:36Z"
+  },
+  {
+    "id": "tinkoff-react-bui-utils-2026-09-07",
+    "display_name": "@tinkoff-react-bui/utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@tinkoff-react-bui/utils",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "0.8200.0",
+          "1.8.0",
+          "1.8201.0",
+          "10.8210.0",
+          "2.8202.0",
+          "3.8203.0",
+          "4.8204.0",
+          "5.8205.0",
+          "6.8206.0",
+          "7.8207.0",
+          "8.8208.0",
+          "9.8209.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-662",
+            "osv_published_at": "2022-06-20T20:15:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:55:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:55:37Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:50Z",
+    "source_published_at": "2022-06-20T20:15:50Z",
+    "observed_at": "2026-09-07T09:55:37Z",
+    "ingested_at": "2026-09-07T09:55:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:53:46Z",
+    "ledger_committed_at": "2026-09-07T17:53:46Z"
   }
 ]
