@@ -624339,5 +624339,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:15:31Z",
     "ledger_committed_at": "2026-09-07T19:15:31Z"
+  },
+  {
+    "id": "wangwanqi-tools-2026-09-07",
+    "display_name": "wangwanqi-tools",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wangwanqi-tools",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7044",
+            "osv_published_at": "2022-11-23T02:43:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:56:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:56:38Z",
+    "osv_earliest_published_at": "2022-11-23T02:43:06Z",
+    "source_published_at": "2022-11-23T02:43:06Z",
+    "observed_at": "2026-09-07T10:56:38Z",
+    "ingested_at": "2026-09-07T10:56:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:15:41Z",
+    "ledger_committed_at": "2026-09-07T19:15:41Z"
   }
 ]
