@@ -648429,5 +648429,38 @@
     "advisory_url": "https://registry.npmjs.org/%40ng-web-apis%2Fmidi",
     "ledger_commit_at": "2026-09-07T20:40:36Z",
     "ledger_committed_at": "2026-09-07T20:40:36Z"
+  },
+  {
+    "id": "ng-web-apis-permissions-2026-09-07",
+    "display_name": "@ng-web-apis/permissions",
+    "campaign": "zeos-libs",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@ng-web-apis/permissions",
+        "ecosystem": "npm",
+        "versions": [
+          "2.1.0",
+          "4.12.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:51:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:51:51Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T11:51:51Z",
+    "ingested_at": "2026-09-07T11:51:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40ng-web-apis%2Fpermissions",
+    "ledger_commit_at": "2026-09-07T20:40:45Z",
+    "ledger_committed_at": "2026-09-07T20:40:45Z"
   }
 ]
