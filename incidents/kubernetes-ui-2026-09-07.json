@@ -1,0 +1,37 @@
+{
+  "id": "kubernetes-ui-2026-09-07",
+  "display_name": "kubernetes-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "kubernetes-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4238",
+          "osv_published_at": "2022-06-13T06:00:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:16:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:16:23Z",
+  "osv_earliest_published_at": "2022-06-13T06:00:40Z",
+  "source_published_at": "2022-06-13T06:00:40Z",
+  "observed_at": "2026-09-07T06:16:23Z",
+  "ingested_at": "2026-09-07T06:16:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T10:38:43Z",
+  "ledger_committed_at": "2026-09-07T10:38:43Z"
+}
