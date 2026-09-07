@@ -1,0 +1,37 @@
+{
+  "id": "ucs-private-rollup-plugin-dts-bundle-2026-09-07",
+  "display_name": "@ucs-private/rollup-plugin-dts-bundle",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@ucs-private/rollup-plugin-dts-bundle",
+      "ecosystem": "npm",
+      "versions": [
+        "9999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-688",
+          "osv_published_at": "2022-07-22T10:32:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:46:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:46:26Z",
+  "osv_earliest_published_at": "2022-07-22T10:32:00Z",
+  "source_published_at": "2022-07-22T10:32:00Z",
+  "observed_at": "2026-09-07T10:46:26Z",
+  "ingested_at": "2026-09-07T10:46:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:46:08Z",
+  "ledger_committed_at": "2026-09-07T18:46:08Z"
+}
