@@ -402454,5 +402454,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:18:09Z",
     "ledger_committed_at": "2026-09-07T06:18:09Z"
+  },
+  {
+    "id": "eva-io-core-2026-09-07",
+    "display_name": "eva.io-core",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "eva.io-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.1",
+          "999.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2886",
+            "osv_published_at": "2022-06-20T20:20:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:03:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:03:50Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:54Z",
+    "source_published_at": "2022-06-20T20:20:54Z",
+    "observed_at": "2026-09-07T05:03:50Z",
+    "ingested_at": "2026-09-07T05:03:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:18:17Z",
+    "ledger_committed_at": "2026-09-07T06:18:17Z"
   }
 ]
