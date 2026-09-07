@@ -658799,5 +658799,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:12:56Z",
     "ledger_committed_at": "2026-09-07T21:12:56Z"
+  },
+  {
+    "id": "amiga-services-cache-2026-09-07",
+    "display_name": "amiga-services-cache",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "amiga-services-cache",
+        "ecosystem": "npm",
+        "versions": [
+          "5.4.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-967",
+            "osv_published_at": "2022-06-20T20:18:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:22:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:22:43Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:40Z",
+    "source_published_at": "2022-06-20T20:18:40Z",
+    "observed_at": "2026-09-07T12:22:43Z",
+    "ingested_at": "2026-09-07T12:22:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:13:06Z",
+    "ledger_committed_at": "2026-09-07T21:13:06Z"
   }
 ]
