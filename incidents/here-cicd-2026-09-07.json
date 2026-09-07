@@ -1,0 +1,38 @@
+{
+  "id": "here-cicd-2026-09-07",
+  "display_name": "here-cicd",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "here-cicd",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-497",
+          "osv_published_at": "2023-04-25T21:53:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:56:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:56:55Z",
+  "osv_earliest_published_at": "2023-04-25T21:53:21Z",
+  "source_published_at": "2023-04-25T21:53:21Z",
+  "observed_at": "2026-09-07T12:56:55Z",
+  "ingested_at": "2026-09-07T12:56:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:45:07Z",
+  "ledger_committed_at": "2026-09-07T22:45:07Z"
+}
