@@ -1,0 +1,46 @@
+{
+  "id": "elf-utils-js-2026-09-07",
+  "display_name": "elf-utils-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "elf-utils-js",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2699",
+          "osv_published_at": "2022-06-20T20:18:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:53:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:53:09Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:21Z",
+  "source_published_at": "2022-06-20T20:18:21Z",
+  "observed_at": "2026-09-07T04:53:09Z",
+  "ingested_at": "2026-09-07T04:53:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T05:49:36Z",
+  "ledger_committed_at": "2026-09-07T05:49:36Z"
+}
