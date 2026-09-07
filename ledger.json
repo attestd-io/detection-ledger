@@ -416542,5 +416542,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:09:20Z",
     "ledger_committed_at": "2026-09-07T07:09:20Z"
+  },
+  {
+    "id": "free-tiktok-followers-app-2026-09-07",
+    "display_name": "free-tiktok-followers-app",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "free-tiktok-followers-app",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.27"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3204",
+            "osv_published_at": "2022-06-20T20:14:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:13:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:13:25Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:50Z",
+    "source_published_at": "2022-06-20T20:14:50Z",
+    "observed_at": "2026-09-07T05:13:25Z",
+    "ingested_at": "2026-09-07T05:13:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:09:28Z",
+    "ledger_committed_at": "2026-09-07T07:09:28Z"
   }
 ]
