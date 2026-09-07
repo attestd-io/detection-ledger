@@ -485893,5 +485893,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:53:39Z",
     "ledger_committed_at": "2026-09-07T11:53:39Z"
+  },
+  {
+    "id": "mobilbank-communication-2026-09-07",
+    "display_name": "mobilbank-communication",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mobilbank-communication",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "1.99.99",
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4650",
+            "osv_published_at": "2022-06-20T20:13:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:48:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:48:08Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:02Z",
+    "source_published_at": "2022-06-20T20:13:02Z",
+    "observed_at": "2026-09-07T06:48:08Z",
+    "ingested_at": "2026-09-07T06:48:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:53:48Z",
+    "ledger_committed_at": "2026-09-07T11:53:48Z"
   }
 ]
