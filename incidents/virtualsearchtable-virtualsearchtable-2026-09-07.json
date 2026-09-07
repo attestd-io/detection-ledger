@@ -1,0 +1,38 @@
+{
+  "id": "virtualsearchtable-virtualsearchtable-2026-09-07",
+  "display_name": "@virtualsearchtable/virtualsearchtable",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@virtualsearchtable/virtualsearchtable",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8168",
+          "osv_published_at": "2023-09-19T05:31:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:14:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:14:56Z",
+  "osv_earliest_published_at": "2023-09-19T05:31:57Z",
+  "source_published_at": "2023-09-19T05:31:57Z",
+  "observed_at": "2026-09-07T13:14:56Z",
+  "ingested_at": "2026-09-07T13:14:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:44:02Z",
+  "ledger_committed_at": "2026-09-07T23:44:02Z"
+}
