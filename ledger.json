@@ -679502,5 +679502,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:42:16Z",
     "ledger_committed_at": "2026-09-07T22:42:16Z"
+  },
+  {
+    "id": "google-bard724-2026-09-07",
+    "display_name": "google-bard724",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "google-bard724",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.1.0",
+          "1.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-479",
+            "osv_published_at": "2023-05-25T21:58:06Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:56:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:56:36Z",
+    "osv_earliest_published_at": "2023-05-25T21:58:06Z",
+    "source_published_at": "2023-05-25T21:58:06Z",
+    "observed_at": "2026-09-07T12:56:36Z",
+    "ingested_at": "2026-09-07T12:56:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:42:26Z",
+    "ledger_committed_at": "2026-09-07T22:42:26Z"
   }
 ]
