@@ -622764,5 +622764,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:08:18Z",
     "ledger_committed_at": "2026-09-07T19:08:18Z"
+  },
+  {
+    "id": "vulnerable-vkom-2026-09-07",
+    "display_name": "vulnerable-vkom",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vulnerable-vkom",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7007",
+            "osv_published_at": "2022-07-21T11:01:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:53:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:53:53Z",
+    "osv_earliest_published_at": "2022-07-21T11:01:11Z",
+    "source_published_at": "2022-07-21T11:01:11Z",
+    "observed_at": "2026-09-07T10:53:53Z",
+    "ingested_at": "2026-09-07T10:53:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:08:28Z",
+    "ledger_committed_at": "2026-09-07T19:08:28Z"
   }
 ]
