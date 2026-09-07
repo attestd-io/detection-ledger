@@ -1,0 +1,38 @@
+{
+  "id": "node-gulp-tanker-2026-09-07",
+  "display_name": "node-gulp-tanker",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "node-gulp-tanker",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.14",
+        "1.8.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-630",
+          "osv_published_at": "2023-01-30T11:42:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:02:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:02:29Z",
+  "osv_earliest_published_at": "2023-01-30T11:42:13Z",
+  "source_published_at": "2023-01-30T11:42:13Z",
+  "observed_at": "2026-09-07T13:02:29Z",
+  "ingested_at": "2026-09-07T13:02:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:04:15Z",
+  "ledger_committed_at": "2026-09-07T23:04:15Z"
+}
