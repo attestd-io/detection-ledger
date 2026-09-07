@@ -635001,5 +635001,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:44:04Z",
     "ledger_committed_at": "2026-09-07T19:44:04Z"
+  },
+  {
+    "id": "wm-babel-runtime-2026-09-07",
+    "display_name": "wm-babel-runtime",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wm-babel-runtime",
+        "ecosystem": "npm",
+        "versions": [
+          "6.26.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7190",
+            "osv_published_at": "2022-06-20T21:13:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:12:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:12:11Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:29Z",
+    "source_published_at": "2022-06-20T21:13:29Z",
+    "observed_at": "2026-09-07T11:12:11Z",
+    "ingested_at": "2026-09-07T11:12:11Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:44:13Z",
+    "ledger_committed_at": "2026-09-07T19:44:13Z"
   }
 ]
