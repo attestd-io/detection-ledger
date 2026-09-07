@@ -471489,5 +471489,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:57:34Z",
     "ledger_committed_at": "2026-09-07T10:57:34Z"
+  },
+  {
+    "id": "liquiditypool-2026-09-07",
+    "display_name": "liquiditypool",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "liquiditypool",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.10",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4320",
+            "osv_published_at": "2022-07-25T14:20:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:30:32Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:30:32Z",
+    "osv_earliest_published_at": "2022-07-25T14:20:31Z",
+    "source_published_at": "2022-07-25T14:20:31Z",
+    "observed_at": "2026-09-07T06:30:32Z",
+    "ingested_at": "2026-09-07T06:30:32Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:57:43Z",
+    "ledger_committed_at": "2026-09-07T10:57:43Z"
   }
 ]
