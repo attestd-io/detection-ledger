@@ -560586,5 +560586,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:19:54Z",
     "ledger_committed_at": "2026-09-07T16:19:54Z"
+  },
+  {
+    "id": "shuup-definite-theme-2026-09-07",
+    "display_name": "shuup-definite-theme",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "shuup-definite-theme",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6116",
+            "osv_published_at": "2022-12-29T04:50:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:07:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:07:11Z",
+    "osv_earliest_published_at": "2022-12-29T04:50:52Z",
+    "source_published_at": "2022-12-29T04:50:52Z",
+    "observed_at": "2026-09-07T09:07:11Z",
+    "ingested_at": "2026-09-07T09:07:11Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:20:03Z",
+    "ledger_committed_at": "2026-09-07T16:20:03Z"
   }
 ]
