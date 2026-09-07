@@ -1,0 +1,39 @@
+{
+  "id": "login-mail-ru-2026-09-07",
+  "display_name": "login.mail.ru",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "login.mail.ru",
+      "ecosystem": "npm",
+      "versions": [
+        "55.55.55",
+        "66.66.66",
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4380",
+          "osv_published_at": "2022-06-20T20:26:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:40:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:40:30Z",
+  "osv_earliest_published_at": "2022-06-20T20:26:19Z",
+  "source_published_at": "2022-06-20T20:26:19Z",
+  "observed_at": "2026-09-07T06:40:30Z",
+  "ingested_at": "2026-09-07T06:40:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T11:08:02Z",
+  "ledger_committed_at": "2026-09-07T11:08:02Z"
+}
