@@ -1,0 +1,37 @@
+{
+  "id": "anjelo-pogi-2026-09-07",
+  "display_name": "anjelo-pogi",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "anjelo-pogi",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-100",
+          "osv_published_at": "2023-07-14T00:57:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:24:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:24:29Z",
+  "osv_earliest_published_at": "2023-07-14T00:57:06Z",
+  "source_published_at": "2023-07-14T00:57:06Z",
+  "observed_at": "2026-09-07T12:24:29Z",
+  "ingested_at": "2026-09-07T12:24:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:19:08Z",
+  "ledger_committed_at": "2026-09-07T21:19:08Z"
+}
