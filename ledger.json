@@ -387694,5 +387694,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:28:15Z",
     "ledger_committed_at": "2026-09-07T05:28:15Z"
+  },
+  {
+    "id": "documentalist-monorepo-2026-09-07",
+    "display_name": "documentalist-monorepo",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "documentalist-monorepo",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2550",
+            "osv_published_at": "2022-06-20T20:23:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:49:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:49:37Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:14Z",
+    "source_published_at": "2022-06-20T20:23:14Z",
+    "observed_at": "2026-09-07T04:49:37Z",
+    "ingested_at": "2026-09-07T04:49:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:28:25Z",
+    "ledger_committed_at": "2026-09-07T05:28:25Z"
   }
 ]
