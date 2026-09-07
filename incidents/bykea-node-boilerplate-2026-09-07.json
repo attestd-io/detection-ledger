@@ -1,0 +1,37 @@
+{
+  "id": "bykea-node-boilerplate-2026-09-07",
+  "display_name": "bykea_node_boilerplate",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bykea_node_boilerplate",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-150",
+          "osv_published_at": "2023-02-02T20:05:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:32:43Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:32:43Z",
+  "osv_earliest_published_at": "2023-02-02T20:05:23Z",
+  "source_published_at": "2023-02-02T20:05:23Z",
+  "observed_at": "2026-09-07T12:32:43Z",
+  "ingested_at": "2026-09-07T12:32:43Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:40:27Z",
+  "ledger_committed_at": "2026-09-07T21:40:27Z"
+}
