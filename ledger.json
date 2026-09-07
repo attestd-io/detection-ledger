@@ -648879,5 +648879,40 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:42:40Z",
     "ledger_committed_at": "2026-09-07T20:42:40Z"
+  },
+  {
+    "id": "b3dotfun-sdk-2026-09-07",
+    "display_name": "@b3dotfun/sdk",
+    "campaign": "app-services-components",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@b3dotfun/sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "0.0.2",
+          "0.0.4",
+          "0.3.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:53:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:53:18Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T11:53:18Z",
+    "ingested_at": "2026-09-07T11:53:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40b3dotfun%2Fsdk",
+    "ledger_commit_at": "2026-09-07T20:42:51Z",
+    "ledger_committed_at": "2026-09-07T20:42:51Z"
   }
 ]
