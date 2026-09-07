@@ -525446,5 +525446,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:53:24Z",
     "ledger_committed_at": "2026-09-07T13:53:24Z"
+  },
+  {
+    "id": "phapntomjs0prebeuilt-2026-09-07",
+    "display_name": "phapntomjs0prebeuilt",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "phapntomjs0prebeuilt",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5320",
+            "osv_published_at": "2022-08-19T03:55:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:52:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:52:10Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:11Z",
+    "source_published_at": "2022-08-19T03:55:11Z",
+    "observed_at": "2026-09-07T07:52:10Z",
+    "ingested_at": "2026-09-07T07:52:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:53:35Z",
+    "ledger_committed_at": "2026-09-07T13:53:35Z"
   }
 ]
