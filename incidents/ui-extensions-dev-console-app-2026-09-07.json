@@ -1,0 +1,38 @@
+{
+  "id": "ui-extensions-dev-console-app-2026-09-07",
+  "display_name": "ui-extensions-dev-console-app",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ui-extensions-dev-console-app",
+      "ecosystem": "npm",
+      "versions": [
+        "9.8.9",
+        "9.9.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6753",
+          "osv_published_at": "2022-06-20T07:27:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:34:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:34:24Z",
+  "osv_earliest_published_at": "2022-06-20T07:27:56Z",
+  "source_published_at": "2022-06-20T07:27:56Z",
+  "observed_at": "2026-09-07T10:34:24Z",
+  "ingested_at": "2026-09-07T10:34:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:20:46Z",
+  "ledger_committed_at": "2026-09-07T18:20:46Z"
+}
