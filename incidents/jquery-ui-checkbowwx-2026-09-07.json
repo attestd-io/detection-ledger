@@ -1,0 +1,37 @@
+{
+  "id": "jquery-ui-checkbowwx-2026-09-07",
+  "display_name": "jquery_ui_checkbowwx",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jquery_ui_checkbowwx",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4052",
+          "osv_published_at": "2022-11-07T02:41:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:05:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:05:18Z",
+  "osv_earliest_published_at": "2022-11-07T02:41:58Z",
+  "source_published_at": "2022-11-07T02:41:58Z",
+  "observed_at": "2026-09-07T06:05:18Z",
+  "ingested_at": "2026-09-07T06:05:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T10:04:28Z",
+  "ledger_committed_at": "2026-09-07T10:04:28Z"
+}
