@@ -656152,5 +656152,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:01:20Z",
     "ledger_committed_at": "2026-09-07T21:01:20Z"
+  },
+  {
+    "id": "ai-indeed-2026-09-07",
+    "display_name": "ai-indeed",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ai-indeed",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "91.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-903",
+            "osv_published_at": "2022-05-31T13:33:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:01:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:01:39Z",
+    "osv_earliest_published_at": "2022-05-31T13:33:33Z",
+    "source_published_at": "2022-05-31T13:33:33Z",
+    "observed_at": "2026-09-07T12:01:39Z",
+    "ingested_at": "2026-09-07T12:01:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:01:30Z",
+    "ledger_committed_at": "2026-09-07T21:01:30Z"
   }
 ]
