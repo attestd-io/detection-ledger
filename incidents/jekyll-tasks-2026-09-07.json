@@ -1,0 +1,37 @@
+{
+  "id": "jekyll-tasks-2026-09-07",
+  "display_name": "jekyll-tasks",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jekyll-tasks",
+      "ecosystem": "npm",
+      "versions": [
+        "100.1.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4011",
+          "osv_published_at": "2022-06-20T21:13:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:02:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:02:13Z",
+  "osv_earliest_published_at": "2022-06-20T21:13:17Z",
+  "source_published_at": "2022-06-20T21:13:17Z",
+  "observed_at": "2026-09-07T06:02:13Z",
+  "ingested_at": "2026-09-07T06:02:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:57:09Z",
+  "ledger_committed_at": "2026-09-07T09:57:09Z"
+}
