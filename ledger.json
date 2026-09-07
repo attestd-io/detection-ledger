@@ -405572,5 +405572,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:28:45Z",
     "ledger_committed_at": "2026-09-07T06:28:45Z"
+  },
+  {
+    "id": "facebook-nodejs-business-sdk-tests-2026-09-07",
+    "display_name": "facebook-nodejs-business-sdk-tests",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "facebook-nodejs-business-sdk-tests",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.10",
+          "9.9.11",
+          "9.9.12",
+          "9.9.13",
+          "9.9.14",
+          "9.9.16",
+          "9.9.8",
+          "9.9.81",
+          "9.9.82",
+          "9.9.83"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2961",
+            "osv_published_at": "2022-06-20T20:26:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:05:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:05:36Z",
+    "osv_earliest_published_at": "2022-06-20T20:26:35Z",
+    "source_published_at": "2022-06-20T20:26:35Z",
+    "observed_at": "2026-09-07T05:05:36Z",
+    "ingested_at": "2026-09-07T05:05:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:28:55Z",
+    "ledger_committed_at": "2026-09-07T06:28:55Z"
   }
 ]
