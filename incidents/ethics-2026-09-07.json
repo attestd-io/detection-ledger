@@ -1,0 +1,37 @@
+{
+  "id": "ethics-2026-09-07",
+  "display_name": "ethics",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ethics",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2876",
+          "osv_published_at": "2022-07-21T10:55:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:03:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:03:37Z",
+  "osv_earliest_published_at": "2022-07-21T10:55:49Z",
+  "source_published_at": "2022-07-21T10:55:49Z",
+  "observed_at": "2026-09-07T05:03:37Z",
+  "ingested_at": "2026-09-07T05:03:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:16:55Z",
+  "ledger_committed_at": "2026-09-07T06:16:55Z"
+}
