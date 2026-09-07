@@ -632275,5 +632275,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:33:19Z",
     "ledger_committed_at": "2026-09-07T19:33:19Z"
+  },
+  {
+    "id": "web-utilities-argus-2026-09-07",
+    "display_name": "@web-utilities/argus",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@web-utilities/argus",
+        "ecosystem": "npm",
+        "versions": [
+          "2100.4.3",
+          "2100.4.4",
+          "2100.4.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-713",
+            "osv_published_at": "2022-06-20T20:13:47Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:07:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:07:24Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:47Z",
+    "source_published_at": "2022-06-20T20:13:47Z",
+    "observed_at": "2026-09-07T11:07:24Z",
+    "ingested_at": "2026-09-07T11:07:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:33:29Z",
+    "ledger_committed_at": "2026-09-07T19:33:29Z"
   }
 ]
