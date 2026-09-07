@@ -668522,5 +668522,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:53:43Z",
     "ledger_committed_at": "2026-09-07T21:53:43Z"
+  },
+  {
+    "id": "cync-color-2026-09-07",
+    "display_name": "cync-color",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cync-color",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.2",
+          "1.0.3",
+          "1.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-220",
+            "osv_published_at": "2023-01-16T06:56:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:41:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:41:19Z",
+    "osv_earliest_published_at": "2023-01-16T06:56:09Z",
+    "source_published_at": "2023-01-16T06:56:09Z",
+    "observed_at": "2026-09-07T12:41:19Z",
+    "ingested_at": "2026-09-07T12:41:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:53:53Z",
+    "ledger_committed_at": "2026-09-07T21:53:53Z"
   }
 ]
