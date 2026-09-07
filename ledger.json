@@ -523369,5 +523369,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:44:37Z",
     "ledger_committed_at": "2026-09-07T13:44:37Z"
+  },
+  {
+    "id": "primeo-page-info-2026-09-07",
+    "display_name": "@primeo/page-info",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@primeo/page-info",
+        "ecosystem": "npm",
+        "versions": [
+          "3.999.999",
+          "3.9999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-527",
+            "osv_published_at": "2022-06-20T20:15:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:51:18Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:51:18Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:25Z",
+    "source_published_at": "2022-06-20T20:15:25Z",
+    "observed_at": "2026-09-07T07:51:18Z",
+    "ingested_at": "2026-09-07T07:51:18Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:44:47Z",
+    "ledger_committed_at": "2026-09-07T13:44:47Z"
   }
 ]
