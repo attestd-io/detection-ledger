@@ -1,0 +1,46 @@
+{
+  "id": "prescreen-distillery-2026-09-07",
+  "display_name": "@prescreen/distillery",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@prescreen/distillery",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.863",
+        "1.755.0",
+        "2.756.0",
+        "3.757.0",
+        "4.758.0",
+        "5.759.0",
+        "6.760.0",
+        "7.761.0",
+        "8.762.0",
+        "963.762.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-518",
+          "osv_published_at": "2022-06-15T12:02:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:47:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:47:45Z",
+  "osv_earliest_published_at": "2022-06-15T12:02:08Z",
+  "source_published_at": "2022-06-15T12:02:08Z",
+  "observed_at": "2026-09-07T07:47:45Z",
+  "ingested_at": "2026-09-07T07:47:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:29:34Z",
+  "ledger_committed_at": "2026-09-07T13:29:34Z"
+}
