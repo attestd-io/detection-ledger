@@ -590995,5 +590995,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:55:18Z",
     "ledger_committed_at": "2026-09-07T17:55:18Z"
+  },
+  {
+    "id": "tinyspeck-calls-desktop-interop-2026-09-07",
+    "display_name": "@tinyspeck/calls-desktop-interop",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@tinyspeck/calls-desktop-interop",
+        "ecosystem": "npm",
+        "versions": [
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-663",
+            "osv_published_at": "2022-06-20T20:24:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:56:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:56:07Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:09Z",
+    "source_published_at": "2022-06-20T20:24:09Z",
+    "observed_at": "2026-09-07T09:56:07Z",
+    "ingested_at": "2026-09-07T09:56:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:55:27Z",
+    "ledger_committed_at": "2026-09-07T17:55:27Z"
   }
 ]
