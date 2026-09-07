@@ -1,0 +1,37 @@
+{
+  "id": "alexhostx-2026-09-07",
+  "display_name": "alexhostx",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "alexhostx",
+      "ecosystem": "npm",
+      "versions": [
+        "6.8.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-929",
+          "osv_published_at": "2022-08-22T05:27:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:02:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:02:35Z",
+  "osv_earliest_published_at": "2022-08-22T05:27:47Z",
+  "source_published_at": "2022-08-22T05:27:47Z",
+  "observed_at": "2026-09-07T12:02:35Z",
+  "ingested_at": "2026-09-07T12:02:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:05:40Z",
+  "ledger_committed_at": "2026-09-07T21:05:40Z"
+}
