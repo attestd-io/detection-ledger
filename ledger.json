@@ -429215,5 +429215,50 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:53:01Z",
     "ledger_committed_at": "2026-09-07T07:53:01Z"
+  },
+  {
+    "id": "gringotts-2026-09-07",
+    "display_name": "gringotts",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gringotts",
+        "ecosystem": "npm",
+        "versions": [
+          "1.9465.3",
+          "2.9465.3",
+          "3.9465.3",
+          "4.9465.3",
+          "5.9465.3",
+          "6.9465.3",
+          "7.9465.3",
+          "8.9465.3",
+          "9344.9465.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3463",
+            "osv_published_at": "2022-06-20T20:20:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:24:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:24:04Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:48Z",
+    "source_published_at": "2022-06-20T20:20:48Z",
+    "observed_at": "2026-09-07T05:24:04Z",
+    "ingested_at": "2026-09-07T05:24:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:53:12Z",
+    "ledger_committed_at": "2026-09-07T07:53:12Z"
   }
 ]
