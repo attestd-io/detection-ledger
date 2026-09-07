@@ -492870,5 +492870,37 @@
     "advisory_url": "https://registry.npmjs.org/%40github%2Fcopilot-linux-x64",
     "ledger_commit_at": "2026-09-07T12:19:40Z",
     "ledger_committed_at": "2026-09-07T12:19:40Z"
+  },
+  {
+    "id": "github-copilot-sdk-2026-09-07",
+    "display_name": "@github/copilot-sdk",
+    "campaign": "onehaufe-platform",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@github/copilot-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:54:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:54:03Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:54:03Z",
+    "ingested_at": "2026-09-07T06:54:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40github%2Fcopilot-sdk",
+    "ledger_commit_at": "2026-09-07T12:19:50Z",
+    "ledger_committed_at": "2026-09-07T12:19:50Z"
   }
 ]
