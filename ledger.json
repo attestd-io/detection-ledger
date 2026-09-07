@@ -416616,5 +416616,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:09:39Z",
     "ledger_committed_at": "2026-09-07T07:09:39Z"
+  },
+  {
+    "id": "free-tiktok-likes-app-2022-2026-09-07",
+    "display_name": "free-tiktok-likes-app-2022",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "free-tiktok-likes-app-2022",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.27"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3206",
+            "osv_published_at": "2022-06-20T20:14:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:13:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:13:26Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:50Z",
+    "source_published_at": "2022-06-20T20:14:50Z",
+    "observed_at": "2026-09-07T05:13:26Z",
+    "ingested_at": "2026-09-07T05:13:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:09:50Z",
+    "ledger_committed_at": "2026-09-07T07:09:50Z"
   }
 ]
