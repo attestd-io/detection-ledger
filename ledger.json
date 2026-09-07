@@ -623292,5 +623292,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:10:42Z",
     "ledger_committed_at": "2026-09-07T19:10:42Z"
+  },
+  {
+    "id": "vendavo-pezzi-2026-09-07",
+    "display_name": "@vendavo/pezzi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@vendavo/pezzi",
+        "ecosystem": "npm",
+        "versions": [
+          "4.0.0-7",
+          "4.0.0-8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-702",
+            "osv_published_at": "2022-11-25T02:45:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:54:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:54:06Z",
+    "osv_earliest_published_at": "2022-11-25T02:45:36Z",
+    "source_published_at": "2022-11-25T02:45:36Z",
+    "observed_at": "2026-09-07T10:54:06Z",
+    "ingested_at": "2026-09-07T10:54:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:10:53Z",
+    "ledger_committed_at": "2026-09-07T19:10:53Z"
   }
 ]
