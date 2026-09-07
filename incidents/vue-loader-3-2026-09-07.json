@@ -1,0 +1,37 @@
+{
+  "id": "vue-loader-3-2026-09-07",
+  "display_name": "vue-loader-3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vue-loader-3",
+      "ecosystem": "npm",
+      "versions": [
+        "16.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6992",
+          "osv_published_at": "2022-06-20T20:19:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:50:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:50:38Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:52Z",
+  "source_published_at": "2022-06-20T20:19:52Z",
+  "observed_at": "2026-09-07T10:50:38Z",
+  "ingested_at": "2026-09-07T10:50:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:05:38Z",
+  "ledger_committed_at": "2026-09-07T19:05:38Z"
+}
