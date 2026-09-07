@@ -1,0 +1,37 @@
+{
+  "id": "adt-utils-2026-09-07",
+  "display_name": "adt-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "adt-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "999.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-874",
+          "osv_published_at": "2022-06-20T20:20:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:00:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:00:57Z",
+  "osv_earliest_published_at": "2022-06-20T20:20:28Z",
+  "source_published_at": "2022-06-20T20:20:28Z",
+  "observed_at": "2026-09-07T12:00:57Z",
+  "ingested_at": "2026-09-07T12:00:57Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:56:10Z",
+  "ledger_committed_at": "2026-09-07T20:56:10Z"
+}
