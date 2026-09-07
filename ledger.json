@@ -371447,5 +371447,39 @@
     "advisory_url": "https://registry.npmjs.org/%40coralogix%2Frum-cli",
     "ledger_commit_at": "2026-09-07T04:39:57Z",
     "ledger_committed_at": "2026-09-07T04:39:57Z"
+  },
+  {
+    "id": "rnmapbox-maps-2026-09-07",
+    "display_name": "@rnmapbox/maps",
+    "campaign": "eg-maps",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@rnmapbox/maps",
+        "ecosystem": "npm",
+        "versions": [
+          "10.0.0-beta.50",
+          "10.0.0-beta.51",
+          "10.0.0-beta.52"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:11:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:11:46Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:11:46Z",
+    "ingested_at": "2026-09-07T04:11:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40rnmapbox%2Fmaps",
+    "ledger_commit_at": "2026-09-07T04:40:05Z",
+    "ledger_committed_at": "2026-09-07T04:40:05Z"
   }
 ]
