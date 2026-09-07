@@ -419071,5 +419071,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:18:41Z",
     "ledger_committed_at": "2026-09-07T07:18:41Z"
+  },
+  {
+    "id": "gae-scaffold-2026-09-07",
+    "display_name": "gae-scaffold",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gae-scaffold",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3264",
+            "osv_published_at": "2022-06-20T20:22:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:14:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:14:39Z",
+    "osv_earliest_published_at": "2022-06-20T20:22:17Z",
+    "source_published_at": "2022-06-20T20:22:17Z",
+    "observed_at": "2026-09-07T05:14:39Z",
+    "ingested_at": "2026-09-07T05:14:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:18:49Z",
+    "ledger_committed_at": "2026-09-07T07:18:49Z"
   }
 ]
