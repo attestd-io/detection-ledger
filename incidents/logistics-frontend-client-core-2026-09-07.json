@@ -1,0 +1,37 @@
+{
+  "id": "logistics-frontend-client-core-2026-09-07",
+  "display_name": "@logistics-frontend/client-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@logistics-frontend/client-core",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-391",
+          "osv_published_at": "2022-05-31T12:55:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:54:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:54:56Z",
+  "osv_earliest_published_at": "2022-05-31T12:55:54Z",
+  "source_published_at": "2022-05-31T12:55:54Z",
+  "observed_at": "2026-09-07T05:54:56Z",
+  "ingested_at": "2026-09-07T05:54:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:41:36Z",
+  "ledger_committed_at": "2026-09-07T09:41:36Z"
+}
