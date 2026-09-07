@@ -543727,5 +543727,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:08:52Z",
     "ledger_committed_at": "2026-09-07T15:08:52Z"
+  },
+  {
+    "id": "redox-sample-nodejs-2026-09-07",
+    "display_name": "redox-sample-nodejs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "redox-sample-nodejs",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5724",
+            "osv_published_at": "2022-06-20T20:24:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:20:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:20:16Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:07Z",
+    "source_published_at": "2022-06-20T20:24:07Z",
+    "observed_at": "2026-09-07T08:20:16Z",
+    "ingested_at": "2026-09-07T08:20:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:09:01Z",
+    "ledger_committed_at": "2026-09-07T15:09:01Z"
   }
 ]
