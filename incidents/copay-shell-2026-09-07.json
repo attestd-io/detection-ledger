@@ -1,0 +1,38 @@
+{
+  "id": "copay-shell-2026-09-07",
+  "display_name": "copay-shell",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "copay-shell",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.4",
+        "0.0.1-security.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2181",
+          "osv_published_at": "2022-06-20T20:17:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T03:59:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T03:59:02Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:14Z",
+  "source_published_at": "2022-06-20T20:17:14Z",
+  "observed_at": "2026-09-07T03:59:02Z",
+  "ingested_at": "2026-09-07T03:59:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T04:24:39Z",
+  "ledger_committed_at": "2026-09-07T04:24:39Z"
+}
