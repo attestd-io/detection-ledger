@@ -664283,5 +664283,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:36:05Z",
     "ledger_committed_at": "2026-09-07T21:36:05Z"
+  },
+  {
+    "id": "ratecenter-shared-2026-09-07",
+    "display_name": "@ratecenter/shared",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@ratecenter/shared",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2",
+          "0.0.3",
+          "0.0.4",
+          "0.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1444",
+            "osv_published_at": "2023-08-11T03:24:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:31:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:31:29Z",
+    "osv_earliest_published_at": "2023-08-11T03:24:42Z",
+    "source_published_at": "2023-08-11T03:24:42Z",
+    "observed_at": "2026-09-07T12:31:29Z",
+    "ingested_at": "2026-09-07T12:31:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:36:15Z",
+    "ledger_committed_at": "2026-09-07T21:36:15Z"
   }
 ]
