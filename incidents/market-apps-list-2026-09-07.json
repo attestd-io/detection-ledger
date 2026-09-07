@@ -1,0 +1,43 @@
+{
+  "id": "market-apps-list-2026-09-07",
+  "display_name": "market-apps-list",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "market-apps-list",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0",
+        "100.99.99",
+        "101.100.99",
+        "101.99.99",
+        "102.102.100",
+        "19.19.9",
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-583",
+          "osv_published_at": "2023-01-09T01:41:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:59:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:59:56Z",
+  "osv_earliest_published_at": "2023-01-09T01:41:13Z",
+  "source_published_at": "2023-01-09T01:41:13Z",
+  "observed_at": "2026-09-07T12:59:56Z",
+  "ingested_at": "2026-09-07T12:59:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:57:43Z",
+  "ledger_committed_at": "2026-09-07T22:57:43Z"
+}
