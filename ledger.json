@@ -685866,5 +685866,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:10:27Z",
     "ledger_committed_at": "2026-09-07T23:10:27Z"
+  },
+  {
+    "id": "pdf-reading-the-signs-by-keira-andrews-on-textbook-new-chapters-2026-09-07",
+    "display_name": "pdf-reading-the-signs-by-keira-andrews-on-textbook-new-chapters-",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pdf-reading-the-signs-by-keira-andrews-on-textbook-new-chapters-",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-677",
+            "osv_published_at": "2023-05-10T13:24:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:04:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:04:20Z",
+    "osv_earliest_published_at": "2023-05-10T13:24:32Z",
+    "source_published_at": "2023-05-10T13:24:32Z",
+    "observed_at": "2026-09-07T13:04:20Z",
+    "ingested_at": "2026-09-07T13:04:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:10:38Z",
+    "ledger_committed_at": "2026-09-07T23:10:38Z"
   }
 ]
