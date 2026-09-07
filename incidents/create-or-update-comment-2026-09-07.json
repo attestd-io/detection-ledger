@@ -1,0 +1,39 @@
+{
+  "id": "create-or-update-comment-2026-09-07",
+  "display_name": "create-or-update-comment",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "create-or-update-comment",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-semantically-released",
+        "19.9.9",
+        "20.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-212",
+          "osv_published_at": "2023-01-11T03:51:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:40:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:40:49Z",
+  "osv_earliest_published_at": "2023-01-11T03:51:04Z",
+  "source_published_at": "2023-01-11T03:51:04Z",
+  "observed_at": "2026-09-07T12:40:49Z",
+  "ingested_at": "2026-09-07T12:40:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:52:43Z",
+  "ledger_committed_at": "2026-09-07T21:52:43Z"
+}
