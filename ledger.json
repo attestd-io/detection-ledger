@@ -616358,5 +616358,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:41:54Z",
     "ledger_committed_at": "2026-09-07T18:41:54Z"
+  },
+  {
+    "id": "usaa-wcm-utils-2026-09-07",
+    "display_name": "usaa-wcm-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "usaa-wcm-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "999.0.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6857",
+            "osv_published_at": "2022-06-20T20:24:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:42:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:42:41Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:57Z",
+    "source_published_at": "2022-06-20T20:24:57Z",
+    "observed_at": "2026-09-07T10:42:41Z",
+    "ingested_at": "2026-09-07T10:42:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:42:04Z",
+    "ledger_committed_at": "2026-09-07T18:42:04Z"
   }
 ]
