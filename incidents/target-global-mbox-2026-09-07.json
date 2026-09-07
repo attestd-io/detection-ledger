@@ -1,0 +1,37 @@
+{
+  "id": "target-global-mbox-2026-09-07",
+  "display_name": "target-global-mbox",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "target-global-mbox",
+      "ecosystem": "npm",
+      "versions": [
+        "2.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6419",
+          "osv_published_at": "2022-06-20T20:23:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:42:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:42:37Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:09Z",
+  "source_published_at": "2022-06-20T20:23:09Z",
+  "observed_at": "2026-09-07T09:42:37Z",
+  "ingested_at": "2026-09-07T09:42:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:24:43Z",
+  "ledger_committed_at": "2026-09-07T17:24:43Z"
+}
