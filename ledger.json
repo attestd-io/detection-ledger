@@ -500255,5 +500255,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:46:12Z",
     "ledger_committed_at": "2026-09-07T12:46:12Z"
+  },
+  {
+    "id": "npmbb-deneuve81-2026-09-07",
+    "display_name": "npmbb-deneuve81",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "npmbb-deneuve81",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4946",
+            "osv_published_at": "2022-06-30T09:35:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:16:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:16:37Z",
+    "osv_earliest_published_at": "2022-06-30T09:35:05Z",
+    "source_published_at": "2022-06-30T09:35:05Z",
+    "observed_at": "2026-09-07T07:16:37Z",
+    "ingested_at": "2026-09-07T07:16:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:46:21Z",
+    "ledger_committed_at": "2026-09-07T12:46:21Z"
   }
 ]
