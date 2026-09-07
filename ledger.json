@@ -413895,5 +413895,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:58:48Z",
     "ledger_committed_at": "2026-09-07T06:58:48Z"
+  },
+  {
+    "id": "harrysforge-generate-media-queries-2026-09-07",
+    "display_name": "@harrysforge/generate-media-queries",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@harrysforge/generate-media-queries",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.999",
+          "0.999.999",
+          "999.999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-314",
+            "osv_published_at": "2022-06-20T20:20:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:12:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:12:26Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:40Z",
+    "source_published_at": "2022-06-20T20:20:40Z",
+    "observed_at": "2026-09-07T05:12:26Z",
+    "ingested_at": "2026-09-07T05:12:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:58:56Z",
+    "ledger_committed_at": "2026-09-07T06:58:56Z"
   }
 ]
