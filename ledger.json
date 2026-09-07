@@ -688177,5 +688177,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:20:46Z",
     "ledger_committed_at": "2026-09-07T23:20:46Z"
+  },
+  {
+    "id": "sdc40-yamatake-manual-gi-2026-09-07",
+    "display_name": "sdc40_yamatake_manual_gi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sdc40_yamatake_manual_gi",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-764",
+            "osv_published_at": "2023-05-09T00:00:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:06:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:06:37Z",
+    "osv_earliest_published_at": "2023-05-09T00:00:20Z",
+    "source_published_at": "2023-05-09T00:00:20Z",
+    "observed_at": "2026-09-07T13:06:37Z",
+    "ingested_at": "2026-09-07T13:06:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:20:57Z",
+    "ledger_committed_at": "2026-09-07T23:20:57Z"
   }
 ]
