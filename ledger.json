@@ -375996,5 +375996,37 @@
     "advisory_url": "https://registry.npmjs.org/%40apps-in-toss%2Fweb-framework",
     "ledger_commit_at": "2026-09-07T04:47:06Z",
     "ledger_committed_at": "2026-09-07T04:47:06Z"
+  },
+  {
+    "id": "ax-llm-ax-2026-09-07",
+    "display_name": "@ax-llm/ax",
+    "campaign": "epc-apps",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@ax-llm/ax",
+        "ecosystem": "npm",
+        "versions": [
+          "9.1.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:22:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:22:09Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:22:09Z",
+    "ingested_at": "2026-09-07T04:22:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40ax-llm%2Fax",
+    "ledger_commit_at": "2026-09-07T04:47:14Z",
+    "ledger_committed_at": "2026-09-07T04:47:14Z"
   }
 ]
