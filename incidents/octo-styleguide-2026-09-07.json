@@ -1,0 +1,37 @@
+{
+  "id": "octo-styleguide-2026-09-07",
+  "display_name": "octo-styleguide",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "octo-styleguide",
+      "ecosystem": "npm",
+      "versions": [
+        "7.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5014",
+          "osv_published_at": "2022-06-20T20:18:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:30:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:30:32Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:17Z",
+  "source_published_at": "2022-06-20T20:18:17Z",
+  "observed_at": "2026-09-07T07:30:32Z",
+  "ingested_at": "2026-09-07T07:30:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:00:26Z",
+  "ledger_committed_at": "2026-09-07T13:00:26Z"
+}
