@@ -562164,5 +562164,53 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:26:54Z",
     "ledger_committed_at": "2026-09-07T16:26:54Z"
+  },
+  {
+    "id": "skfb-viewer-protocol-2026-09-07",
+    "display_name": "skfb-viewer-protocol",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "skfb-viewer-protocol",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "0.0.1",
+          "0.1201.1",
+          "10.1210.1",
+          "2.1202.1",
+          "3.1203.1",
+          "4.1204.1",
+          "5.1205.1",
+          "6.1206.1",
+          "7.1207.1",
+          "8.1208.1",
+          "9.1209.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6149",
+            "osv_published_at": "2022-06-20T20:12:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:09:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:09:57Z",
+    "osv_earliest_published_at": "2022-06-20T20:12:29Z",
+    "source_published_at": "2022-06-20T20:12:29Z",
+    "observed_at": "2026-09-07T09:09:57Z",
+    "ingested_at": "2026-09-07T09:09:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:27:04Z",
+    "ledger_committed_at": "2026-09-07T16:27:04Z"
   }
 ]
