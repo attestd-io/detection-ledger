@@ -1,0 +1,37 @@
+{
+  "id": "service-bus-v9-2026-09-07",
+  "display_name": "service-bus-v9",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "service-bus-v9",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6029",
+          "osv_published_at": "2022-06-20T20:17:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:44:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:44:39Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:00Z",
+  "source_published_at": "2022-06-20T20:17:00Z",
+  "observed_at": "2026-09-07T08:44:39Z",
+  "ingested_at": "2026-09-07T08:44:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:05:44Z",
+  "ledger_committed_at": "2026-09-07T16:05:44Z"
+}
