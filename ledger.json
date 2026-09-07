@@ -405978,5 +405978,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:30:13Z",
     "ledger_committed_at": "2026-09-07T06:30:13Z"
+  },
+  {
+    "id": "faust-nx-cli-2026-09-07",
+    "display_name": "faust-nx-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "faust-nx-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2970",
+            "osv_published_at": "2022-09-12T03:08:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:05:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:05:48Z",
+    "osv_earliest_published_at": "2022-09-12T03:08:42Z",
+    "source_published_at": "2022-09-12T03:08:42Z",
+    "observed_at": "2026-09-07T05:05:48Z",
+    "ingested_at": "2026-09-07T05:05:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:30:23Z",
+    "ledger_committed_at": "2026-09-07T06:30:23Z"
   }
 ]
