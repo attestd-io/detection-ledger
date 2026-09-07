@@ -379144,5 +379144,37 @@
     "advisory_url": "https://registry.npmjs.org/%40rspack%2Fcli",
     "ledger_commit_at": "2026-09-07T04:58:01Z",
     "ledger_committed_at": "2026-09-07T04:58:01Z"
+  },
+  {
+    "id": "siemens-element-ng-2026-09-07",
+    "display_name": "@siemens/element-ng",
+    "campaign": "epc-infra",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@siemens/element-ng",
+        "ecosystem": "npm",
+        "versions": [
+          "50.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:35:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:35:56Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:35:56Z",
+    "ingested_at": "2026-09-07T04:35:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40siemens%2Felement-ng",
+    "ledger_commit_at": "2026-09-07T04:58:09Z",
+    "ledger_committed_at": "2026-09-07T04:58:09Z"
   }
 ]
