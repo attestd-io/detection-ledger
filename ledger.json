@@ -548204,5 +548204,48 @@
     "advisory_url": "https://registry.npmjs.org/%40jollose%2Fcore",
     "ledger_commit_at": "2026-09-07T15:27:34Z",
     "ledger_committed_at": "2026-09-07T15:27:34Z"
+  },
+  {
+    "id": "oslokommune-auth-bff-2026-09-07",
+    "display_name": "@oslokommune/auth-bff",
+    "campaign": "sfcc-bff",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@oslokommune/auth-bff",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0-beta10",
+          "1.0.0-beta11",
+          "1.0.0-beta13",
+          "1.0.0-beta14",
+          "1.0.0-beta15",
+          "1.0.0-beta16",
+          "1.0.0-beta17",
+          "1.0.0-beta18",
+          "1.0.0-beta7",
+          "1.0.0-beta8",
+          "1.0.0-beta9",
+          "1.0.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:32:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:32:25Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T08:32:25Z",
+    "ingested_at": "2026-09-07T08:32:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40oslokommune%2Fauth-bff",
+    "ledger_commit_at": "2026-09-07T15:27:43Z",
+    "ledger_committed_at": "2026-09-07T15:27:43Z"
   }
 ]
