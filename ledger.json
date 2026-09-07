@@ -582277,5 +582277,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:19:16Z",
     "ledger_committed_at": "2026-09-07T17:19:16Z"
+  },
+  {
+    "id": "synobot-2026-09-07",
+    "display_name": "synobot",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "synobot",
+        "ecosystem": "npm",
+        "versions": [
+          "3.2.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6394",
+            "osv_published_at": "2022-06-20T20:18:17Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:39:51Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:39:51Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:17Z",
+    "source_published_at": "2022-06-20T20:18:17Z",
+    "observed_at": "2026-09-07T09:39:51Z",
+    "ingested_at": "2026-09-07T09:39:51Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:19:25Z",
+    "ledger_committed_at": "2026-09-07T17:19:25Z"
   }
 ]
