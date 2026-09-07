@@ -552159,5 +552159,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:44:13Z",
     "ledger_committed_at": "2026-09-07T15:44:13Z"
+  },
+  {
+    "id": "sageone-api-ruby-sample-2026-09-07",
+    "display_name": "sageone_api_ruby_sample",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "sageone_api_ruby_sample",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5908",
+            "osv_published_at": "2022-06-20T21:13:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:40:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:40:59Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:37Z",
+    "source_published_at": "2022-06-20T21:13:37Z",
+    "observed_at": "2026-09-07T08:40:59Z",
+    "ingested_at": "2026-09-07T08:40:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:44:23Z",
+    "ledger_committed_at": "2026-09-07T15:44:23Z"
   }
 ]
