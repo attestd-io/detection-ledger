@@ -499498,5 +499498,39 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:43:00Z",
     "ledger_committed_at": "2026-09-07T12:43:00Z"
+  },
+  {
+    "id": "infisical-cli-2026-09-07",
+    "display_name": "@infisical/cli",
+    "campaign": "paid-cloud",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@infisical/cli",
+        "ecosystem": "npm",
+        "versions": [
+          "0.31.2",
+          "0.31.5",
+          "0.31.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:09:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:09:30Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T07:09:30Z",
+    "ingested_at": "2026-09-07T07:09:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40infisical%2Fcli",
+    "ledger_commit_at": "2026-09-07T12:43:09Z",
+    "ledger_committed_at": "2026-09-07T12:43:09Z"
   }
 ]
