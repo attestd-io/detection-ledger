@@ -613753,5 +613753,38 @@
     "advisory_url": "https://registry.npmjs.org/%40myop%2Fvue",
     "ledger_commit_at": "2026-09-07T18:30:03Z",
     "ledger_committed_at": "2026-09-07T18:30:03Z"
+  },
+  {
+    "id": "polls-platform-react-native-2026-09-07",
+    "display_name": "@polls-platform/react-native",
+    "campaign": "alice-bob",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@polls-platform/react-native",
+        "ecosystem": "npm",
+        "versions": [
+          "2.6.0-local.0",
+          "2.6.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:39:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:39:10Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T10:39:10Z",
+    "ingested_at": "2026-09-07T10:39:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40polls-platform%2Freact-native",
+    "ledger_commit_at": "2026-09-07T18:30:12Z",
+    "ledger_committed_at": "2026-09-07T18:30:12Z"
   }
 ]
