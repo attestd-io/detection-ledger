@@ -404562,5 +404562,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:25:07Z",
     "ledger_committed_at": "2026-09-07T06:25:07Z"
+  },
+  {
+    "id": "extensible-enums-2026-09-07",
+    "display_name": "extensible-enums",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "extensible-enums",
+        "ecosystem": "npm",
+        "versions": [
+          "200.0.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2938",
+            "osv_published_at": "2022-06-20T20:25:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:05:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:05:06Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:04Z",
+    "source_published_at": "2022-06-20T20:25:04Z",
+    "observed_at": "2026-09-07T05:05:06Z",
+    "ingested_at": "2026-09-07T05:05:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:25:15Z",
+    "ledger_committed_at": "2026-09-07T06:25:15Z"
   }
 ]
