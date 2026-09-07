@@ -543607,5 +543607,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:08:23Z",
     "ledger_committed_at": "2026-09-07T15:08:23Z"
+  },
+  {
+    "id": "redirect-safe-2026-09-07",
+    "display_name": "redirect-safe",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "redirect-safe",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "1.609.0",
+          "2.610.0",
+          "3.611.0",
+          "4.612.0",
+          "5.613.0",
+          "6.614.0",
+          "7.615.0",
+          "8.616.0",
+          "9.617.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5721",
+            "osv_published_at": "2022-10-20T04:29:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:20:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:20:14Z",
+    "osv_earliest_published_at": "2022-10-20T04:29:09Z",
+    "source_published_at": "2022-10-20T04:29:09Z",
+    "observed_at": "2026-09-07T08:20:14Z",
+    "ingested_at": "2026-09-07T08:20:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:08:33Z",
+    "ledger_committed_at": "2026-09-07T15:08:33Z"
   }
 ]
