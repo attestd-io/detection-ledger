@@ -648629,5 +648629,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:41:34Z",
     "ledger_committed_at": "2026-09-07T20:41:34Z"
+  },
+  {
+    "id": "zohocalendar-color-picker-2026-09-07",
+    "display_name": "@zohocalendar/color-picker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@zohocalendar/color-picker",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "1.560.0",
+          "2.561.0",
+          "3.562.0",
+          "4.563.0",
+          "5.564.0",
+          "6.565.0",
+          "7.568.0",
+          "8.569.0",
+          "952.570.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-796",
+            "osv_published_at": "2022-06-20T20:15:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:52:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:52:24Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:15Z",
+    "source_published_at": "2022-06-20T20:15:15Z",
+    "observed_at": "2026-09-07T11:52:24Z",
+    "ingested_at": "2026-09-07T11:52:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:41:44Z",
+    "ledger_committed_at": "2026-09-07T20:41:44Z"
   }
 ]
