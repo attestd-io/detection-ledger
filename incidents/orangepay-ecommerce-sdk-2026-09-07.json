@@ -1,0 +1,40 @@
+{
+  "id": "orangepay-ecommerce-sdk-2026-09-07",
+  "display_name": "orangepay-ecommerce-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "orangepay-ecommerce-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.9",
+        "99.99.9",
+        "99.99.99",
+        "99.99.999"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5117",
+          "osv_published_at": "2022-09-14T07:37:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:45:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:45:07Z",
+  "osv_earliest_published_at": "2022-09-14T07:37:57Z",
+  "source_published_at": "2022-09-14T07:37:57Z",
+  "observed_at": "2026-09-07T07:45:07Z",
+  "ingested_at": "2026-09-07T07:45:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:20:06Z",
+  "ledger_committed_at": "2026-09-07T13:20:06Z"
+}
