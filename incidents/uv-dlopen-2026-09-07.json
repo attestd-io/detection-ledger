@@ -1,0 +1,41 @@
+{
+  "id": "uv-dlopen-2026-09-07",
+  "display_name": "uv-dlopen",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "uv-dlopen",
+      "ecosystem": "npm",
+      "versions": [
+        "0.9.9",
+        "1.9.9",
+        "100.9.9",
+        "2.9.9",
+        "3.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6873",
+          "osv_published_at": "2022-06-20T20:25:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:46:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:46:15Z",
+  "osv_earliest_published_at": "2022-06-20T20:25:12Z",
+  "source_published_at": "2022-06-20T20:25:12Z",
+  "observed_at": "2026-09-07T10:46:15Z",
+  "ingested_at": "2026-09-07T10:46:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:45:10Z",
+  "ledger_committed_at": "2026-09-07T18:45:10Z"
+}
