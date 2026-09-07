@@ -1,0 +1,32 @@
+{
+  "id": "geist-2026-09-07",
+  "display_name": "geist",
+  "campaign": "msm-app",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "geist",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.0-beta.0"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:40:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:40:11Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T06:40:11Z",
+  "ingested_at": "2026-09-07T06:40:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/geist",
+  "ledger_commit_at": "2026-09-07T11:06:13Z",
+  "ledger_committed_at": "2026-09-07T11:06:13Z"
+}
