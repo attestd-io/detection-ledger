@@ -401231,5 +401231,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:13:56Z",
     "ledger_committed_at": "2026-09-07T06:13:56Z"
+  },
+  {
+    "id": "esprimere-2026-09-07",
+    "display_name": "esprimere",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "esprimere",
+        "ecosystem": "npm",
+        "versions": [
+          "10.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2855",
+            "osv_published_at": "2022-06-20T20:24:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:03:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:03:13Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:32Z",
+    "source_published_at": "2022-06-20T20:24:32Z",
+    "observed_at": "2026-09-07T05:03:13Z",
+    "ingested_at": "2026-09-07T05:03:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:14:05Z",
+    "ledger_committed_at": "2026-09-07T06:14:05Z"
   }
 ]
