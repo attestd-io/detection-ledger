@@ -542704,5 +542704,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:04:32Z",
     "ledger_committed_at": "2026-09-07T15:04:32Z"
+  },
+  {
+    "id": "reactroterre3dux-2026-09-07",
+    "display_name": "reactroterre3dux",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "reactroterre3dux",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5698",
+            "osv_published_at": "2022-08-19T03:55:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:19:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:19:49Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:12Z",
+    "source_published_at": "2022-08-19T03:55:12Z",
+    "observed_at": "2026-09-07T08:19:49Z",
+    "ingested_at": "2026-09-07T08:19:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:04:43Z",
+    "ledger_committed_at": "2026-09-07T15:04:43Z"
   }
 ]
