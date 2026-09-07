@@ -660827,5 +660827,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:21:29Z",
     "ledger_committed_at": "2026-09-07T21:21:29Z"
+  },
+  {
+    "id": "fca-rhancis-pogi-2026-09-07",
+    "display_name": "fca-rhancis-pogi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fca-rhancis-pogi",
+        "ecosystem": "npm",
+        "versions": [
+          "32.1.1",
+          "32.1.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1016",
+            "osv_published_at": "2023-07-31T03:01:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:24:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:24:45Z",
+    "osv_earliest_published_at": "2023-07-31T03:01:36Z",
+    "source_published_at": "2023-07-31T03:01:36Z",
+    "observed_at": "2026-09-07T12:24:45Z",
+    "ingested_at": "2026-09-07T12:24:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:21:39Z",
+    "ledger_committed_at": "2026-09-07T21:21:39Z"
   }
 ]
