@@ -435927,5 +435927,37 @@
     "advisory_url": "https://registry.npmjs.org/cacheable",
     "ledger_commit_at": "2026-09-07T08:19:25Z",
     "ledger_committed_at": "2026-09-07T08:19:25Z"
+  },
+  {
+    "id": "cacheable-request-2026-09-07",
+    "display_name": "cacheable-request",
+    "campaign": "instant-api-hooks",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "cacheable-request",
+        "ecosystem": "npm",
+        "versions": [
+          "13.0.20"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:31:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:31:47Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:31:47Z",
+    "ingested_at": "2026-09-07T05:31:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/cacheable-request",
+    "ledger_commit_at": "2026-09-07T08:19:35Z",
+    "ledger_committed_at": "2026-09-07T08:19:35Z"
   }
 ]
