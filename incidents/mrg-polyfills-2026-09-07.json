@@ -1,0 +1,55 @@
+{
+  "id": "mrg-polyfills-2026-09-07",
+  "display_name": "mrg-polyfills",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mrg-polyfills",
+      "ecosystem": "npm",
+      "versions": [
+        "1.724.571",
+        "10.903.575",
+        "2.929.300",
+        "20.985.662",
+        "3.971.369",
+        "30.974.410",
+        "4.819.325",
+        "40.747.653",
+        "5.757.562",
+        "50.701.386",
+        "6.906.319",
+        "60.872.649",
+        "7.805.648",
+        "70.729.372",
+        "8.958.563",
+        "80.917.396",
+        "9.712.397",
+        "90.950.583",
+        "9998.998.601"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4712",
+          "osv_published_at": "2022-06-20T20:18:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:49:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:49:26Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:01Z",
+  "source_published_at": "2022-06-20T20:18:01Z",
+  "observed_at": "2026-09-07T06:49:26Z",
+  "ingested_at": "2026-09-07T06:49:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:03:36Z",
+  "ledger_committed_at": "2026-09-07T12:03:36Z"
+}
