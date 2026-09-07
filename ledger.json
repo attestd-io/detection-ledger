@@ -526773,5 +526773,54 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:58:18Z",
     "ledger_committed_at": "2026-09-07T13:58:18Z"
+  },
+  {
+    "id": "cloud-copilot-iam-data-2026-09-07",
+    "display_name": "@cloud-copilot/iam-data",
+    "campaign": "proto-services",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@cloud-copilot/iam-data",
+        "ecosystem": "npm",
+        "versions": [
+          "0.5.1-beta1",
+          "0.5.1-beta10",
+          "0.5.1-beta11",
+          "0.5.1-beta12",
+          "0.5.1-beta13",
+          "0.5.1-beta14",
+          "0.5.1-beta15",
+          "0.5.1-beta16",
+          "0.5.1-beta17",
+          "0.5.1-beta18",
+          "0.5.1-beta3",
+          "0.5.1-beta4",
+          "0.5.1-beta5",
+          "0.5.1-beta6",
+          "0.5.1-beta7",
+          "0.5.1-beta8",
+          "0.5.1-beta9",
+          "0.5.202409231"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:53:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:53:56Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T07:53:56Z",
+    "ingested_at": "2026-09-07T07:53:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40cloud-copilot%2Fiam-data",
+    "ledger_commit_at": "2026-09-07T13:58:28Z",
+    "ledger_committed_at": "2026-09-07T13:58:28Z"
   }
 ]
