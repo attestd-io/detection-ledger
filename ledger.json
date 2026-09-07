@@ -666818,5 +666818,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:46:44Z",
     "ledger_committed_at": "2026-09-07T21:46:44Z"
+  },
+  {
+    "id": "kucoin-prices-2026-09-07",
+    "display_name": "kucoin-prices",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "kucoin-prices",
+        "ecosystem": "npm",
+        "versions": [
+          "3.1.7",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1559",
+            "osv_published_at": "2023-07-06T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:37:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:37:58Z",
+    "osv_earliest_published_at": "2023-07-06T00:00:00Z",
+    "source_published_at": "2023-07-06T00:00:00Z",
+    "observed_at": "2026-09-07T12:37:58Z",
+    "ingested_at": "2026-09-07T12:37:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:46:53Z",
+    "ledger_committed_at": "2026-09-07T21:46:53Z"
   }
 ]
