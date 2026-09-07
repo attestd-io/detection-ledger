@@ -1,0 +1,41 @@
+{
+  "id": "inf-build-module-prefixer-2026-09-07",
+  "display_name": "inf-build-module-prefixer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "inf-build-module-prefixer",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.4",
+        "1.0.1",
+        "1.344.1",
+        "2.345.1",
+        "3.346.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3810",
+          "osv_published_at": "2022-06-20T20:13:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:49:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:49:01Z",
+  "osv_earliest_published_at": "2022-06-20T20:13:09Z",
+  "source_published_at": "2022-06-20T20:13:09Z",
+  "observed_at": "2026-09-07T05:49:01Z",
+  "ingested_at": "2026-09-07T05:49:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:02:56Z",
+  "ledger_committed_at": "2026-09-07T09:02:56Z"
+}
