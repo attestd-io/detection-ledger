@@ -420175,5 +420175,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:22:51Z",
     "ledger_committed_at": "2026-09-07T07:22:51Z"
+  },
+  {
+    "id": "gatsby-theme-lego-2026-09-07",
+    "display_name": "gatsby-theme-lego",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gatsby-theme-lego",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3290",
+            "osv_published_at": "2022-06-20T20:17:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:15:11Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:15:11Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:10Z",
+    "source_published_at": "2022-06-20T20:17:10Z",
+    "observed_at": "2026-09-07T05:15:11Z",
+    "ingested_at": "2026-09-07T05:15:11Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:23:00Z",
+    "ledger_committed_at": "2026-09-07T07:23:00Z"
   }
 ]
