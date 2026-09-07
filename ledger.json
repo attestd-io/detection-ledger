@@ -496817,5 +496817,42 @@
     "advisory_url": "https://registry.npmjs.org/react-barcode-scanner",
     "ledger_commit_at": "2026-09-07T12:35:50Z",
     "ledger_committed_at": "2026-09-07T12:35:50Z"
+  },
+  {
+    "id": "ovh-ui-oui-spinner-2026-09-07",
+    "display_name": "@ovh-ui/oui-spinner",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@ovh-ui/oui-spinner",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-490",
+            "osv_published_at": "2022-07-26T09:54:02Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:04:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:04:08Z",
+    "osv_earliest_published_at": "2022-07-26T09:54:02Z",
+    "source_published_at": "2022-07-26T09:54:02Z",
+    "observed_at": "2026-09-07T07:04:08Z",
+    "ingested_at": "2026-09-07T07:04:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:35:58Z",
+    "ledger_committed_at": "2026-09-07T12:35:58Z"
   }
 ]
