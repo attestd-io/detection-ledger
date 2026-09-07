@@ -395433,5 +395433,52 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:54:36Z",
     "ledger_committed_at": "2026-09-07T05:54:36Z"
+  },
+  {
+    "id": "emerald-workbench-2026-09-07",
+    "display_name": "emerald-workbench",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "emerald-workbench",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.9344",
+          "1.9344.0",
+          "2.9344.0",
+          "3.9344.0",
+          "4.9344.0",
+          "5.9344.0",
+          "6.9344.0",
+          "7.9344.0",
+          "8.9344.0",
+          "9.9344.0",
+          "9344.9344.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2728",
+            "osv_published_at": "2022-06-20T20:19:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:56:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:56:33Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:07Z",
+    "source_published_at": "2022-06-20T20:19:07Z",
+    "observed_at": "2026-09-07T04:56:33Z",
+    "ingested_at": "2026-09-07T04:56:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:54:45Z",
+    "ledger_committed_at": "2026-09-07T05:54:45Z"
   }
 ]
