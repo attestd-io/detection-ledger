@@ -608953,5 +608953,37 @@
     "advisory_url": "https://registry.npmjs.org/%40effectstream%2Ffrontend-sdk",
     "ledger_commit_at": "2026-09-07T18:09:27Z",
     "ledger_committed_at": "2026-09-07T18:09:27Z"
+  },
+  {
+    "id": "nufi-cardano-metamask-snap-2026-09-07",
+    "display_name": "@nufi/cardano-metamask-snap",
+    "campaign": "trp-gims-usi-cip",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@nufi/cardano-metamask-snap",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:31:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:31:26Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T10:31:26Z",
+    "ingested_at": "2026-09-07T10:31:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40nufi%2Fcardano-metamask-snap",
+    "ledger_commit_at": "2026-09-07T18:09:35Z",
+    "ledger_committed_at": "2026-09-07T18:09:35Z"
   }
 ]
