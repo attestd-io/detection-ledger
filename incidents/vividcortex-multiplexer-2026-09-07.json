@@ -1,0 +1,56 @@
+{
+  "id": "vividcortex-multiplexer-2026-09-07",
+  "display_name": "@vividcortex/multiplexer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@vividcortex/multiplexer",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.12",
+        "0.0.13",
+        "1.566.12",
+        "1.566.13",
+        "2.567.12",
+        "2.567.13",
+        "3.568.12",
+        "3.568.13",
+        "4.569.12",
+        "4.569.13",
+        "5.570.12",
+        "5.570.13",
+        "6.571.12",
+        "6.571.13",
+        "7.572.12",
+        "7.572.13",
+        "8.573.12",
+        "8.573.13",
+        "9.574.12",
+        "9.574.13"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-706",
+          "osv_published_at": "2022-07-12T21:20:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:04:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:04:03Z",
+  "osv_earliest_published_at": "2022-07-12T21:20:07Z",
+  "source_published_at": "2022-07-12T21:20:07Z",
+  "observed_at": "2026-09-07T11:04:03Z",
+  "ingested_at": "2026-09-07T11:04:03Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:19:36Z",
+  "ledger_committed_at": "2026-09-07T19:19:36Z"
+}
