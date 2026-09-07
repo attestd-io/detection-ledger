@@ -434857,5 +434857,37 @@
     "advisory_url": "https://registry.npmjs.org/is-arrayish",
     "ledger_commit_at": "2026-09-07T08:14:53Z",
     "ledger_committed_at": "2026-09-07T08:14:53Z"
+  },
+  {
+    "id": "node-llama-cpp-2026-09-07",
+    "display_name": "node-llama-cpp",
+    "campaign": "infra-node",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "node-llama-cpp",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:30:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:30:13Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:30:13Z",
+    "ingested_at": "2026-09-07T05:30:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/node-llama-cpp",
+    "ledger_commit_at": "2026-09-07T08:15:02Z",
+    "ledger_committed_at": "2026-09-07T08:15:02Z"
   }
 ]
