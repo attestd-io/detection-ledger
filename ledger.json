@@ -615793,5 +615793,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:39:20Z",
     "ledger_committed_at": "2026-09-07T18:39:20Z"
+  },
+  {
+    "id": "usaa-form-2026-09-07",
+    "display_name": "usaa-form",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "usaa-form",
+        "ecosystem": "npm",
+        "versions": [
+          "6.0.0",
+          "9.9.8",
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6842",
+            "osv_published_at": "2022-12-29T00:01:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:42:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:42:08Z",
+    "osv_earliest_published_at": "2022-12-29T00:01:08Z",
+    "source_published_at": "2022-12-29T00:01:08Z",
+    "observed_at": "2026-09-07T10:42:08Z",
+    "ingested_at": "2026-09-07T10:42:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:39:34Z",
+    "ledger_committed_at": "2026-09-07T18:39:34Z"
   }
 ]
