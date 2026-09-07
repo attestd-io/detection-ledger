@@ -641962,5 +641962,55 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:13:16Z",
     "ledger_committed_at": "2026-09-07T20:13:16Z"
+  },
+  {
+    "id": "pivanov-utils-2026-09-07",
+    "display_name": "@pivanov/utils",
+    "campaign": "wso-utils",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@pivanov/utils",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-rc-001",
+          "0.0.1-rc-0010",
+          "0.0.1-rc-0011",
+          "0.0.1-rc-0012",
+          "0.0.1-rc-0013",
+          "0.0.1-rc-0014",
+          "0.0.1-rc-0015",
+          "0.0.1-rc-0016",
+          "0.0.1-rc-0017",
+          "0.0.1-rc-0018",
+          "0.0.1-rc-0019",
+          "0.0.1-rc-002",
+          "0.0.1-rc-003",
+          "0.0.1-rc-004",
+          "0.0.1-rc-005",
+          "0.0.1-rc-006",
+          "0.0.1-rc-007",
+          "0.0.1-rc-008",
+          "0.0.1-rc-009"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:20:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:20:37Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T11:20:37Z",
+    "ingested_at": "2026-09-07T11:20:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40pivanov%2Futils",
+    "ledger_commit_at": "2026-09-07T20:13:26Z",
+    "ledger_committed_at": "2026-09-07T20:13:26Z"
   }
 ]
