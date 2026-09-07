@@ -1,0 +1,38 @@
+{
+  "id": "wf-kyt-starter-2026-09-07",
+  "display_name": "wf-kyt-starter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wf-kyt-starter",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7120",
+          "osv_published_at": "2022-06-20T20:24:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:07:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:07:14Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:17Z",
+  "source_published_at": "2022-06-20T20:24:17Z",
+  "observed_at": "2026-09-07T11:07:14Z",
+  "ingested_at": "2026-09-07T11:07:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:32:00Z",
+  "ledger_committed_at": "2026-09-07T19:32:00Z"
+}
