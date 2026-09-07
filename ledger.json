@@ -405535,5 +405535,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:28:37Z",
     "ledger_committed_at": "2026-09-07T06:28:37Z"
+  },
+  {
+    "id": "facebook-instant-articles-builder-2026-09-07",
+    "display_name": "facebook-instant-articles-builder",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "facebook-instant-articles-builder",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2960",
+            "osv_published_at": "2022-06-20T20:24:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:05:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:05:34Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:40Z",
+    "source_published_at": "2022-06-20T20:24:40Z",
+    "observed_at": "2026-09-07T05:05:34Z",
+    "ingested_at": "2026-09-07T05:05:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:28:45Z",
+    "ledger_committed_at": "2026-09-07T06:28:45Z"
   }
 ]
