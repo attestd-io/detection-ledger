@@ -513406,5 +513406,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:07:27Z",
     "ledger_committed_at": "2026-09-07T13:07:27Z"
+  },
+  {
+    "id": "ok-messenger-model-2026-09-07",
+    "display_name": "ok-messenger-model",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ok-messenger-model",
+        "ecosystem": "npm",
+        "versions": [
+          "999.9.0",
+          "999.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5048",
+            "osv_published_at": "2022-06-20T20:20:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:32:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:32:34Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:12Z",
+    "source_published_at": "2022-06-20T20:20:12Z",
+    "observed_at": "2026-09-07T07:32:34Z",
+    "ingested_at": "2026-09-07T07:32:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:07:38Z",
+    "ledger_committed_at": "2026-09-07T13:07:38Z"
   }
 ]
