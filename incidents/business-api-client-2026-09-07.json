@@ -1,0 +1,41 @@
+{
+  "id": "business-api-client-2026-09-07",
+  "display_name": "business_api_client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "business_api_client",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.1",
+        "0.1.2",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-1513",
+          "osv_published_at": "2023-08-21T03:51:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:35:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:35:42Z",
+  "osv_earliest_published_at": "2023-08-21T03:51:37Z",
+  "source_published_at": "2023-08-21T03:51:37Z",
+  "observed_at": "2026-09-07T12:35:42Z",
+  "ingested_at": "2026-09-07T12:35:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:41:28Z",
+  "ledger_committed_at": "2026-09-07T21:41:28Z"
+}
