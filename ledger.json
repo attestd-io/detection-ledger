@@ -664748,5 +664748,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:37:35Z",
     "ledger_committed_at": "2026-09-07T21:37:35Z"
+  },
+  {
+    "id": "square-apple-package-2026-09-07",
+    "display_name": "square-apple-package",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "square-apple-package",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1462",
+            "osv_published_at": "2023-08-14T03:38:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:32:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:32:02Z",
+    "osv_earliest_published_at": "2023-08-14T03:38:18Z",
+    "source_published_at": "2023-08-14T03:38:18Z",
+    "observed_at": "2026-09-07T12:32:02Z",
+    "ingested_at": "2026-09-07T12:32:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:37:44Z",
+    "ledger_committed_at": "2026-09-07T21:37:44Z"
   }
 ]
