@@ -1,0 +1,55 @@
+{
+  "id": "epic-ue-ui-2026-09-07",
+  "display_name": "epic-ue-ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "epic-ue-ui",
+      "ecosystem": "npm",
+      "versions": [
+        "1.998.4",
+        "1.998.5",
+        "1.999.3",
+        "2.998.4",
+        "2.998.5",
+        "3.998.4",
+        "3.998.5",
+        "4.998.4",
+        "4.998.5",
+        "5.998.4",
+        "5.998.5",
+        "6.998.4",
+        "6.998.5",
+        "7.998.4",
+        "7.998.5",
+        "8.998.4",
+        "8.998.5",
+        "9998.998.4",
+        "9998.998.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2773",
+          "osv_published_at": "2022-06-20T21:10:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:57:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:57:31Z",
+  "osv_earliest_published_at": "2022-06-20T21:10:08Z",
+  "source_published_at": "2022-06-20T21:10:08Z",
+  "observed_at": "2026-09-07T04:57:31Z",
+  "ingested_at": "2026-09-07T04:57:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:00:49Z",
+  "ledger_committed_at": "2026-09-07T06:00:49Z"
+}
