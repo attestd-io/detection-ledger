@@ -477594,5 +477594,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:20:17Z",
     "ledger_committed_at": "2026-09-07T11:20:17Z"
+  },
+  {
+    "id": "mailjet-old-react-components-2026-09-07",
+    "display_name": "mailjet-old-react-components",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mailjet-old-react-components",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.99.99",
+          "100.0.0",
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4456",
+            "osv_published_at": "2022-06-20T20:11:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:42:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:42:53Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:08Z",
+    "source_published_at": "2022-06-20T20:11:08Z",
+    "observed_at": "2026-09-07T06:42:53Z",
+    "ingested_at": "2026-09-07T06:42:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:20:26Z",
+    "ledger_committed_at": "2026-09-07T11:20:26Z"
   }
 ]
