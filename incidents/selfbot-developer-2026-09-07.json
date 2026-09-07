@@ -1,0 +1,37 @@
+{
+  "id": "selfbot-developer-2026-09-07",
+  "display_name": "selfbot-developer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "selfbot-developer",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5999",
+          "osv_published_at": "2022-09-08T07:03:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:44:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:44:08Z",
+  "osv_earliest_published_at": "2022-09-08T07:03:48Z",
+  "source_published_at": "2022-09-08T07:03:48Z",
+  "observed_at": "2026-09-07T08:44:08Z",
+  "ingested_at": "2026-09-07T08:44:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:00:09Z",
+  "ledger_committed_at": "2026-09-07T16:00:09Z"
+}
