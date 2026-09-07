@@ -422195,5 +422195,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:30:15Z",
     "ledger_committed_at": "2026-09-07T07:30:15Z"
+  },
+  {
+    "id": "genesys-frontend-facade-2026-09-07",
+    "display_name": "genesys-frontend-facade",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "genesys-frontend-facade",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.865",
+          "1.763.0",
+          "2.764.0",
+          "3.765.0",
+          "4.766.0",
+          "5.767.0",
+          "6.768.0",
+          "7.769.0",
+          "8.770.0",
+          "963.771.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3337",
+            "osv_published_at": "2022-06-20T20:13:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:16:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:16:12Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:09Z",
+    "source_published_at": "2022-06-20T20:13:09Z",
+    "observed_at": "2026-09-07T05:16:12Z",
+    "ingested_at": "2026-09-07T05:16:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:30:24Z",
+    "ledger_committed_at": "2026-09-07T07:30:24Z"
   }
 ]
