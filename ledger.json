@@ -638217,5 +638217,57 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:57:51Z",
     "ledger_committed_at": "2026-09-07T19:57:51Z"
+  },
+  {
+    "id": "xenolith-2026-09-07",
+    "display_name": "xenolith",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "xenolith",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.12",
+          "0.0.13",
+          "0.1.14",
+          "1.0.11",
+          "1.0.12",
+          "1.0.13",
+          "1.0.14",
+          "1.689.12",
+          "1.855.13",
+          "1.855.14",
+          "2.856.13",
+          "2.856.14",
+          "3.856.13",
+          "3.857.14",
+          "4.856.13",
+          "4.858.14"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7271",
+            "osv_published_at": "2022-06-20T20:09:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:15:45Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:15:45Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:40Z",
+    "source_published_at": "2022-06-20T20:09:40Z",
+    "observed_at": "2026-09-07T11:15:45Z",
+    "ingested_at": "2026-09-07T11:15:45Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:58:00Z",
+    "ledger_committed_at": "2026-09-07T19:58:00Z"
   }
 ]
