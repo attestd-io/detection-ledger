@@ -682174,5 +682174,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:54:05Z",
     "ledger_committed_at": "2026-09-07T22:54:05Z"
+  },
+  {
+    "id": "lagra-2026-09-07",
+    "display_name": "lagra",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lagra",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-562",
+            "osv_published_at": "2023-01-18T02:38:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:58:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:58:05Z",
+    "osv_earliest_published_at": "2023-01-18T02:38:15Z",
+    "source_published_at": "2023-01-18T02:38:15Z",
+    "observed_at": "2026-09-07T12:58:05Z",
+    "ingested_at": "2026-09-07T12:58:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:54:15Z",
+    "ledger_committed_at": "2026-09-07T22:54:15Z"
   }
 ]
