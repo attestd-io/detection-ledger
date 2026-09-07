@@ -1,0 +1,37 @@
+{
+  "id": "node-bbael-2026-09-07",
+  "display_name": "node-bbael",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "node-bbael",
+      "ecosystem": "npm",
+      "versions": [
+        "8.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4877",
+          "osv_published_at": "2022-08-19T03:55:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:02:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:02:10Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:22Z",
+  "source_published_at": "2022-08-19T03:55:22Z",
+  "observed_at": "2026-09-07T07:02:10Z",
+  "ingested_at": "2026-09-07T07:02:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:31:41Z",
+  "ledger_committed_at": "2026-09-07T12:31:41Z"
+}
