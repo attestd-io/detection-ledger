@@ -1,0 +1,59 @@
+{
+  "id": "ricos-docs-2026-09-07",
+  "display_name": "ricos-docs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ricos-docs",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.1",
+        "0.2.2",
+        "0.3.3",
+        "0.4.4",
+        "0.5.5",
+        "0.959.942",
+        "1.95.942",
+        "1.979.942",
+        "10.9.47",
+        "2.979.942",
+        "3.5.5",
+        "3.679.642",
+        "3.779.742",
+        "3.879.842",
+        "3.979.942",
+        "4.48.1",
+        "5.9.9",
+        "6.9.9",
+        "7.9.9",
+        "8.48.1",
+        "8.49.2",
+        "8.9.9",
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5790",
+          "osv_published_at": "2022-06-20T20:23:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:30:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:30:06Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:41Z",
+  "source_published_at": "2022-06-20T20:23:41Z",
+  "observed_at": "2026-09-07T08:30:06Z",
+  "ingested_at": "2026-09-07T08:30:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T15:22:12Z",
+  "ledger_committed_at": "2026-09-07T15:22:12Z"
+}
