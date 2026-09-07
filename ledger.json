@@ -622345,5 +622345,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:06:47Z",
     "ledger_committed_at": "2026-09-07T19:06:47Z"
+  },
+  {
+    "id": "orbitron-cli-2026-09-07",
+    "display_name": "orbitron-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "orbitron-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2026-16012",
+            "osv_published_at": "2026-09-04T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:51:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:51:05Z",
+    "osv_earliest_published_at": "2026-09-04T00:00:00Z",
+    "source_published_at": "2026-09-04T00:00:00Z",
+    "observed_at": "2026-09-07T10:51:05Z",
+    "ingested_at": "2026-09-07T10:51:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:06:57Z",
+    "ledger_committed_at": "2026-09-07T19:06:57Z"
   }
 ]
