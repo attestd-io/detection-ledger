@@ -494361,5 +494361,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:25:55Z",
     "ledger_committed_at": "2026-09-07T12:25:55Z"
+  },
+  {
+    "id": "ng-focus-next-2026-09-07",
+    "display_name": "ng-focus-next",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ng-focus-next",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.4",
+          "0.0.1-security.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4844",
+            "osv_published_at": "2022-06-20T20:17:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:55:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:55:09Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:32Z",
+    "source_published_at": "2022-06-20T20:17:32Z",
+    "observed_at": "2026-09-07T06:55:09Z",
+    "ingested_at": "2026-09-07T06:55:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:26:04Z",
+    "ledger_committed_at": "2026-09-07T12:26:04Z"
   }
 ]
