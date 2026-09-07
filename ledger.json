@@ -620710,5 +620710,53 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:59:47Z",
     "ledger_committed_at": "2026-09-07T18:59:47Z"
+  },
+  {
+    "id": "unpkg-semver-pedops-logger-2026-09-07",
+    "display_name": "@unpkg-semver/pedops-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@unpkg-semver/pedops-logger",
+        "ecosystem": "npm",
+        "versions": [
+          "0.999.999",
+          "1.999.999",
+          "2.999.999",
+          "3.999.999",
+          "4.999.999",
+          "5.7.9",
+          "5.9.9",
+          "5.9.99",
+          "5.9.999",
+          "5.99.9",
+          "5.99.99",
+          "5.999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-696",
+            "osv_published_at": "2022-06-20T20:21:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:48:31Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:48:31Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:28Z",
+    "source_published_at": "2022-06-20T20:21:28Z",
+    "observed_at": "2026-09-07T10:48:31Z",
+    "ingested_at": "2026-09-07T10:48:31Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:59:57Z",
+    "ledger_committed_at": "2026-09-07T18:59:57Z"
   }
 ]
