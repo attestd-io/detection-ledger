@@ -681020,5 +681020,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:48:54Z",
     "ledger_committed_at": "2026-09-07T22:48:54Z"
+  },
+  {
+    "id": "ing-orange-lu-luxtrust-oaw-mobile-authentication-2026-09-07",
+    "display_name": "ing-orange-lu-luxtrust-oaw-mobile-authentication",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ing-orange-lu-luxtrust-oaw-mobile-authentication",
+        "ecosystem": "npm",
+        "versions": [
+          "17.4.5",
+          "35.4.5",
+          "35.9.5",
+          "36.9.5",
+          "37.9.5",
+          "38.9.5",
+          "69.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-527",
+            "osv_published_at": "2023-05-01T02:25:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:57:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:57:29Z",
+    "osv_earliest_published_at": "2023-05-01T02:25:39Z",
+    "source_published_at": "2023-05-01T02:25:39Z",
+    "observed_at": "2026-09-07T12:57:29Z",
+    "ingested_at": "2026-09-07T12:57:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:49:03Z",
+    "ledger_committed_at": "2026-09-07T22:49:03Z"
   }
 ]
