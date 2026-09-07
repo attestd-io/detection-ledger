@@ -446473,5 +446473,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T09:04:26Z",
     "ledger_committed_at": "2026-09-07T09:04:26Z"
+  },
+  {
+    "id": "ing-feat-view-cancel-payments-2026-09-07",
+    "display_name": "ing-feat-view-cancel-payments",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ing-feat-view-cancel-payments",
+        "ecosystem": "npm",
+        "versions": [
+          "1.99.99",
+          "2.99.99",
+          "7.99.99",
+          "8.99.99",
+          "9.99.99",
+          "99.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3821",
+            "osv_published_at": "2022-06-20T20:10:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:49:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:49:27Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:39Z",
+    "source_published_at": "2022-06-20T20:10:39Z",
+    "observed_at": "2026-09-07T05:49:27Z",
+    "ingested_at": "2026-09-07T05:49:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T09:04:36Z",
+    "ledger_committed_at": "2026-09-07T09:04:36Z"
   }
 ]
