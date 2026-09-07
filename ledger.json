@@ -613288,5 +613288,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:27:48Z",
     "ledger_committed_at": "2026-09-07T18:27:48Z"
+  },
+  {
+    "id": "universaldecoder-2026-09-07",
+    "display_name": "universaldecoder",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "universaldecoder",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6793",
+            "osv_published_at": "2022-06-20T20:10:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:38:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:38:06Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:19Z",
+    "source_published_at": "2022-06-20T20:10:19Z",
+    "observed_at": "2026-09-07T10:38:06Z",
+    "ingested_at": "2026-09-07T10:38:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:27:58Z",
+    "ledger_committed_at": "2026-09-07T18:27:58Z"
   }
 ]
