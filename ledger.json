@@ -609179,5 +609179,38 @@
     "advisory_url": "https://registry.npmjs.org/kuber-client",
     "ledger_commit_at": "2026-09-07T18:10:25Z",
     "ledger_committed_at": "2026-09-07T18:10:25Z"
+  },
+  {
+    "id": "libcardano-2026-09-07",
+    "display_name": "libcardano",
+    "campaign": "trp-gims-usi-cip",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "libcardano",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1",
+          "0.1.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:32:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:32:56Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T10:32:56Z",
+    "ingested_at": "2026-09-07T10:32:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/libcardano",
+    "ledger_commit_at": "2026-09-07T18:10:35Z",
+    "ledger_committed_at": "2026-09-07T18:10:35Z"
   }
 ]
