@@ -1,0 +1,45 @@
+{
+  "id": "opbox-web-browser-2026-09-07",
+  "display_name": "opbox-web-browser",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "opbox-web-browser",
+      "ecosystem": "npm",
+      "versions": [
+        "99.10.10",
+        "99.10.11",
+        "99.10.12",
+        "99.10.13",
+        "99.10.14",
+        "99.10.15",
+        "99.10.16",
+        "99.10.17",
+        "99.10.18"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5089",
+          "osv_published_at": "2022-06-20T20:19:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:43:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:43:13Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:16Z",
+  "source_published_at": "2022-06-20T20:19:16Z",
+  "observed_at": "2026-09-07T07:43:13Z",
+  "ingested_at": "2026-09-07T07:43:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:14:23Z",
+  "ledger_committed_at": "2026-09-07T13:14:23Z"
+}
