@@ -1,0 +1,41 @@
+{
+  "id": "lenta-pulse-mail-ru-2026-09-07",
+  "display_name": "lenta_pulse_mail_ru",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "lenta_pulse_mail_ru",
+      "ecosystem": "npm",
+      "versions": [
+        "1.559.0",
+        "100.0.0",
+        "101.0.0",
+        "102.0.0",
+        "2.559.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4284",
+          "osv_published_at": "2022-06-20T20:26:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:20:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:20:15Z",
+  "osv_earliest_published_at": "2022-06-20T20:26:19Z",
+  "source_published_at": "2022-06-20T20:26:19Z",
+  "observed_at": "2026-09-07T06:20:15Z",
+  "ingested_at": "2026-09-07T06:20:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T10:51:18Z",
+  "ledger_committed_at": "2026-09-07T10:51:18Z"
+}
