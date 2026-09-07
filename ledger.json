@@ -425794,5 +425794,40 @@
     "advisory_url": "https://registry.npmjs.org/%40dudousxd%2Fnestjs-catalog-pipeline",
     "ledger_commit_at": "2026-09-07T07:44:08Z",
     "ledger_committed_at": "2026-09-07T07:44:08Z"
+  },
+  {
+    "id": "followthecode-cli-2026-09-07",
+    "display_name": "@followthecode/cli",
+    "campaign": "ibm-pipeline",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@followthecode/cli",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0",
+          "2.0.0-beta",
+          "2.0.3",
+          "2.3.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:19:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:19:29Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:19:29Z",
+    "ingested_at": "2026-09-07T05:19:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40followthecode%2Fcli",
+    "ledger_commit_at": "2026-09-07T07:44:16Z",
+    "ledger_committed_at": "2026-09-07T07:44:16Z"
   }
 ]
