@@ -1,0 +1,46 @@
+{
+  "id": "yandex-font-2026-09-07",
+  "display_name": "yandex-font",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "yandex-font",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.865",
+        "1.865.0",
+        "2.866.0",
+        "3.867.0",
+        "4.868.0",
+        "5.869.0",
+        "6.870.0",
+        "7.871.0",
+        "8.872.0",
+        "963.872.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7320",
+          "osv_published_at": "2022-06-20T20:13:31Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:17:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:17:28Z",
+  "osv_earliest_published_at": "2022-06-20T20:13:31Z",
+  "source_published_at": "2022-06-20T20:13:31Z",
+  "observed_at": "2026-09-07T11:17:28Z",
+  "ingested_at": "2026-09-07T11:17:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:06:50Z",
+  "ledger_committed_at": "2026-09-07T20:06:50Z"
+}
