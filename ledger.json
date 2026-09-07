@@ -548864,5 +548864,38 @@
     "advisory_url": "https://registry.npmjs.org/%40univerjs%2Fcore",
     "ledger_commit_at": "2026-09-07T15:30:27Z",
     "ledger_committed_at": "2026-09-07T15:30:27Z"
+  },
+  {
+    "id": "patchright-core-2026-09-07",
+    "display_name": "patchright-core",
+    "campaign": "sfcc-core",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "patchright-core",
+        "ecosystem": "npm",
+        "versions": [
+          "1.48.0",
+          "1.49.0-next"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:34:36Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:34:36Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T08:34:36Z",
+    "ingested_at": "2026-09-07T08:34:36Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/patchright-core",
+    "ledger_commit_at": "2026-09-07T15:30:37Z",
+    "ledger_committed_at": "2026-09-07T15:30:37Z"
   }
 ]
