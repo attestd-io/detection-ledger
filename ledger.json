@@ -436127,5 +436127,47 @@
     "advisory_url": "https://registry.npmjs.org/react-timing-hooks",
     "ledger_commit_at": "2026-09-07T08:20:22Z",
     "ledger_committed_at": "2026-09-07T08:20:22Z"
+  },
+  {
+    "id": "slack-blocks-to-jsx-2026-09-07",
+    "display_name": "slack-blocks-to-jsx",
+    "campaign": "instant-api-hooks",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "slack-blocks-to-jsx",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9.0",
+          "1.0.0",
+          "1.0.0-alpha.0",
+          "1.0.0-alpha.1",
+          "1.0.0-alpha.2",
+          "1.0.0-alpha.3",
+          "1.0.0-alpha.4",
+          "1.0.0-alpha.5",
+          "1.0.0-alpha.6",
+          "1.0.0-alpha.7",
+          "1.0.0-alpha.8"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:32:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:32:05Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:32:05Z",
+    "ingested_at": "2026-09-07T05:32:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/slack-blocks-to-jsx",
+    "ledger_commit_at": "2026-09-07T08:20:31Z",
+    "ledger_committed_at": "2026-09-07T08:20:31Z"
   }
 ]
