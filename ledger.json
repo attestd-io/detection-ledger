@@ -560361,5 +560361,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:18:52Z",
     "ledger_committed_at": "2026-09-07T16:18:52Z"
+  },
+  {
+    "id": "shoppedemo-2026-09-07",
+    "display_name": "shoppedemo",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "shoppedemo",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6108",
+            "osv_published_at": "2022-06-22T10:12:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:07:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:07:03Z",
+    "osv_earliest_published_at": "2022-06-22T10:12:36Z",
+    "source_published_at": "2022-06-22T10:12:36Z",
+    "observed_at": "2026-09-07T09:07:03Z",
+    "ingested_at": "2026-09-07T09:07:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:19:04Z",
+    "ledger_committed_at": "2026-09-07T16:19:04Z"
   }
 ]
