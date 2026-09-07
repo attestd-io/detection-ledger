@@ -525633,5 +525633,60 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:54:14Z",
     "ledger_committed_at": "2026-09-07T13:54:14Z"
+  },
+  {
+    "id": "phone-helpers-2026-09-07",
+    "display_name": "phone_helpers",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "phone_helpers",
+        "ecosystem": "npm",
+        "versions": [
+          "1.837.371",
+          "10.880.594",
+          "2.739.483",
+          "20.782.382",
+          "3.754.600",
+          "30.878.653",
+          "4.747.416",
+          "40.754.671",
+          "5.936.425",
+          "50.938.404",
+          "6.793.439",
+          "60.741.537",
+          "7.901.578",
+          "70.833.645",
+          "8.700.406",
+          "80.730.489",
+          "9.724.668",
+          "90.894.333",
+          "9998.944.659"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5325",
+            "osv_published_at": "2022-06-20T20:15:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:52:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:52:17Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:30Z",
+    "source_published_at": "2022-06-20T20:15:30Z",
+    "observed_at": "2026-09-07T07:52:17Z",
+    "ingested_at": "2026-09-07T07:52:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:54:22Z",
+    "ledger_committed_at": "2026-09-07T13:54:22Z"
   }
 ]
