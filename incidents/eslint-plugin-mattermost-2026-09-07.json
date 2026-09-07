@@ -1,0 +1,37 @@
+{
+  "id": "eslint-plugin-mattermost-2026-09-07",
+  "display_name": "eslint-plugin-mattermost",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eslint-plugin-mattermost",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2820",
+          "osv_published_at": "2022-06-20T20:26:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:00:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:00:39Z",
+  "osv_earliest_published_at": "2022-06-20T20:26:02Z",
+  "source_published_at": "2022-06-20T20:26:02Z",
+  "observed_at": "2026-09-07T05:00:39Z",
+  "ingested_at": "2026-09-07T05:00:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:08:47Z",
+  "ledger_committed_at": "2026-09-07T06:08:47Z"
+}
