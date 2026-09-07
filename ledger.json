@@ -606974,5 +606974,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:00:31Z",
     "ledger_committed_at": "2026-09-07T18:00:31Z"
+  },
+  {
+    "id": "trusona-2026-09-07",
+    "display_name": "trusona",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "trusona",
+        "ecosystem": "npm",
+        "versions": [
+          "99.10.1",
+          "99.10.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6658",
+            "osv_published_at": "2022-06-20T20:19:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:16:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:16:24Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:16Z",
+    "source_published_at": "2022-06-20T20:19:16Z",
+    "observed_at": "2026-09-07T10:16:24Z",
+    "ingested_at": "2026-09-07T10:16:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:00:40Z",
+    "ledger_committed_at": "2026-09-07T18:00:40Z"
   }
 ]
