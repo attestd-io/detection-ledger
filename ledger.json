@@ -556966,5 +556966,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:04:36Z",
     "ledger_committed_at": "2026-09-07T16:04:36Z"
+  },
+  {
+    "id": "serverless-infrastructure-2026-09-07",
+    "display_name": "serverless-infrastructure",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "serverless-infrastructure",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.8",
+          "0.0.1-security.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6023",
+            "osv_published_at": "2022-06-20T20:13:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:44:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:44:34Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:33Z",
+    "source_published_at": "2022-06-20T20:13:33Z",
+    "observed_at": "2026-09-07T08:44:34Z",
+    "ingested_at": "2026-09-07T08:44:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:04:46Z",
+    "ledger_committed_at": "2026-09-07T16:04:46Z"
   }
 ]
