@@ -370929,5 +370929,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:38:22Z",
     "ledger_committed_at": "2026-09-07T04:38:22Z"
+  },
+  {
+    "id": "cs-connection-hub-2026-09-07",
+    "display_name": "cs-connection-hub",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cs-connection-hub",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.0-local"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2260",
+            "osv_published_at": "2022-06-13T05:46:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:10:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:10:38Z",
+    "osv_earliest_published_at": "2022-06-13T05:46:00Z",
+    "source_published_at": "2022-06-13T05:46:00Z",
+    "observed_at": "2026-09-07T04:10:38Z",
+    "ingested_at": "2026-09-07T04:10:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:38:30Z",
+    "ledger_committed_at": "2026-09-07T04:38:30Z"
   }
 ]
