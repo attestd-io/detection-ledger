@@ -419652,5 +419652,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:20:59Z",
     "ledger_committed_at": "2026-09-07T07:20:59Z"
+  },
+  {
+    "id": "gatsby-plugin-added-by-parent-theme-2026-09-07",
+    "display_name": "gatsby-plugin-added-by-parent-theme",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gatsby-plugin-added-by-parent-theme",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3279",
+            "osv_published_at": "2022-05-16T06:47:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:14:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:14:55Z",
+    "osv_earliest_published_at": "2022-05-16T06:47:08Z",
+    "source_published_at": "2022-05-16T06:47:08Z",
+    "observed_at": "2026-09-07T05:14:55Z",
+    "ingested_at": "2026-09-07T05:14:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:21:11Z",
+    "ledger_committed_at": "2026-09-07T07:21:11Z"
   }
 ]
