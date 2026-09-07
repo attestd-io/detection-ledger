@@ -410786,5 +410786,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:47:44Z",
     "ledger_committed_at": "2026-09-07T06:47:44Z"
+  },
+  {
+    "id": "flake8-holvi-2026-09-07",
+    "display_name": "flake8-holvi",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "flake8-holvi",
+        "ecosystem": "npm",
+        "versions": [
+          "15.0.1",
+          "9.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3067",
+            "osv_published_at": "2022-05-31T13:36:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:10:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:10:48Z",
+    "osv_earliest_published_at": "2022-05-31T13:36:23Z",
+    "source_published_at": "2022-05-31T13:36:23Z",
+    "observed_at": "2026-09-07T05:10:48Z",
+    "ingested_at": "2026-09-07T05:10:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:47:51Z",
+    "ledger_committed_at": "2026-09-07T06:47:51Z"
   }
 ]
