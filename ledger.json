@@ -558881,5 +558881,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:12:47Z",
     "ledger_committed_at": "2026-09-07T16:12:47Z"
+  },
+  {
+    "id": "spinak-iac-lib-2026-09-07",
+    "display_name": "@spinak/iac-lib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@spinak/iac-lib",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-607",
+            "osv_published_at": "2022-06-09T08:52:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:45:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:45:20Z",
+    "osv_earliest_published_at": "2022-06-09T08:52:16Z",
+    "source_published_at": "2022-06-09T08:52:16Z",
+    "observed_at": "2026-09-07T08:45:20Z",
+    "ingested_at": "2026-09-07T08:45:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:12:58Z",
+    "ledger_committed_at": "2026-09-07T16:12:58Z"
   }
 ]
