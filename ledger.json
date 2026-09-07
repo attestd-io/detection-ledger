@@ -388694,5 +388694,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:31:37Z",
     "ledger_committed_at": "2026-09-07T05:31:37Z"
+  },
+  {
+    "id": "dosdep-2026-09-07",
+    "display_name": "dosdep",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dosdep",
+        "ecosystem": "npm",
+        "versions": [
+          "999.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2574",
+            "osv_published_at": "2022-06-20T20:13:21Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:50:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:50:09Z",
+    "osv_earliest_published_at": "2022-06-20T20:13:21Z",
+    "source_published_at": "2022-06-20T20:13:21Z",
+    "observed_at": "2026-09-07T04:50:09Z",
+    "ingested_at": "2026-09-07T04:50:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:31:45Z",
+    "ledger_committed_at": "2026-09-07T05:31:45Z"
   }
 ]
