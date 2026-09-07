@@ -480375,5 +480375,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T11:31:49Z",
     "ledger_committed_at": "2026-09-07T11:31:49Z"
+  },
+  {
+    "id": "maven-compiler-plugin-2026-09-07",
+    "display_name": "maven-compiler-plugin",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "maven-compiler-plugin",
+        "ecosystem": "npm",
+        "versions": [
+          "69.69.69"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4508",
+            "osv_published_at": "2022-10-24T04:21:39Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:45:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:45:34Z",
+    "osv_earliest_published_at": "2022-10-24T04:21:39Z",
+    "source_published_at": "2022-10-24T04:21:39Z",
+    "observed_at": "2026-09-07T06:45:34Z",
+    "ingested_at": "2026-09-07T06:45:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T11:31:58Z",
+    "ledger_committed_at": "2026-09-07T11:31:58Z"
   }
 ]
