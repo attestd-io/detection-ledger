@@ -583853,5 +583853,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:26:02Z",
     "ledger_committed_at": "2026-09-07T17:26:02Z"
+  },
+  {
+    "id": "tazrim-2026-09-07",
+    "display_name": "tazrim",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tazrim",
+        "ecosystem": "npm",
+        "versions": [
+          "8.2.6",
+          "8.2.7",
+          "8.2.8",
+          "8.2.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6424",
+            "osv_published_at": "2022-10-21T05:28:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:44:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:44:23Z",
+    "osv_earliest_published_at": "2022-10-21T05:28:09Z",
+    "source_published_at": "2022-10-21T05:28:09Z",
+    "observed_at": "2026-09-07T09:44:23Z",
+    "ingested_at": "2026-09-07T09:44:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:26:12Z",
+    "ledger_committed_at": "2026-09-07T17:26:12Z"
   }
 ]
