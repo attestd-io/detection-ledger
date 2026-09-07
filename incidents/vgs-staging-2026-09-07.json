@@ -1,0 +1,40 @@
+{
+  "id": "vgs-staging-2026-09-07",
+  "display_name": "vgs-staging",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vgs-staging",
+      "ecosystem": "npm",
+      "versions": [
+        "0.99.7",
+        "9.92.1",
+        "99.4.5",
+        "99.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6912",
+          "osv_published_at": "2022-06-20T20:14:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:47:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:47:27Z",
+  "osv_earliest_published_at": "2022-06-20T20:14:18Z",
+  "source_published_at": "2022-06-20T20:14:18Z",
+  "observed_at": "2026-09-07T10:47:27Z",
+  "ingested_at": "2026-09-07T10:47:27Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:51:54Z",
+  "ledger_committed_at": "2026-09-07T18:51:54Z"
+}
