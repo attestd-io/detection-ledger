@@ -488091,5 +488091,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:02:30Z",
     "ledger_committed_at": "2026-09-07T12:02:30Z"
+  },
+  {
+    "id": "mrg-api-encryptor-2026-09-07",
+    "display_name": "mrg-api-encryptor",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mrg-api-encryptor",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.963",
+          "1.862.2",
+          "2.762.2",
+          "3.941.2",
+          "4.949.2",
+          "5.949.2",
+          "6.849.2",
+          "7.899.2",
+          "8.923.2",
+          "932.923.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4706",
+            "osv_published_at": "2022-06-20T20:19:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:49:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:49:12Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:05Z",
+    "source_published_at": "2022-06-20T20:19:05Z",
+    "observed_at": "2026-09-07T06:49:12Z",
+    "ingested_at": "2026-09-07T06:49:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:02:40Z",
+    "ledger_committed_at": "2026-09-07T12:02:40Z"
   }
 ]
