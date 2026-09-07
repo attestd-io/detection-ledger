@@ -1,0 +1,40 @@
+{
+  "id": "rokt-ux-helper-web-2026-09-07",
+  "display_name": "@rokt/ux-helper-web",
+  "campaign": "gs-ux-uitoolkit-react",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@rokt/ux-helper-web",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.4",
+        "0.2.0",
+        "1.0.0-rc.2",
+        "1.0.1-beta.0",
+        "1.0.1-beta.1",
+        "1.0.4",
+        "1.1.2-rc.16",
+        "1.1.2-rc.19",
+        "1.1.2-rc.20"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:08:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:08:10Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T05:08:10Z",
+  "ingested_at": "2026-09-07T05:08:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40rokt%2Fux-helper-web",
+  "ledger_commit_at": "2026-09-07T06:39:19Z",
+  "ledger_committed_at": "2026-09-07T06:39:19Z"
+}
