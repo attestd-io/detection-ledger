@@ -541712,5 +541712,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:00:08Z",
     "ledger_committed_at": "2026-09-07T15:00:08Z"
+  },
+  {
+    "id": "react-select-v1-deprecated-2026-09-07",
+    "display_name": "react-select-v1-deprecated",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-select-v1-deprecated",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5672",
+            "osv_published_at": "2022-06-20T20:09:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:18:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:18:44Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:12Z",
+    "source_published_at": "2022-06-20T20:09:12Z",
+    "observed_at": "2026-09-07T08:18:44Z",
+    "ingested_at": "2026-09-07T08:18:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:00:18Z",
+    "ledger_committed_at": "2026-09-07T15:00:18Z"
   }
 ]
