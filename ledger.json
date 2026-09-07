@@ -396577,5 +396577,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:58:29Z",
     "ledger_committed_at": "2026-09-07T05:58:29Z"
+  },
+  {
+    "id": "enzyme-kovan-2026-09-07",
+    "display_name": "enzyme-kovan",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "enzyme-kovan",
+        "ecosystem": "npm",
+        "versions": [
+          "10.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2758",
+            "osv_published_at": "2022-06-20T20:24:05Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:57:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:57:06Z",
+    "osv_earliest_published_at": "2022-06-20T20:24:05Z",
+    "source_published_at": "2022-06-20T20:24:05Z",
+    "observed_at": "2026-09-07T04:57:06Z",
+    "ingested_at": "2026-09-07T04:57:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:58:38Z",
+    "ledger_committed_at": "2026-09-07T05:58:38Z"
   }
 ]
