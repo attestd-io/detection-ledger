@@ -648767,5 +648767,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:42:03Z",
     "ledger_committed_at": "2026-09-07T20:42:03Z"
+  },
+  {
+    "id": "a11y-speak-2026-09-07",
+    "display_name": "a11y-speak",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "a11y-speak",
+        "ecosystem": "npm",
+        "versions": [
+          "99.10.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-799",
+            "osv_published_at": "2022-06-20T20:18:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:52:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:52:30Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:07Z",
+    "source_published_at": "2022-06-20T20:18:07Z",
+    "observed_at": "2026-09-07T11:52:30Z",
+    "ingested_at": "2026-09-07T11:52:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:42:21Z",
+    "ledger_committed_at": "2026-09-07T20:42:21Z"
   }
 ]
