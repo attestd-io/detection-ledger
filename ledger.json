@@ -488309,5 +488309,60 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:03:17Z",
     "ledger_committed_at": "2026-09-07T12:03:17Z"
+  },
+  {
+    "id": "mrg-nano-xhr-2026-09-07",
+    "display_name": "mrg-nano-xhr",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mrg-nano-xhr",
+        "ecosystem": "npm",
+        "versions": [
+          "1.988.591",
+          "10.724.410",
+          "2.780.409",
+          "20.764.459",
+          "3.793.554",
+          "30.718.510",
+          "4.805.338",
+          "40.945.407",
+          "5.806.436",
+          "50.870.412",
+          "6.950.679",
+          "60.998.612",
+          "7.711.698",
+          "70.815.628",
+          "8.770.390",
+          "80.869.547",
+          "9.713.648",
+          "90.988.328",
+          "9998.824.591"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4711",
+            "osv_published_at": "2022-06-20T20:19:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:49:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:49:23Z",
+    "osv_earliest_published_at": "2022-06-20T20:19:14Z",
+    "source_published_at": "2022-06-20T20:19:14Z",
+    "observed_at": "2026-09-07T06:49:23Z",
+    "ingested_at": "2026-09-07T06:49:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:03:27Z",
+    "ledger_committed_at": "2026-09-07T12:03:27Z"
   }
 ]
