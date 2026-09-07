@@ -533368,5 +533368,59 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:24:40Z",
     "ledger_committed_at": "2026-09-07T14:24:40Z"
+  },
+  {
+    "id": "prova-admin-2026-09-07",
+    "display_name": "prova-admin",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "prova-admin",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "0.0.2",
+          "0.0.99",
+          "0.5.99",
+          "0.9.99",
+          "0.92.91",
+          "0.99.100",
+          "0.99.99",
+          "1.0.99",
+          "1.5.99",
+          "1.9.0",
+          "1.90.93",
+          "1.99.99",
+          "2.0.99",
+          "2.5.99",
+          "2.99.99",
+          "3.0.99",
+          "3.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5494",
+            "osv_published_at": "2022-12-29T04:26:58Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:10:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:10:29Z",
+    "osv_earliest_published_at": "2022-12-29T04:26:58Z",
+    "source_published_at": "2022-12-29T04:26:58Z",
+    "observed_at": "2026-09-07T08:10:29Z",
+    "ingested_at": "2026-09-07T08:10:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:24:49Z",
+    "ledger_committed_at": "2026-09-07T14:24:49Z"
   }
 ]
