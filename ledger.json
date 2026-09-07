@@ -399567,5 +399567,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:07:58Z",
     "ledger_committed_at": "2026-09-07T06:07:58Z"
+  },
+  {
+    "id": "eslint-plugin-ember-rules-twitch-2026-09-07",
+    "display_name": "eslint-plugin-ember-rules-twitch",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "eslint-plugin-ember-rules-twitch",
+        "ecosystem": "npm",
+        "versions": [
+          "0.99.99",
+          "1.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2814",
+            "osv_published_at": "2022-06-20T20:17:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:00:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:00:33Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:04Z",
+    "source_published_at": "2022-06-20T20:17:04Z",
+    "observed_at": "2026-09-07T05:00:33Z",
+    "ingested_at": "2026-09-07T05:00:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:08:06Z",
+    "ledger_committed_at": "2026-09-07T06:08:06Z"
   }
 ]
