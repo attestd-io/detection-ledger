@@ -1,0 +1,46 @@
+{
+  "id": "didi-sdk-2026-09-07",
+  "display_name": "didi-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "didi-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "1.752.0",
+        "2.753.0",
+        "3.755.0",
+        "4.756.0",
+        "5.757.0",
+        "6.758.0",
+        "7.760.0",
+        "8.760.0",
+        "982.760.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-2466",
+          "osv_published_at": "2022-06-20T20:15:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:42:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:42:55Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:15Z",
+  "source_published_at": "2022-06-20T20:15:15Z",
+  "observed_at": "2026-09-07T04:42:55Z",
+  "ingested_at": "2026-09-07T04:42:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T05:13:26Z",
+  "ledger_committed_at": "2026-09-07T05:13:26Z"
+}
