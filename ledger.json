@@ -501966,5 +501966,38 @@
     "advisory_url": "https://registry.npmjs.org/axios",
     "ledger_commit_at": "2026-09-07T12:49:36Z",
     "ledger_committed_at": "2026-09-07T12:49:36Z"
+  },
+  {
+    "id": "dc-polyfill-2026-09-07",
+    "display_name": "dc-polyfill",
+    "campaign": "partner-global-ui",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "dc-polyfill",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "1.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:19:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:19:04Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T07:19:04Z",
+    "ingested_at": "2026-09-07T07:19:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/dc-polyfill",
+    "ledger_commit_at": "2026-09-07T12:49:45Z",
+    "ledger_committed_at": "2026-09-07T12:49:45Z"
   }
 ]
