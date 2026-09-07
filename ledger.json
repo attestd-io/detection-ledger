@@ -623825,5 +623825,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:13:09Z",
     "ledger_committed_at": "2026-09-07T19:13:09Z"
+  },
+  {
+    "id": "wagtail-supertable-2026-09-07",
+    "display_name": "wagtail-supertable",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wagtail-supertable",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0",
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7033",
+            "osv_published_at": "2022-05-31T13:32:26Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:54:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:54:20Z",
+    "osv_earliest_published_at": "2022-05-31T13:32:26Z",
+    "source_published_at": "2022-05-31T13:32:26Z",
+    "observed_at": "2026-09-07T10:54:20Z",
+    "ingested_at": "2026-09-07T10:54:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:13:19Z",
+    "ledger_committed_at": "2026-09-07T19:13:19Z"
   }
 ]
