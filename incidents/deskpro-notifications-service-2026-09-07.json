@@ -1,0 +1,39 @@
+{
+  "id": "deskpro-notifications-service-2026-09-07",
+  "display_name": "deskpro-notifications-service",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "deskpro-notifications-service",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "2.0.0",
+        "69.2.22"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-246",
+          "osv_published_at": "2023-04-12T02:02:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:41:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:41:42Z",
+  "osv_earliest_published_at": "2023-04-12T02:02:36Z",
+  "source_published_at": "2023-04-12T02:02:36Z",
+  "observed_at": "2026-09-07T12:41:42Z",
+  "ingested_at": "2026-09-07T12:41:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:56:45Z",
+  "ledger_committed_at": "2026-09-07T21:56:45Z"
+}
