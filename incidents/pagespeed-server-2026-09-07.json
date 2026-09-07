@@ -1,0 +1,37 @@
+{
+  "id": "pagespeed-server-2026-09-07",
+  "display_name": "pagespeed-server",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "pagespeed-server",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5192",
+          "osv_published_at": "2022-06-20T07:27:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:48:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:48:00Z",
+  "osv_earliest_published_at": "2022-06-20T07:27:54Z",
+  "source_published_at": "2022-06-20T07:27:54Z",
+  "observed_at": "2026-09-07T07:48:00Z",
+  "ingested_at": "2026-09-07T07:48:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T13:31:25Z",
+  "ledger_committed_at": "2026-09-07T13:31:25Z"
+}
