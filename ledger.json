@@ -546251,5 +546251,42 @@
     "advisory_url": "https://registry.npmjs.org/viem",
     "ledger_commit_at": "2026-09-07T15:19:59Z",
     "ledger_committed_at": "2026-09-07T15:19:59Z"
+  },
+  {
+    "id": "rflktvuezgnypchw-2026-09-07",
+    "display_name": "rflktvuezgnypchw",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rflktvuezgnypchw",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.91"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5780",
+            "osv_published_at": "2022-07-11T20:20:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:22:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:22:33Z",
+    "osv_earliest_published_at": "2022-07-11T20:20:53Z",
+    "source_published_at": "2022-07-11T20:20:53Z",
+    "observed_at": "2026-09-07T08:22:33Z",
+    "ingested_at": "2026-09-07T08:22:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:20:10Z",
+    "ledger_committed_at": "2026-09-07T15:20:10Z"
   }
 ]
