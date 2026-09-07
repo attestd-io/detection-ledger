@@ -377634,5 +377634,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:52:38Z",
     "ledger_committed_at": "2026-09-07T04:52:38Z"
+  },
+  {
+    "id": "dapp-inter-2026-09-07",
+    "display_name": "dapp-inter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dapp-inter",
+        "ecosystem": "npm",
+        "versions": [
+          "19.0.7",
+          "19.0.8",
+          "7.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2326",
+            "osv_published_at": "2022-06-20T07:27:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:32:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:32:06Z",
+    "osv_earliest_published_at": "2022-06-20T07:27:57Z",
+    "source_published_at": "2022-06-20T07:27:57Z",
+    "observed_at": "2026-09-07T04:32:06Z",
+    "ingested_at": "2026-09-07T04:32:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:52:45Z",
+    "ledger_committed_at": "2026-09-07T04:52:45Z"
   }
 ]
