@@ -467581,5 +467581,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:41:41Z",
     "ledger_committed_at": "2026-09-07T10:41:41Z"
+  },
+  {
+    "id": "launchdarkly-2026-09-07",
+    "display_name": "launchdarkly",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "launchdarkly",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4259",
+            "osv_published_at": "2022-06-20T20:21:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:16:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:16:47Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:42Z",
+    "source_published_at": "2022-06-20T20:21:42Z",
+    "observed_at": "2026-09-07T06:16:47Z",
+    "ingested_at": "2026-09-07T06:16:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:41:49Z",
+    "ledger_committed_at": "2026-09-07T10:41:49Z"
   }
 ]
