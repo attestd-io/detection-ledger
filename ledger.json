@@ -648396,5 +648396,38 @@
     "advisory_url": "https://registry.npmjs.org/%40ng-web-apis%2Fgeolocation",
     "ledger_commit_at": "2026-09-07T20:40:27Z",
     "ledger_committed_at": "2026-09-07T20:40:27Z"
+  },
+  {
+    "id": "ng-web-apis-midi-2026-09-07",
+    "display_name": "@ng-web-apis/midi",
+    "campaign": "zeos-libs",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@ng-web-apis/midi",
+        "ecosystem": "npm",
+        "versions": [
+          "1.3.0",
+          "4.12.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:51:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:51:49Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T11:51:49Z",
+    "ingested_at": "2026-09-07T11:51:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40ng-web-apis%2Fmidi",
+    "ledger_commit_at": "2026-09-07T20:40:36Z",
+    "ledger_committed_at": "2026-09-07T20:40:36Z"
   }
 ]
