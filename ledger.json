@@ -665421,5 +665421,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:40:27Z",
     "ledger_committed_at": "2026-09-07T21:40:27Z"
+  },
+  {
+    "id": "lg-private-mongo-nav-2026-09-07",
+    "display_name": "@lg-private/mongo-nav",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@lg-private/mongo-nav",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "12.2.0",
+          "12.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1509",
+            "osv_published_at": "2023-08-21T03:54:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:32:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:32:50Z",
+    "osv_earliest_published_at": "2023-08-21T03:54:19Z",
+    "source_published_at": "2023-08-21T03:54:19Z",
+    "observed_at": "2026-09-07T12:32:50Z",
+    "ingested_at": "2026-09-07T12:32:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:40:37Z",
+    "ledger_committed_at": "2026-09-07T21:40:37Z"
   }
 ]
