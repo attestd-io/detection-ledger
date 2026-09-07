@@ -645297,5 +645297,49 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:25:30Z",
     "ledger_committed_at": "2026-09-07T20:25:30Z"
+  },
+  {
+    "id": "zomato-ui-2026-09-07",
+    "display_name": "zomato-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "zomato-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "100.0.1",
+          "101.0.1",
+          "102.0.1",
+          "99.0.0",
+          "99.0.1",
+          "99.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7411",
+            "osv_published_at": "2022-06-13T05:47:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:36:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:36:21Z",
+    "osv_earliest_published_at": "2022-06-13T05:47:59Z",
+    "source_published_at": "2022-06-13T05:47:59Z",
+    "observed_at": "2026-09-07T11:36:21Z",
+    "ingested_at": "2026-09-07T11:36:21Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:25:41Z",
+    "ledger_committed_at": "2026-09-07T20:25:41Z"
   }
 ]
