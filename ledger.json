@@ -675921,5 +675921,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:25:49Z",
     "ledger_committed_at": "2026-09-07T22:25:49Z"
+  },
+  {
+    "id": "fca-ivancotacte-2026-09-07",
+    "display_name": "fca-ivancotacte",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fca-ivancotacte",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-403",
+            "osv_published_at": "2023-07-27T23:42:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:51:02Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:51:02Z",
+    "osv_earliest_published_at": "2023-07-27T23:42:50Z",
+    "source_published_at": "2023-07-27T23:42:50Z",
+    "observed_at": "2026-09-07T12:51:02Z",
+    "ingested_at": "2026-09-07T12:51:02Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:25:59Z",
+    "ledger_committed_at": "2026-09-07T22:25:59Z"
   }
 ]
