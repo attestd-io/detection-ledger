@@ -389497,5 +389497,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:34:00Z",
     "ledger_committed_at": "2026-09-07T05:34:00Z"
+  },
+  {
+    "id": "dragox-utilities-2026-09-07",
+    "display_name": "dragox-utilities",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dragox-utilities",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2590",
+            "osv_published_at": "2022-05-31T12:53:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:50:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:50:44Z",
+    "osv_earliest_published_at": "2022-05-31T12:53:57Z",
+    "source_published_at": "2022-05-31T12:53:57Z",
+    "observed_at": "2026-09-07T04:50:44Z",
+    "ingested_at": "2026-09-07T04:50:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:34:08Z",
+    "ledger_committed_at": "2026-09-07T05:34:08Z"
   }
 ]
