@@ -1,0 +1,37 @@
+{
+  "id": "usaa-css-grids-2026-09-07",
+  "display_name": "usaa-css-grids",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "usaa-css-grids",
+      "ecosystem": "npm",
+      "versions": [
+        "999.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6835",
+          "osv_published_at": "2022-06-20T20:24:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:41:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:41:42Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:55Z",
+  "source_published_at": "2022-06-20T20:24:55Z",
+  "observed_at": "2026-09-07T10:41:42Z",
+  "ingested_at": "2026-09-07T10:41:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:38:32Z",
+  "ledger_committed_at": "2026-09-07T18:38:32Z"
+}
