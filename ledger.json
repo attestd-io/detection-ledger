@@ -488254,5 +488254,60 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:03:08Z",
     "ledger_committed_at": "2026-09-07T12:03:08Z"
+  },
+  {
+    "id": "mrg-message-broker-2026-09-07",
+    "display_name": "mrg-message-broker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "mrg-message-broker",
+        "ecosystem": "npm",
+        "versions": [
+          "1.776.668",
+          "10.751.350",
+          "2.796.440",
+          "20.878.432",
+          "3.757.417",
+          "30.996.618",
+          "4.857.404",
+          "40.906.345",
+          "5.975.625",
+          "50.980.358",
+          "6.916.519",
+          "60.975.433",
+          "7.866.393",
+          "70.982.507",
+          "8.799.620",
+          "80.870.687",
+          "9.931.635",
+          "90.997.557",
+          "9998.987.376"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4710",
+            "osv_published_at": "2022-06-20T20:15:59Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:49:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:49:20Z",
+    "osv_earliest_published_at": "2022-06-20T20:15:59Z",
+    "source_published_at": "2022-06-20T20:15:59Z",
+    "observed_at": "2026-09-07T06:49:20Z",
+    "ingested_at": "2026-09-07T06:49:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:03:17Z",
+    "ledger_committed_at": "2026-09-07T12:03:17Z"
   }
 ]
