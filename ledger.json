@@ -400138,5 +400138,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:10:04Z",
     "ledger_committed_at": "2026-09-07T06:10:04Z"
+  },
+  {
+    "id": "gco-angular-apollo-2026-09-07",
+    "display_name": "@gco-angular/apollo",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@gco-angular/apollo",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "100.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-283",
+            "osv_published_at": "2022-06-20T20:25:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:00:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:00:48Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:27Z",
+    "source_published_at": "2022-06-20T20:25:27Z",
+    "observed_at": "2026-09-07T05:00:48Z",
+    "ingested_at": "2026-09-07T05:00:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:10:12Z",
+    "ledger_committed_at": "2026-09-07T06:10:12Z"
   }
 ]
