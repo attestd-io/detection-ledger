@@ -1,0 +1,32 @@
+{
+  "id": "mafs-2026-09-07",
+  "display_name": "mafs",
+  "campaign": "miro-site",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "mafs",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-143bbca"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:52:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:52:55Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T12:52:55Z",
+  "ingested_at": "2026-09-07T12:52:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/mafs",
+  "ledger_commit_at": "2026-09-07T22:32:33Z",
+  "ledger_committed_at": "2026-09-07T22:32:33Z"
+}
