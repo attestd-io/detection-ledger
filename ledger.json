@@ -410824,5 +410824,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:47:51Z",
     "ledger_committed_at": "2026-09-07T06:47:51Z"
+  },
+  {
+    "id": "flame-vali-2026-09-07",
+    "display_name": "flame-vali",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "flame-vali",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.5",
+          "0.0.6",
+          "0.0.7",
+          "0.0.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3068",
+            "osv_published_at": "2022-06-15T12:01:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:10:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:10:50Z",
+    "osv_earliest_published_at": "2022-06-15T12:01:35Z",
+    "source_published_at": "2022-06-15T12:01:35Z",
+    "observed_at": "2026-09-07T05:10:50Z",
+    "ingested_at": "2026-09-07T05:10:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:47:59Z",
+    "ledger_committed_at": "2026-09-07T06:47:59Z"
   }
 ]
