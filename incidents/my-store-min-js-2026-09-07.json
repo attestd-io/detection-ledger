@@ -1,0 +1,37 @@
+{
+  "id": "my-store-min-js-2026-09-07",
+  "display_name": "my-store.min.js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "my-store.min.js",
+      "ecosystem": "npm",
+      "versions": [
+        "2.29.31"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4749",
+          "osv_published_at": "2022-06-20T20:23:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:50:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:50:45Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:08Z",
+  "source_published_at": "2022-06-20T20:23:08Z",
+  "observed_at": "2026-09-07T06:50:45Z",
+  "ingested_at": "2026-09-07T06:50:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:09:11Z",
+  "ledger_committed_at": "2026-09-07T12:09:11Z"
+}
