@@ -694531,5 +694531,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:47:55Z",
     "ledger_committed_at": "2026-09-07T23:47:55Z"
+  },
+  {
+    "id": "fca-bot-asuna-2026-09-07",
+    "display_name": "fca-bot-asuna",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fca-bot-asuna",
+        "ecosystem": "npm",
+        "versions": [
+          "1.10.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8233",
+            "osv_published_at": "2023-09-25T04:59:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:15:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:15:53Z",
+    "osv_earliest_published_at": "2023-09-25T04:59:28Z",
+    "source_published_at": "2023-09-25T04:59:28Z",
+    "observed_at": "2026-09-07T13:15:53Z",
+    "ingested_at": "2026-09-07T13:15:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:48:06Z",
+    "ledger_committed_at": "2026-09-07T23:48:06Z"
   }
 ]
