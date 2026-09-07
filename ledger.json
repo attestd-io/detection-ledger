@@ -579825,5 +579825,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:09:14Z",
     "ledger_committed_at": "2026-09-07T17:09:14Z"
+  },
+  {
+    "id": "stripe-connect-rocketrides-2026-09-07",
+    "display_name": "stripe-connect-rocketrides",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "stripe-connect-rocketrides",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "15.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6330",
+            "osv_published_at": "2022-05-31T13:36:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:38:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:38:16Z",
+    "osv_earliest_published_at": "2022-05-31T13:36:23Z",
+    "source_published_at": "2022-05-31T13:36:23Z",
+    "observed_at": "2026-09-07T09:38:16Z",
+    "ingested_at": "2026-09-07T09:38:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:09:25Z",
+    "ledger_committed_at": "2026-09-07T17:09:25Z"
   }
 ]
