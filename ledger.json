@@ -417916,5 +417916,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:14:18Z",
     "ledger_committed_at": "2026-09-07T07:14:18Z"
+  },
+  {
+    "id": "fstreamlalala-2026-09-07",
+    "display_name": "fstreamlalala",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fstreamlalala",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.12"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3236",
+            "osv_published_at": "2022-06-20T20:11:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:14:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:14:08Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:00Z",
+    "source_published_at": "2022-06-20T20:11:00Z",
+    "observed_at": "2026-09-07T05:14:08Z",
+    "ingested_at": "2026-09-07T05:14:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:14:27Z",
+    "ledger_committed_at": "2026-09-07T07:14:27Z"
   }
 ]
