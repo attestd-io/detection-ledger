@@ -1,0 +1,32 @@
+{
+  "id": "blockprotocol-service-2026-09-07",
+  "display_name": "@blockprotocol/service",
+  "campaign": "lxo-blocks",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@blockprotocol/service",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0-canary-1048-20230227023048"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:02:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:02:59Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T06:02:59Z",
+  "ingested_at": "2026-09-07T06:02:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40blockprotocol%2Fservice",
+  "ledger_commit_at": "2026-09-07T09:58:49Z",
+  "ledger_committed_at": "2026-09-07T09:58:49Z"
+}
