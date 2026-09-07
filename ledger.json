@@ -363560,5 +363560,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:15:13Z",
     "ledger_committed_at": "2026-09-07T04:15:13Z"
+  },
+  {
+    "id": "comment-watch-bot-2026-09-07",
+    "display_name": "comment-watch-bot",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "comment-watch-bot",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2118",
+            "osv_published_at": "2022-06-20T20:21:56Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:55:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:55:50Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:56Z",
+    "source_published_at": "2022-06-20T20:21:56Z",
+    "observed_at": "2026-09-07T03:55:50Z",
+    "ingested_at": "2026-09-07T03:55:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:15:21Z",
+    "ledger_committed_at": "2026-09-07T04:15:21Z"
   }
 ]
