@@ -1,0 +1,43 @@
+{
+  "id": "zmp-cli-dev-2026-09-07",
+  "display_name": "zmp-cli-dev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zmp-cli-dev",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0",
+        "2.1.1",
+        "2.1.2",
+        "2.2.1",
+        "2.2.5",
+        "3.0.1",
+        "99.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7406",
+          "osv_published_at": "2022-06-20T20:23:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:36:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:36:13Z",
+  "osv_earliest_published_at": "2022-06-20T20:23:56Z",
+  "source_published_at": "2022-06-20T20:23:56Z",
+  "observed_at": "2026-09-07T11:36:13Z",
+  "ingested_at": "2026-09-07T11:36:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:24:39Z",
+  "ledger_committed_at": "2026-09-07T20:24:39Z"
+}
