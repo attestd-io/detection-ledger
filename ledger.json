@@ -694681,5 +694681,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:48:37Z",
     "ledger_committed_at": "2026-09-07T23:48:37Z"
+  },
+  {
+    "id": "gradient-async-2026-09-07",
+    "display_name": "gradient-async",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "gradient-async",
+        "ecosystem": "npm",
+        "versions": [
+          "1.4.3",
+          "1.4.4",
+          "1.4.5",
+          "1.4.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8237",
+            "osv_published_at": "2023-09-25T05:55:30Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:15:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:15:57Z",
+    "osv_earliest_published_at": "2023-09-25T05:55:30Z",
+    "source_published_at": "2023-09-25T05:55:30Z",
+    "observed_at": "2026-09-07T13:15:57Z",
+    "ingested_at": "2026-09-07T13:15:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:48:46Z",
+    "ledger_committed_at": "2026-09-07T23:48:46Z"
   }
 ]
