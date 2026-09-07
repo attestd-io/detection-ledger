@@ -1,0 +1,38 @@
+{
+  "id": "growthy-sdk-web-pod-2026-09-07",
+  "display_name": "growthy_sdk_web_pod",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "growthy_sdk_web_pod",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.2",
+        "99.9.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3466",
+          "osv_published_at": "2022-06-20T20:21:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:24:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:24:07Z",
+  "osv_earliest_published_at": "2022-06-20T20:21:08Z",
+  "source_published_at": "2022-06-20T20:21:08Z",
+  "observed_at": "2026-09-07T05:24:07Z",
+  "ingested_at": "2026-09-07T05:24:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T07:53:38Z",
+  "ledger_committed_at": "2026-09-07T07:53:38Z"
+}
