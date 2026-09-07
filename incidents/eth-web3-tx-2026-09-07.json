@@ -1,0 +1,42 @@
+{
+  "id": "eth-web3-tx-2026-09-07",
+  "display_name": "eth-web3-tx",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eth-web3-tx",
+      "ecosystem": "npm",
+      "versions": [
+        "5.0.0",
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "5.0.4",
+        "5.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8071",
+          "osv_published_at": "2023-09-11T07:53:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:10:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:10:56Z",
+  "osv_earliest_published_at": "2023-09-11T07:53:34Z",
+  "source_published_at": "2023-09-11T07:53:34Z",
+  "observed_at": "2026-09-07T13:10:56Z",
+  "ingested_at": "2026-09-07T13:10:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:33:38Z",
+  "ledger_committed_at": "2026-09-07T23:33:38Z"
+}
