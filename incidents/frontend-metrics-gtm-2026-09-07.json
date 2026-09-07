@@ -1,0 +1,46 @@
+{
+  "id": "frontend-metrics-gtm-2026-09-07",
+  "display_name": "@frontend-metrics/gtm",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@frontend-metrics/gtm",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0",
+        "1.402.0",
+        "2.403.0",
+        "3.404.0",
+        "4.406.0",
+        "5.407.0",
+        "6.408.0",
+        "7.409.0",
+        "8.410.0",
+        "963.410.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-279",
+          "osv_published_at": "2022-06-20T20:14:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T04:57:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T04:57:52Z",
+  "osv_earliest_published_at": "2022-06-20T20:14:27Z",
+  "source_published_at": "2022-06-20T20:14:27Z",
+  "observed_at": "2026-09-07T04:57:52Z",
+  "ingested_at": "2026-09-07T04:57:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T06:03:13Z",
+  "ledger_committed_at": "2026-09-07T06:03:13Z"
+}
