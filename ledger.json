@@ -663194,5 +663194,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:31:27Z",
     "ledger_committed_at": "2026-09-07T21:31:27Z"
+  },
+  {
+    "id": "azure-sp-2026-09-07",
+    "display_name": "azure-sp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "azure-sp",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-118",
+            "osv_published_at": "2023-02-24T01:20:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:28:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:28:52Z",
+    "osv_earliest_published_at": "2023-02-24T01:20:23Z",
+    "source_published_at": "2023-02-24T01:20:23Z",
+    "observed_at": "2026-09-07T12:28:52Z",
+    "ingested_at": "2026-09-07T12:28:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:31:36Z",
+    "ledger_committed_at": "2026-09-07T21:31:36Z"
   }
 ]
