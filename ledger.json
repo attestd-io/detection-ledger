@@ -567043,5 +567043,74 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:47:36Z",
     "ledger_committed_at": "2026-09-07T16:47:36Z"
+  },
+  {
+    "id": "tampmd-hyperion-ui-2026-09-07",
+    "display_name": "@tampmd/hyperion-ui",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@tampmd/hyperion-ui",
+        "ecosystem": "npm",
+        "versions": [
+          "0.999.999",
+          "0.9999.9999",
+          "1.8.9",
+          "1.999.999",
+          "1.9999.9999",
+          "10.999.999",
+          "10.9999.9999",
+          "11.999.999",
+          "12.999.999",
+          "13.999.999",
+          "14.999.999",
+          "15.999.999",
+          "16.999.999",
+          "17.999.999",
+          "18.999.999",
+          "19.999.999",
+          "2.999.999",
+          "2.9999.9999",
+          "20.999.999",
+          "3.999.999",
+          "3.9999.9999",
+          "4.999.999",
+          "4.9999.9999",
+          "5.999.999",
+          "5.9999.9999",
+          "6.999.999",
+          "6.9999.9999",
+          "7.999.999",
+          "7.9999.9999",
+          "8.999.999",
+          "8.9999.9999",
+          "9.999.999",
+          "9.9999.9999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-623",
+            "osv_published_at": "2022-06-20T20:20:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:22:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:22:15Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:14Z",
+    "source_published_at": "2022-06-20T20:20:14Z",
+    "observed_at": "2026-09-07T09:22:15Z",
+    "ingested_at": "2026-09-07T09:22:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:47:45Z",
+    "ledger_committed_at": "2026-09-07T16:47:45Z"
   }
 ]
