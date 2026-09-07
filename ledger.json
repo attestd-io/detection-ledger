@@ -368394,5 +368394,38 @@
     "advisory_url": "https://registry.npmjs.org/%40skynetxbt%2Fplugin-beefy-finance",
     "ledger_commit_at": "2026-09-07T04:29:47Z",
     "ledger_committed_at": "2026-09-07T04:29:47Z"
+  },
+  {
+    "id": "streamable-finance-sdk-core-2026-09-07",
+    "display_name": "@streamable-finance/sdk-core",
+    "campaign": "e-finance",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@streamable-finance/sdk-core",
+        "ecosystem": "npm",
+        "versions": [
+          "0.5.4",
+          "0.5.5-testnet"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:01:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:01:29Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:01:29Z",
+    "ingested_at": "2026-09-07T04:01:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40streamable-finance%2Fsdk-core",
+    "ledger_commit_at": "2026-09-07T04:29:55Z",
+    "ledger_committed_at": "2026-09-07T04:29:55Z"
   }
 ]
