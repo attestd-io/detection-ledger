@@ -491588,5 +491588,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:14:29Z",
     "ledger_committed_at": "2026-09-07T12:14:29Z"
+  },
+  {
+    "id": "naver-partner-2026-09-07",
+    "display_name": "naver_partner",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "naver_partner",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4786",
+            "osv_published_at": "2022-07-21T10:55:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:51:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:51:42Z",
+    "osv_earliest_published_at": "2022-07-21T10:55:48Z",
+    "source_published_at": "2022-07-21T10:55:48Z",
+    "observed_at": "2026-09-07T06:51:42Z",
+    "ingested_at": "2026-09-07T06:51:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:14:38Z",
+    "ledger_committed_at": "2026-09-07T12:14:38Z"
   }
 ]
