@@ -409935,5 +409935,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:44:37Z",
     "ledger_committed_at": "2026-09-07T06:44:37Z"
+  },
+  {
+    "id": "fire-marshal-ebay-2026-09-07",
+    "display_name": "fire-marshal-ebay",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fire-marshal-ebay",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "1.0.0",
+          "5.0.0",
+          "5.0.4",
+          "99.99.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3047",
+            "osv_published_at": "2022-09-14T07:23:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:10:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:10:09Z",
+    "osv_earliest_published_at": "2022-09-14T07:23:09Z",
+    "source_published_at": "2022-09-14T07:23:09Z",
+    "observed_at": "2026-09-07T05:10:09Z",
+    "ingested_at": "2026-09-07T05:10:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:44:46Z",
+    "ledger_committed_at": "2026-09-07T06:44:46Z"
   }
 ]
