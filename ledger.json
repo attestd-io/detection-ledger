@@ -375265,5 +375265,37 @@
     "advisory_url": "https://registry.npmjs.org/%40databricks%2Faibi-client",
     "ledger_commit_at": "2026-09-07T04:44:33Z",
     "ledger_committed_at": "2026-09-07T04:44:33Z"
+  },
+  {
+    "id": "remix-pwa-dev-2026-09-07",
+    "display_name": "@remix-pwa/dev",
+    "campaign": "employee-experience",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@remix-pwa/dev",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:20:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:20:53Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:20:53Z",
+    "ingested_at": "2026-09-07T04:20:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40remix-pwa%2Fdev",
+    "ledger_commit_at": "2026-09-07T04:44:41Z",
+    "ledger_committed_at": "2026-09-07T04:44:41Z"
   }
 ]
