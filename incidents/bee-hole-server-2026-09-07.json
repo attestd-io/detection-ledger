@@ -1,0 +1,41 @@
+{
+  "id": "bee-hole-server-2026-09-07",
+  "display_name": "@bee-hole/server",
+  "campaign": "dsgn-sys",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@bee-hole/server",
+      "ecosystem": "npm",
+      "versions": [
+        "1.10.0",
+        "1.7.10",
+        "1.7.12",
+        "1.7.13",
+        "1.7.3",
+        "1.7.9",
+        "1.8.0",
+        "1.8.1",
+        "1.8.2",
+        "1.9.1"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T03:54:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T03:54:05Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T03:54:05Z",
+  "ingested_at": "2026-09-07T03:54:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40bee-hole%2Fserver",
+  "ledger_commit_at": "2026-09-07T04:13:16Z",
+  "ledger_committed_at": "2026-09-07T04:13:16Z"
+}
