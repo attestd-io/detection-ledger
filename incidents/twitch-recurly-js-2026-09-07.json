@@ -1,0 +1,40 @@
+{
+  "id": "twitch-recurly-js-2026-09-07",
+  "display_name": "twitch-recurly.js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "twitch-recurly.js",
+      "ecosystem": "npm",
+      "versions": [
+        "4.999.99",
+        "4.999.999",
+        "5.999.99",
+        "5.999.999"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6704",
+          "osv_published_at": "2022-06-20T20:17:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:33:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:33:12Z",
+  "osv_earliest_published_at": "2022-06-20T20:17:06Z",
+  "source_published_at": "2022-06-20T20:17:06Z",
+  "observed_at": "2026-09-07T10:33:12Z",
+  "ingested_at": "2026-09-07T10:33:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:11:50Z",
+  "ledger_committed_at": "2026-09-07T18:11:50Z"
+}
