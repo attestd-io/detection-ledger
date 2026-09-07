@@ -1,0 +1,35 @@
+{
+  "id": "compligent-mcp-csf-2026-09-07",
+  "display_name": "@compligent-mcp/csf",
+  "campaign": "nokia-csf-uxr",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@compligent-mcp/csf",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:55:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:55:11Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T12:55:11Z",
+  "ingested_at": "2026-09-07T12:55:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40compligent-mcp%2Fcsf",
+  "ledger_commit_at": "2026-09-07T22:39:20Z",
+  "ledger_committed_at": "2026-09-07T22:39:20Z"
+}
