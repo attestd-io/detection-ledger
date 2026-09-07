@@ -496104,5 +496104,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T12:32:54Z",
     "ledger_committed_at": "2026-09-07T12:32:54Z"
+  },
+  {
+    "id": "node-es6-seed-2026-09-07",
+    "display_name": "node-es6-seed",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "node-es6-seed",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.4",
+          "0.0.1-security.5"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4885",
+            "osv_published_at": "2022-06-20T20:17:32Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:02:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:02:37Z",
+    "osv_earliest_published_at": "2022-06-20T20:17:32Z",
+    "source_published_at": "2022-06-20T20:17:32Z",
+    "observed_at": "2026-09-07T07:02:37Z",
+    "ingested_at": "2026-09-07T07:02:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T12:33:03Z",
+    "ledger_committed_at": "2026-09-07T12:33:03Z"
   }
 ]
