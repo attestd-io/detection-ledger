@@ -530084,5 +530084,41 @@
     "advisory_url": "https://registry.npmjs.org/rollup-plugin-drupal-interface-translations",
     "ledger_commit_at": "2026-09-07T14:12:01Z",
     "ledger_committed_at": "2026-09-07T14:12:01Z"
+  },
+  {
+    "id": "vite-plugin-laravel-translations-2026-09-07",
+    "display_name": "vite-plugin-laravel-translations",
+    "campaign": "qualtrics-translations",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "vite-plugin-laravel-translations",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-rc.10",
+          "0.0.1-rc.11",
+          "0.0.1-rc.8",
+          "0.1.0",
+          "0.1.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:57:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:57:53Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T07:57:53Z",
+    "ingested_at": "2026-09-07T07:57:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/vite-plugin-laravel-translations",
+    "ledger_commit_at": "2026-09-07T14:12:11Z",
+    "ledger_committed_at": "2026-09-07T14:12:11Z"
   }
 ]
