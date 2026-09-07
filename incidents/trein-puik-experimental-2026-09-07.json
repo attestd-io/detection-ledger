@@ -1,0 +1,37 @@
+{
+  "id": "trein-puik-experimental-2026-09-07",
+  "display_name": "@trein/puik-experimental",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@trein/puik-experimental",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-69",
+          "osv_published_at": "2023-04-11T00:23:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:04:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:04:34Z",
+  "osv_earliest_published_at": "2023-04-11T00:23:02Z",
+  "source_published_at": "2023-04-11T00:23:02Z",
+  "observed_at": "2026-09-07T13:04:34Z",
+  "ingested_at": "2026-09-07T13:04:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:12:17Z",
+  "ledger_committed_at": "2026-09-07T23:12:17Z"
+}
