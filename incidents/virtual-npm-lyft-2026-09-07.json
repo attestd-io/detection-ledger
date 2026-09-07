@@ -1,0 +1,40 @@
+{
+  "id": "virtual-npm-lyft-2026-09-07",
+  "display_name": "virtual-npm-lyft",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "virtual-npm-lyft",
+      "ecosystem": "npm",
+      "versions": [
+        "1.9.9",
+        "1.99.99",
+        "99.9.9",
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6942",
+          "osv_published_at": "2022-06-20T20:13:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:48:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:48:10Z",
+  "osv_earliest_published_at": "2022-06-20T20:13:01Z",
+  "source_published_at": "2022-06-20T20:13:01Z",
+  "observed_at": "2026-09-07T10:48:10Z",
+  "ingested_at": "2026-09-07T10:48:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T18:56:52Z",
+  "ledger_committed_at": "2026-09-07T18:56:52Z"
+}
