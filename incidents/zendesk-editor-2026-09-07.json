@@ -1,0 +1,55 @@
+{
+  "id": "zendesk-editor-2026-09-07",
+  "display_name": "zendesk-editor",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zendesk-editor",
+      "ecosystem": "npm",
+      "versions": [
+        "1.878.347",
+        "10.912.517",
+        "2.944.524",
+        "20.871.311",
+        "3.970.515",
+        "30.895.454",
+        "4.916.320",
+        "40.949.440",
+        "5.867.656",
+        "50.861.552",
+        "6.745.548",
+        "60.815.368",
+        "7.944.566",
+        "70.859.444",
+        "8.899.587",
+        "80.789.637",
+        "9.812.511",
+        "90.782.572",
+        "9998.800.587"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7382",
+          "osv_published_at": "2022-06-20T20:15:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:22:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:22:17Z",
+  "osv_earliest_published_at": "2022-06-20T20:15:54Z",
+  "source_published_at": "2022-06-20T20:15:54Z",
+  "observed_at": "2026-09-07T11:22:17Z",
+  "ingested_at": "2026-09-07T11:22:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:18:53Z",
+  "ledger_committed_at": "2026-09-07T20:18:53Z"
+}
