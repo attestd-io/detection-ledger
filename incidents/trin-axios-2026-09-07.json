@@ -1,0 +1,37 @@
+{
+  "id": "trin-axios-2026-09-07",
+  "display_name": "trin-axios",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "trin-axios",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6651",
+          "osv_published_at": "2022-10-17T04:52:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T10:16:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T10:16:15Z",
+  "osv_earliest_published_at": "2022-10-17T04:52:43Z",
+  "source_published_at": "2022-10-17T04:52:43Z",
+  "observed_at": "2026-09-07T10:16:15Z",
+  "ingested_at": "2026-09-07T10:16:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:59:50Z",
+  "ledger_committed_at": "2026-09-07T17:59:50Z"
+}
