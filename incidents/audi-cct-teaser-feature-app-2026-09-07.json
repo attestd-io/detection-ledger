@@ -1,0 +1,47 @@
+{
+  "id": "audi-cct-teaser-feature-app-2026-09-07",
+  "display_name": "@audi-cct/teaser-feature-app",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@audi-cct/teaser-feature-app",
+      "ecosystem": "npm",
+      "versions": [
+        "0.999.999",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.999.999",
+        "2.999.999",
+        "3.999.999",
+        "4.999.999",
+        "5.999.999",
+        "6.999.999",
+        "7.999.999"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-91",
+          "osv_published_at": "2022-06-20T20:19:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:01:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:01:47Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:17Z",
+  "source_published_at": "2022-06-20T20:19:17Z",
+  "observed_at": "2026-09-07T12:01:47Z",
+  "ingested_at": "2026-09-07T12:01:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:02:42Z",
+  "ledger_committed_at": "2026-09-07T21:02:42Z"
+}
