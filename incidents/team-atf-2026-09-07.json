@@ -1,0 +1,41 @@
+{
+  "id": "team-atf-2026-09-07",
+  "display_name": "team-atf",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "team-atf",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.8",
+        "3.1.0",
+        "3.1.1",
+        "3.2.0",
+        "3.3.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8182",
+          "osv_published_at": "2023-09-19T07:06:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:15:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:15:10Z",
+  "osv_earliest_published_at": "2023-09-19T07:06:01Z",
+  "source_published_at": "2023-09-19T07:06:01Z",
+  "observed_at": "2026-09-07T13:15:10Z",
+  "ingested_at": "2026-09-07T13:15:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:46:14Z",
+  "ledger_committed_at": "2026-09-07T23:46:14Z"
+}
