@@ -414344,5 +414344,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:00:30Z",
     "ledger_committed_at": "2026-09-07T07:00:30Z"
+  },
+  {
+    "id": "free-fortnite-skins-codes-xbox-pc-switch-2022-2026-09-07",
+    "display_name": "free-fortnite-skins-codes-xbox-pc-switch-2022",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "free-fortnite-skins-codes-xbox-pc-switch-2022",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.24"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3150",
+            "osv_published_at": "2022-06-20T20:14:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:12:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:12:35Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:38Z",
+    "source_published_at": "2022-06-20T20:14:38Z",
+    "observed_at": "2026-09-07T05:12:35Z",
+    "ingested_at": "2026-09-07T05:12:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:00:38Z",
+    "ledger_committed_at": "2026-09-07T07:00:38Z"
   }
 ]
