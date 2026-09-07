@@ -394171,5 +394171,38 @@
     "advisory_url": "https://registry.npmjs.org/%40antv%2Fcomponent",
     "ledger_commit_at": "2026-09-07T05:49:59Z",
     "ledger_committed_at": "2026-09-07T05:49:59Z"
+  },
+  {
+    "id": "asyncapi-react-component-2026-09-07",
+    "display_name": "@asyncapi/react-component",
+    "campaign": "feis-component",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@asyncapi/react-component",
+        "ecosystem": "npm",
+        "versions": [
+          "2.6.6",
+          "2.6.7"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:53:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:53:33Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:53:33Z",
+    "ingested_at": "2026-09-07T04:53:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40asyncapi%2Freact-component",
+    "ledger_commit_at": "2026-09-07T05:50:07Z",
+    "ledger_committed_at": "2026-09-07T05:50:07Z"
   }
 ]
