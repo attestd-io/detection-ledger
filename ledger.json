@@ -639409,5 +639409,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:03:04Z",
     "ledger_committed_at": "2026-09-07T20:03:04Z"
+  },
+  {
+    "id": "wixui-editor-elements-corvid-utils-2026-09-07",
+    "display_name": "@wixui/editor-elements-corvid-utils",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wixui/editor-elements-corvid-utils",
+        "ecosystem": "npm",
+        "versions": [
+          "0.999.999",
+          "1.5677.9",
+          "1.999.999",
+          "2.999.999",
+          "3.999.999",
+          "4.999.999",
+          "5.999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-730",
+            "osv_published_at": "2022-06-20T20:21:24Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:16:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:16:35Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:24Z",
+    "source_published_at": "2022-06-20T20:21:24Z",
+    "observed_at": "2026-09-07T11:16:35Z",
+    "ingested_at": "2026-09-07T11:16:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:03:16Z",
+    "ledger_committed_at": "2026-09-07T20:03:16Z"
   }
 ]
