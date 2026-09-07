@@ -464424,5 +464424,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:28:57Z",
     "ledger_committed_at": "2026-09-07T10:28:57Z"
+  },
+  {
+    "id": "klook-tetris-server-2026-09-07",
+    "display_name": "klook-tetris-server",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "klook-tetris-server",
+        "ecosystem": "npm",
+        "versions": [
+          "6.9.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4189",
+            "osv_published_at": "2022-06-20T20:09:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:13:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:13:42Z",
+    "osv_earliest_published_at": "2022-06-20T20:09:31Z",
+    "source_published_at": "2022-06-20T20:09:31Z",
+    "observed_at": "2026-09-07T06:13:42Z",
+    "ingested_at": "2026-09-07T06:13:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:29:06Z",
+    "ledger_committed_at": "2026-09-07T10:29:06Z"
   }
 ]
