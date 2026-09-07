@@ -689669,5 +689669,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:27:13Z",
     "ledger_committed_at": "2026-09-07T23:27:13Z"
+  },
+  {
+    "id": "node-hide-console-windows-2026-09-07",
+    "display_name": "node-hide-console-windows",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "node-hide-console-windows",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0",
+          "1.1.2",
+          "1.2.2",
+          "1.2.3",
+          "1.2.4",
+          "1.3.4",
+          "1.4.4",
+          "1.5.4",
+          "1.5.6",
+          "1.5.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-7938",
+            "osv_published_at": "2023-08-28T02:50:11Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:07:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:07:42Z",
+    "osv_earliest_published_at": "2023-08-28T02:50:11Z",
+    "source_published_at": "2023-08-28T02:50:11Z",
+    "observed_at": "2026-09-07T13:07:42Z",
+    "ingested_at": "2026-09-07T13:07:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:27:23Z",
+    "ledger_committed_at": "2026-09-07T23:27:23Z"
   }
 ]
