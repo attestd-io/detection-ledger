@@ -620488,5 +620488,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:58:49Z",
     "ledger_committed_at": "2026-09-07T18:58:49Z"
+  },
+  {
+    "id": "voicemail-auth-2026-09-07",
+    "display_name": "voicemail-auth",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "voicemail-auth",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6954",
+            "osv_published_at": "2022-06-20T20:10:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:48:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:48:25Z",
+    "osv_earliest_published_at": "2022-06-20T20:10:07Z",
+    "source_published_at": "2022-06-20T20:10:07Z",
+    "observed_at": "2026-09-07T10:48:25Z",
+    "ingested_at": "2026-09-07T10:48:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:58:59Z",
+    "ledger_committed_at": "2026-09-07T18:58:59Z"
   }
 ]
