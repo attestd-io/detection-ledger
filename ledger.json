@@ -667997,5 +667997,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:51:28Z",
     "ledger_committed_at": "2026-09-07T21:51:28Z"
+  },
+  {
+    "id": "conversations-with-friends-by-sally-rooney-on-audible-new-volumes-2026-09-07",
+    "display_name": "conversations-with-friends-by-sally-rooney-on-audible-new-volumes-",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "conversations-with-friends-by-sally-rooney-on-audible-new-volumes-",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-206",
+            "osv_published_at": "2023-05-10T13:24:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:40:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:40:20Z",
+    "osv_earliest_published_at": "2023-05-10T13:24:33Z",
+    "source_published_at": "2023-05-10T13:24:33Z",
+    "observed_at": "2026-09-07T12:40:20Z",
+    "ingested_at": "2026-09-07T12:40:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:51:39Z",
+    "ledger_committed_at": "2026-09-07T21:51:39Z"
   }
 ]
