@@ -1,0 +1,46 @@
+{
+  "id": "zohocomponents-react-2026-09-07",
+  "display_name": "zohocomponents-react",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zohocomponents-react",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.9",
+        "1.818.0",
+        "2.819.0",
+        "3.820.0",
+        "4.821.0",
+        "5.822.0",
+        "6.823.0",
+        "7.824.0",
+        "8.825.0",
+        "9.826.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7410",
+          "osv_published_at": "2022-07-22T10:23:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:36:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:36:19Z",
+  "osv_earliest_published_at": "2022-07-22T10:23:03Z",
+  "source_published_at": "2022-07-22T10:23:03Z",
+  "observed_at": "2026-09-07T11:36:19Z",
+  "ingested_at": "2026-09-07T11:36:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:25:30Z",
+  "ledger_committed_at": "2026-09-07T20:25:30Z"
+}
