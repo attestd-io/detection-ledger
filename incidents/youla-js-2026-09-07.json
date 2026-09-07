@@ -1,0 +1,43 @@
+{
+  "id": "youla-js-2026-09-07",
+  "display_name": "youla-js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "youla-js",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.9",
+        "1.2.9",
+        "1.8.9",
+        "2.0.9",
+        "2.8.9",
+        "3.8.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7359",
+          "osv_published_at": "2022-06-20T18:20:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:21:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:21:11Z",
+  "osv_earliest_published_at": "2022-06-20T18:20:50Z",
+  "source_published_at": "2022-06-20T18:20:50Z",
+  "observed_at": "2026-09-07T11:21:11Z",
+  "ingested_at": "2026-09-07T11:21:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:14:53Z",
+  "ledger_committed_at": "2026-09-07T20:14:53Z"
+}
