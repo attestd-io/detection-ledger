@@ -407434,5 +407434,59 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:35:22Z",
     "ledger_committed_at": "2026-09-07T06:35:22Z"
+  },
+  {
+    "id": "feedback-schema-2026-09-07",
+    "display_name": "feedback-schema",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "feedback-schema",
+        "ecosystem": "npm",
+        "versions": [
+          "0.999.999",
+          "1.999.999",
+          "10.999.999",
+          "11.999.999",
+          "12.999.999",
+          "13.999.999",
+          "14.999.999",
+          "15.999.999",
+          "16.999.999",
+          "2.8.1",
+          "2.999.999",
+          "3.999.999",
+          "4.999.999",
+          "5.999.999",
+          "6.999.999",
+          "7.999.999",
+          "8.999.999",
+          "9.999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3001",
+            "osv_published_at": "2022-06-20T20:20:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:06:43Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:06:43Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:18Z",
+    "source_published_at": "2022-06-20T20:20:18Z",
+    "observed_at": "2026-09-07T05:06:43Z",
+    "ingested_at": "2026-09-07T05:06:43Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:35:31Z",
+    "ledger_committed_at": "2026-09-07T06:35:31Z"
   }
 ]
