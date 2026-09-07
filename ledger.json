@@ -629105,5 +629105,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:19:55Z",
     "ledger_committed_at": "2026-09-07T19:19:55Z"
+  },
+  {
+    "id": "weact-d5tepicker-2026-09-07",
+    "display_name": "weact-d5tepicker",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "weact-d5tepicker",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7062",
+            "osv_published_at": "2022-08-19T03:55:22Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:04:06Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:04:06Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:22Z",
+    "source_published_at": "2022-08-19T03:55:22Z",
+    "observed_at": "2026-09-07T11:04:06Z",
+    "ingested_at": "2026-09-07T11:04:06Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:20:05Z",
+    "ledger_committed_at": "2026-09-07T19:20:05Z"
   }
 ]
