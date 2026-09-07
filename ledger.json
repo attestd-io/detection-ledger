@@ -666780,5 +666780,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:46:35Z",
     "ledger_committed_at": "2026-09-07T21:46:35Z"
+  },
+  {
+    "id": "kraken-prices-2026-09-07",
+    "display_name": "kraken-prices",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "kraken-prices",
+        "ecosystem": "npm",
+        "versions": [
+          "0.13.3",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1558",
+            "osv_published_at": "2023-07-11T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:37:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:37:57Z",
+    "osv_earliest_published_at": "2023-07-11T00:00:00Z",
+    "source_published_at": "2023-07-11T00:00:00Z",
+    "observed_at": "2026-09-07T12:37:57Z",
+    "ingested_at": "2026-09-07T12:37:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:46:44Z",
+    "ledger_committed_at": "2026-09-07T21:46:44Z"
   }
 ]
