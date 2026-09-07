@@ -537847,5 +537847,38 @@
     "advisory_url": "https://registry.npmjs.org/%40keenmate%2Fweb-multiselect",
     "ledger_commit_at": "2026-09-07T14:42:47Z",
     "ledger_committed_at": "2026-09-07T14:42:47Z"
+  },
+  {
+    "id": "smashstack-cradlepoint-wc-2026-09-07",
+    "display_name": "@smashstack/cradlepoint-wc",
+    "campaign": "remove-bg",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@smashstack/cradlepoint-wc",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "0.0.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:14:35Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:14:35Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T08:14:35Z",
+    "ingested_at": "2026-09-07T08:14:35Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40smashstack%2Fcradlepoint-wc",
+    "ledger_commit_at": "2026-09-07T14:42:59Z",
+    "ledger_committed_at": "2026-09-07T14:42:59Z"
   }
 ]
