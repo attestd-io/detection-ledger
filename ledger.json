@@ -642730,5 +642730,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:16:32Z",
     "ledger_committed_at": "2026-09-07T20:16:32Z"
+  },
+  {
+    "id": "wso-utils-localization-2026-09-07",
+    "display_name": "@wso-utils/localization",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@wso-utils/localization",
+        "ecosystem": "npm",
+        "versions": [
+          "99.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-737",
+            "osv_published_at": "2022-06-20T20:23:19Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:21:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:21:41Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:19Z",
+    "source_published_at": "2022-06-20T20:23:19Z",
+    "observed_at": "2026-09-07T11:21:41Z",
+    "ingested_at": "2026-09-07T11:21:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:16:42Z",
+    "ledger_committed_at": "2026-09-07T20:16:42Z"
   }
 ]
