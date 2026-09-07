@@ -537953,5 +537953,42 @@
     "advisory_url": "https://registry.npmjs.org/radix-colors-tailwind",
     "ledger_commit_at": "2026-09-07T14:43:17Z",
     "ledger_committed_at": "2026-09-07T14:43:17Z"
+  },
+  {
+    "id": "rapidjson-2026-09-07",
+    "display_name": "rapidjson",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rapidjson",
+        "ecosystem": "npm",
+        "versions": [
+          "100.1.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5590",
+            "osv_published_at": "2022-06-20T21:13:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:15:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:15:04Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:16Z",
+    "source_published_at": "2022-06-20T21:13:16Z",
+    "observed_at": "2026-09-07T08:15:04Z",
+    "ingested_at": "2026-09-07T08:15:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:43:26Z",
+    "ledger_committed_at": "2026-09-07T14:43:26Z"
   }
 ]
