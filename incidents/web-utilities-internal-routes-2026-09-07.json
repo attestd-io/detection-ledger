@@ -1,0 +1,39 @@
+{
+  "id": "web-utilities-internal-routes-2026-09-07",
+  "display_name": "@web-utilities/internal-routes",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@web-utilities/internal-routes",
+      "ecosystem": "npm",
+      "versions": [
+        "2100.4.3",
+        "2100.4.4",
+        "2100.4.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-715",
+          "osv_published_at": "2022-06-20T20:13:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:09:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:09:29Z",
+  "osv_earliest_published_at": "2022-06-20T20:13:48Z",
+  "source_published_at": "2022-06-20T20:13:48Z",
+  "observed_at": "2026-09-07T11:09:29Z",
+  "ingested_at": "2026-09-07T11:09:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:37:14Z",
+  "ledger_committed_at": "2026-09-07T19:37:14Z"
+}
