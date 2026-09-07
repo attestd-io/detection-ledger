@@ -1,0 +1,45 @@
+{
+  "id": "alicloud-components-2026-09-07",
+  "display_name": "alicloud-components",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "alicloud-components",
+      "ecosystem": "npm",
+      "versions": [
+        "1.9999.0",
+        "2.9999.0",
+        "3.9999.0",
+        "4.9999.0",
+        "5.9999.0",
+        "6.9999.0",
+        "7.9999.0",
+        "8.9999.0",
+        "9999.9999.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-935",
+          "osv_published_at": "2022-06-20T20:24:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:02:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:02:45Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:01Z",
+  "source_published_at": "2022-06-20T20:24:01Z",
+  "observed_at": "2026-09-07T12:02:45Z",
+  "ingested_at": "2026-09-07T12:02:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:06:50Z",
+  "ledger_committed_at": "2026-09-07T21:06:50Z"
+}
