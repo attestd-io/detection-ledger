@@ -363226,5 +363226,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:14:26Z",
     "ledger_committed_at": "2026-09-07T04:14:26Z"
+  },
+  {
+    "id": "com-unity-xr-windowsmr-metro-2026-09-07",
+    "display_name": "com.unity.xr.windowsmr.metro",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "com.unity.xr.windowsmr.metro",
+        "ecosystem": "npm",
+        "versions": [
+          "5.5.2",
+          "6.6.7",
+          "6.6.8",
+          "6.6.9",
+          "7.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2112",
+            "osv_published_at": "2022-06-20T20:14:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:55:30Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:55:30Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:27Z",
+    "source_published_at": "2022-06-20T20:14:27Z",
+    "observed_at": "2026-09-07T03:55:30Z",
+    "ingested_at": "2026-09-07T03:55:30Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:14:34Z",
+    "ledger_committed_at": "2026-09-07T04:14:34Z"
   }
 ]
