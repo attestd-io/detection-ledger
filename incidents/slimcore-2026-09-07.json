@@ -1,0 +1,54 @@
+{
+  "id": "slimcore-2026-09-07",
+  "display_name": "slimcore",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "slimcore",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0-21126.2",
+        "2020.26.17",
+        "2020.26.173",
+        "2021.6.48",
+        "2021.6.55",
+        "2021.99.99",
+        "2022.6.55",
+        "2030.0.0",
+        "2099.0.1",
+        "2099.26.1722",
+        "2099.26.173",
+        "2099.26.175",
+        "3000.0.0",
+        "4000.0.0",
+        "4021.0.0",
+        "4099.26.1722",
+        "9999.0.0",
+        "9999.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6165",
+          "osv_published_at": "2022-06-20T20:24:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:10:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:10:21Z",
+  "osv_earliest_published_at": "2022-06-20T20:24:08Z",
+  "source_published_at": "2022-06-20T20:24:08Z",
+  "observed_at": "2026-09-07T09:10:21Z",
+  "ingested_at": "2026-09-07T09:10:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:29:52Z",
+  "ledger_committed_at": "2026-09-07T16:29:52Z"
+}
