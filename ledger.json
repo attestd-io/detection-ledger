@@ -478428,5 +478428,39 @@
     "advisory_url": "https://registry.npmjs.org/%40superrb%2Fnext-addons",
     "ledger_commit_at": "2026-09-07T11:23:46Z",
     "ledger_committed_at": "2026-09-07T11:23:46Z"
+  },
+  {
+    "id": "tf2autobot-tradeoffer-manager-2026-09-07",
+    "display_name": "@tf2autobot/tradeoffer-manager",
+    "campaign": "nab-trade",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@tf2autobot/tradeoffer-manager",
+        "ecosystem": "npm",
+        "versions": [
+          "2.16.0",
+          "2.16.1",
+          "2.16.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:44:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:44:22Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:44:22Z",
+    "ingested_at": "2026-09-07T06:44:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40tf2autobot%2Ftradeoffer-manager",
+    "ledger_commit_at": "2026-09-07T11:23:55Z",
+    "ledger_committed_at": "2026-09-07T11:23:55Z"
   }
 ]
