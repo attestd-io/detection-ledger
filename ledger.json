@@ -533757,5 +533757,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:26:19Z",
     "ledger_committed_at": "2026-09-07T14:26:19Z"
+  },
+  {
+    "id": "ps-request-ws-2026-09-07",
+    "display_name": "ps-request-ws",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ps-request-ws",
+        "ecosystem": "npm",
+        "versions": [
+          "7.5.8"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5503",
+            "osv_published_at": "2022-06-20T20:11:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:10:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:10:38Z",
+    "osv_earliest_published_at": "2022-06-20T20:11:36Z",
+    "source_published_at": "2022-06-20T20:11:36Z",
+    "observed_at": "2026-09-07T08:10:38Z",
+    "ingested_at": "2026-09-07T08:10:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:26:30Z",
+    "ledger_committed_at": "2026-09-07T14:26:30Z"
   }
 ]
