@@ -1,0 +1,38 @@
+{
+  "id": "d3-ushape-2026-09-07",
+  "display_name": "-d3-ushape",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "-d3-ushape",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5",
+          "osv_published_at": "2022-08-19T03:55:14Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T07:30:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T07:30:09Z",
+  "osv_earliest_published_at": "2022-08-19T03:55:14Z",
+  "source_published_at": "2022-08-19T03:55:14Z",
+  "observed_at": "2026-09-07T07:30:09Z",
+  "ingested_at": "2026-09-07T07:30:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:58:06Z",
+  "ledger_committed_at": "2026-09-07T12:58:06Z"
+}
