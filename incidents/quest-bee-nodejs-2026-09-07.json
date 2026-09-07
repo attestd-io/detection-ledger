@@ -1,0 +1,37 @@
+{
+  "id": "quest-bee-nodejs-2026-09-07",
+  "display_name": "quest-bee-nodejs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "quest-bee-nodejs",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5563",
+          "osv_published_at": "2022-08-10T16:10:19Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:12:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:12:36Z",
+  "osv_earliest_published_at": "2022-08-10T16:10:19Z",
+  "source_published_at": "2022-08-10T16:10:19Z",
+  "observed_at": "2026-09-07T08:12:36Z",
+  "ingested_at": "2026-09-07T08:12:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T14:37:17Z",
+  "ledger_committed_at": "2026-09-07T14:37:17Z"
+}
