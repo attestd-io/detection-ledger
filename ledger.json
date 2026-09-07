@@ -548409,5 +548409,42 @@
     "advisory_url": "https://registry.npmjs.org/bff-auth-lib",
     "ledger_commit_at": "2026-09-07T15:28:31Z",
     "ledger_committed_at": "2026-09-07T15:28:31Z"
+  },
+  {
+    "id": "rlms-2026-09-07",
+    "display_name": "rlms",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "rlms",
+        "ecosystem": "npm",
+        "versions": [
+          "0.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5820",
+            "osv_published_at": "2022-06-20T18:19:46Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:33:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:33:08Z",
+    "osv_earliest_published_at": "2022-06-20T18:19:46Z",
+    "source_published_at": "2022-06-20T18:19:46Z",
+    "observed_at": "2026-09-07T08:33:08Z",
+    "ingested_at": "2026-09-07T08:33:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:28:39Z",
+    "ledger_committed_at": "2026-09-07T15:28:39Z"
   }
 ]
