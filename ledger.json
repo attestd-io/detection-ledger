@@ -680043,5 +680043,49 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:44:36Z",
     "ledger_committed_at": "2026-09-07T22:44:36Z"
+  },
+  {
+    "id": "hardhat-web3-utility-2026-09-07",
+    "display_name": "hardhat-web3-utility",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hardhat-web3-utility",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2",
+          "1.0.3",
+          "1.0.4",
+          "1.0.5",
+          "1.0.6",
+          "1.0.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-494",
+            "osv_published_at": "2023-03-01T05:46:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:56:52Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:56:52Z",
+    "osv_earliest_published_at": "2023-03-01T05:46:20Z",
+    "source_published_at": "2023-03-01T05:46:20Z",
+    "observed_at": "2026-09-07T12:56:52Z",
+    "ingested_at": "2026-09-07T12:56:52Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:44:47Z",
+    "ledger_committed_at": "2026-09-07T22:44:47Z"
   }
 ]
