@@ -685256,5 +685256,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:07:43Z",
     "ledger_committed_at": "2026-09-07T23:07:43Z"
+  },
+  {
+    "id": "superbet-group-web-types-2026-09-07",
+    "display_name": "@superbet-group/web.types",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@superbet-group/web.types",
+        "ecosystem": "npm",
+        "versions": [
+          "1.6.0",
+          "1.6.1",
+          "1.9.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-66",
+            "osv_published_at": "2023-02-09T00:26:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:03:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:03:42Z",
+    "osv_earliest_published_at": "2023-02-09T00:26:23Z",
+    "source_published_at": "2023-02-09T00:26:23Z",
+    "observed_at": "2026-09-07T13:03:42Z",
+    "ingested_at": "2026-09-07T13:03:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:07:54Z",
+    "ledger_committed_at": "2026-09-07T23:07:54Z"
   }
 ]
