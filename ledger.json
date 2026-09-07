@@ -646990,5 +646990,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:33:03Z",
     "ledger_committed_at": "2026-09-07T20:33:03Z"
+  },
+  {
+    "id": "xvideos-runner-2026-09-07",
+    "display_name": "@xvideos/runner",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@xvideos/runner",
+        "ecosystem": "npm",
+        "versions": [
+          "248.2.7"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-773",
+            "osv_published_at": "2022-06-20T20:18:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:39:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:39:01Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:29Z",
+    "source_published_at": "2022-06-20T20:18:29Z",
+    "observed_at": "2026-09-07T11:39:01Z",
+    "ingested_at": "2026-09-07T11:39:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:33:14Z",
+    "ledger_committed_at": "2026-09-07T20:33:14Z"
   }
 ]
