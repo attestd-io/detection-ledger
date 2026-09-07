@@ -1,0 +1,37 @@
+{
+  "id": "meetingsdk-sample-vuejs-2026-09-07",
+  "display_name": "meetingsdk-sample-vuejs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "meetingsdk-sample-vuejs",
+      "ecosystem": "npm",
+      "versions": [
+        "48.47.48"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-588",
+          "osv_published_at": "2023-07-04T03:03:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:00:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:00:01Z",
+  "osv_earliest_published_at": "2023-07-04T03:03:39Z",
+  "source_published_at": "2023-07-04T03:03:39Z",
+  "observed_at": "2026-09-07T13:00:01Z",
+  "ingested_at": "2026-09-07T13:00:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:58:25Z",
+  "ledger_committed_at": "2026-09-07T22:58:25Z"
+}
