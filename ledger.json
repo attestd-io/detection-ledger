@@ -517899,5 +517899,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:23:26Z",
     "ledger_committed_at": "2026-09-07T13:23:26Z"
+  },
+  {
+    "id": "ot-logger-2026-09-07",
+    "display_name": "ot-logger",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ot-logger",
+        "ecosystem": "npm",
+        "versions": [
+          "3.2.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5138",
+            "osv_published_at": "2022-07-26T13:34:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:46:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:46:56Z",
+    "osv_earliest_published_at": "2022-07-26T13:34:35Z",
+    "source_published_at": "2022-07-26T13:34:35Z",
+    "observed_at": "2026-09-07T07:46:56Z",
+    "ingested_at": "2026-09-07T07:46:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:23:35Z",
+    "ledger_committed_at": "2026-09-07T13:23:35Z"
   }
 ]
