@@ -584582,5 +584582,51 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:29:14Z",
     "ledger_committed_at": "2026-09-07T17:29:14Z"
+  },
+  {
+    "id": "teams-data-2026-09-07",
+    "display_name": "teams-data",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "teams-data",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.11",
+          "1.803.0",
+          "2.804.0",
+          "3.805.0",
+          "4.806.0",
+          "5.807.0",
+          "6.808.0",
+          "7.809.0",
+          "8.810.0",
+          "9.811.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6442",
+            "osv_published_at": "2022-06-20T20:08:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:45:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:45:03Z",
+    "osv_earliest_published_at": "2022-06-20T20:08:36Z",
+    "source_published_at": "2022-06-20T20:08:36Z",
+    "observed_at": "2026-09-07T09:45:03Z",
+    "ingested_at": "2026-09-07T09:45:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T17:29:24Z",
+    "ledger_committed_at": "2026-09-07T17:29:24Z"
   }
 ]
