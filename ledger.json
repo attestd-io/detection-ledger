@@ -461497,5 +461497,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:16:54Z",
     "ledger_committed_at": "2026-09-07T10:16:54Z"
+  },
+  {
+    "id": "katt-player-2026-09-07",
+    "display_name": "katt-player",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "katt-player",
+        "ecosystem": "npm",
+        "versions": [
+          "0.2.3",
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4118",
+            "osv_published_at": "2022-06-22T10:12:36Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:10:24Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:10:24Z",
+    "osv_earliest_published_at": "2022-06-22T10:12:36Z",
+    "source_published_at": "2022-06-22T10:12:36Z",
+    "observed_at": "2026-09-07T06:10:24Z",
+    "ingested_at": "2026-09-07T06:10:24Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:17:03Z",
+    "ledger_committed_at": "2026-09-07T10:17:03Z"
   }
 ]
