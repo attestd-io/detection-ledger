@@ -654664,5 +654664,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:55:09Z",
     "ledger_committed_at": "2026-09-07T20:55:09Z"
+  },
+  {
+    "id": "atlasmonorepo-atlas-custom-behaviour-2026-09-07",
+    "display_name": "@atlasmonorepo/atlas-custom-behaviour",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@atlasmonorepo/atlas-custom-behaviour",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-87",
+            "osv_published_at": "2022-06-20T20:21:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:00:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:00:49Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:08Z",
+    "source_published_at": "2022-06-20T20:21:08Z",
+    "observed_at": "2026-09-07T12:00:49Z",
+    "ingested_at": "2026-09-07T12:00:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T20:55:20Z",
+    "ledger_committed_at": "2026-09-07T20:55:20Z"
   }
 ]
