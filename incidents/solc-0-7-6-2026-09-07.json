@@ -1,0 +1,38 @@
+{
+  "id": "solc-0-7-6-2026-09-07",
+  "display_name": "solc-0.7.6",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "solc-0.7.6",
+      "ecosystem": "npm",
+      "versions": [
+        "0.7.6",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6207",
+          "osv_published_at": "2022-06-20T20:19:51Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:19:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:19:08Z",
+  "osv_earliest_published_at": "2022-06-20T20:19:51Z",
+  "source_published_at": "2022-06-20T20:19:51Z",
+  "observed_at": "2026-09-07T09:19:08Z",
+  "ingested_at": "2026-09-07T09:19:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:41:52Z",
+  "ledger_committed_at": "2026-09-07T16:41:52Z"
+}
