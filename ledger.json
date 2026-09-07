@@ -357021,5 +357021,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T03:49:41Z",
     "ledger_committed_at": "2026-09-07T03:49:41Z"
+  },
+  {
+    "id": "codefest-internal-dependency-2026-09-07",
+    "display_name": "codefest-internal-dependency",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "codefest-internal-dependency",
+        "ecosystem": "npm",
+        "versions": [
+          "4.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-1971",
+            "osv_published_at": "2022-06-20T21:13:14Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:49:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:49:33Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:14Z",
+    "source_published_at": "2022-06-20T21:13:14Z",
+    "observed_at": "2026-09-07T03:49:33Z",
+    "ingested_at": "2026-09-07T03:49:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T03:49:49Z",
+    "ledger_committed_at": "2026-09-07T03:49:49Z"
   }
 ]
