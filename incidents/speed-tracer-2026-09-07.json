@@ -1,0 +1,40 @@
+{
+  "id": "speed-tracer-2026-09-07",
+  "display_name": "speed-tracer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "speed-tracer",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "13.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6233",
+          "osv_published_at": "2022-06-20T18:20:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:22:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:22:21Z",
+  "osv_earliest_published_at": "2022-06-20T18:20:48Z",
+  "source_published_at": "2022-06-20T18:20:48Z",
+  "observed_at": "2026-09-07T09:22:21Z",
+  "ingested_at": "2026-09-07T09:22:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:48:23Z",
+  "ledger_committed_at": "2026-09-07T16:48:23Z"
+}
