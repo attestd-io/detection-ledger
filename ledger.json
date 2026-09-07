@@ -468461,5 +468461,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T10:45:18Z",
     "ledger_committed_at": "2026-09-07T10:45:18Z"
+  },
+  {
+    "id": "lefko-pd-2026-09-07",
+    "display_name": "lefko-pd",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "lefko-pd",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-4274",
+            "osv_published_at": "2022-08-19T03:55:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:18:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:18:03Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:16Z",
+    "source_published_at": "2022-08-19T03:55:16Z",
+    "observed_at": "2026-09-07T06:18:03Z",
+    "ingested_at": "2026-09-07T06:18:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T10:45:26Z",
+    "ledger_committed_at": "2026-09-07T10:45:26Z"
   }
 ]
