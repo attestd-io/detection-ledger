@@ -629068,5 +629068,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:19:45Z",
     "ledger_committed_at": "2026-09-07T19:19:45Z"
+  },
+  {
+    "id": "we-lib-login-tgp-2026-09-07",
+    "display_name": "we-lib-login-tgp",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "we-lib-login-tgp",
+        "ecosystem": "npm",
+        "versions": [
+          "69.69.69"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7061",
+            "osv_published_at": "2022-10-31T04:46:34Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:04:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:04:05Z",
+    "osv_earliest_published_at": "2022-10-31T04:46:34Z",
+    "source_published_at": "2022-10-31T04:46:34Z",
+    "observed_at": "2026-09-07T11:04:05Z",
+    "ingested_at": "2026-09-07T11:04:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:19:55Z",
+    "ledger_committed_at": "2026-09-07T19:19:55Z"
   }
 ]
