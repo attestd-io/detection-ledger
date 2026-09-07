@@ -613676,5 +613676,39 @@
     "advisory_url": "https://registry.npmjs.org/%40mdn%2Fbob",
     "ledger_commit_at": "2026-09-07T18:29:43Z",
     "ledger_committed_at": "2026-09-07T18:29:43Z"
+  },
+  {
+    "id": "myop-react-2026-09-07",
+    "display_name": "@myop/react",
+    "campaign": "alice-bob",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@myop/react",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2",
+          "0.0.3",
+          "0.0.4"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:39:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:39:03Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T10:39:03Z",
+    "ingested_at": "2026-09-07T10:39:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40myop%2Freact",
+    "ledger_commit_at": "2026-09-07T18:29:53Z",
+    "ledger_committed_at": "2026-09-07T18:29:53Z"
   }
 ]
