@@ -666477,5 +666477,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:45:12Z",
     "ledger_committed_at": "2026-09-07T21:45:12Z"
+  },
+  {
+    "id": "algo-svnspawn-2026-09-07",
+    "display_name": "algo-svnspawn",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "algo-svnspawn",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "unpublished"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-1548",
+            "osv_published_at": "2023-04-26T00:00:00Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:37:47Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:37:47Z",
+    "osv_earliest_published_at": "2023-04-26T00:00:00Z",
+    "source_published_at": "2023-04-26T00:00:00Z",
+    "observed_at": "2026-09-07T12:37:47Z",
+    "ingested_at": "2026-09-07T12:37:47Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:45:21Z",
+    "ledger_committed_at": "2026-09-07T21:45:21Z"
   }
 ]
