@@ -1,0 +1,37 @@
+{
+  "id": "apitelegraf-2026-09-07",
+  "display_name": "apitelegraf",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "apitelegraf",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-102",
+          "osv_published_at": "2023-05-09T01:09:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:24:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:24:49Z",
+  "osv_earliest_published_at": "2023-05-09T01:09:05Z",
+  "source_published_at": "2023-05-09T01:09:05Z",
+  "observed_at": "2026-09-07T12:24:49Z",
+  "ingested_at": "2026-09-07T12:24:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:22:20Z",
+  "ledger_committed_at": "2026-09-07T21:22:20Z"
+}
