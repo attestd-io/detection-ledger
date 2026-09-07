@@ -377752,5 +377752,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:53:00Z",
     "ledger_committed_at": "2026-09-07T04:53:00Z"
+  },
+  {
+    "id": "dapp2nix-2026-09-07",
+    "display_name": "dapp2nix",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "dapp2nix",
+        "ecosystem": "npm",
+        "versions": [
+          "69.69.69"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2329",
+            "osv_published_at": "2022-10-24T04:21:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:32:09Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:32:09Z",
+    "osv_earliest_published_at": "2022-10-24T04:21:38Z",
+    "source_published_at": "2022-10-24T04:21:38Z",
+    "observed_at": "2026-09-07T04:32:09Z",
+    "ingested_at": "2026-09-07T04:32:09Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:53:08Z",
+    "ledger_committed_at": "2026-09-07T04:53:08Z"
   }
 ]
