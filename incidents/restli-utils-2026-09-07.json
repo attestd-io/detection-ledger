@@ -1,0 +1,46 @@
+{
+  "id": "restli-utils-2026-09-07",
+  "display_name": "restli-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "restli-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.5",
+        "1.632.5",
+        "2.633.5",
+        "3.634.5",
+        "4.635.5",
+        "5.636.5",
+        "6.637.5",
+        "7.638.5",
+        "8.639.5",
+        "9.640.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-5768",
+          "osv_published_at": "2022-07-12T21:25:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T08:21:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T08:21:13Z",
+  "osv_earliest_published_at": "2022-07-12T21:25:08Z",
+  "source_published_at": "2022-07-12T21:25:08Z",
+  "observed_at": "2026-09-07T08:21:13Z",
+  "ingested_at": "2026-09-07T08:21:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T15:16:50Z",
+  "ledger_committed_at": "2026-09-07T15:16:50Z"
+}
