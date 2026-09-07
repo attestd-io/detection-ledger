@@ -381928,5 +381928,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:07:48Z",
     "ledger_committed_at": "2026-09-07T05:07:48Z"
+  },
+  {
+    "id": "depedence-confusion-2026-09-07",
+    "display_name": "depedence-confusion",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "depedence-confusion",
+        "ecosystem": "npm",
+        "versions": [
+          "4.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2429",
+            "osv_published_at": "2022-06-01T09:10:16Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:39:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:39:13Z",
+    "osv_earliest_published_at": "2022-06-01T09:10:16Z",
+    "source_published_at": "2022-06-01T09:10:16Z",
+    "observed_at": "2026-09-07T04:39:13Z",
+    "ingested_at": "2026-09-07T04:39:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:07:56Z",
+    "ledger_committed_at": "2026-09-07T05:07:56Z"
   }
 ]
