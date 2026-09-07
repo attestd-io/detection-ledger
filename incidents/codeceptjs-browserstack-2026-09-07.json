@@ -1,0 +1,39 @@
+{
+  "id": "codeceptjs-browserstack-2026-09-07",
+  "display_name": "codeceptjs-browserstack",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "codeceptjs-browserstack",
+      "ecosystem": "npm",
+      "versions": [
+        "5.0.2",
+        "6.0.2",
+        "7.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-197",
+          "osv_published_at": "2023-02-02T20:05:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:39:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:39:04Z",
+  "osv_earliest_published_at": "2023-02-02T20:05:23Z",
+  "source_published_at": "2023-02-02T20:05:23Z",
+  "observed_at": "2026-09-07T12:39:04Z",
+  "ingested_at": "2026-09-07T12:39:04Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T21:50:30Z",
+  "ledger_committed_at": "2026-09-07T21:50:30Z"
+}
