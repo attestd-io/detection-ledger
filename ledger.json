@@ -611763,5 +611763,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:21:15Z",
     "ledger_committed_at": "2026-09-07T18:21:15Z"
+  },
+  {
+    "id": "ui-shop-2026-09-07",
+    "display_name": "ui-shop",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ui-shop",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6757",
+            "osv_published_at": "2022-07-21T10:55:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:34:27Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:34:27Z",
+    "osv_earliest_published_at": "2022-07-21T10:55:48Z",
+    "source_published_at": "2022-07-21T10:55:48Z",
+    "observed_at": "2026-09-07T10:34:27Z",
+    "ingested_at": "2026-09-07T10:34:27Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:21:25Z",
+    "ledger_committed_at": "2026-09-07T18:21:25Z"
   }
 ]
