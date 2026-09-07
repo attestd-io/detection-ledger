@@ -1,0 +1,37 @@
+{
+  "id": "smartcontractkit-2026-09-07",
+  "display_name": "smartcontractkit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "smartcontractkit",
+      "ecosystem": "npm",
+      "versions": [
+        "100.1.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6174",
+          "osv_published_at": "2022-06-20T21:13:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:10:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:10:32Z",
+  "osv_earliest_published_at": "2022-06-20T21:13:15Z",
+  "source_published_at": "2022-06-20T21:13:15Z",
+  "observed_at": "2026-09-07T09:10:32Z",
+  "ingested_at": "2026-09-07T09:10:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T16:31:39Z",
+  "ledger_committed_at": "2026-09-07T16:31:39Z"
+}
