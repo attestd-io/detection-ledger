@@ -513980,5 +513980,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:09:24Z",
     "ledger_committed_at": "2026-09-07T13:09:24Z"
+  },
+  {
+    "id": "olx-hubot-2026-09-07",
+    "display_name": "olx-hubot",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "olx-hubot",
+        "ecosystem": "npm",
+        "versions": [
+          "999.999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5059",
+            "osv_published_at": "2022-06-02T10:38:35Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:33:03Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:33:03Z",
+    "osv_earliest_published_at": "2022-06-02T10:38:35Z",
+    "source_published_at": "2022-06-02T10:38:35Z",
+    "observed_at": "2026-09-07T07:33:03Z",
+    "ingested_at": "2026-09-07T07:33:03Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:09:33Z",
+    "ledger_committed_at": "2026-09-07T13:09:33Z"
   }
 ]
