@@ -637382,5 +637382,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:54:27Z",
     "ledger_committed_at": "2026-09-07T19:54:27Z"
+  },
+  {
+    "id": "www-coingecko-com-2026-09-07",
+    "display_name": "www.coingecko.com",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "www.coingecko.com",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7251",
+            "osv_published_at": "2022-08-24T01:44:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:13:33Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:13:33Z",
+    "osv_earliest_published_at": "2022-08-24T01:44:07Z",
+    "source_published_at": "2022-08-24T01:44:07Z",
+    "observed_at": "2026-09-07T11:13:33Z",
+    "ingested_at": "2026-09-07T11:13:33Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:54:37Z",
+    "ledger_committed_at": "2026-09-07T19:54:37Z"
   }
 ]
