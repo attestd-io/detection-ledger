@@ -409625,5 +409625,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:43:31Z",
     "ledger_committed_at": "2026-09-07T06:43:31Z"
+  },
+  {
+    "id": "gs-ux-uitoolkit-react-shared-2026-09-07",
+    "display_name": "@gs-ux-uitoolkit-react/shared",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@gs-ux-uitoolkit-react/shared",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "100.0.0",
+          "2.0.0",
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-304",
+            "osv_published_at": "2022-06-20T20:25:27Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:09:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:09:42Z",
+    "osv_earliest_published_at": "2022-06-20T20:25:27Z",
+    "source_published_at": "2022-06-20T20:25:27Z",
+    "observed_at": "2026-09-07T05:09:42Z",
+    "ingested_at": "2026-09-07T05:09:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:43:39Z",
+    "ledger_committed_at": "2026-09-07T06:43:39Z"
   }
 ]
