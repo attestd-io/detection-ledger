@@ -663568,5 +663568,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T21:33:03Z",
     "ledger_committed_at": "2026-09-07T21:33:03Z"
+  },
+  {
+    "id": "best-man-fine-2026-09-07",
+    "display_name": "best-man-fine",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "best-man-fine",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-129",
+            "osv_published_at": "2023-01-20T06:09:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:30:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:30:15Z",
+    "osv_earliest_published_at": "2023-01-20T06:09:29Z",
+    "source_published_at": "2023-01-20T06:09:29Z",
+    "observed_at": "2026-09-07T12:30:15Z",
+    "ingested_at": "2026-09-07T12:30:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T21:33:13Z",
+    "ledger_committed_at": "2026-09-07T21:33:13Z"
   }
 ]
