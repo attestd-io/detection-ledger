@@ -610684,5 +610684,49 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T18:16:54Z",
     "ledger_committed_at": "2026-09-07T18:16:54Z"
+  },
+  {
+    "id": "ucs-list-2026-09-07",
+    "display_name": "ucs-list",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ucs-list",
+        "ecosystem": "npm",
+        "versions": [
+          "0.999.999",
+          "0.9999.9999",
+          "1.9999.9999",
+          "2.6.0",
+          "2.9999.9999",
+          "3.9999.9999",
+          "4.9999.9999",
+          "5.9999.9999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6732",
+            "osv_published_at": "2022-06-20T20:18:57Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:33:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:33:48Z",
+    "osv_earliest_published_at": "2022-06-20T20:18:57Z",
+    "source_published_at": "2022-06-20T20:18:57Z",
+    "observed_at": "2026-09-07T10:33:48Z",
+    "ingested_at": "2026-09-07T10:33:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:17:03Z",
+    "ledger_committed_at": "2026-09-07T18:17:03Z"
   }
 ]
