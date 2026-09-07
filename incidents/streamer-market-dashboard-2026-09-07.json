@@ -1,0 +1,46 @@
+{
+  "id": "streamer-market-dashboard-2026-09-07",
+  "display_name": "streamer-market-dashboard",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "streamer-market-dashboard",
+      "ecosystem": "npm",
+      "versions": [
+        "0.9656.2",
+        "1.9656.2",
+        "2.9656.2",
+        "3.9656.2",
+        "4.9656.2",
+        "5.9656.2",
+        "6.9656.2",
+        "7.9656.2",
+        "8.9656.2",
+        "9852.9656.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-6323",
+          "osv_published_at": "2022-06-20T20:20:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T09:38:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T09:38:08Z",
+  "osv_earliest_published_at": "2022-06-20T20:20:23Z",
+  "source_published_at": "2022-06-20T20:20:23Z",
+  "observed_at": "2026-09-07T09:38:08Z",
+  "ingested_at": "2026-09-07T09:38:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T17:08:18Z",
+  "ledger_committed_at": "2026-09-07T17:08:18Z"
+}
