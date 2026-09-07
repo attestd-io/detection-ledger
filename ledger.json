@@ -408405,5 +408405,37 @@
     "advisory_url": "https://registry.npmjs.org/%40kern-ux%2Fnative",
     "ledger_commit_at": "2026-09-07T06:38:47Z",
     "ledger_committed_at": "2026-09-07T06:38:47Z"
+  },
+  {
+    "id": "leonio-kern-ux-mcp-2026-09-07",
+    "display_name": "@leonio/kern-ux-mcp",
+    "campaign": "gs-ux-uitoolkit-react",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@leonio/kern-ux-mcp",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0-semver"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:07:49Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:07:49Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:07:49Z",
+    "ingested_at": "2026-09-07T05:07:49Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40leonio%2Fkern-ux-mcp",
+    "ledger_commit_at": "2026-09-07T06:38:55Z",
+    "ledger_committed_at": "2026-09-07T06:38:55Z"
   }
 ]
