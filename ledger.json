@@ -557264,5 +557264,46 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:05:54Z",
     "ledger_committed_at": "2026-09-07T16:05:54Z"
+  },
+  {
+    "id": "service-client-ebay-2026-09-07",
+    "display_name": "service-client-ebay",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "service-client-ebay",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "99.99.99",
+          "99.99.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6030",
+            "osv_published_at": "2022-09-14T07:23:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:44:42Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:44:42Z",
+    "osv_earliest_published_at": "2022-09-14T07:23:10Z",
+    "source_published_at": "2022-09-14T07:23:10Z",
+    "observed_at": "2026-09-07T08:44:42Z",
+    "ingested_at": "2026-09-07T08:44:42Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T16:06:04Z",
+    "ledger_committed_at": "2026-09-07T16:06:04Z"
   }
 ]
