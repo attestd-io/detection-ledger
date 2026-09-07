@@ -1,0 +1,37 @@
+{
+  "id": "my-amplify-plugin-2026-09-07",
+  "display_name": "my-amplify-plugin",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "my-amplify-plugin",
+      "ecosystem": "npm",
+      "versions": [
+        "200.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4745",
+          "osv_published_at": "2022-06-20T20:25:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:50:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:50:38Z",
+  "osv_earliest_published_at": "2022-06-20T20:25:38Z",
+  "source_published_at": "2022-06-20T20:25:38Z",
+  "observed_at": "2026-09-07T06:50:38Z",
+  "ingested_at": "2026-09-07T06:50:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:08:33Z",
+  "ledger_committed_at": "2026-09-07T12:08:33Z"
+}
