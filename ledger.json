@@ -398951,5 +398951,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:05:45Z",
     "ledger_committed_at": "2026-09-07T06:05:45Z"
+  },
+  {
+    "id": "3exprem-2026-09-07",
+    "display_name": "3exprem",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "3exprem",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-28",
+            "osv_published_at": "2022-08-19T03:55:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:59:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:59:57Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:12Z",
+    "source_published_at": "2022-08-19T03:55:12Z",
+    "observed_at": "2026-09-07T04:59:57Z",
+    "ingested_at": "2026-09-07T04:59:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:05:53Z",
+    "ledger_committed_at": "2026-09-07T06:05:53Z"
   }
 ]
