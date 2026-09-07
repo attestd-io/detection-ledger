@@ -1,0 +1,39 @@
+{
+  "id": "moralis-web3-providers-ws-2026-09-07",
+  "display_name": "moralis-web3-providers-ws",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "moralis-web3-providers-ws",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "3.0.0",
+        "3.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4695",
+          "osv_published_at": "2022-06-20T20:11:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:48:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:48:59Z",
+  "osv_earliest_published_at": "2022-06-20T20:11:38Z",
+  "source_published_at": "2022-06-20T20:11:38Z",
+  "observed_at": "2026-09-07T06:48:59Z",
+  "ingested_at": "2026-09-07T06:48:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:00:39Z",
+  "ledger_committed_at": "2026-09-07T12:00:39Z"
+}
