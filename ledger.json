@@ -685483,5 +685483,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:08:46Z",
     "ledger_committed_at": "2026-09-07T23:08:46Z"
+  },
+  {
+    "id": "ozstesting-pt-2026-09-07",
+    "display_name": "ozstesting-pt",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ozstesting-pt",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-665",
+            "osv_published_at": "2023-05-01T10:12:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:04:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:04:08Z",
+    "osv_earliest_published_at": "2023-05-01T10:12:13Z",
+    "source_published_at": "2023-05-01T10:12:13Z",
+    "observed_at": "2026-09-07T13:04:08Z",
+    "ingested_at": "2026-09-07T13:04:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:08:55Z",
+    "ledger_committed_at": "2026-09-07T23:08:55Z"
   }
 ]
