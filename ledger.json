@@ -623664,5 +623664,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:12:24Z",
     "ledger_committed_at": "2026-09-07T19:12:24Z"
+  },
+  {
+    "id": "wafer-toggle-2026-09-07",
+    "display_name": "wafer-toggle",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wafer-toggle",
+        "ecosystem": "npm",
+        "versions": [
+          "1.15.3",
+          "1.15.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7029",
+            "osv_published_at": "2022-06-20T20:16:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:54:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:54:14Z",
+    "osv_earliest_published_at": "2022-06-20T20:16:01Z",
+    "source_published_at": "2022-06-20T20:16:01Z",
+    "observed_at": "2026-09-07T10:54:14Z",
+    "ingested_at": "2026-09-07T10:54:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:12:34Z",
+    "ledger_committed_at": "2026-09-07T19:12:34Z"
   }
 ]
