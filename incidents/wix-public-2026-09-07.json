@@ -1,0 +1,42 @@
+{
+  "id": "wix-public-2026-09-07",
+  "display_name": "wix-public",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wix-public",
+      "ecosystem": "npm",
+      "versions": [
+        "0.99.99",
+        "0.999.999",
+        "1.235.0",
+        "1.999.999",
+        "2.999.999",
+        "3.999.999"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-7174",
+          "osv_published_at": "2022-06-20T20:21:18Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:11:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:11:09Z",
+  "osv_earliest_published_at": "2022-06-20T20:21:18Z",
+  "source_published_at": "2022-06-20T20:21:18Z",
+  "observed_at": "2026-09-07T11:11:09Z",
+  "ingested_at": "2026-09-07T11:11:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T19:41:46Z",
+  "ledger_committed_at": "2026-09-07T19:41:46Z"
+}
