@@ -513718,5 +513718,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T13:08:14Z",
     "ledger_committed_at": "2026-09-07T13:08:14Z"
+  },
+  {
+    "id": "okhsa-2026-09-07",
+    "display_name": "okhsa",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "okhsa",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "0.1.1",
+          "0.1.2",
+          "0.1.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5052",
+            "osv_published_at": "2022-06-20T20:20:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:32:58Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:32:58Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:37Z",
+    "source_published_at": "2022-06-20T20:20:37Z",
+    "observed_at": "2026-09-07T07:32:58Z",
+    "ingested_at": "2026-09-07T07:32:58Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T13:08:23Z",
+    "ledger_committed_at": "2026-09-07T13:08:23Z"
   }
 ]
