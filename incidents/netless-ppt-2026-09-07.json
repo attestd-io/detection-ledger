@@ -1,0 +1,45 @@
+{
+  "id": "netless-ppt-2026-09-07",
+  "display_name": "netless-ppt",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "netless-ppt",
+      "ecosystem": "npm",
+      "versions": [
+        "0.99.99",
+        "1.99.99",
+        "2.99.99",
+        "3.99.99",
+        "4.99.99",
+        "5.99.99",
+        "6.99.99",
+        "7.99.99",
+        "8.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-4804",
+          "osv_published_at": "2022-06-20T20:26:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T06:53:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T06:53:21Z",
+  "osv_earliest_published_at": "2022-06-20T20:26:23Z",
+  "source_published_at": "2022-06-20T20:26:23Z",
+  "observed_at": "2026-09-07T06:53:21Z",
+  "ingested_at": "2026-09-07T06:53:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T12:18:17Z",
+  "ledger_committed_at": "2026-09-07T12:18:17Z"
+}
