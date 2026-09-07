@@ -683017,5 +683017,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T22:57:43Z",
     "ledger_committed_at": "2026-09-07T22:57:43Z"
+  },
+  {
+    "id": "marketplace-frontend-client-config-2026-09-07",
+    "display_name": "marketplace-frontend-client-config",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "marketplace-frontend-client-config",
+        "ecosystem": "npm",
+        "versions": [
+          "999.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-584",
+            "osv_published_at": "2023-04-03T06:01:52Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T12:59:56Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T12:59:56Z",
+    "osv_earliest_published_at": "2023-04-03T06:01:52Z",
+    "source_published_at": "2023-04-03T06:01:52Z",
+    "observed_at": "2026-09-07T12:59:56Z",
+    "ingested_at": "2026-09-07T12:59:56Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T22:57:53Z",
+    "ledger_committed_at": "2026-09-07T22:57:53Z"
   }
 ]
