@@ -578411,5 +578411,42 @@
     "advisory_url": "https://registry.npmjs.org/%40scania%2Ftegel-react",
     "ledger_commit_at": "2026-09-07T17:02:56Z",
     "ledger_committed_at": "2026-09-07T17:02:56Z"
+  },
+  {
+    "id": "signpdf-signpdf-2026-09-07",
+    "display_name": "@signpdf/signpdf",
+    "campaign": "aia-digital",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@signpdf/signpdf",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.2",
+          "3.0.3",
+          "3.0.4",
+          "3.0.5",
+          "3.0.6",
+          "3.0.8"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:36:46Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:36:46Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T09:36:46Z",
+    "ingested_at": "2026-09-07T09:36:46Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40signpdf%2Fsignpdf",
+    "ledger_commit_at": "2026-09-07T17:03:06Z",
+    "ledger_committed_at": "2026-09-07T17:03:06Z"
   }
 ]
