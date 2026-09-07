@@ -371648,5 +371648,40 @@
     "advisory_url": "https://registry.npmjs.org/expo-maps",
     "ledger_commit_at": "2026-09-07T04:40:45Z",
     "ledger_committed_at": "2026-09-07T04:40:45Z"
+  },
+  {
+    "id": "react-kakao-maps-sdk-2026-09-07",
+    "display_name": "react-kakao-maps-sdk",
+    "campaign": "eg-maps",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "react-kakao-maps-sdk",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.10",
+          "1.1.13",
+          "1.1.5-beta-0",
+          "1.1.5-beta-1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:12:13Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:12:13Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:12:13Z",
+    "ingested_at": "2026-09-07T04:12:13Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/react-kakao-maps-sdk",
+    "ledger_commit_at": "2026-09-07T04:40:53Z",
+    "ledger_committed_at": "2026-09-07T04:40:53Z"
   }
 ]
