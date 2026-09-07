@@ -418994,5 +418994,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:18:23Z",
     "ledger_committed_at": "2026-09-07T07:18:23Z"
+  },
+  {
+    "id": "g8untcotribwatch-2026-09-07",
+    "display_name": "g8untcotribwatch",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "g8untcotribwatch",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "0.0.1-security.2",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3262",
+            "osv_published_at": "2022-08-19T03:55:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:14:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:14:37Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:08Z",
+    "source_published_at": "2022-08-19T03:55:08Z",
+    "observed_at": "2026-09-07T05:14:37Z",
+    "ingested_at": "2026-09-07T05:14:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:18:32Z",
+    "ledger_committed_at": "2026-09-07T07:18:32Z"
   }
 ]
