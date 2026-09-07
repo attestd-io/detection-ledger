@@ -1,0 +1,37 @@
+{
+  "id": "xvideos-anonymizer-2026-09-07",
+  "display_name": "@xvideos/anonymizer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@xvideos/anonymizer",
+      "ecosystem": "npm",
+      "versions": [
+        "624.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-742",
+          "osv_published_at": "2022-06-20T20:18:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:36:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:36:28Z",
+  "osv_earliest_published_at": "2022-06-20T20:18:37Z",
+  "source_published_at": "2022-06-20T20:18:37Z",
+  "observed_at": "2026-09-07T11:36:28Z",
+  "ingested_at": "2026-09-07T11:36:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T20:27:14Z",
+  "ledger_committed_at": "2026-09-07T20:27:14Z"
+}
