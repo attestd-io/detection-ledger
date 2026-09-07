@@ -359802,5 +359802,45 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T03:59:21Z",
     "ledger_committed_at": "2026-09-07T03:59:21Z"
+  },
+  {
+    "id": "com-google-2026-09-07",
+    "display_name": "com.google",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "com.google",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "1.0.0",
+          "2.0.0",
+          "3.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2033",
+            "osv_published_at": "2022-06-20T20:26:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:52:25Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:52:25Z",
+    "osv_earliest_published_at": "2022-06-20T20:26:29Z",
+    "source_published_at": "2022-06-20T20:26:29Z",
+    "observed_at": "2026-09-07T03:52:25Z",
+    "ingested_at": "2026-09-07T03:52:25Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T03:59:28Z",
+    "ledger_committed_at": "2026-09-07T03:59:28Z"
   }
 ]
