@@ -606847,5 +606847,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T17:59:59Z",
     "ledger_committed_at": "2026-09-07T17:59:59Z"
+  },
+  {
+    "id": "trip-tracker-web-2026-09-07",
+    "display_name": "trip-tracker-web",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "trip-tracker-web",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-6654",
+            "osv_published_at": "2022-06-20T20:26:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T10:16:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T10:16:19Z",
+    "osv_earliest_published_at": "2022-06-20T20:26:07Z",
+    "source_published_at": "2022-06-20T20:26:07Z",
+    "observed_at": "2026-09-07T10:16:19Z",
+    "ingested_at": "2026-09-07T10:16:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T18:00:11Z",
+    "ledger_committed_at": "2026-09-07T18:00:11Z"
   }
 ]
