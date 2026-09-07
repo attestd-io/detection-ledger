@@ -438091,5 +438091,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T08:28:59Z",
     "ledger_committed_at": "2026-09-07T08:28:59Z"
+  },
+  {
+    "id": "hogajnjs-2026-09-07",
+    "display_name": "hogajnjs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "hogajnjs",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.2.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3651",
+            "osv_published_at": "2022-08-19T03:55:09Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:33:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:33:01Z",
+    "osv_earliest_published_at": "2022-08-19T03:55:09Z",
+    "source_published_at": "2022-08-19T03:55:09Z",
+    "observed_at": "2026-09-07T05:33:01Z",
+    "ingested_at": "2026-09-07T05:33:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T08:29:07Z",
+    "ledger_committed_at": "2026-09-07T08:29:07Z"
   }
 ]
