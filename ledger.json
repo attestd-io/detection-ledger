@@ -529696,5 +529696,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:10:16Z",
     "ledger_committed_at": "2026-09-07T14:10:16Z"
+  },
+  {
+    "id": "portail-web-2026-09-07",
+    "display_name": "portail-web",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "portail-web",
+        "ecosystem": "npm",
+        "versions": [
+          "0.9.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5418",
+            "osv_published_at": "2022-07-21T10:55:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:56:12Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:56:12Z",
+    "osv_earliest_published_at": "2022-07-21T10:55:49Z",
+    "source_published_at": "2022-07-21T10:55:49Z",
+    "observed_at": "2026-09-07T07:56:12Z",
+    "ingested_at": "2026-09-07T07:56:12Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:10:26Z",
+    "ledger_committed_at": "2026-09-07T14:10:26Z"
   }
 ]
