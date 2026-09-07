@@ -636770,5 +636770,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:51:48Z",
     "ledger_committed_at": "2026-09-07T19:51:48Z"
+  },
+  {
+    "id": "wpjslib-2026-09-07",
+    "display_name": "wpjslib",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wpjslib",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "2.4.344",
+          "2.4.345"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7235",
+            "osv_published_at": "2022-06-20T21:13:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:13:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:13:14Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:20Z",
+    "source_published_at": "2022-06-20T21:13:20Z",
+    "observed_at": "2026-09-07T11:13:14Z",
+    "ingested_at": "2026-09-07T11:13:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:51:58Z",
+    "ledger_committed_at": "2026-09-07T19:51:58Z"
   }
 ]
