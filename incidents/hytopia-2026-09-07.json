@@ -1,0 +1,39 @@
+{
+  "id": "hytopia-2026-09-07",
+  "display_name": "hytopia",
+  "campaign": "yoyo-games",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "hytopia",
+      "ecosystem": "npm",
+      "versions": [
+        "0.3.0-dev.1",
+        "0.4.5",
+        "0.4.6",
+        "0.5.0-dev2",
+        "0.5.16",
+        "0.5.17",
+        "0.5.18",
+        "0.5.9"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T11:50:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T11:50:18Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T11:50:18Z",
+  "ingested_at": "2026-09-07T11:50:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/hytopia",
+  "ledger_commit_at": "2026-09-07T20:38:08Z",
+  "ledger_committed_at": "2026-09-07T20:38:08Z"
+}
