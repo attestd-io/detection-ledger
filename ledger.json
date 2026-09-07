@@ -512437,5 +512437,42 @@
     "advisory_url": "https://registry.npmjs.org/%40coveo%2Fquantic",
     "ledger_commit_at": "2026-09-07T13:03:19Z",
     "ledger_committed_at": "2026-09-07T13:03:19Z"
+  },
+  {
+    "id": "huggingface-hub-2026-09-07",
+    "display_name": "@huggingface/hub",
+    "campaign": "pixiv-vroid-hub",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@huggingface/hub",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0",
+          "0.0.0-0",
+          "0.0.0-1",
+          "0.0.0-2",
+          "0.0.8-streaming-sha",
+          "0.0.8-streaming-sha2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T07:31:28Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T07:31:28Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T07:31:28Z",
+    "ingested_at": "2026-09-07T07:31:28Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40huggingface%2Fhub",
+    "ledger_commit_at": "2026-09-07T13:03:28Z",
+    "ledger_committed_at": "2026-09-07T13:03:28Z"
   }
 ]
