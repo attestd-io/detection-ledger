@@ -410466,5 +410466,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:46:38Z",
     "ledger_committed_at": "2026-09-07T06:46:38Z"
+  },
+  {
+    "id": "harrysforge-accordion-2026-09-07",
+    "display_name": "@harrysforge/accordion",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@harrysforge/accordion",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.999",
+          "0.999.999",
+          "999.999.999"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-306",
+            "osv_published_at": "2022-06-20T20:20:38Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:10:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:10:39Z",
+    "osv_earliest_published_at": "2022-06-20T20:20:38Z",
+    "source_published_at": "2022-06-20T20:20:38Z",
+    "observed_at": "2026-09-07T05:10:39Z",
+    "ingested_at": "2026-09-07T05:10:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:46:46Z",
+    "ledger_committed_at": "2026-09-07T06:46:46Z"
   }
 ]
