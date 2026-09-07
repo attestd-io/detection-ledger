@@ -685641,5 +685641,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T23:09:26Z",
     "ledger_committed_at": "2026-09-07T23:09:26Z"
+  },
+  {
+    "id": "pdb-extensions-2026-09-07",
+    "display_name": "pdb-extensions",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pdb-extensions",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-671",
+            "osv_published_at": "2023-01-30T11:42:13Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:04:15Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:04:15Z",
+    "osv_earliest_published_at": "2023-01-30T11:42:13Z",
+    "source_published_at": "2023-01-30T11:42:13Z",
+    "observed_at": "2026-09-07T13:04:15Z",
+    "ingested_at": "2026-09-07T13:04:15Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T23:09:36Z",
+    "ledger_committed_at": "2026-09-07T23:09:36Z"
   }
 ]
