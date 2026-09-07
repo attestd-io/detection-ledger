@@ -425386,5 +425386,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:42:30Z",
     "ledger_committed_at": "2026-09-07T07:42:30Z"
+  },
+  {
+    "id": "google-bigquery-adapter-2026-09-07",
+    "display_name": "google-bigquery-adapter",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "google-bigquery-adapter",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "1.0.0",
+          "99.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3412",
+            "osv_published_at": "2022-06-20T20:12:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:18:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:18:41Z",
+    "osv_earliest_published_at": "2022-06-20T20:12:01Z",
+    "source_published_at": "2022-06-20T20:12:01Z",
+    "observed_at": "2026-09-07T05:18:41Z",
+    "ingested_at": "2026-09-07T05:18:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:42:40Z",
+    "ledger_committed_at": "2026-09-07T07:42:40Z"
   }
 ]
