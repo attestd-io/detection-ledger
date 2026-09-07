@@ -531131,5 +531131,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:16:04Z",
     "ledger_committed_at": "2026-09-07T14:16:04Z"
+  },
+  {
+    "id": "pratikyadavsm1-2026-09-07",
+    "display_name": "pratikyadavsm1",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pratikyadavsm1",
+        "ecosystem": "npm",
+        "versions": [
+          "199.99.99"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5443",
+            "osv_published_at": "2022-06-20T20:23:20Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:07:38Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:07:38Z",
+    "osv_earliest_published_at": "2022-06-20T20:23:20Z",
+    "source_published_at": "2022-06-20T20:23:20Z",
+    "observed_at": "2026-09-07T08:07:38Z",
+    "ingested_at": "2026-09-07T08:07:38Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:16:15Z",
+    "ledger_committed_at": "2026-09-07T14:16:15Z"
   }
 ]
