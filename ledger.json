@@ -385145,5 +385145,40 @@
     "advisory_url": "https://registry.npmjs.org/%40springbrand%2Fdsh-plugin-marketplace",
     "ledger_commit_at": "2026-09-07T05:19:04Z",
     "ledger_committed_at": "2026-09-07T05:19:04Z"
+  },
+  {
+    "id": "zero65tech-indian-stock-market-2026-09-07",
+    "display_name": "@zero65tech/indian-stock-market",
+    "campaign": "epic-mod-market",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@zero65tech/indian-stock-market",
+        "ecosystem": "npm",
+        "versions": [
+          "4.0.0",
+          "4.0.4",
+          "6.0.0",
+          "6.0.1"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:46:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:46:39Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T04:46:39Z",
+    "ingested_at": "2026-09-07T04:46:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40zero65tech%2Findian-stock-market",
+    "ledger_commit_at": "2026-09-07T05:19:12Z",
+    "ledger_committed_at": "2026-09-07T05:19:12Z"
   }
 ]
