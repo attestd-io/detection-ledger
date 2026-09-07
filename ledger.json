@@ -635595,5 +635595,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T19:46:42Z",
     "ledger_committed_at": "2026-09-07T19:46:42Z"
+  },
+  {
+    "id": "wm-salesforce-lightning-version-2026-09-07",
+    "display_name": "wm-salesforce-lightning-version",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wm-salesforce-lightning-version",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-7204",
+            "osv_published_at": "2022-06-20T21:13:28Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:12:44Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:12:44Z",
+    "osv_earliest_published_at": "2022-06-20T21:13:28Z",
+    "source_published_at": "2022-06-20T21:13:28Z",
+    "observed_at": "2026-09-07T11:12:44Z",
+    "ingested_at": "2026-09-07T11:12:44Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T19:46:52Z",
+    "ledger_committed_at": "2026-09-07T19:46:52Z"
   }
 ]
