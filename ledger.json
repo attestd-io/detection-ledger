@@ -367954,5 +367954,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T04:28:04Z",
     "ledger_committed_at": "2026-09-07T04:28:04Z"
+  },
+  {
+    "id": "cors-typescript-server-2026-09-07",
+    "display_name": "cors-typescript-server",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "cors-typescript-server",
+        "ecosystem": "npm",
+        "versions": [
+          "99.10.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2208",
+            "osv_published_at": "2022-06-20T20:16:54Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T03:59:41Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T03:59:41Z",
+    "osv_earliest_published_at": "2022-06-20T20:16:54Z",
+    "source_published_at": "2022-06-20T20:16:54Z",
+    "observed_at": "2026-09-07T03:59:41Z",
+    "ingested_at": "2026-09-07T03:59:41Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T04:28:11Z",
+    "ledger_committed_at": "2026-09-07T04:28:11Z"
   }
 ]
