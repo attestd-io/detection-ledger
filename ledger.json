@@ -415571,5 +415571,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T07:05:34Z",
     "ledger_committed_at": "2026-09-07T07:05:34Z"
+  },
+  {
+    "id": "free-primogems-2022-easy-2026-09-07",
+    "display_name": "free-primogems-2022-easy",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "free-primogems-2022-easy",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.24",
+          "1.2.25"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3181",
+            "osv_published_at": "2022-06-20T20:14:40Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:13:04Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:13:04Z",
+    "osv_earliest_published_at": "2022-06-20T20:14:40Z",
+    "source_published_at": "2022-06-20T20:14:40Z",
+    "observed_at": "2026-09-07T05:13:04Z",
+    "ingested_at": "2026-09-07T05:13:04Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T07:05:44Z",
+    "ledger_committed_at": "2026-09-07T07:05:44Z"
   }
 ]
