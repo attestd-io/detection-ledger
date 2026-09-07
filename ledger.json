@@ -385633,5 +385633,47 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T05:21:00Z",
     "ledger_committed_at": "2026-09-07T05:21:00Z"
+  },
+  {
+    "id": "discord-js-selfasta-2026-09-07",
+    "display_name": "discord.js-selfasta",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "discord.js-selfasta",
+        "ecosystem": "npm",
+        "versions": [
+          "12.0.2",
+          "13.4.0",
+          "13.4.1",
+          "13.4.2",
+          "13.4.3",
+          "13.4.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-2504",
+            "osv_published_at": "2022-09-01T08:29:37Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T04:47:10Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T04:47:10Z",
+    "osv_earliest_published_at": "2022-09-01T08:29:37Z",
+    "source_published_at": "2022-09-01T08:29:37Z",
+    "observed_at": "2026-09-07T04:47:10Z",
+    "ingested_at": "2026-09-07T04:47:10Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T05:21:07Z",
+    "ledger_committed_at": "2026-09-07T05:21:07Z"
   }
 ]
