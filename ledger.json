@@ -469612,5 +469612,37 @@
     "advisory_url": "https://registry.npmjs.org/portal-fe",
     "ledger_commit_at": "2026-09-07T10:50:20Z",
     "ledger_committed_at": "2026-09-07T10:50:20Z"
+  },
+  {
+    "id": "seller-fe-chrome-extension-2026-09-07",
+    "display_name": "seller-fe-chrome-extension",
+    "campaign": "md-fe",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "seller-fe-chrome-extension",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T06:20:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T06:20:05Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T06:20:05Z",
+    "ingested_at": "2026-09-07T06:20:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/seller-fe-chrome-extension",
+    "ledger_commit_at": "2026-09-07T10:50:28Z",
+    "ledger_committed_at": "2026-09-07T10:50:28Z"
   }
 ]
