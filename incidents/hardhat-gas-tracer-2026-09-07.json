@@ -1,0 +1,37 @@
+{
+  "id": "hardhat-gas-tracer-2026-09-07",
+  "display_name": "hardhat-gas-tracer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hardhat-gas-tracer",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.10"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8140",
+          "osv_published_at": "2023-09-18T01:31:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:12:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:12:38Z",
+  "osv_earliest_published_at": "2023-09-18T01:31:33Z",
+  "source_published_at": "2023-09-18T01:31:33Z",
+  "observed_at": "2026-09-07T13:12:38Z",
+  "ingested_at": "2026-09-07T13:12:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:40:13Z",
+  "ledger_committed_at": "2026-09-07T23:40:13Z"
+}
