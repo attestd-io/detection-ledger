@@ -1,0 +1,40 @@
+{
+  "id": "legoland-sdk-2026-09-07",
+  "display_name": "legoland-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "legoland-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "0.9.9",
+        "1.9.9",
+        "9.9.9",
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-566",
+          "osv_published_at": "2023-04-20T16:32:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:58:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:58:10Z",
+  "osv_earliest_published_at": "2023-04-20T16:32:27Z",
+  "source_published_at": "2023-04-20T16:32:27Z",
+  "observed_at": "2026-09-07T12:58:10Z",
+  "ingested_at": "2026-09-07T12:58:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:54:54Z",
+  "ledger_committed_at": "2026-09-07T22:54:54Z"
+}
