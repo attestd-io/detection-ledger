@@ -410242,5 +410242,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T06:45:47Z",
     "ledger_committed_at": "2026-09-07T06:45:47Z"
+  },
+  {
+    "id": "firestore-stripe-payments-js-2026-09-07",
+    "display_name": "firestore-stripe-payments-js",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "firestore-stripe-payments-js",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-3054",
+            "osv_published_at": "2022-06-20T20:21:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:10:34Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:10:34Z",
+    "osv_earliest_published_at": "2022-06-20T20:21:41Z",
+    "source_published_at": "2022-06-20T20:21:41Z",
+    "observed_at": "2026-09-07T05:10:34Z",
+    "ingested_at": "2026-09-07T05:10:34Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T06:45:56Z",
+    "ledger_committed_at": "2026-09-07T06:45:56Z"
   }
 ]
