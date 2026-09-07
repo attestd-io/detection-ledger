@@ -643705,5 +643705,39 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T20:20:14Z",
     "ledger_committed_at": "2026-09-07T20:20:14Z"
+  },
+  {
+    "id": "dpa-id-components-dpa-shared-components-2026-09-07",
+    "display_name": "@dpa-id-components/dpa-shared-components",
+    "campaign": "xjs-shared-components",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@dpa-id-components/dpa-shared-components",
+        "ecosystem": "npm",
+        "versions": [
+          "0.16.0",
+          "1.0.0",
+          "1.5.0"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T11:23:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T11:23:20Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T11:23:20Z",
+    "ingested_at": "2026-09-07T11:23:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40dpa-id-components%2Fdpa-shared-components",
+    "ledger_commit_at": "2026-09-07T20:20:24Z",
+    "ledger_committed_at": "2026-09-07T20:20:24Z"
   }
 ]
