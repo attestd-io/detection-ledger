@@ -534629,5 +534629,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:30:15Z",
     "ledger_committed_at": "2026-09-07T14:30:15Z"
+  },
+  {
+    "id": "purple-team-midway-2-2026-09-07",
+    "display_name": "purple_team_midway_2",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "purple_team_midway_2",
+        "ecosystem": "npm",
+        "versions": [
+          "99.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5524",
+            "osv_published_at": "2022-06-14T07:22:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:11:00Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:11:00Z",
+    "osv_earliest_published_at": "2022-06-14T07:22:08Z",
+    "source_published_at": "2022-06-14T07:22:08Z",
+    "observed_at": "2026-09-07T08:11:00Z",
+    "ingested_at": "2026-09-07T08:11:00Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:30:24Z",
+    "ledger_committed_at": "2026-09-07T14:30:24Z"
   }
 ]
