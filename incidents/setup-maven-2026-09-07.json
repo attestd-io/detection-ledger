@@ -1,0 +1,38 @@
+{
+  "id": "setup-maven-2026-09-07",
+  "display_name": "setup-maven",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "setup-maven",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-semantically-released",
+        "20.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-772",
+          "osv_published_at": "2023-01-11T03:51:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:06:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:06:45Z",
+  "osv_earliest_published_at": "2023-01-11T03:51:04Z",
+  "source_published_at": "2023-01-11T03:51:04Z",
+  "observed_at": "2026-09-07T13:06:45Z",
+  "ingested_at": "2026-09-07T13:06:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T23:21:55Z",
+  "ledger_committed_at": "2026-09-07T23:21:55Z"
+}
