@@ -570116,5 +570116,38 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T16:59:56Z",
     "ledger_committed_at": "2026-09-07T16:59:56Z"
+  },
+  {
+    "id": "aegov-design-system-2026-09-07",
+    "display_name": "@aegov/design-system",
+    "campaign": "aia-digital",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@aegov/design-system",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.5",
+          "0.0.6"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T09:24:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T09:24:26Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T09:24:26Z",
+    "ingested_at": "2026-09-07T09:24:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40aegov%2Fdesign-system",
+    "ledger_commit_at": "2026-09-07T17:00:06Z",
+    "ledger_committed_at": "2026-09-07T17:00:06Z"
   }
 ]
