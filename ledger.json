@@ -545779,5 +545779,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T15:17:43Z",
     "ledger_committed_at": "2026-09-07T15:17:43Z"
+  },
+  {
+    "id": "reviewstack-2026-09-07",
+    "display_name": "reviewstack",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "reviewstack",
+        "ecosystem": "npm",
+        "versions": [
+          "0.1.0",
+          "4.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5773",
+            "osv_published_at": "2022-10-31T02:28:18Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:21:20Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:21:20Z",
+    "osv_earliest_published_at": "2022-10-31T02:28:18Z",
+    "source_published_at": "2022-10-31T02:28:18Z",
+    "observed_at": "2026-09-07T08:21:20Z",
+    "ingested_at": "2026-09-07T08:21:20Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T15:17:55Z",
+    "ledger_committed_at": "2026-09-07T15:17:55Z"
   }
 ]
