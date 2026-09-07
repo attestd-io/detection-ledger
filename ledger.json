@@ -541387,5 +541387,48 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:58:45Z",
     "ledger_committed_at": "2026-09-07T14:58:45Z"
+  },
+  {
+    "id": "ebay-ui-core-react-2026-09-07",
+    "display_name": "@ebay/ui-core-react",
+    "campaign": "roku-web-core",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@ebay/ui-core-react",
+        "ecosystem": "npm",
+        "versions": [
+          "6.2.2",
+          "6.2.3",
+          "6.2.4",
+          "6.2.5",
+          "6.2.6",
+          "7.1.0-alpha.0",
+          "7.1.0-alpha.1",
+          "7.2.0-alpha.0",
+          "7.2.0-alpha.1",
+          "7.2.0-alpha.2",
+          "7.2.0-alpha.3",
+          "7.2.0-alpha.4"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:17:48Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:17:48Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T08:17:48Z",
+    "ingested_at": "2026-09-07T08:17:48Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40ebay%2Fui-core-react",
+    "ledger_commit_at": "2026-09-07T14:58:54Z",
+    "ledger_committed_at": "2026-09-07T14:58:54Z"
   }
 ]
