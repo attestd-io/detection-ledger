@@ -1,0 +1,39 @@
+{
+  "id": "ing-lib-authenticate-2026-09-07",
+  "display_name": "ing-lib-authenticate",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ing-lib-authenticate",
+      "ecosystem": "npm",
+      "versions": [
+        "22.2.2",
+        "39.2.17",
+        "42.1.11"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2022-3827",
+          "osv_published_at": "2022-08-03T09:11:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T05:49:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T05:49:35Z",
+  "osv_earliest_published_at": "2022-08-03T09:11:47Z",
+  "source_published_at": "2022-08-03T09:11:47Z",
+  "observed_at": "2026-09-07T05:49:35Z",
+  "ingested_at": "2026-09-07T05:49:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T09:05:30Z",
+  "ledger_committed_at": "2026-09-07T09:05:30Z"
+}
