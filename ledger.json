@@ -426221,5 +426221,39 @@
     "advisory_url": "https://registry.npmjs.org/%40qvac%2Focr-ggml",
     "ledger_commit_at": "2026-09-07T07:45:53Z",
     "ledger_committed_at": "2026-09-07T07:45:53Z"
+  },
+  {
+    "id": "stone-js-pipeline-2026-09-07",
+    "display_name": "@stone-js/pipeline",
+    "campaign": "ibm-pipeline",
+    "detection_source": "npm_registry",
+    "packages": [
+      {
+        "package": "@stone-js/pipeline",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "1.0.2"
+        ],
+        "osv_entries": []
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T05:20:05Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T05:20:05Z",
+    "osv_earliest_published_at": null,
+    "source_published_at": null,
+    "observed_at": "2026-09-07T05:20:05Z",
+    "ingested_at": "2026-09-07T05:20:05Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "https://registry.npmjs.org/%40stone-js%2Fpipeline",
+    "ledger_commit_at": "2026-09-07T07:46:01Z",
+    "ledger_committed_at": "2026-09-07T07:46:01Z"
   }
 ]
