@@ -1,0 +1,38 @@
+{
+  "id": "fe-core-components-vuejs-2026-09-07",
+  "display_name": "fe-core-components-vuejs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fe-core-components-vuejs",
+      "ecosystem": "npm",
+      "versions": [
+        "0.14.1",
+        "0.15.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-435",
+          "osv_published_at": "2023-02-20T04:22:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T12:53:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T12:53:42Z",
+  "osv_earliest_published_at": "2023-02-20T04:22:24Z",
+  "source_published_at": "2023-02-20T04:22:24Z",
+  "observed_at": "2026-09-07T12:53:42Z",
+  "ingested_at": "2026-09-07T12:53:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-07T22:35:35Z",
+  "ledger_committed_at": "2026-09-07T22:35:35Z"
+}
