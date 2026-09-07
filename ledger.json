@@ -536328,5 +536328,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-07T14:37:35Z",
     "ledger_committed_at": "2026-09-07T14:37:35Z"
+  },
+  {
+    "id": "qunit-begin-2026-09-07",
+    "display_name": "qunit-begin",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "qunit-begin",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2022-5566",
+            "osv_published_at": "2022-05-31T13:13:55Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T08:12:39Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T08:12:39Z",
+    "osv_earliest_published_at": "2022-05-31T13:13:55Z",
+    "source_published_at": "2022-05-31T13:13:55Z",
+    "observed_at": "2026-09-07T08:12:39Z",
+    "ingested_at": "2026-09-07T08:12:39Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-07T14:37:45Z",
+    "ledger_committed_at": "2026-09-07T14:37:45Z"
   }
 ]
