@@ -1,0 +1,37 @@
+{
+  "id": "ethgass-reporter-2026-09-07",
+  "display_name": "ethgass-reporter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ethgass-reporter",
+      "ecosystem": "npm",
+      "versions": [
+        "0.2.27"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10431",
+          "osv_published_at": "2024-11-06T04:12:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:31:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:31:15Z",
+  "osv_earliest_published_at": "2024-11-06T04:12:13Z",
+  "source_published_at": "2024-11-06T04:12:13Z",
+  "observed_at": "2026-09-07T13:31:15Z",
+  "ingested_at": "2026-09-07T13:31:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:54:14Z",
+  "ledger_committed_at": "2026-09-08T00:54:14Z"
+}
