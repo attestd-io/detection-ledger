@@ -1,0 +1,37 @@
+{
+  "id": "developing-python-z3n-2026-09-07",
+  "display_name": "developing_python_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "developing_python_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "4.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-101400",
+          "osv_published_at": "2025-11-11T07:31:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:33:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:33:06Z",
+  "osv_earliest_published_at": "2025-11-11T07:31:13Z",
+  "source_published_at": "2025-11-11T07:31:13Z",
+  "observed_at": "2026-09-07T18:33:06Z",
+  "ingested_at": "2026-09-07T18:33:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T13:57:16Z",
+  "ledger_committed_at": "2026-09-08T13:57:16Z"
+}
