@@ -1,0 +1,37 @@
+{
+  "id": "cktool-database-2026-09-07",
+  "display_name": "cktool.database",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cktool.database",
+      "ecosystem": "npm",
+      "versions": [
+        "999.9.91"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8966",
+          "osv_published_at": "2024-09-25T01:57:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:54:25Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:54:25Z",
+  "osv_earliest_published_at": "2024-09-25T01:57:33Z",
+  "source_published_at": "2024-09-25T01:57:33Z",
+  "observed_at": "2026-09-07T17:54:25Z",
+  "ingested_at": "2026-09-07T17:54:25Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:31:34Z",
+  "ledger_committed_at": "2026-09-08T07:31:34Z"
+}
