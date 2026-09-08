@@ -1,0 +1,39 @@
+{
+  "id": "babel-preset-sofi-scripts-2026-09-07",
+  "display_name": "babel-preset-sofi-scripts",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "babel-preset-sofi-scripts",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7930",
+          "osv_published_at": "2024-08-07T23:58:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:59:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:59:00Z",
+  "osv_earliest_published_at": "2024-08-07T23:58:01Z",
+  "source_published_at": "2024-08-07T23:58:01Z",
+  "observed_at": "2026-09-07T15:59:00Z",
+  "ingested_at": "2026-09-07T15:59:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:37:18Z",
+  "ledger_committed_at": "2026-09-08T05:37:18Z"
+}
