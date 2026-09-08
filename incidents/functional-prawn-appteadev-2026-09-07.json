@@ -1,0 +1,39 @@
+{
+  "id": "functional-prawn-appteadev-2026-09-07",
+  "display_name": "functional_prawn-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "functional_prawn-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-102977",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:03:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:03:00Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T19:03:00Z",
+  "ingested_at": "2026-09-07T19:03:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T20:19:11Z",
+  "ledger_committed_at": "2026-09-08T20:19:11Z"
+}
