@@ -706865,5 +706865,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:43:49Z",
     "ledger_committed_at": "2026-09-08T00:43:49Z"
+  },
+  {
+    "id": "viem-aa-sdk-compatible-2026-09-07",
+    "display_name": "viem-aa-sdk-compatible",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "viem-aa-sdk-compatible",
+        "ecosystem": "npm",
+        "versions": [
+          "5.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2024-10234",
+            "osv_published_at": "2024-10-24T22:49:01Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:29:01Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:29:01Z",
+    "osv_earliest_published_at": "2024-10-24T22:49:01Z",
+    "source_published_at": "2024-10-24T22:49:01Z",
+    "observed_at": "2026-09-07T13:29:01Z",
+    "ingested_at": "2026-09-07T13:29:01Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:44:00Z",
+    "ledger_committed_at": "2026-09-08T00:44:00Z"
   }
 ]
