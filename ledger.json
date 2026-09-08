@@ -701319,5 +701319,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:18:25Z",
     "ledger_committed_at": "2026-09-08T00:18:25Z"
+  },
+  {
+    "id": "web3-core-subscription-2026-09-07",
+    "display_name": "web3-core-subscription",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "web3-core-subscription",
+        "ecosystem": "npm",
+        "versions": [
+          "6.1.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8699",
+            "osv_published_at": "2023-12-14T23:54:44Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:25:23Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:25:23Z",
+    "osv_earliest_published_at": "2023-12-14T23:54:44Z",
+    "source_published_at": "2023-12-14T23:54:44Z",
+    "observed_at": "2026-09-07T13:25:23Z",
+    "ingested_at": "2026-09-07T13:25:23Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:18:35Z",
+    "ledger_committed_at": "2026-09-08T00:18:35Z"
   }
 ]
