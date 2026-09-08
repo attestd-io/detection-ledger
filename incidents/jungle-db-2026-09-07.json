@@ -1,0 +1,40 @@
+{
+  "id": "jungle-db-2026-09-07",
+  "display_name": "jungle-db",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "jungle-db",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "0.5.0",
+        "1.0.1",
+        "100.0.14"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9433",
+          "osv_published_at": "2024-10-18T03:08:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:01:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:01:13Z",
+  "osv_earliest_published_at": "2024-10-18T03:08:15Z",
+  "source_published_at": "2024-10-18T03:08:15Z",
+  "observed_at": "2026-09-07T18:01:13Z",
+  "ingested_at": "2026-09-07T18:01:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T08:24:51Z",
+  "ledger_committed_at": "2026-09-08T08:24:51Z"
+}
