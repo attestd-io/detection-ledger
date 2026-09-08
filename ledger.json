@@ -708460,5 +708460,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:51:15Z",
     "ledger_committed_at": "2026-09-08T00:51:15Z"
+  },
+  {
+    "id": "pupeteerscreenrecordr-2026-09-07",
+    "display_name": "pupeteerscreenrecordr",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pupeteerscreenrecordr",
+        "ecosystem": "npm",
+        "versions": [
+          "3.0.6"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2024-10394",
+            "osv_published_at": "2024-11-05T14:53:33Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:30:59Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:30:59Z",
+    "osv_earliest_published_at": "2024-11-05T14:53:33Z",
+    "source_published_at": "2024-11-05T14:53:33Z",
+    "observed_at": "2026-09-07T13:30:59Z",
+    "ingested_at": "2026-09-07T13:30:59Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:51:26Z",
+    "ledger_committed_at": "2026-09-08T00:51:26Z"
   }
 ]
