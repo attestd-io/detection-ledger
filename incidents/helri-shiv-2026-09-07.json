@@ -1,0 +1,37 @@
+{
+  "id": "helri-shiv-2026-09-07",
+  "display_name": "helri-shiv",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "helri-shiv",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9235",
+          "osv_published_at": "2024-10-10T04:23:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:58:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:58:24Z",
+  "osv_earliest_published_at": "2024-10-10T04:23:26Z",
+  "source_published_at": "2024-10-10T04:23:26Z",
+  "observed_at": "2026-09-07T17:58:24Z",
+  "ingested_at": "2026-09-07T17:58:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:59:15Z",
+  "ledger_committed_at": "2026-09-08T07:59:15Z"
+}
