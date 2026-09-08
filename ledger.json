@@ -706005,5 +706005,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:39:50Z",
     "ledger_committed_at": "2026-09-08T00:39:50Z"
+  },
+  {
+    "id": "yaml2stream-2026-09-07",
+    "display_name": "yaml2stream",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "yaml2stream",
+        "ecosystem": "npm",
+        "versions": [
+          "1.5.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-982",
+            "osv_published_at": "2023-06-22T23:38:42Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:28:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:28:17Z",
+    "osv_earliest_published_at": "2023-06-22T23:38:42Z",
+    "source_published_at": "2023-06-22T23:38:42Z",
+    "observed_at": "2026-09-07T13:28:17Z",
+    "ingested_at": "2026-09-07T13:28:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:40:00Z",
+    "ledger_committed_at": "2026-09-08T00:40:00Z"
   }
 ]
