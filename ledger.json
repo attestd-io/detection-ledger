@@ -708238,5 +708238,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:50:09Z",
     "ledger_committed_at": "2026-09-08T00:50:09Z"
+  },
+  {
+    "id": "pupeteer-cluster-2026-09-07",
+    "display_name": "pupeteer-cluster",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "pupeteer-cluster",
+        "ecosystem": "npm",
+        "versions": [
+          "0.24.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2024-10388",
+            "osv_published_at": "2024-11-05T14:34:31Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:30:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:30:53Z",
+    "osv_earliest_published_at": "2024-11-05T14:34:31Z",
+    "source_published_at": "2024-11-05T14:34:31Z",
+    "observed_at": "2026-09-07T13:30:53Z",
+    "ingested_at": "2026-09-07T13:30:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:50:18Z",
+    "ledger_committed_at": "2026-09-08T00:50:18Z"
   }
 ]
