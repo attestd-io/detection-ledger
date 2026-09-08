@@ -704979,5 +704979,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:35:01Z",
     "ledger_committed_at": "2026-09-08T00:35:01Z"
+  },
+  {
+    "id": "wagyu-cli-2026-09-07",
+    "display_name": "wagyu-cli",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "wagyu-cli",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.2"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-955",
+            "osv_published_at": "2023-05-11T04:17:29Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:27:50Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:27:50Z",
+    "osv_earliest_published_at": "2023-05-11T04:17:29Z",
+    "source_published_at": "2023-05-11T04:17:29Z",
+    "observed_at": "2026-09-07T13:27:50Z",
+    "ingested_at": "2026-09-07T13:27:50Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:35:10Z",
+    "ledger_committed_at": "2026-09-08T00:35:10Z"
   }
 ]
