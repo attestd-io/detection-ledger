@@ -1,0 +1,37 @@
+{
+  "id": "launchpad-sdk-2026-09-07",
+  "display_name": "launchpad-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "launchpad-sdk",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10618",
+          "osv_published_at": "2024-11-12T11:55:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:36:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:36:13Z",
+  "osv_earliest_published_at": "2024-11-12T11:55:01Z",
+  "source_published_at": "2024-11-12T11:55:01Z",
+  "observed_at": "2026-09-07T13:36:13Z",
+  "ingested_at": "2026-09-07T13:36:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:08:33Z",
+  "ledger_committed_at": "2026-09-08T01:08:33Z"
+}
