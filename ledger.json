@@ -701473,5 +701473,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:19:06Z",
     "ledger_committed_at": "2026-09-08T00:19:06Z"
+  },
+  {
+    "id": "react-persian-calendar-date-picker222-2026-09-07",
+    "display_name": "react-persian-calendar-date-picker222",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "react-persian-calendar-date-picker222",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8703",
+            "osv_published_at": "2023-12-15T00:35:53Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:25:29Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:25:29Z",
+    "osv_earliest_published_at": "2023-12-15T00:35:53Z",
+    "source_published_at": "2023-12-15T00:35:53Z",
+    "observed_at": "2026-09-07T13:25:29Z",
+    "ingested_at": "2026-09-07T13:25:29Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:19:16Z",
+    "ledger_committed_at": "2026-09-08T00:19:16Z"
   }
 ]
