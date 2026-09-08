@@ -1,0 +1,37 @@
+{
+  "id": "tslib-util-2026-09-07",
+  "display_name": "tslib-util",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tslib-util",
+      "ecosystem": "npm",
+      "versions": [
+        "1.6.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-911",
+          "osv_published_at": "2023-06-13T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:27:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:27:05Z",
+  "osv_earliest_published_at": "2023-06-13T00:00:00Z",
+  "source_published_at": "2023-06-13T00:00:00Z",
+  "observed_at": "2026-09-07T13:27:05Z",
+  "ingested_at": "2026-09-07T13:27:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:30:17Z",
+  "ledger_committed_at": "2026-09-08T00:30:17Z"
+}
