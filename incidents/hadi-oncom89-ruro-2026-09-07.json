@@ -1,0 +1,39 @@
+{
+  "id": "hadi-oncom89-ruro-2026-09-07",
+  "display_name": "hadi-oncom89-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hadi-oncom89-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.2.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-103463",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:11:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:11:48Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T19:11:48Z",
+  "ingested_at": "2026-09-07T19:11:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T22:15:45Z",
+  "ledger_committed_at": "2026-09-08T22:15:45Z"
+}
