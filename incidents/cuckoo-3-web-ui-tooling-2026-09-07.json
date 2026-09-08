@@ -1,0 +1,40 @@
+{
+  "id": "cuckoo-3-web-ui-tooling-2026-09-07",
+  "display_name": "cuckoo-3-web-ui-tooling",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cuckoo-3-web-ui-tooling",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1283",
+          "osv_published_at": "2024-04-22T08:02:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:04:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:04:00Z",
+  "osv_earliest_published_at": "2024-04-22T08:02:34Z",
+  "source_published_at": "2024-04-22T08:02:34Z",
+  "observed_at": "2026-09-07T14:04:00Z",
+  "ingested_at": "2026-09-07T14:04:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:03:50Z",
+  "ledger_committed_at": "2026-09-08T02:03:50Z"
+}
