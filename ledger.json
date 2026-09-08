@@ -705586,5 +705586,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:37:49Z",
     "ledger_committed_at": "2026-09-08T00:37:49Z"
+  },
+  {
+    "id": "xman-internal-2026-09-07",
+    "display_name": "xman-internal",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "xman-internal",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.1",
+          "1.0.2",
+          "1.0.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-972",
+            "osv_published_at": "2023-02-28T03:08:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:28:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:28:07Z",
+    "osv_earliest_published_at": "2023-02-28T03:08:07Z",
+    "source_published_at": "2023-02-28T03:08:07Z",
+    "observed_at": "2026-09-07T13:28:07Z",
+    "ingested_at": "2026-09-07T13:28:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:38:00Z",
+    "ledger_committed_at": "2026-09-08T00:38:00Z"
   }
 ]
