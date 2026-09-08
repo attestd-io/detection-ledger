@@ -1,0 +1,37 @@
+{
+  "id": "starknet4-2026-09-07",
+  "display_name": "starknet4",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "starknet4",
+      "ecosystem": "npm",
+      "versions": [
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1090",
+          "osv_published_at": "2024-03-12T09:08:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:39:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:39:21Z",
+  "osv_earliest_published_at": "2024-03-12T09:08:07Z",
+  "source_published_at": "2024-03-12T09:08:07Z",
+  "observed_at": "2026-09-07T13:39:21Z",
+  "ingested_at": "2026-09-07T13:39:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:15:39Z",
+  "ledger_committed_at": "2026-09-08T01:15:39Z"
+}
