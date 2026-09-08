@@ -1,0 +1,37 @@
+{
+  "id": "transcarent-foundation-2026-09-07",
+  "display_name": "@transcarent/foundation",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@transcarent/foundation",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7920",
+          "osv_published_at": "2024-08-07T23:55:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:57:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:57:14Z",
+  "osv_earliest_published_at": "2024-08-07T23:55:47Z",
+  "source_published_at": "2024-08-07T23:55:47Z",
+  "observed_at": "2026-09-07T15:57:14Z",
+  "ingested_at": "2026-09-07T15:57:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:35:09Z",
+  "ledger_committed_at": "2026-09-08T05:35:09Z"
+}
