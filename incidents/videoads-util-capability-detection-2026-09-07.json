@@ -1,0 +1,46 @@
+{
+  "id": "videoads-util-capability-detection-2026-09-07",
+  "display_name": "videoads-util-capability-detection",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "videoads-util-capability-detection",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8828",
+          "osv_published_at": "2024-09-05T01:16:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:52:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:52:30Z",
+  "osv_earliest_published_at": "2024-09-05T01:16:45Z",
+  "source_published_at": "2024-09-05T01:16:45Z",
+  "observed_at": "2026-09-07T17:52:30Z",
+  "ingested_at": "2026-09-07T17:52:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:22:08Z",
+  "ledger_committed_at": "2026-09-08T07:22:08Z"
+}
