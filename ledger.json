@@ -702301,5 +702301,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:23:05Z",
     "ledger_committed_at": "2026-09-08T00:23:05Z"
+  },
+  {
+    "id": "discord-js-selfbot-v23-2026-09-07",
+    "display_name": "discord.js-selfbot-v23",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "discord.js-selfbot-v23",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8748",
+            "osv_published_at": "2023-12-27T00:49:12Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:26:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:26:08Z",
+    "osv_earliest_published_at": "2023-12-27T00:49:12Z",
+    "source_published_at": "2023-12-27T00:49:12Z",
+    "observed_at": "2026-09-07T13:26:08Z",
+    "ingested_at": "2026-09-07T13:26:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:23:16Z",
+    "ledger_committed_at": "2026-09-08T00:23:16Z"
   }
 ]
