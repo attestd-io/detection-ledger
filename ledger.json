@@ -701282,5 +701282,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:18:15Z",
     "ledger_committed_at": "2026-09-08T00:18:15Z"
+  },
+  {
+    "id": "css-hell-2026-09-07",
+    "display_name": "css-hell",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "css-hell",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8698",
+            "osv_published_at": "2023-12-14T01:03:08Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:25:22Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:25:22Z",
+    "osv_earliest_published_at": "2023-12-14T01:03:08Z",
+    "source_published_at": "2023-12-14T01:03:08Z",
+    "observed_at": "2026-09-07T13:25:22Z",
+    "ingested_at": "2026-09-07T13:25:22Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:18:25Z",
+    "ledger_committed_at": "2026-09-08T00:18:25Z"
   }
 ]
