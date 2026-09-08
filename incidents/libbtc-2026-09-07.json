@@ -1,0 +1,37 @@
+{
+  "id": "libbtc-2026-09-07",
+  "display_name": "libbtc",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "libbtc",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10935",
+          "osv_published_at": "2024-11-25T23:44:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:39:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:39:57Z",
+  "osv_earliest_published_at": "2024-11-25T23:44:40Z",
+  "source_published_at": "2024-11-25T23:44:40Z",
+  "observed_at": "2026-09-07T13:39:57Z",
+  "ingested_at": "2026-09-07T13:39:57Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:18:49Z",
+  "ledger_committed_at": "2026-09-08T01:18:49Z"
+}
