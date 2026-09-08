@@ -1,0 +1,37 @@
+{
+  "id": "cooing-whale-0xrequest-2026-09-07",
+  "display_name": "cooing_whale_0xrequest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cooing_whale_0xrequest",
+      "ecosystem": "npm",
+      "versions": [
+        "2.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-100990",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:26:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:26:08Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T18:26:08Z",
+  "ingested_at": "2026-09-07T18:26:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T12:18:45Z",
+  "ledger_committed_at": "2026-09-08T12:18:45Z"
+}
