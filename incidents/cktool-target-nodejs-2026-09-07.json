@@ -1,0 +1,37 @@
+{
+  "id": "cktool-target-nodejs-2026-09-07",
+  "display_name": "cktool.target.nodejs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cktool.target.nodejs",
+      "ecosystem": "npm",
+      "versions": [
+        "999.9.91"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8967",
+          "osv_published_at": "2024-09-25T01:57:34Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:54:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:54:26Z",
+  "osv_earliest_published_at": "2024-09-25T01:57:34Z",
+  "source_published_at": "2024-09-25T01:57:34Z",
+  "observed_at": "2026-09-07T17:54:26Z",
+  "ingested_at": "2026-09-07T17:54:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:31:47Z",
+  "ledger_committed_at": "2026-09-08T07:31:47Z"
+}
