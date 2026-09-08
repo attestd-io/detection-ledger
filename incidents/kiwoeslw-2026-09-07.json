@@ -1,0 +1,38 @@
+{
+  "id": "kiwoeslw-2026-09-07",
+  "display_name": "kiwoeslw",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "kiwoeslw",
+      "ecosystem": "npm",
+      "versions": [
+        "11.1.1",
+        "11.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7968",
+          "osv_published_at": "2024-08-07T23:00:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T16:00:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T16:00:17Z",
+  "osv_earliest_published_at": "2024-08-07T23:00:23Z",
+  "source_published_at": "2024-08-07T23:00:23Z",
+  "observed_at": "2026-09-07T16:00:17Z",
+  "ingested_at": "2026-09-07T16:00:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:43:52Z",
+  "ledger_committed_at": "2026-09-08T05:43:52Z"
+}
