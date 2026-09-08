@@ -1,0 +1,40 @@
+{
+  "id": "cookie-info-2026-09-07",
+  "display_name": "cookie_info",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cookie_info",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9075",
+          "osv_published_at": "2024-10-02T07:58:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:56:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:56:08Z",
+  "osv_earliest_published_at": "2024-10-02T07:58:41Z",
+  "source_published_at": "2024-10-02T07:58:41Z",
+  "observed_at": "2026-09-07T17:56:08Z",
+  "ingested_at": "2026-09-07T17:56:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:38:46Z",
+  "ledger_committed_at": "2026-09-08T07:38:46Z"
+}
