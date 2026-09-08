@@ -697655,5 +697655,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:02:12Z",
     "ledger_committed_at": "2026-09-08T00:02:12Z"
+  },
+  {
+    "id": "data-kempremium-2026-09-07",
+    "display_name": "data-kempremium",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "data-kempremium",
+        "ecosystem": "npm",
+        "versions": [
+          "1.2.3",
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8381",
+            "osv_published_at": "2023-10-16T06:07:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:21:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:21:14Z",
+    "osv_earliest_published_at": "2023-10-16T06:07:48Z",
+    "source_published_at": "2023-10-16T06:07:48Z",
+    "observed_at": "2026-09-07T13:21:14Z",
+    "ingested_at": "2026-09-07T13:21:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:02:24Z",
+    "ledger_committed_at": "2026-09-08T00:02:24Z"
   }
 ]
