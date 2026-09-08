@@ -703649,5 +703649,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:29:06Z",
     "ledger_committed_at": "2026-09-08T00:29:06Z"
+  },
+  {
+    "id": "trovam-2026-09-07",
+    "display_name": "trovam",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "trovam",
+        "ecosystem": "npm",
+        "versions": [
+          "1.1.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-905",
+            "osv_published_at": "2023-01-18T02:38:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:26:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:26:57Z",
+    "osv_earliest_published_at": "2023-01-18T02:38:15Z",
+    "source_published_at": "2023-01-18T02:38:15Z",
+    "observed_at": "2026-09-07T13:26:57Z",
+    "ingested_at": "2026-09-07T13:26:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:29:16Z",
+    "ledger_committed_at": "2026-09-08T00:29:16Z"
   }
 ]
