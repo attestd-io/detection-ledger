@@ -707022,5 +707022,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:44:32Z",
     "ledger_committed_at": "2026-09-08T00:44:32Z"
+  },
+  {
+    "id": "selfcord-v14-2026-09-07",
+    "display_name": "selfcord-v14",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "selfcord-v14",
+        "ecosystem": "npm",
+        "versions": [
+          "2.7.3"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2024-10253",
+            "osv_published_at": "2024-10-28T01:50:25Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:29:14Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:29:14Z",
+    "osv_earliest_published_at": "2024-10-28T01:50:25Z",
+    "source_published_at": "2024-10-28T01:50:25Z",
+    "observed_at": "2026-09-07T13:29:14Z",
+    "ingested_at": "2026-09-07T13:29:14Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:44:43Z",
+    "ledger_committed_at": "2026-09-08T00:44:43Z"
   }
 ]
