@@ -1,0 +1,38 @@
+{
+  "id": "win66lib-2026-09-07",
+  "display_name": "win66lib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "win66lib",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.6",
+        "1.2.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1527",
+          "osv_published_at": "2024-06-03T18:53:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:11:03Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:11:03Z",
+  "osv_earliest_published_at": "2024-06-03T18:53:29Z",
+  "source_published_at": "2024-06-03T18:53:29Z",
+  "observed_at": "2026-09-07T14:11:03Z",
+  "ingested_at": "2026-09-07T14:11:03Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:32:04Z",
+  "ledger_committed_at": "2026-09-08T02:32:04Z"
+}
