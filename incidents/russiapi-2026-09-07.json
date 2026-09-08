@@ -1,0 +1,57 @@
+{
+  "id": "russiapi-2026-09-07",
+  "display_name": "russiapi",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "russiapi",
+      "ecosystem": "npm",
+      "versions": [
+        "1.7.8",
+        "1.8.0",
+        "1.8.5",
+        "1.8.6",
+        "1.8.8",
+        "1.8.9",
+        "1.9.0",
+        "1.9.1",
+        "1.9.2",
+        "1.9.3",
+        "1.9.4",
+        "1.9.5",
+        "1.9.6",
+        "1.9.8",
+        "1.9.9",
+        "2.0.0",
+        "2.0.1",
+        "2.0.3",
+        "2.0.4",
+        "2.0.5",
+        "2.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-942",
+          "osv_published_at": "2024-01-29T07:54:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:01:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:01:01Z",
+  "osv_earliest_published_at": "2024-01-29T07:54:07Z",
+  "source_published_at": "2024-01-29T07:54:07Z",
+  "observed_at": "2026-09-07T18:01:01Z",
+  "ingested_at": "2026-09-07T18:01:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T08:24:28Z",
+  "ledger_committed_at": "2026-09-08T08:24:28Z"
+}
