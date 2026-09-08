@@ -1,0 +1,37 @@
+{
+  "id": "wrapped-tokens-2026-09-07",
+  "display_name": "wrapped-tokens",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wrapped-tokens",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-11199",
+          "osv_published_at": "2024-12-04T05:08:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:46:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:46:06Z",
+  "osv_earliest_published_at": "2024-12-04T05:08:01Z",
+  "source_published_at": "2024-12-04T05:08:01Z",
+  "observed_at": "2026-09-07T13:46:06Z",
+  "ingested_at": "2026-09-07T13:46:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:31:36Z",
+  "ledger_committed_at": "2026-09-08T01:31:36Z"
+}
