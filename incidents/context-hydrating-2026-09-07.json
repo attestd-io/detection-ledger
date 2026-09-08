@@ -1,0 +1,57 @@
+{
+  "id": "context-hydrating-2026-09-07",
+  "display_name": "context-hydrating",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "context-hydrating",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "1.653.3",
+        "1.654.3",
+        "1.654.4",
+        "2.654.3",
+        "2.655.4",
+        "3.655.3",
+        "3.656.4",
+        "4.656.3",
+        "4.657.4",
+        "5.657.3",
+        "5.658.4",
+        "6.658.3",
+        "6.659.4",
+        "7.659.3",
+        "7.660.4",
+        "8.660.3",
+        "8.661.4",
+        "9.661.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1200",
+          "osv_published_at": "2024-04-04T01:10:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:57:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:57:09Z",
+  "osv_earliest_published_at": "2024-04-04T01:10:27Z",
+  "source_published_at": "2024-04-04T01:10:27Z",
+  "observed_at": "2026-09-07T13:57:09Z",
+  "ingested_at": "2026-09-07T13:57:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:46:25Z",
+  "ledger_committed_at": "2026-09-08T01:46:25Z"
+}
