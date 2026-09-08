@@ -1,0 +1,38 @@
+{
+  "id": "illimity-commons-2026-09-07",
+  "display_name": "@illimity/commons",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@illimity/commons",
+      "ecosystem": "npm",
+      "versions": [
+        "3.30.3",
+        "3.30.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7859",
+          "osv_published_at": "2024-07-31T02:39:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:40:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:40:53Z",
+  "osv_earliest_published_at": "2024-07-31T02:39:17Z",
+  "source_published_at": "2024-07-31T02:39:17Z",
+  "observed_at": "2026-09-07T15:40:53Z",
+  "ingested_at": "2026-09-07T15:40:53Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:24:16Z",
+  "ledger_committed_at": "2026-09-08T05:24:16Z"
+}
