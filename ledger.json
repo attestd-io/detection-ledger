@@ -699221,5 +699221,43 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:09:08Z",
     "ledger_committed_at": "2026-09-08T00:09:08Z"
+  },
+  {
+    "id": "vtec-2026-09-07",
+    "display_name": "vtec",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "vtec",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1",
+          "1.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8498",
+            "osv_published_at": "2023-11-09T13:21:49Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:22:53Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:22:53Z",
+    "osv_earliest_published_at": "2023-11-09T13:21:49Z",
+    "source_published_at": "2023-11-09T13:21:49Z",
+    "observed_at": "2026-09-07T13:22:53Z",
+    "ingested_at": "2026-09-07T13:22:53Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:09:19Z",
+    "ledger_committed_at": "2026-09-08T00:09:19Z"
   }
 ]
