@@ -1,0 +1,38 @@
+{
+  "id": "crypto-jsonwebtoken-2026-09-07",
+  "display_name": "crypto-jsonwebtoken",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "crypto-jsonwebtoken",
+      "ecosystem": "npm",
+      "versions": [
+        "9.0.3",
+        "9.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-11133",
+          "osv_published_at": "2024-11-29T03:32:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:43:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:43:44Z",
+  "osv_earliest_published_at": "2024-11-29T03:32:40Z",
+  "source_published_at": "2024-11-29T03:32:40Z",
+  "observed_at": "2026-09-07T13:43:44Z",
+  "ingested_at": "2026-09-07T13:43:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:27:34Z",
+  "ledger_committed_at": "2026-09-08T01:27:34Z"
+}
