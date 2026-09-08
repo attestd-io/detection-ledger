@@ -1,0 +1,37 @@
+{
+  "id": "due-sloth-jade-66-2026-09-07",
+  "display_name": "due_sloth_jade-66",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "due_sloth_jade-66",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-101800",
+          "osv_published_at": "2025-11-11T07:38:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:40:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:40:13Z",
+  "osv_earliest_published_at": "2025-11-11T07:38:53Z",
+  "source_published_at": "2025-11-11T07:38:53Z",
+  "observed_at": "2026-09-07T18:40:13Z",
+  "ingested_at": "2026-09-07T18:40:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T15:34:30Z",
+  "ledger_committed_at": "2026-09-08T15:34:30Z"
+}
