@@ -1,0 +1,37 @@
+{
+  "id": "comfortable-donkey-dumbs-2026-09-07",
+  "display_name": "comfortable_donkey_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "comfortable_donkey_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "2.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-100706",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:21:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:21:19Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T18:21:19Z",
+  "ingested_at": "2026-09-07T18:21:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T11:13:20Z",
+  "ledger_committed_at": "2026-09-08T11:13:20Z"
+}
