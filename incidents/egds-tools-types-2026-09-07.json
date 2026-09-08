@@ -1,0 +1,47 @@
+{
+  "id": "egds-tools-types-2026-09-07",
+  "display_name": "@egds-tools/types",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@egds-tools/types",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.81",
+        "0.1.81",
+        "0.2.81",
+        "0.3.81",
+        "0.4.81",
+        "0.5.81",
+        "0.6.81",
+        "0.7.81",
+        "0.8.81",
+        "12.0.0",
+        "81.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7914",
+          "osv_published_at": "2024-08-07T23:53:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:52:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:52:22Z",
+  "osv_earliest_published_at": "2024-08-07T23:53:00Z",
+  "source_published_at": "2024-08-07T23:53:00Z",
+  "observed_at": "2026-09-07T15:52:22Z",
+  "ingested_at": "2026-09-07T15:52:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:32:24Z",
+  "ledger_committed_at": "2026-09-08T05:32:24Z"
+}
