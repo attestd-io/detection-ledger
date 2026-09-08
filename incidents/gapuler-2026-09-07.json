@@ -1,0 +1,37 @@
+{
+  "id": "gapuler-2026-09-07",
+  "display_name": "gapuler",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gapuler",
+      "ecosystem": "npm",
+      "versions": [
+        "503.38.27"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8855",
+          "osv_published_at": "2024-09-09T22:31:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:52:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:52:52Z",
+  "osv_earliest_published_at": "2024-09-09T22:31:53Z",
+  "source_published_at": "2024-09-09T22:31:53Z",
+  "observed_at": "2026-09-07T17:52:52Z",
+  "ingested_at": "2026-09-07T17:52:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:22:58Z",
+  "ledger_committed_at": "2026-09-08T07:22:58Z"
+}
