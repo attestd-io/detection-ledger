@@ -1,0 +1,39 @@
+{
+  "id": "fit-trout-z3n-2026-09-07",
+  "display_name": "fit_trout_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fit_trout_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-102749",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:58:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:58:55Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T18:58:55Z",
+  "ingested_at": "2026-09-07T18:58:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T19:25:01Z",
+  "ledger_committed_at": "2026-09-08T19:25:01Z"
+}
