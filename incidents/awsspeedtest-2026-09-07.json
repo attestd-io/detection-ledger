@@ -1,0 +1,37 @@
+{
+  "id": "awsspeedtest-2026-09-07",
+  "display_name": "awsspeedtest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "awsspeedtest",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8878",
+          "osv_published_at": "2024-09-16T14:37:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:53:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:53:12Z",
+  "osv_earliest_published_at": "2024-09-16T14:37:29Z",
+  "source_published_at": "2024-09-16T14:37:29Z",
+  "observed_at": "2026-09-07T17:53:12Z",
+  "ingested_at": "2026-09-07T17:53:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:25:40Z",
+  "ledger_committed_at": "2026-09-08T07:25:40Z"
+}
