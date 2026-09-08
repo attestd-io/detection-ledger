@@ -1,0 +1,37 @@
+{
+  "id": "cordova-plugin-acuant-2026-09-07",
+  "display_name": "cordova-plugin-acuant",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cordova-plugin-acuant",
+      "ecosystem": "npm",
+      "versions": [
+        "3.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7845",
+          "osv_published_at": "2024-07-29T03:00:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:40:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:40:42Z",
+  "osv_earliest_published_at": "2024-07-29T03:00:40Z",
+  "source_published_at": "2024-07-29T03:00:40Z",
+  "observed_at": "2026-09-07T15:40:42Z",
+  "ingested_at": "2026-09-07T15:40:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:22:58Z",
+  "ledger_committed_at": "2026-09-08T05:22:58Z"
+}
