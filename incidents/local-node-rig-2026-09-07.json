@@ -1,0 +1,37 @@
+{
+  "id": "local-node-rig-2026-09-07",
+  "display_name": "local-node-rig",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "local-node-rig",
+      "ecosystem": "npm",
+      "versions": [
+        "99.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8959",
+          "osv_published_at": "2024-09-24T02:50:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:54:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:54:19Z",
+  "osv_earliest_published_at": "2024-09-24T02:50:49Z",
+  "source_published_at": "2024-09-24T02:50:49Z",
+  "observed_at": "2026-09-07T17:54:19Z",
+  "ingested_at": "2026-09-07T17:54:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:31:10Z",
+  "ledger_committed_at": "2026-09-08T07:31:10Z"
+}
