@@ -1,0 +1,42 @@
+{
+  "id": "chalk-node-2026-09-07",
+  "display_name": "chalk-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chalk-node",
+      "ecosystem": "npm",
+      "versions": [
+        "5.3.0",
+        "5.3.1",
+        "5.3.2",
+        "5.4.0",
+        "5.4.1",
+        "5.4.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10496",
+          "osv_published_at": "2024-11-07T05:14:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:31:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:31:54Z",
+  "osv_earliest_published_at": "2024-11-07T05:14:22Z",
+  "source_published_at": "2024-11-07T05:14:22Z",
+  "observed_at": "2026-09-07T13:31:54Z",
+  "ingested_at": "2026-09-07T13:31:54Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:57:16Z",
+  "ledger_committed_at": "2026-09-08T00:57:16Z"
+}
