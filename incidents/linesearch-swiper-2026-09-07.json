@@ -1,0 +1,43 @@
+{
+  "id": "linesearch-swiper-2026-09-07",
+  "display_name": "@linesearch/swiper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@linesearch/swiper",
+      "ecosystem": "npm",
+      "versions": [
+        "1.6.0",
+        "2.6.0",
+        "3.6.0",
+        "4.6.0",
+        "5.4.3",
+        "5.4.5",
+        "5.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-58",
+          "osv_published_at": "2024-01-10T01:56:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:49:20Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:49:20Z",
+  "osv_earliest_published_at": "2024-01-10T01:56:42Z",
+  "source_published_at": "2024-01-10T01:56:42Z",
+  "observed_at": "2026-09-07T14:49:20Z",
+  "ingested_at": "2026-09-07T14:49:20Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T03:58:16Z",
+  "ledger_committed_at": "2026-09-08T03:58:16Z"
+}
