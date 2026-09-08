@@ -1,0 +1,37 @@
+{
+  "id": "obiz-2026-09-07",
+  "display_name": "obiz",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "obiz",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-19",
+          "osv_published_at": "2024-01-02T03:19:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:16:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:16:15Z",
+  "osv_earliest_published_at": "2024-01-02T03:19:45Z",
+  "source_published_at": "2024-01-02T03:19:45Z",
+  "observed_at": "2026-09-07T14:16:15Z",
+  "ingested_at": "2026-09-07T14:16:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:47:57Z",
+  "ledger_committed_at": "2026-09-08T02:47:57Z"
+}
