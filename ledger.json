@@ -700183,5 +700183,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:13:19Z",
     "ledger_committed_at": "2026-09-08T00:13:19Z"
+  },
+  {
+    "id": "minotari-wallet-ff-2026-09-07",
+    "display_name": "minotari_wallet_ff",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "minotari_wallet_ff",
+        "ecosystem": "npm",
+        "versions": [
+          "10.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8612",
+            "osv_published_at": "2023-11-24T18:30:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:24:07Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:24:07Z",
+    "osv_earliest_published_at": "2023-11-24T18:30:41Z",
+    "source_published_at": "2023-11-24T18:30:41Z",
+    "observed_at": "2026-09-07T13:24:07Z",
+    "ingested_at": "2026-09-07T13:24:07Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:13:28Z",
+    "ledger_committed_at": "2026-09-08T00:13:28Z"
   }
 ]
