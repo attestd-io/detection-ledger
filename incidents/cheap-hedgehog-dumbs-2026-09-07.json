@@ -1,0 +1,37 @@
+{
+  "id": "cheap-hedgehog-dumbs-2026-09-07",
+  "display_name": "cheap_hedgehog_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cheap_hedgehog_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "3.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-100360",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:14:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:14:17Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T18:14:17Z",
+  "ingested_at": "2026-09-07T18:14:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T09:52:52Z",
+  "ledger_committed_at": "2026-09-08T09:52:52Z"
+}
