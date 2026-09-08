@@ -1,0 +1,38 @@
+{
+  "id": "cssyx-2026-09-07",
+  "display_name": "cssyx",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cssyx",
+      "ecosystem": "npm",
+      "versions": [
+        "5.0.2",
+        "9.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7054",
+          "osv_published_at": "2024-06-28T04:47:08Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:51:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:51:32Z",
+  "osv_earliest_published_at": "2024-06-28T04:47:08Z",
+  "source_published_at": "2024-06-28T04:47:08Z",
+  "observed_at": "2026-09-07T14:51:32Z",
+  "ingested_at": "2026-09-07T14:51:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T04:21:26Z",
+  "ledger_committed_at": "2026-09-08T04:21:26Z"
+}
