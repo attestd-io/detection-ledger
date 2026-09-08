@@ -1,0 +1,45 @@
+{
+  "id": "evil-hitcon-2024-2026-09-07",
+  "display_name": "evil-hitcon-2024",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "evil-hitcon-2024",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7764",
+          "osv_published_at": "2024-07-16T05:35:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:39:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:39:18Z",
+  "osv_earliest_published_at": "2024-07-16T05:35:42Z",
+  "source_published_at": "2024-07-16T05:35:42Z",
+  "observed_at": "2026-09-07T15:39:18Z",
+  "ingested_at": "2026-09-07T15:39:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:19:22Z",
+  "ledger_committed_at": "2026-09-08T05:19:22Z"
+}
