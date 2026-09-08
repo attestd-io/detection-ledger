@@ -698232,5 +698232,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:04:44Z",
     "ledger_committed_at": "2026-09-08T00:04:44Z"
+  },
+  {
+    "id": "tdv2-applet-userintent-2026-09-07",
+    "display_name": "tdv2-applet-userintent",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tdv2-applet-userintent",
+        "ecosystem": "npm",
+        "versions": [
+          "20.0.4"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-843",
+            "osv_published_at": "2023-03-31T02:16:07Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:21:55Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:21:55Z",
+    "osv_earliest_published_at": "2023-03-31T02:16:07Z",
+    "source_published_at": "2023-03-31T02:16:07Z",
+    "observed_at": "2026-09-07T13:21:55Z",
+    "ingested_at": "2026-09-07T13:21:55Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:04:54Z",
+    "ledger_committed_at": "2026-09-08T00:04:54Z"
   }
 ]
