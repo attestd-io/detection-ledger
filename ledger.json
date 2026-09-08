@@ -698687,5 +698687,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:06:48Z",
     "ledger_committed_at": "2026-09-08T00:06:48Z"
+  },
+  {
+    "id": "turbolinks-tests-2026-09-07",
+    "display_name": "turbolinks-tests",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "turbolinks-tests",
+        "ecosystem": "npm",
+        "versions": [
+          "0.0.1-security.0",
+          "0.0.1-security.1",
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8466",
+            "osv_published_at": "2023-11-06T15:13:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:22:26Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:22:26Z",
+    "osv_earliest_published_at": "2023-11-06T15:13:15Z",
+    "source_published_at": "2023-11-06T15:13:15Z",
+    "observed_at": "2026-09-07T13:22:26Z",
+    "ingested_at": "2026-09-07T13:22:26Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:06:58Z",
+    "ledger_committed_at": "2026-09-08T00:06:58Z"
   }
 ]
