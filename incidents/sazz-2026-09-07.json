@@ -1,0 +1,37 @@
+{
+  "id": "sazz-2026-09-07",
+  "display_name": "sazz",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sazz",
+      "ecosystem": "npm",
+      "versions": [
+        "1.80.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10683",
+          "osv_published_at": "2024-11-13T08:47:06Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:36:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:36:59Z",
+  "osv_earliest_published_at": "2024-11-13T08:47:06Z",
+  "source_published_at": "2024-11-13T08:47:06Z",
+  "observed_at": "2026-09-07T13:36:59Z",
+  "ingested_at": "2026-09-07T13:36:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:11:31Z",
+  "ledger_committed_at": "2026-09-08T01:11:31Z"
+}
