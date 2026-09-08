@@ -697231,5 +697231,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:00:09Z",
     "ledger_committed_at": "2026-09-08T00:00:09Z"
+  },
+  {
+    "id": "homelte-dev-frontend-2026-09-07",
+    "display_name": "@homelte_dev/frontend",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "@homelte_dev/frontend",
+        "ecosystem": "npm",
+        "versions": [
+          "9.9.9"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8375",
+            "osv_published_at": "2023-10-13T00:42:23Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:18:57Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:18:57Z",
+    "osv_earliest_published_at": "2023-10-13T00:42:23Z",
+    "source_published_at": "2023-10-13T00:42:23Z",
+    "observed_at": "2026-09-07T13:18:57Z",
+    "ingested_at": "2026-09-07T13:18:57Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:00:19Z",
+    "ledger_committed_at": "2026-09-08T00:00:19Z"
   }
 ]
