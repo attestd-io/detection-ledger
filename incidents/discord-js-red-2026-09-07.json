@@ -1,0 +1,43 @@
+{
+  "id": "discord-js-red-2026-09-07",
+  "display_name": "discord.js-red",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "discord.js-red",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1305",
+          "osv_published_at": "2024-04-29T10:10:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:05:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:05:00Z",
+  "osv_earliest_published_at": "2024-04-29T10:10:13Z",
+  "source_published_at": "2024-04-29T10:10:13Z",
+  "observed_at": "2026-09-07T14:05:00Z",
+  "ingested_at": "2026-09-07T14:05:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:06:20Z",
+  "ledger_committed_at": "2026-09-08T02:06:20Z"
+}
