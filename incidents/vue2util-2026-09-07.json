@@ -1,0 +1,40 @@
+{
+  "id": "vue2util-2026-09-07",
+  "display_name": "vue2util",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vue2util",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.0.0",
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1166",
+          "osv_published_at": "2024-04-01T23:58:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:50:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:50:26Z",
+  "osv_earliest_published_at": "2024-04-01T23:58:24Z",
+  "source_published_at": "2024-04-01T23:58:24Z",
+  "observed_at": "2026-09-07T13:50:26Z",
+  "ingested_at": "2026-09-07T13:50:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:35:58Z",
+  "ledger_committed_at": "2026-09-08T01:35:58Z"
+}
