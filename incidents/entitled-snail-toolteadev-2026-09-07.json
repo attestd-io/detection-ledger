@@ -1,0 +1,39 @@
+{
+  "id": "entitled-snail-toolteadev-2026-09-07",
+  "display_name": "entitled_snail-toolteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "entitled_snail-toolteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "2.3.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-102135",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:47:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:47:02Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T18:47:02Z",
+  "ingested_at": "2026-09-07T18:47:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T16:56:46Z",
+  "ledger_committed_at": "2026-09-08T16:56:46Z"
+}
