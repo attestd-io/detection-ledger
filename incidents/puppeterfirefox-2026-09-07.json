@@ -1,0 +1,37 @@
+{
+  "id": "puppeterfirefox-2026-09-07",
+  "display_name": "puppeterfirefox",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "puppeterfirefox",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10522",
+          "osv_published_at": "2024-11-07T15:14:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:32:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:32:17Z",
+  "osv_earliest_published_at": "2024-11-07T15:14:58Z",
+  "source_published_at": "2024-11-07T15:14:58Z",
+  "observed_at": "2026-09-07T13:32:17Z",
+  "ingested_at": "2026-09-07T13:32:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:01:17Z",
+  "ledger_committed_at": "2026-09-08T01:01:17Z"
+}
