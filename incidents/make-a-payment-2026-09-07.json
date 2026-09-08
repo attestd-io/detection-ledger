@@ -1,0 +1,39 @@
+{
+  "id": "make-a-payment-2026-09-07",
+  "display_name": "make-a-payment",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "make-a-payment",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7972",
+          "osv_published_at": "2024-08-07T23:58:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T16:00:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T16:00:22Z",
+  "osv_earliest_published_at": "2024-08-07T23:58:01Z",
+  "source_published_at": "2024-08-07T23:58:01Z",
+  "observed_at": "2026-09-07T16:00:22Z",
+  "ingested_at": "2026-09-07T16:00:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:44:45Z",
+  "ledger_committed_at": "2026-09-08T05:44:45Z"
+}
