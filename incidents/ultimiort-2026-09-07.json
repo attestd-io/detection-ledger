@@ -1,0 +1,37 @@
+{
+  "id": "ultimiort-2026-09-07",
+  "display_name": "ultimiort",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ultimiort",
+      "ecosystem": "npm",
+      "versions": [
+        "200.25.103"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8857",
+          "osv_published_at": "2024-09-09T22:31:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:52:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:52:54Z",
+  "osv_earliest_published_at": "2024-09-09T22:31:53Z",
+  "source_published_at": "2024-09-09T22:31:53Z",
+  "observed_at": "2026-09-07T17:52:54Z",
+  "ingested_at": "2026-09-07T17:52:54Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:23:09Z",
+  "ledger_committed_at": "2026-09-08T07:23:09Z"
+}
