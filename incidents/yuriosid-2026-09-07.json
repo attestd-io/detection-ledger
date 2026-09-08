@@ -1,0 +1,37 @@
+{
+  "id": "yuriosid-2026-09-07",
+  "display_name": "yuriosid",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "yuriosid",
+      "ecosystem": "npm",
+      "versions": [
+        "1.90.30"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8008",
+          "osv_published_at": "2024-08-07T23:00:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T16:03:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T16:03:45Z",
+  "osv_earliest_published_at": "2024-08-07T23:00:23Z",
+  "source_published_at": "2024-08-07T23:00:23Z",
+  "observed_at": "2026-09-07T16:03:45Z",
+  "ingested_at": "2026-09-07T16:03:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:52:59Z",
+  "ledger_committed_at": "2026-09-08T05:52:59Z"
+}
