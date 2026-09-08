@@ -1,0 +1,38 @@
+{
+  "id": "gradient-tiny-2026-09-07",
+  "display_name": "gradient-tiny",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gradient-tiny",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.2",
+        "2.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1673",
+          "osv_published_at": "2024-06-27T02:26:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:13:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:13:12Z",
+  "osv_earliest_published_at": "2024-06-27T02:26:53Z",
+  "source_published_at": "2024-06-27T02:26:53Z",
+  "observed_at": "2026-09-07T14:13:12Z",
+  "ingested_at": "2026-09-07T14:13:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:43:20Z",
+  "ledger_committed_at": "2026-09-08T02:43:20Z"
+}
