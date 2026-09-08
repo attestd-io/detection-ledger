@@ -1,0 +1,40 @@
+{
+  "id": "sae-viewer-2026-09-07",
+  "display_name": "sae-viewer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sae-viewer",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "10.0.0",
+        "10.0.1",
+        "9.9.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9180",
+          "osv_published_at": "2024-10-09T05:06:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:57:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:57:34Z",
+  "osv_earliest_published_at": "2024-10-09T05:06:26Z",
+  "source_published_at": "2024-10-09T05:06:26Z",
+  "observed_at": "2026-09-07T17:57:34Z",
+  "ingested_at": "2026-09-07T17:57:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:51:40Z",
+  "ledger_committed_at": "2026-09-08T07:51:40Z"
+}
