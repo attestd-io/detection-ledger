@@ -1,0 +1,39 @@
+{
+  "id": "faithful-jellyfish-appteadev-2026-09-07",
+  "display_name": "faithful_jellyfish-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "faithful_jellyfish-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "2.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-102504",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:53:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:53:30Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T18:53:30Z",
+  "ingested_at": "2026-09-07T18:53:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T18:26:01Z",
+  "ledger_committed_at": "2026-09-08T18:26:01Z"
+}
