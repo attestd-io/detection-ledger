@@ -1,0 +1,37 @@
+{
+  "id": "tdv2-applet-video-modal-2026-09-07",
+  "display_name": "tdv2-applet-video-modal",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tdv2-applet-video-modal",
+      "ecosystem": "npm",
+      "versions": [
+        "24.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-844",
+          "osv_published_at": "2023-03-31T02:16:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:22:02Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:22:02Z",
+  "osv_earliest_published_at": "2023-03-31T02:16:07Z",
+  "source_published_at": "2023-03-31T02:16:07Z",
+  "observed_at": "2026-09-07T13:22:02Z",
+  "ingested_at": "2026-09-07T13:22:02Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:05:04Z",
+  "ledger_committed_at": "2026-09-08T00:05:04Z"
+}
