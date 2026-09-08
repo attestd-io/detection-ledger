@@ -1,0 +1,38 @@
+{
+  "id": "duckc2-v5-2-2026-09-07",
+  "display_name": "duckc2-v5.2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "duckc2-v5.2",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "5.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9226",
+          "osv_published_at": "2024-10-10T23:27:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:58:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:58:13Z",
+  "osv_earliest_published_at": "2024-10-10T23:27:22Z",
+  "source_published_at": "2024-10-10T23:27:22Z",
+  "observed_at": "2026-09-07T17:58:13Z",
+  "ingested_at": "2026-09-07T17:58:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:57:41Z",
+  "ledger_committed_at": "2026-09-08T07:57:41Z"
+}
