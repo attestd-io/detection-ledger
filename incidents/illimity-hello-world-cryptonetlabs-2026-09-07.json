@@ -1,0 +1,38 @@
+{
+  "id": "illimity-hello-world-cryptonetlabs-2026-09-07",
+  "display_name": "@illimity/hello-world-cryptonetlabs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@illimity/hello-world-cryptonetlabs",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-7863",
+          "osv_published_at": "2024-07-31T02:39:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:41:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:41:00Z",
+  "osv_earliest_published_at": "2024-07-31T02:39:17Z",
+  "source_published_at": "2024-07-31T02:39:17Z",
+  "observed_at": "2026-09-07T15:41:00Z",
+  "ingested_at": "2026-09-07T15:41:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:25:14Z",
+  "ledger_committed_at": "2026-09-08T05:25:14Z"
+}
