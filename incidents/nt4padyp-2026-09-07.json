@@ -1,0 +1,47 @@
+{
+  "id": "nt4padyp-2026-09-07",
+  "display_name": "nt4padyp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nt4padyp",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.10",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "1.0.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1658",
+          "osv_published_at": "2024-06-20T00:28:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:12:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:12:52Z",
+  "osv_earliest_published_at": "2024-06-20T00:28:05Z",
+  "source_published_at": "2024-06-20T00:28:05Z",
+  "observed_at": "2026-09-07T14:12:52Z",
+  "ingested_at": "2026-09-07T14:12:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:42:00Z",
+  "ledger_committed_at": "2026-09-08T02:42:00Z"
+}
