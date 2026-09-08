@@ -1,0 +1,37 @@
+{
+  "id": "lbnqduy11805-turbo-octo-memory-2026-09-07",
+  "display_name": "@lbnqduy11805/turbo-octo-memory",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@lbnqduy11805/turbo-octo-memory",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1243",
+          "osv_published_at": "2024-04-10T05:55:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:00:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:00:26Z",
+  "osv_earliest_published_at": "2024-04-10T05:55:22Z",
+  "source_published_at": "2024-04-10T05:55:22Z",
+  "observed_at": "2026-09-07T14:00:26Z",
+  "ingested_at": "2026-09-07T14:00:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:57:42Z",
+  "ledger_committed_at": "2026-09-08T01:57:42Z"
+}
