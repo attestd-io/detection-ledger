@@ -1,0 +1,39 @@
+{
+  "id": "helpless-shrimp-gooddev-2026-09-07",
+  "display_name": "helpless_shrimp-gooddev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "helpless_shrimp-gooddev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "3.1.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-103647",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:15:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:15:12Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T19:15:12Z",
+  "ingested_at": "2026-09-07T19:15:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T22:59:35Z",
+  "ledger_committed_at": "2026-09-08T22:59:35Z"
+}
