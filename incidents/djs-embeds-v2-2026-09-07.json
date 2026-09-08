@@ -1,0 +1,39 @@
+{
+  "id": "djs-embeds-v2-2026-09-07",
+  "display_name": "djs-embeds-v2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "djs-embeds-v2",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.2",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1285",
+          "osv_published_at": "2024-04-22T06:18:24Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:04:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:04:01Z",
+  "osv_earliest_published_at": "2024-04-22T06:18:24Z",
+  "source_published_at": "2024-04-22T06:18:24Z",
+  "observed_at": "2026-09-07T14:04:01Z",
+  "ingested_at": "2026-09-07T14:04:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:04:11Z",
+  "ledger_committed_at": "2026-09-08T02:04:11Z"
+}
