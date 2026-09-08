@@ -1,0 +1,39 @@
+{
+  "id": "estimated-guan-appteadev-2026-09-07",
+  "display_name": "estimated_guan-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "estimated_guan-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.2.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-102254",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:49:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:49:15Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T18:49:15Z",
+  "ingested_at": "2026-09-07T18:49:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T17:26:05Z",
+  "ledger_committed_at": "2026-09-08T17:26:05Z"
+}
