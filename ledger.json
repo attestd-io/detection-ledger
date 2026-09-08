@@ -698572,5 +698572,44 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:06:16Z",
     "ledger_committed_at": "2026-09-08T00:06:16Z"
+  },
+  {
+    "id": "ksm-action-2026-09-07",
+    "display_name": "ksm-action",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "ksm-action",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0",
+          "1.0.1",
+          "21.0.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8460",
+            "osv_published_at": "2023-11-06T15:13:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:22:21Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:22:21Z",
+    "osv_earliest_published_at": "2023-11-06T15:13:15Z",
+    "source_published_at": "2023-11-06T15:13:15Z",
+    "observed_at": "2026-09-07T13:22:21Z",
+    "ingested_at": "2026-09-07T13:22:21Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:06:29Z",
+    "ledger_committed_at": "2026-09-08T00:06:29Z"
   }
 ]
