@@ -1,0 +1,39 @@
+{
+  "id": "chief-aardvark-silentdev-2026-09-07",
+  "display_name": "chief_aardvark-silentdev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chief_aardvark-silentdev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-100379",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:14:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:14:36Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T18:14:36Z",
+  "ingested_at": "2026-09-07T18:14:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T09:57:11Z",
+  "ledger_committed_at": "2026-09-08T09:57:11Z"
+}
