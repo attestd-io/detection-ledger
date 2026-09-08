@@ -1,0 +1,37 @@
+{
+  "id": "holy-crane-magenta-79-2026-09-07",
+  "display_name": "holy_crane_magenta-79",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "holy_crane_magenta-79",
+      "ecosystem": "npm",
+      "versions": [
+        "2.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-103751",
+          "osv_published_at": "2025-11-11T07:38:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:17:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:17:07Z",
+  "osv_earliest_published_at": "2025-11-11T07:38:53Z",
+  "source_published_at": "2025-11-11T07:38:53Z",
+  "observed_at": "2026-09-07T19:17:07Z",
+  "ingested_at": "2026-09-07T19:17:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T23:23:40Z",
+  "ledger_committed_at": "2026-09-08T23:23:40Z"
+}
