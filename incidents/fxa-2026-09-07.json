@@ -1,0 +1,37 @@
+{
+  "id": "fxa-2026-09-07",
+  "display_name": "fxa",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "fxa",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8058",
+          "osv_published_at": "2024-08-28T01:03:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T16:07:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T16:07:51Z",
+  "osv_earliest_published_at": "2024-08-28T01:03:45Z",
+  "source_published_at": "2024-08-28T01:03:45Z",
+  "observed_at": "2026-09-07T16:07:51Z",
+  "ingested_at": "2026-09-07T16:07:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:56:41Z",
+  "ledger_committed_at": "2026-09-08T05:56:41Z"
+}
