@@ -710564,5 +710564,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T01:00:56Z",
     "ledger_committed_at": "2026-09-08T01:00:56Z"
+  },
+  {
+    "id": "puppeteerscroll-down-2026-09-07",
+    "display_name": "puppeteerscroll-down",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "puppeteerscroll-down",
+        "ecosystem": "npm",
+        "versions": [
+          "2.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2024-10521",
+            "osv_published_at": "2024-11-07T15:15:50Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:32:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:32:16Z",
+    "osv_earliest_published_at": "2024-11-07T15:15:50Z",
+    "source_published_at": "2024-11-07T15:15:50Z",
+    "observed_at": "2026-09-07T13:32:16Z",
+    "ingested_at": "2026-09-07T13:32:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T01:01:07Z",
+    "ledger_committed_at": "2026-09-08T01:01:07Z"
   }
 ]
