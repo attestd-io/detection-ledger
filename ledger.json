@@ -700257,5 +700257,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:13:38Z",
     "ledger_committed_at": "2026-09-08T00:13:38Z"
+  },
+  {
+    "id": "tessa-npm-plugin-2026-09-07",
+    "display_name": "tessa-npm-plugin",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tessa-npm-plugin",
+        "ecosystem": "npm",
+        "versions": [
+          "10.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8614",
+            "osv_published_at": "2023-11-24T18:30:41Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:24:08Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:24:08Z",
+    "osv_earliest_published_at": "2023-11-24T18:30:41Z",
+    "source_published_at": "2023-11-24T18:30:41Z",
+    "observed_at": "2026-09-07T13:24:08Z",
+    "ingested_at": "2026-09-07T13:24:08Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:13:48Z",
+    "ledger_committed_at": "2026-09-08T00:13:48Z"
   }
 ]
