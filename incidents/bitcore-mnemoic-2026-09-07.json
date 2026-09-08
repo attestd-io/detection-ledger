@@ -1,0 +1,37 @@
+{
+  "id": "bitcore-mnemoic-2026-09-07",
+  "display_name": "bitcore-mnemoic",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bitcore-mnemoic",
+      "ecosystem": "npm",
+      "versions": [
+        "10.5.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10609",
+          "osv_published_at": "2024-11-12T12:54:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:36:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:36:05Z",
+  "osv_earliest_published_at": "2024-11-12T12:54:12Z",
+  "source_published_at": "2024-11-12T12:54:12Z",
+  "observed_at": "2026-09-07T13:36:05Z",
+  "ingested_at": "2026-09-07T13:36:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:07:10Z",
+  "ledger_committed_at": "2026-09-08T01:07:10Z"
+}
