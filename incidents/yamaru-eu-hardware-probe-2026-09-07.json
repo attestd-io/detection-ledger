@@ -1,0 +1,32 @@
+{
+  "id": "yamaru-eu-hardware-probe-2026-09-07",
+  "display_name": "@yamaru-eu/hardware-probe",
+  "campaign": "opera-gaming",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "@yamaru-eu/hardware-probe",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.5"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:56:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:56:46Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T15:56:46Z",
+  "ingested_at": "2026-09-07T15:56:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/%40yamaru-eu%2Fhardware-probe",
+  "ledger_commit_at": "2026-09-08T05:33:53Z",
+  "ledger_committed_at": "2026-09-08T05:33:53Z"
+}
