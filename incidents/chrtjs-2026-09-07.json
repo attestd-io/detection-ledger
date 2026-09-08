@@ -1,0 +1,37 @@
+{
+  "id": "chrtjs-2026-09-07",
+  "display_name": "chrtjs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chrtjs",
+      "ecosystem": "npm",
+      "versions": [
+        "4.4.6"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10678",
+          "osv_published_at": "2024-11-13T10:55:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:36:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:36:55Z",
+  "osv_earliest_published_at": "2024-11-13T10:55:03Z",
+  "source_published_at": "2024-11-13T10:55:03Z",
+  "observed_at": "2026-09-07T13:36:55Z",
+  "ingested_at": "2026-09-07T13:36:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:10:36Z",
+  "ledger_committed_at": "2026-09-08T01:10:36Z"
+}
