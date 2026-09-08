@@ -1,0 +1,39 @@
+{
+  "id": "ruby-lsp-2026-09-07",
+  "display_name": "ruby-lsp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ruby-lsp",
+      "ecosystem": "npm",
+      "versions": [
+        "0.8.13",
+        "0.8.14",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-11083",
+          "osv_published_at": "2024-11-27T06:19:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:42:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:42:56Z",
+  "osv_earliest_published_at": "2024-11-27T06:19:05Z",
+  "source_published_at": "2024-11-27T06:19:05Z",
+  "observed_at": "2026-09-07T13:42:56Z",
+  "ingested_at": "2026-09-07T13:42:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:25:00Z",
+  "ledger_committed_at": "2026-09-08T01:25:00Z"
+}
