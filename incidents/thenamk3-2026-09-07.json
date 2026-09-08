@@ -1,0 +1,50 @@
+{
+  "id": "thenamk3-2026-09-07",
+  "display_name": "thenamk3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "thenamk3",
+      "ecosystem": "npm",
+      "versions": [
+        "10.0.0",
+        "3.0.0",
+        "3.1.0",
+        "3.2.0",
+        "3.3.0",
+        "3.4.0",
+        "4.0.0",
+        "4.5.0",
+        "5.0.0",
+        "5.5.0",
+        "6.0.0",
+        "8.0.0",
+        "8.0.1",
+        "8.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-882",
+          "osv_published_at": "2023-02-07T07:54:22Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:26:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:26:34Z",
+  "osv_earliest_published_at": "2023-02-07T07:54:22Z",
+  "source_published_at": "2023-02-07T07:54:22Z",
+  "observed_at": "2026-09-07T13:26:34Z",
+  "ingested_at": "2026-09-07T13:26:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:25:55Z",
+  "ledger_committed_at": "2026-09-08T00:25:55Z"
+}
