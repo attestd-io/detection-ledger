@@ -707059,5 +707059,53 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:44:43Z",
     "ledger_committed_at": "2026-09-08T00:44:43Z"
+  },
+  {
+    "id": "tds-styled-docs-2026-09-07",
+    "display_name": "tds-styled-docs",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "tds-styled-docs",
+        "ecosystem": "npm",
+        "versions": [
+          "69.0.0",
+          "69.0.1",
+          "69.0.2",
+          "69.0.3",
+          "69.0.4",
+          "69.0.5",
+          "69.0.6",
+          "69.0.7",
+          "69.0.8",
+          "69.0.9",
+          "69.1.0",
+          "69.1.1"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2024-10254",
+            "osv_published_at": "2024-10-28T05:49:04Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:29:17Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:29:17Z",
+    "osv_earliest_published_at": "2024-10-28T05:49:04Z",
+    "source_published_at": "2024-10-28T05:49:04Z",
+    "observed_at": "2026-09-07T13:29:17Z",
+    "ingested_at": "2026-09-07T13:29:17Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:44:52Z",
+    "ledger_committed_at": "2026-09-08T00:44:52Z"
   }
 ]
