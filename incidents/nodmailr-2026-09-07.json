@@ -1,0 +1,37 @@
+{
+  "id": "nodmailr-2026-09-07",
+  "display_name": "nodmailr",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "nodmailr",
+      "ecosystem": "npm",
+      "versions": [
+        "6.9.16"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10939",
+          "osv_published_at": "2024-11-25T23:47:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:40:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:40:00Z",
+  "osv_earliest_published_at": "2024-11-25T23:47:01Z",
+  "source_published_at": "2024-11-25T23:47:01Z",
+  "observed_at": "2026-09-07T13:40:00Z",
+  "ingested_at": "2026-09-07T13:40:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:19:29Z",
+  "ledger_committed_at": "2026-09-08T01:19:29Z"
+}
