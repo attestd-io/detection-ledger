@@ -1,0 +1,39 @@
+{
+  "id": "distinguished-lemur-appteadev-2026-09-07",
+  "display_name": "distinguished_lemur-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "distinguished_lemur-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "2.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-101659",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:37:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:37:46Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T18:37:46Z",
+  "ingested_at": "2026-09-07T18:37:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T14:59:41Z",
+  "ledger_committed_at": "2026-09-08T14:59:41Z"
+}
