@@ -1,0 +1,38 @@
+{
+  "id": "multiple-keys-2026-09-07",
+  "display_name": "multiple-keys",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "multiple-keys",
+      "ecosystem": "npm",
+      "versions": [
+        "7.7.7",
+        "9.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9013",
+          "osv_published_at": "2024-09-27T00:42:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:55:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:55:12Z",
+  "osv_earliest_published_at": "2024-09-27T00:42:01Z",
+  "source_published_at": "2024-09-27T00:42:01Z",
+  "observed_at": "2026-09-07T17:55:12Z",
+  "ingested_at": "2026-09-07T17:55:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:35:37Z",
+  "ledger_committed_at": "2026-09-08T07:35:37Z"
+}
