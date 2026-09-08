@@ -698874,5 +698874,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:07:39Z",
     "ledger_committed_at": "2026-09-08T00:07:39Z"
+  },
+  {
+    "id": "shithandler-2026-09-07",
+    "display_name": "shithandler",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "shithandler",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8480",
+            "osv_published_at": "2023-11-07T09:58:10Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:22:37Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:22:37Z",
+    "osv_earliest_published_at": "2023-11-07T09:58:10Z",
+    "source_published_at": "2023-11-07T09:58:10Z",
+    "observed_at": "2026-09-07T13:22:37Z",
+    "ingested_at": "2026-09-07T13:22:37Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:07:49Z",
+    "ledger_committed_at": "2026-09-08T00:07:49Z"
   }
 ]
