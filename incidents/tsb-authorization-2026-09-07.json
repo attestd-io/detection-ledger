@@ -1,0 +1,41 @@
+{
+  "id": "tsb-authorization-2026-09-07",
+  "display_name": "tsb-authorization",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tsb-authorization",
+      "ecosystem": "npm",
+      "versions": [
+        "1.18.0",
+        "1.18.1",
+        "1.18.2",
+        "1.18.21",
+        "1.18.22"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-85",
+          "osv_published_at": "2024-01-12T03:08:56Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:14:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:14:05Z",
+  "osv_earliest_published_at": "2024-01-12T03:08:56Z",
+  "source_published_at": "2024-01-12T03:08:56Z",
+  "observed_at": "2026-09-07T17:14:05Z",
+  "ingested_at": "2026-09-07T17:14:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T06:46:19Z",
+  "ledger_committed_at": "2026-09-08T06:46:19Z"
+}
