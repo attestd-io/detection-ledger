@@ -1,0 +1,38 @@
+{
+  "id": "wlwz-2311-3503-2026-09-07",
+  "display_name": "wlwz-2311-3503",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wlwz-2311-3503",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-171",
+          "osv_published_at": "2024-01-24T20:23:05Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:13:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:13:41Z",
+  "osv_earliest_published_at": "2024-01-24T20:23:05Z",
+  "source_published_at": "2024-01-24T20:23:05Z",
+  "observed_at": "2026-09-07T14:13:41Z",
+  "ingested_at": "2026-09-07T14:13:41Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:44:24Z",
+  "ledger_committed_at": "2026-09-08T02:44:24Z"
+}
