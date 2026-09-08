@@ -1,0 +1,37 @@
+{
+  "id": "discord-js-v13-selbots-2026-09-07",
+  "display_name": "discord.js-v13-selbots",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "discord.js-v13-selbots",
+      "ecosystem": "npm",
+      "versions": [
+        "5.3.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8756",
+          "osv_published_at": "2023-12-28T23:52:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:26:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:26:15Z",
+  "osv_earliest_published_at": "2023-12-28T23:52:49Z",
+  "source_published_at": "2023-12-28T23:52:49Z",
+  "observed_at": "2026-09-07T13:26:15Z",
+  "ingested_at": "2026-09-07T13:26:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:24:07Z",
+  "ledger_committed_at": "2026-09-08T00:24:07Z"
+}
