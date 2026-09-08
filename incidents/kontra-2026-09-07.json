@@ -1,0 +1,32 @@
+{
+  "id": "kontra-2026-09-07",
+  "display_name": "kontra",
+  "campaign": "opera-gaming",
+  "detection_source": "npm_registry",
+  "packages": [
+    {
+      "package": "kontra",
+      "ecosystem": "npm",
+      "versions": [
+        "9.1.0"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T15:56:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T15:56:59Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-07T15:56:59Z",
+  "ingested_at": "2026-09-07T15:56:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://registry.npmjs.org/kontra",
+  "ledger_commit_at": "2026-09-08T05:34:36Z",
+  "ledger_committed_at": "2026-09-08T05:34:36Z"
+}
