@@ -1,0 +1,39 @@
+{
+  "id": "electrical-echidna-appteadev-2026-09-07",
+  "display_name": "electrical_echidna-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "electrical_echidna-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-102025",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:45:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:45:12Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T18:45:12Z",
+  "ingested_at": "2026-09-07T18:45:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T16:29:20Z",
+  "ledger_committed_at": "2026-09-08T16:29:20Z"
+}
