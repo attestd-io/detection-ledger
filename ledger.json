@@ -697732,5 +697732,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:02:34Z",
     "ledger_committed_at": "2026-09-08T00:02:34Z"
+  },
+  {
+    "id": "fca-kemdino-2026-09-07",
+    "display_name": "fca-kemdino",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "fca-kemdino",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8383",
+            "osv_published_at": "2023-10-16T06:07:48Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:21:16Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:21:16Z",
+    "osv_earliest_published_at": "2023-10-16T06:07:48Z",
+    "source_published_at": "2023-10-16T06:07:48Z",
+    "observed_at": "2026-09-07T13:21:16Z",
+    "ingested_at": "2026-09-07T13:21:16Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:02:44Z",
+    "ledger_committed_at": "2026-09-08T00:02:44Z"
   }
 ]
