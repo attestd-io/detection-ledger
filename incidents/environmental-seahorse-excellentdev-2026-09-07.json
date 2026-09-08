@@ -1,0 +1,37 @@
+{
+  "id": "environmental-seahorse-excellentdev-2026-09-07",
+  "display_name": "environmental_seahorse-excellentdev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "environmental_seahorse-excellentdev",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-102145",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T18:47:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T18:47:12Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T18:47:12Z",
+  "ingested_at": "2026-09-07T18:47:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T16:59:03Z",
+  "ledger_committed_at": "2026-09-08T16:59:03Z"
+}
