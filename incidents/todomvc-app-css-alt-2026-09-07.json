@@ -1,0 +1,38 @@
+{
+  "id": "todomvc-app-css-alt-2026-09-07",
+  "display_name": "todomvc-app-css-alt",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "todomvc-app-css-alt",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "9.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9255",
+          "osv_published_at": "2024-10-10T23:30:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:58:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:58:46Z",
+  "osv_earliest_published_at": "2024-10-10T23:30:03Z",
+  "source_published_at": "2024-10-10T23:30:03Z",
+  "observed_at": "2026-09-07T17:58:46Z",
+  "ingested_at": "2026-09-07T17:58:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T08:00:59Z",
+  "ledger_committed_at": "2026-09-08T08:00:59Z"
+}
