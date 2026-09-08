@@ -1,0 +1,37 @@
+{
+  "id": "rdservices-2026-09-07",
+  "display_name": "rdservices",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rdservices",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-9247",
+          "osv_published_at": "2024-10-10T06:30:41Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:58:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:58:38Z",
+  "osv_earliest_published_at": "2024-10-10T06:30:41Z",
+  "source_published_at": "2024-10-10T06:30:41Z",
+  "observed_at": "2026-09-07T17:58:38Z",
+  "ingested_at": "2026-09-07T17:58:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T08:00:02Z",
+  "ledger_committed_at": "2026-09-08T08:00:02Z"
+}
