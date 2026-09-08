@@ -1,0 +1,37 @@
+{
+  "id": "epsilonprotect-2026-09-07",
+  "display_name": "epsilonprotect",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "epsilonprotect",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-160",
+          "osv_published_at": "2024-01-24T00:08:29Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:12:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:12:01Z",
+  "osv_earliest_published_at": "2024-01-24T00:08:29Z",
+  "source_published_at": "2024-01-24T00:08:29Z",
+  "observed_at": "2026-09-07T14:12:01Z",
+  "ingested_at": "2026-09-07T14:12:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:37:19Z",
+  "ledger_committed_at": "2026-09-08T02:37:19Z"
+}
