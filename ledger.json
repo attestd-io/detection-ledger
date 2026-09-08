@@ -698498,5 +698498,42 @@
     "advisory_url": "",
     "ledger_commit_at": "2026-09-08T00:05:54Z",
     "ledger_committed_at": "2026-09-08T00:05:54Z"
+  },
+  {
+    "id": "inventashif-2026-09-07",
+    "display_name": "inventashif",
+    "campaign": null,
+    "detection_source": "osv",
+    "packages": [
+      {
+        "package": "inventashif",
+        "ecosystem": "npm",
+        "versions": [
+          "1.0.0"
+        ],
+        "osv_entries": [
+          {
+            "osv_id": "MAL-2023-8459",
+            "osv_published_at": "2023-11-06T15:13:15Z"
+          }
+        ]
+      }
+    ],
+    "malware_type": "malware",
+    "attestd_detected_at": "2026-09-07T13:22:19Z",
+    "flagged_at": null,
+    "confirmed_at": "2026-09-07T13:22:19Z",
+    "osv_earliest_published_at": "2023-11-06T15:13:15Z",
+    "source_published_at": "2023-11-06T15:13:15Z",
+    "observed_at": "2026-09-07T13:22:19Z",
+    "ingested_at": "2026-09-07T13:22:19Z",
+    "first_served_at": null,
+    "hours_ahead_of_osv": null,
+    "hours_ahead_of_press": null,
+    "press_coverage_at": null,
+    "press_urls": [],
+    "advisory_url": "",
+    "ledger_commit_at": "2026-09-08T00:06:04Z",
+    "ledger_committed_at": "2026-09-08T00:06:04Z"
   }
 ]
