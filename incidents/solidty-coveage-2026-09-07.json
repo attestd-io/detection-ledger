@@ -1,0 +1,37 @@
+{
+  "id": "solidty-coveage-2026-09-07",
+  "display_name": "solidty-coveage",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "solidty-coveage",
+      "ecosystem": "npm",
+      "versions": [
+        "0.8.13"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10438",
+          "osv_published_at": "2024-11-06T08:38:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:31:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:31:21Z",
+  "osv_earliest_published_at": "2024-11-06T08:38:57Z",
+  "source_published_at": "2024-11-06T08:38:57Z",
+  "observed_at": "2026-09-07T13:31:21Z",
+  "ingested_at": "2026-09-07T13:31:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:55:26Z",
+  "ledger_committed_at": "2026-09-08T00:55:26Z"
+}
