@@ -1,0 +1,37 @@
+{
+  "id": "graphql-yga-2026-09-07",
+  "display_name": "graphql-yga",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "graphql-yga",
+      "ecosystem": "npm",
+      "versions": [
+        "5.8.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-10679",
+          "osv_published_at": "2024-11-13T11:05:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:36:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:36:56Z",
+  "osv_earliest_published_at": "2024-11-13T11:05:49Z",
+  "source_published_at": "2024-11-13T11:05:49Z",
+  "observed_at": "2026-09-07T13:36:56Z",
+  "ingested_at": "2026-09-07T13:36:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T01:10:47Z",
+  "ledger_committed_at": "2026-09-08T01:10:47Z"
+}
