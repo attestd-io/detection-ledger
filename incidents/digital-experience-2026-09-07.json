@@ -1,0 +1,37 @@
+{
+  "id": "digital-experience-2026-09-07",
+  "display_name": "digital-experience",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "digital-experience",
+      "ecosystem": "npm",
+      "versions": [
+        "89.9.9"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8031",
+          "osv_published_at": "2024-08-26T03:55:55Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T16:07:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T16:07:33Z",
+  "osv_earliest_published_at": "2024-08-26T03:55:55Z",
+  "source_published_at": "2024-08-26T03:55:55Z",
+  "observed_at": "2026-09-07T16:07:33Z",
+  "ingested_at": "2026-09-07T16:07:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T05:54:23Z",
+  "ledger_committed_at": "2026-09-08T05:54:23Z"
+}
