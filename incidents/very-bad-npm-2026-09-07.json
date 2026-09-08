@@ -1,0 +1,38 @@
+{
+  "id": "very-bad-npm-2026-09-07",
+  "display_name": "very-bad-npm",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "very-bad-npm",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.3",
+        "1.0.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2023-8385",
+          "osv_published_at": "2023-10-16T06:50:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T13:21:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T13:21:18Z",
+  "osv_earliest_published_at": "2023-10-16T06:50:01Z",
+  "source_published_at": "2023-10-16T06:50:01Z",
+  "observed_at": "2026-09-07T13:21:18Z",
+  "ingested_at": "2026-09-07T13:21:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T00:03:04Z",
+  "ledger_committed_at": "2026-09-08T00:03:04Z"
+}
