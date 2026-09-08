@@ -1,0 +1,37 @@
+{
+  "id": "bamoe-standalone-bpmn-and-dmn-editors-classic-2026-09-07",
+  "display_name": "bamoe-standalone-bpmn-and-dmn-editors-classic",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bamoe-standalone-bpmn-and-dmn-editors-classic",
+      "ecosystem": "npm",
+      "versions": [
+        "100.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-8915",
+          "osv_published_at": "2024-09-19T01:42:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T17:53:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T17:53:44Z",
+  "osv_earliest_published_at": "2024-09-19T01:42:32Z",
+  "source_published_at": "2024-09-19T01:42:32Z",
+  "observed_at": "2026-09-07T17:53:44Z",
+  "ingested_at": "2026-09-07T17:53:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T07:29:12Z",
+  "ledger_committed_at": "2026-09-08T07:29:12Z"
+}
