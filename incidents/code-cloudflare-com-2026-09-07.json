@@ -1,0 +1,37 @@
+{
+  "id": "code-cloudflare-com-2026-09-07",
+  "display_name": "code.cloudflare.com",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "code.cloudflare.com",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-1575",
+          "osv_published_at": "2024-06-11T06:54:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T14:11:41Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T14:11:41Z",
+  "osv_earliest_published_at": "2024-06-11T06:54:40Z",
+  "source_published_at": "2024-06-11T06:54:40Z",
+  "observed_at": "2026-09-07T14:11:41Z",
+  "ingested_at": "2026-09-07T14:11:41Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-08T02:34:43Z",
+  "ledger_committed_at": "2026-09-08T02:34:43Z"
+}
