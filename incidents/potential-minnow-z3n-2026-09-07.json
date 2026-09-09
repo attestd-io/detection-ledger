@@ -1,0 +1,37 @@
+{
+  "id": "potential-minnow-z3n-2026-09-07",
+  "display_name": "potential_minnow_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "potential_minnow_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "4.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107168",
+          "osv_published_at": "2025-11-11T07:31:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:19:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:19:11Z",
+  "osv_earliest_published_at": "2025-11-11T07:31:13Z",
+  "source_published_at": "2025-11-11T07:31:13Z",
+  "observed_at": "2026-09-07T20:19:11Z",
+  "ingested_at": "2026-09-07T20:19:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T13:27:13Z",
+  "ledger_committed_at": "2026-09-09T13:27:13Z"
+}
