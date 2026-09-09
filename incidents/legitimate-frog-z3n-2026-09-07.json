@@ -1,0 +1,37 @@
+{
+  "id": "legitimate-frog-z3n-2026-09-07",
+  "display_name": "legitimate_frog_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "legitimate_frog_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "4.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-105065",
+          "osv_published_at": "2025-11-11T07:31:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:40:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:40:36Z",
+  "osv_earliest_published_at": "2025-11-11T07:31:13Z",
+  "source_published_at": "2025-11-11T07:31:13Z",
+  "observed_at": "2026-09-07T19:40:36Z",
+  "ingested_at": "2026-09-07T19:40:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T04:28:43Z",
+  "ledger_committed_at": "2026-09-09T04:28:43Z"
+}
