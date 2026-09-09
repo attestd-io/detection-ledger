@@ -1,0 +1,37 @@
+{
+  "id": "mathis-wallet-store-2026-09-07",
+  "display_name": "mathis-wallet-store",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mathis-wallet-store",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-105668",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:51:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:51:14Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T19:51:14Z",
+  "ingested_at": "2026-09-07T19:51:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T06:55:22Z",
+  "ledger_committed_at": "2026-09-09T06:55:22Z"
+}
