@@ -1,0 +1,44 @@
+{
+  "id": "cs-icons-2026-09-07",
+  "display_name": "cs-icons",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cs-icons",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.4",
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "3.0.8",
+        "3.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-1085",
+          "osv_published_at": "2025-02-03T08:44:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:44:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:44:05Z",
+  "osv_earliest_published_at": "2025-02-03T08:44:37Z",
+  "source_published_at": "2025-02-03T08:44:37Z",
+  "observed_at": "2026-09-07T20:44:05Z",
+  "ingested_at": "2026-09-07T20:44:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T20:06:47Z",
+  "ledger_committed_at": "2026-09-09T20:06:47Z"
+}
