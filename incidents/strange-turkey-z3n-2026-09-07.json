@@ -1,0 +1,38 @@
+{
+  "id": "strange-turkey-z3n-2026-09-07",
+  "display_name": "strange_turkey_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "strange_turkey_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.1",
+        "unpublished"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109176",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:55:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:55:42Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T20:55:42Z",
+  "ingested_at": "2026-09-07T20:55:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T23:16:49Z",
+  "ledger_committed_at": "2026-09-09T23:16:49Z"
+}
