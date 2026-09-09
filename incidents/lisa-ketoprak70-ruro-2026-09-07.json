@@ -1,0 +1,37 @@
+{
+  "id": "lisa-ketoprak70-ruro-2026-09-07",
+  "display_name": "lisa-ketoprak70-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "lisa-ketoprak70-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "4.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-105224",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:43:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:43:23Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T19:43:23Z",
+  "ingested_at": "2026-09-07T19:43:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T05:08:15Z",
+  "ledger_committed_at": "2026-09-09T05:08:15Z"
+}
