@@ -1,0 +1,37 @@
+{
+  "id": "only-krill-dumbs-2026-09-07",
+  "display_name": "only_krill_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "only_krill_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "2.2.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-106733",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:10:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:10:31Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T20:10:31Z",
+  "ingested_at": "2026-09-07T20:10:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T11:28:11Z",
+  "ledger_committed_at": "2026-09-09T11:28:11Z"
+}
