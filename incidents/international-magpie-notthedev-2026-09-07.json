@@ -1,0 +1,39 @@
+{
+  "id": "international-magpie-notthedev-2026-09-07",
+  "display_name": "international_magpie-notthedev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "international_magpie-notthedev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-104360",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:27:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:27:33Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T19:27:33Z",
+  "ingested_at": "2026-09-07T19:27:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T01:44:20Z",
+  "ledger_committed_at": "2026-09-09T01:44:20Z"
+}
