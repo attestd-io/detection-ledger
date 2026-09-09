@@ -1,0 +1,39 @@
+{
+  "id": "married-ape-silentdev-2026-09-07",
+  "display_name": "married_ape-silentdev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "married_ape-silentdev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-105623",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:50:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:50:31Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T19:50:31Z",
+  "ingested_at": "2026-09-07T19:50:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T06:44:30Z",
+  "ledger_committed_at": "2026-09-09T06:44:30Z"
+}
