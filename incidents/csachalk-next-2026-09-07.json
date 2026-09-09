@@ -1,0 +1,37 @@
+{
+  "id": "csachalk-next-2026-09-07",
+  "display_name": "csachalk-next",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "csachalk-next",
+      "ecosystem": "npm",
+      "versions": [
+        "6.1.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-1092",
+          "osv_published_at": "2025-02-03T08:44:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:56:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:56:05Z",
+  "osv_earliest_published_at": "2025-02-03T08:44:38Z",
+  "source_published_at": "2025-02-03T08:44:38Z",
+  "observed_at": "2026-09-07T20:56:05Z",
+  "ingested_at": "2026-09-07T20:56:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T23:23:04Z",
+  "ledger_committed_at": "2026-09-09T23:23:04Z"
+}
