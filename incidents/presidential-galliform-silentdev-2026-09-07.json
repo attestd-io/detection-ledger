@@ -1,0 +1,39 @@
+{
+  "id": "presidential-galliform-silentdev-2026-09-07",
+  "display_name": "presidential_galliform-silentdev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "presidential_galliform-silentdev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "2.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107233",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:20:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:20:22Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:20:22Z",
+  "ingested_at": "2026-09-07T20:20:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T13:45:58Z",
+  "ledger_committed_at": "2026-09-09T13:45:58Z"
+}
