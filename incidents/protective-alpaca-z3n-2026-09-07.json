@@ -1,0 +1,38 @@
+{
+  "id": "protective-alpaca-z3n-2026-09-07",
+  "display_name": "protective_alpaca_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "protective_alpaca_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "3.3.4",
+        "unpublished"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107371",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:22:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:22:46Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T20:22:46Z",
+  "ingested_at": "2026-09-07T20:22:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T14:26:39Z",
+  "ledger_committed_at": "2026-09-09T14:26:39Z"
+}
