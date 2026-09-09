@@ -1,0 +1,37 @@
+{
+  "id": "slimy-albatross-appteadev-2026-09-07",
+  "display_name": "slimy_albatross-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "slimy_albatross-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-108822",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:49:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:49:46Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:49:46Z",
+  "ingested_at": "2026-09-07T20:49:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T21:38:49Z",
+  "ledger_committed_at": "2026-09-09T21:38:49Z"
+}
