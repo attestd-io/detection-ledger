@@ -1,0 +1,39 @@
+{
+  "id": "sinta-lumpur53-ruro-2026-09-07",
+  "display_name": "sinta-lumpur53-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sinta-lumpur53-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.1.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-108723",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:47:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:47:55Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T20:47:55Z",
+  "ingested_at": "2026-09-07T20:47:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T21:11:08Z",
+  "ledger_committed_at": "2026-09-09T21:11:08Z"
+}
