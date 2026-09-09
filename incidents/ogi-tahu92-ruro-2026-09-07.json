@@ -1,0 +1,37 @@
+{
+  "id": "ogi-tahu92-ruro-2026-09-07",
+  "display_name": "ogi-tahu92-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ogi-tahu92-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "3.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-106606",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:08:04Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:08:04Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T20:08:04Z",
+  "ingested_at": "2026-09-07T20:08:04Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T10:55:16Z",
+  "ledger_committed_at": "2026-09-09T10:55:16Z"
+}
