@@ -1,0 +1,37 @@
+{
+  "id": "philosophical-quelea-dumbs-2026-09-07",
+  "display_name": "philosophical_quelea_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "philosophical_quelea_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "3.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107069",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:17:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:17:24Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T20:17:24Z",
+  "ingested_at": "2026-09-07T20:17:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T12:59:36Z",
+  "ledger_committed_at": "2026-09-09T12:59:36Z"
+}
