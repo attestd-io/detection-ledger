@@ -1,0 +1,37 @@
+{
+  "id": "psychological-stingray-apptea-2026-09-07",
+  "display_name": "psychological_stingray-apptea",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "psychological_stingray-apptea",
+      "ecosystem": "npm",
+      "versions": [
+        "2.4.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107411",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:23:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:23:27Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:23:27Z",
+  "ingested_at": "2026-09-07T20:23:27Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T14:38:30Z",
+  "ledger_committed_at": "2026-09-09T14:38:30Z"
+}
