@@ -1,0 +1,39 @@
+{
+  "id": "solid-otter-smiletea-2026-09-07",
+  "display_name": "solid_otter-smiletea",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "solid_otter-smiletea",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-108914",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:51:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:51:19Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:51:19Z",
+  "ingested_at": "2026-09-07T20:51:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T22:04:10Z",
+  "ledger_committed_at": "2026-09-09T22:04:10Z"
+}
