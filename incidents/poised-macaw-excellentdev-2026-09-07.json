@@ -1,0 +1,37 @@
+{
+  "id": "poised-macaw-excellentdev-2026-09-07",
+  "display_name": "poised_macaw-excellentdev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "poised_macaw-excellentdev",
+      "ecosystem": "npm",
+      "versions": [
+        "3.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107121",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:18:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:18:23Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:18:23Z",
+  "ingested_at": "2026-09-07T20:18:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T13:14:11Z",
+  "ledger_committed_at": "2026-09-09T13:14:11Z"
+}
