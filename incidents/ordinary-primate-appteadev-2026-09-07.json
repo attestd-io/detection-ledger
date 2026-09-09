@@ -1,0 +1,39 @@
+{
+  "id": "ordinary-primate-appteadev-2026-09-07",
+  "display_name": "ordinary_primate-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ordinary_primate-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "2.4.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-106775",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:11:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:11:13Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:11:13Z",
+  "ingested_at": "2026-09-07T20:11:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T11:38:48Z",
+  "ledger_committed_at": "2026-09-09T11:38:48Z"
+}
