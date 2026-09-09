@@ -1,0 +1,39 @@
+{
+  "id": "increasing-angelfish-appteadev-2026-09-07",
+  "display_name": "increasing_angelfish-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "increasing_angelfish-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-104080",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T19:22:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T19:22:48Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T19:22:48Z",
+  "ingested_at": "2026-09-07T19:22:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T00:40:00Z",
+  "ledger_committed_at": "2026-09-09T00:40:00Z"
+}
