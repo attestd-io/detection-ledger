@@ -1,0 +1,37 @@
+{
+  "id": "remarkable-barracuda-notthedev-2026-09-07",
+  "display_name": "remarkable_barracuda-notthedev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "remarkable_barracuda-notthedev",
+      "ecosystem": "npm",
+      "versions": [
+        "2.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107882",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:32:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:32:00Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:32:00Z",
+  "ingested_at": "2026-09-07T20:32:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T17:03:48Z",
+  "ledger_committed_at": "2026-09-09T17:03:48Z"
+}
