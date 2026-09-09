@@ -1,0 +1,37 @@
+{
+  "id": "renewed-quail-appteadev-2026-09-07",
+  "display_name": "renewed_quail-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "renewed_quail-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "4.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107904",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:32:21Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:32:21Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:32:21Z",
+  "ingested_at": "2026-09-07T20:32:21Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T17:10:36Z",
+  "ledger_committed_at": "2026-09-09T17:10:36Z"
+}
