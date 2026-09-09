@@ -1,0 +1,37 @@
+{
+  "id": "northern-dragon-z3n-2026-09-07",
+  "display_name": "northern_dragon_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "northern_dragon_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "3.3.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-106377",
+          "osv_published_at": "2025-11-11T07:31:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:03:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:03:49Z",
+  "osv_earliest_published_at": "2025-11-11T07:31:13Z",
+  "source_published_at": "2025-11-11T07:31:13Z",
+  "observed_at": "2026-09-07T20:03:49Z",
+  "ingested_at": "2026-09-07T20:03:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T09:55:33Z",
+  "ledger_committed_at": "2026-09-09T09:55:33Z"
+}
