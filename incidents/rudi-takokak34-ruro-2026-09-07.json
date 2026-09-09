@@ -1,0 +1,39 @@
+{
+  "id": "rudi-takokak34-ruro-2026-09-07",
+  "display_name": "rudi-takokak34-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rudi-takokak34-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-108287",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:40:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:40:09Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T20:40:09Z",
+  "ingested_at": "2026-09-07T20:40:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T19:04:50Z",
+  "ledger_committed_at": "2026-09-09T19:04:50Z"
+}
