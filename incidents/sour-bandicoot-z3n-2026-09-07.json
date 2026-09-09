@@ -1,0 +1,37 @@
+{
+  "id": "sour-bandicoot-z3n-2026-09-07",
+  "display_name": "sour_bandicoot_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sour_bandicoot_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-108941",
+          "osv_published_at": "2025-11-11T07:31:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:51:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:51:46Z",
+  "osv_earliest_published_at": "2025-11-11T07:31:13Z",
+  "source_published_at": "2025-11-11T07:31:13Z",
+  "observed_at": "2026-09-07T20:51:46Z",
+  "ingested_at": "2026-09-07T20:51:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T22:11:30Z",
+  "ledger_committed_at": "2026-09-09T22:11:30Z"
+}
