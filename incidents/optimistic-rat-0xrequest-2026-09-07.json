@@ -1,0 +1,37 @@
+{
+  "id": "optimistic-rat-0xrequest-2026-09-07",
+  "display_name": "optimistic_rat_0xrequest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "optimistic_rat_0xrequest",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-106758",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:10:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:10:55Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T20:10:55Z",
+  "ingested_at": "2026-09-07T20:10:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T11:34:23Z",
+  "ledger_committed_at": "2026-09-09T11:34:23Z"
+}
