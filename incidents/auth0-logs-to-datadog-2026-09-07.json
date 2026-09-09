@@ -1,0 +1,37 @@
+{
+  "id": "auth0-logs-to-datadog-2026-09-07",
+  "display_name": "auth0-logs-to-datadog",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "auth0-logs-to-datadog",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-1064",
+          "osv_published_at": "2025-02-03T08:16:52Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:04:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:04:13Z",
+  "osv_earliest_published_at": "2025-02-03T08:16:52Z",
+  "source_published_at": "2025-02-03T08:16:52Z",
+  "observed_at": "2026-09-07T20:04:13Z",
+  "ingested_at": "2026-09-07T20:04:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T10:01:13Z",
+  "ledger_committed_at": "2026-09-09T10:01:13Z"
+}
