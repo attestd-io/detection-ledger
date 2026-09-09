@@ -1,0 +1,37 @@
+{
+  "id": "cloudflare-workers-chatgpt-plugin-example-2026-09-07",
+  "display_name": "cloudflare-workers-chatgpt-plugin-example",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cloudflare-workers-chatgpt-plugin-example",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-1075",
+          "osv_published_at": "2025-02-03T09:01:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:25:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:25:10Z",
+  "osv_earliest_published_at": "2025-02-03T09:01:39Z",
+  "source_published_at": "2025-02-03T09:01:39Z",
+  "observed_at": "2026-09-07T20:25:10Z",
+  "ingested_at": "2026-09-07T20:25:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T15:03:21Z",
+  "ledger_committed_at": "2026-09-09T15:03:21Z"
+}
