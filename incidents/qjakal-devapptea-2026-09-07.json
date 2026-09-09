@@ -1,0 +1,39 @@
+{
+  "id": "qjakal-devapptea-2026-09-07",
+  "display_name": "qjakal-devapptea",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "qjakal-devapptea",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-107563",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:26:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:26:27Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:26:27Z",
+  "ingested_at": "2026-09-07T20:26:27Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T15:22:19Z",
+  "ledger_committed_at": "2026-09-09T15:22:19Z"
+}
