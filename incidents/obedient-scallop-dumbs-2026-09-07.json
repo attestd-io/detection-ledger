@@ -1,0 +1,37 @@
+{
+  "id": "obedient-scallop-dumbs-2026-09-07",
+  "display_name": "obedient_scallop_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "obedient_scallop_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "3.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-106476",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:05:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:05:37Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T20:05:37Z",
+  "ingested_at": "2026-09-07T20:05:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-09T10:21:00Z",
+  "ledger_committed_at": "2026-09-09T10:21:00Z"
+}
