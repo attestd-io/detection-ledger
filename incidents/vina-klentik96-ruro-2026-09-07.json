@@ -1,0 +1,38 @@
+{
+  "id": "vina-klentik96-ruro-2026-09-07",
+  "display_name": "vina-klentik96-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vina-klentik96-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "1.4.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110537",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:19:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:19:40Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T21:19:40Z",
+  "ingested_at": "2026-09-07T21:19:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T04:09:02Z",
+  "ledger_committed_at": "2026-09-10T04:09:02Z"
+}
