@@ -1,0 +1,37 @@
+{
+  "id": "underground-peacock-dumbs-2026-09-07",
+  "display_name": "underground_peacock_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "underground_peacock_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "4.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110061",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:11:17Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:11:17Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T21:11:17Z",
+  "ingested_at": "2026-09-07T21:11:17Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:34:42Z",
+  "ledger_committed_at": "2026-09-10T02:34:42Z"
+}
