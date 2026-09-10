@@ -1,0 +1,38 @@
+{
+  "id": "udin-brengkes45-ruro-2026-09-07",
+  "display_name": "udin-brengkes45-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "udin-brengkes45-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "3.3.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109909",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:08:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:08:30Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T21:08:30Z",
+  "ingested_at": "2026-09-07T21:08:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:04:47Z",
+  "ledger_committed_at": "2026-09-10T02:04:47Z"
+}
