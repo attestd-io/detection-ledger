@@ -1,0 +1,39 @@
+{
+  "id": "csquill-vue3-2026-09-07",
+  "display_name": "csquill-vue3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "csquill-vue3",
+      "ecosystem": "npm",
+      "versions": [
+        "3.2.37",
+        "3.2.39",
+        "3.2.40"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-1101",
+          "osv_published_at": "2025-02-03T08:44:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:11:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:11:54Z",
+  "osv_earliest_published_at": "2025-02-03T08:44:38Z",
+  "source_published_at": "2025-02-03T08:44:38Z",
+  "observed_at": "2026-09-07T21:11:54Z",
+  "ingested_at": "2026-09-07T21:11:54Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:42:07Z",
+  "ledger_committed_at": "2026-09-10T02:42:07Z"
+}
