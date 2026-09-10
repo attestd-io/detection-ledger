@@ -1,0 +1,37 @@
+{
+  "id": "vocal-ant-0xrequest-2026-09-07",
+  "display_name": "vocal_ant_0xrequest",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vocal_ant_0xrequest",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110602",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:20:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:20:51Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T21:20:51Z",
+  "ingested_at": "2026-09-07T21:20:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T04:21:47Z",
+  "ledger_committed_at": "2026-09-10T04:21:47Z"
+}
