@@ -1,0 +1,37 @@
+{
+  "id": "unlikely-ant-fuchsia-80-2026-09-07",
+  "display_name": "unlikely_ant_fuchsia-80",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "unlikely_ant_fuchsia-80",
+      "ecosystem": "npm",
+      "versions": [
+        "3.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110157",
+          "osv_published_at": "2025-11-11T07:38:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:12:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:12:50Z",
+  "osv_earliest_published_at": "2025-11-11T07:38:53Z",
+  "source_published_at": "2025-11-11T07:38:53Z",
+  "observed_at": "2026-09-07T21:12:50Z",
+  "ingested_at": "2026-09-07T21:12:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:53:10Z",
+  "ledger_committed_at": "2026-09-10T02:53:10Z"
+}
