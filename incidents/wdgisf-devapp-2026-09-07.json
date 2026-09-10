@@ -1,0 +1,39 @@
+{
+  "id": "wdgisf-devapp-2026-09-07",
+  "display_name": "wdgisf-devapp",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wdgisf-devapp",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110762",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:23:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:23:47Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T21:23:47Z",
+  "ingested_at": "2026-09-07T21:23:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T04:53:24Z",
+  "ledger_committed_at": "2026-09-10T04:53:24Z"
+}
