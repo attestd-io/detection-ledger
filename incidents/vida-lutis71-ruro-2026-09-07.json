@@ -1,0 +1,38 @@
+{
+  "id": "vida-lutis71-ruro-2026-09-07",
+  "display_name": "vida-lutis71-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vida-lutis71-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "2.3.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110494",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:18:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:18:50Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T21:18:50Z",
+  "ingested_at": "2026-09-07T21:18:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T04:00:30Z",
+  "ledger_committed_at": "2026-09-10T04:00:30Z"
+}
