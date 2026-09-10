@@ -1,0 +1,39 @@
+{
+  "id": "csmagnifier-vue3-2026-09-07",
+  "display_name": "csmagnifier-vue3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "csmagnifier-vue3",
+      "ecosystem": "npm",
+      "versions": [
+        "3.2.37",
+        "3.2.38",
+        "3.2.40"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-1100",
+          "osv_published_at": "2025-02-03T08:44:38Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:10:13Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:10:13Z",
+  "osv_earliest_published_at": "2025-02-03T08:44:38Z",
+  "source_published_at": "2025-02-03T08:44:38Z",
+  "observed_at": "2026-09-07T21:10:13Z",
+  "ingested_at": "2026-09-07T21:10:13Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:22:35Z",
+  "ledger_committed_at": "2026-09-10T02:22:35Z"
+}
