@@ -1,0 +1,39 @@
+{
+  "id": "arif-lapis85-miaww-2026-09-07",
+  "display_name": "arif-lapis85-miaww",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "arif-lapis85-miaww",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.3.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-112702",
+          "osv_published_at": "2025-11-11T15:19:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:57:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:57:32Z",
+  "osv_earliest_published_at": "2025-11-11T15:19:32Z",
+  "source_published_at": "2025-11-11T15:19:32Z",
+  "observed_at": "2026-09-07T21:57:32Z",
+  "ingested_at": "2026-09-07T21:57:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T11:40:35Z",
+  "ledger_committed_at": "2026-09-10T11:40:35Z"
+}
