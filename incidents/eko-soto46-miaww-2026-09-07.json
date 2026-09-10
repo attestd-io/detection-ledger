@@ -1,0 +1,38 @@
+{
+  "id": "eko-soto46-miaww-2026-09-07",
+  "display_name": "eko-soto46-miaww",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "eko-soto46-miaww",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "2.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-113605",
+          "osv_published_at": "2025-11-11T15:19:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T22:14:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T22:14:48Z",
+  "osv_earliest_published_at": "2025-11-11T15:19:32Z",
+  "source_published_at": "2025-11-11T15:19:32Z",
+  "observed_at": "2026-09-07T22:14:48Z",
+  "ingested_at": "2026-09-07T22:14:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T15:13:29Z",
+  "ledger_committed_at": "2026-09-10T15:13:29Z"
+}
