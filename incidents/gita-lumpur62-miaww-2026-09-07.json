@@ -1,0 +1,39 @@
+{
+  "id": "gita-lumpur62-miaww-2026-09-07",
+  "display_name": "gita-lumpur62-miaww",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "gita-lumpur62-miaww",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "3.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-114298",
+          "osv_published_at": "2025-11-11T15:19:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T22:27:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T22:27:56Z",
+  "osv_earliest_published_at": "2025-11-11T15:19:32Z",
+  "source_published_at": "2025-11-11T15:19:32Z",
+  "observed_at": "2026-09-07T22:27:56Z",
+  "ingested_at": "2026-09-07T22:27:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T17:56:24Z",
+  "ledger_committed_at": "2026-09-10T17:56:24Z"
+}
