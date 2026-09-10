@@ -1,0 +1,37 @@
+{
+  "id": "sweet-ferret-appteadev-2026-09-07",
+  "display_name": "sweet_ferret-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sweet_ferret-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "4.3.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109418",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:59:49Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:59:49Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:59:49Z",
+  "ingested_at": "2026-09-07T20:59:49Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T00:27:37Z",
+  "ledger_committed_at": "2026-09-10T00:27:37Z"
+}
