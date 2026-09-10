@@ -1,0 +1,39 @@
+{
+  "id": "andi-keripik68-miaww-2026-09-07",
+  "display_name": "andi-keripik68-miaww",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "andi-keripik68-miaww",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.2.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-112659",
+          "osv_published_at": "2025-11-11T15:19:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:56:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:56:40Z",
+  "osv_earliest_published_at": "2025-11-11T15:19:32Z",
+  "source_published_at": "2025-11-11T15:19:32Z",
+  "observed_at": "2026-09-07T21:56:40Z",
+  "ingested_at": "2026-09-07T21:56:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T11:31:07Z",
+  "ledger_committed_at": "2026-09-10T11:31:07Z"
+}
