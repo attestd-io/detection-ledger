@@ -1,0 +1,39 @@
+{
+  "id": "hadianto-ubi7-miaww-2026-09-07",
+  "display_name": "hadianto-ubi7-miaww",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hadianto-ubi7-miaww",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "3.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-114509",
+          "osv_published_at": "2025-11-11T15:19:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T22:31:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T22:31:57Z",
+  "osv_earliest_published_at": "2025-11-11T15:19:32Z",
+  "source_published_at": "2025-11-11T15:19:32Z",
+  "observed_at": "2026-09-07T22:31:57Z",
+  "ingested_at": "2026-09-07T22:31:57Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T18:46:28Z",
+  "ledger_committed_at": "2026-09-10T18:46:28Z"
+}
