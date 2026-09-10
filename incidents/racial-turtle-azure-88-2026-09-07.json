@@ -1,0 +1,37 @@
+{
+  "id": "racial-turtle-azure-88-2026-09-07",
+  "display_name": "racial_turtle_azure-88",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "racial_turtle_azure-88",
+      "ecosystem": "npm",
+      "versions": [
+        "2.3.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-112231",
+          "osv_published_at": "2025-11-11T07:47:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:49:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:49:33Z",
+  "osv_earliest_published_at": "2025-11-11T07:47:12Z",
+  "source_published_at": "2025-11-11T07:47:12Z",
+  "observed_at": "2026-09-07T21:49:33Z",
+  "ingested_at": "2026-09-07T21:49:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T09:58:00Z",
+  "ledger_committed_at": "2026-09-10T09:58:00Z"
+}
