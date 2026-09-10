@@ -1,0 +1,37 @@
+{
+  "id": "utomo-kue32-ruro-2026-09-07",
+  "display_name": "utomo-kue32-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "utomo-kue32-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "4.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110275",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:14:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:14:51Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T21:14:51Z",
+  "ingested_at": "2026-09-07T21:14:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T03:17:10Z",
+  "ledger_committed_at": "2026-09-10T03:17:10Z"
+}
