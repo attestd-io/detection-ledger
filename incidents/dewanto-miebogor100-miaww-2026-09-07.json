@@ -1,0 +1,38 @@
+{
+  "id": "dewanto-miebogor100-miaww-2026-09-07",
+  "display_name": "dewanto-miebogor100-miaww",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "dewanto-miebogor100-miaww",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "3.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-113322",
+          "osv_published_at": "2025-11-11T15:19:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T22:09:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T22:09:29Z",
+  "osv_earliest_published_at": "2025-11-11T15:19:32Z",
+  "source_published_at": "2025-11-11T15:19:32Z",
+  "observed_at": "2026-09-07T22:09:29Z",
+  "ingested_at": "2026-09-07T22:09:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T14:05:33Z",
+  "ledger_committed_at": "2026-09-10T14:05:33Z"
+}
