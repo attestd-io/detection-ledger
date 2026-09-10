@@ -1,0 +1,37 @@
+{
+  "id": "latin-elephant-fuchsia-81-2026-09-07",
+  "display_name": "latin_elephant_fuchsia-81",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "latin_elephant_fuchsia-81",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-112051",
+          "osv_published_at": "2025-11-11T07:47:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:46:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:46:47Z",
+  "osv_earliest_published_at": "2025-11-11T07:47:12Z",
+  "source_published_at": "2025-11-11T07:47:12Z",
+  "observed_at": "2026-09-07T21:46:47Z",
+  "ingested_at": "2026-09-07T21:46:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T09:18:50Z",
+  "ledger_committed_at": "2026-09-10T09:18:50Z"
+}
