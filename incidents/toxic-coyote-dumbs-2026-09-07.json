@@ -1,0 +1,37 @@
+{
+  "id": "toxic-coyote-dumbs-2026-09-07",
+  "display_name": "toxic_coyote_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "toxic_coyote_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "4.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109790",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:06:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:06:29Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T21:06:29Z",
+  "ingested_at": "2026-09-07T21:06:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T01:41:27Z",
+  "ledger_committed_at": "2026-09-10T01:41:27Z"
+}
