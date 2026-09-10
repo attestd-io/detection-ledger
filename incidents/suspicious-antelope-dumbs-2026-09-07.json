@@ -1,0 +1,37 @@
+{
+  "id": "suspicious-antelope-dumbs-2026-09-07",
+  "display_name": "suspicious_antelope_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "suspicious_antelope_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "4.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109406",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:59:38Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:59:38Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T20:59:38Z",
+  "ingested_at": "2026-09-07T20:59:38Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T00:24:58Z",
+  "ledger_committed_at": "2026-09-10T00:24:58Z"
+}
