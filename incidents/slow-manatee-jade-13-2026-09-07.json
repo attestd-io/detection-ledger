@@ -1,0 +1,37 @@
+{
+  "id": "slow-manatee-jade-13-2026-09-07",
+  "display_name": "slow_manatee_jade-13",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "slow_manatee_jade-13",
+      "ecosystem": "npm",
+      "versions": [
+        "3.3.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-112318",
+          "osv_published_at": "2025-11-11T07:47:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:50:52Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:50:52Z",
+  "osv_earliest_published_at": "2025-11-11T07:47:12Z",
+  "source_published_at": "2025-11-11T07:47:12Z",
+  "observed_at": "2026-09-07T21:50:52Z",
+  "ingested_at": "2026-09-07T21:50:52Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T10:16:07Z",
+  "ledger_committed_at": "2026-09-10T10:16:07Z"
+}
