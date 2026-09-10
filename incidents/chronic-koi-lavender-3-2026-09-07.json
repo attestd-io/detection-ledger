@@ -1,0 +1,37 @@
+{
+  "id": "chronic-koi-lavender-3-2026-09-07",
+  "display_name": "chronic_koi_lavender-3",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chronic_koi_lavender-3",
+      "ecosystem": "npm",
+      "versions": [
+        "1.2.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-111721",
+          "osv_published_at": "2025-11-11T07:47:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:40:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:40:44Z",
+  "osv_earliest_published_at": "2025-11-11T07:47:12Z",
+  "source_published_at": "2025-11-11T07:47:12Z",
+  "observed_at": "2026-09-07T21:40:44Z",
+  "ingested_at": "2026-09-07T21:40:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T08:05:26Z",
+  "ledger_committed_at": "2026-09-10T08:05:26Z"
+}
