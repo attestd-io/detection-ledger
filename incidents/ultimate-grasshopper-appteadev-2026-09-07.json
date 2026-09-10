@@ -1,0 +1,39 @@
+{
+  "id": "ultimate-grasshopper-appteadev-2026-09-07",
+  "display_name": "ultimate_grasshopper-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ultimate_grasshopper-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109966",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:09:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:09:34Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T21:09:34Z",
+  "ingested_at": "2026-09-07T21:09:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:16:18Z",
+  "ledger_committed_at": "2026-09-10T02:16:18Z"
+}
