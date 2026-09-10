@@ -1,0 +1,37 @@
+{
+  "id": "thtmxy-devapptea-2026-09-07",
+  "display_name": "thtmxy-devapptea",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "thtmxy-devapptea",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109650",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:03:54Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:03:54Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T21:03:54Z",
+  "ingested_at": "2026-09-07T21:03:54Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T01:14:13Z",
+  "ledger_committed_at": "2026-09-10T01:14:13Z"
+}
