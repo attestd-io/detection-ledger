@@ -1,0 +1,39 @@
+{
+  "id": "surprised-chicken-gooddev-2026-09-07",
+  "display_name": "surprised_chicken-gooddev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "surprised_chicken-gooddev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "3.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109338",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:58:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:58:23Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T20:58:23Z",
+  "ingested_at": "2026-09-07T20:58:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T00:11:39Z",
+  "ledger_committed_at": "2026-09-10T00:11:39Z"
+}
