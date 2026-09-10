@@ -1,0 +1,39 @@
+{
+  "id": "systematic-pelican-silentdev-2026-09-07",
+  "display_name": "systematic_pelican-silentdev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "systematic_pelican-silentdev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.4.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109441",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:00:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:00:14Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T21:00:14Z",
+  "ingested_at": "2026-09-07T21:00:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T00:32:25Z",
+  "ledger_committed_at": "2026-09-10T00:32:25Z"
+}
