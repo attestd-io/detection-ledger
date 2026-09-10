@@ -1,0 +1,37 @@
+{
+  "id": "unexpected-ostrich-violet-73-2026-09-07",
+  "display_name": "unexpected_ostrich_violet-73",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "unexpected_ostrich_violet-73",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110096",
+          "osv_published_at": "2025-11-11T07:38:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:11:50Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:11:50Z",
+  "osv_earliest_published_at": "2025-11-11T07:38:53Z",
+  "source_published_at": "2025-11-11T07:38:53Z",
+  "observed_at": "2026-09-07T21:11:50Z",
+  "ingested_at": "2026-09-07T21:11:50Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:41:28Z",
+  "ledger_committed_at": "2026-09-10T02:41:28Z"
+}
