@@ -1,0 +1,39 @@
+{
+  "id": "tragic-raccoon-z3n-2026-09-07",
+  "display_name": "tragic_raccoon_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tragic_raccoon_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "3.3.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109814",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:06:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:06:53Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T21:06:53Z",
+  "ingested_at": "2026-09-07T21:06:53Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T01:46:20Z",
+  "ledger_committed_at": "2026-09-10T01:46:20Z"
+}
