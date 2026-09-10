@@ -1,0 +1,37 @@
+{
+  "id": "typical-parrotfish-z3n-2026-09-07",
+  "display_name": "typical_parrotfish_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "typical_parrotfish_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109901",
+          "osv_published_at": "2025-11-11T07:31:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:08:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:08:23Z",
+  "osv_earliest_published_at": "2025-11-11T07:31:13Z",
+  "source_published_at": "2025-11-11T07:31:13Z",
+  "observed_at": "2026-09-07T21:08:23Z",
+  "ingested_at": "2026-09-07T21:08:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:03:22Z",
+  "ledger_committed_at": "2026-09-10T02:03:22Z"
+}
