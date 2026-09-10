@@ -1,0 +1,37 @@
+{
+  "id": "principal-thrush-sapphire-2-2026-09-07",
+  "display_name": "principal_thrush_sapphire-2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "principal_thrush_sapphire-2",
+      "ecosystem": "npm",
+      "versions": [
+        "2.3.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-112205",
+          "osv_published_at": "2025-11-11T07:47:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:49:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:49:09Z",
+  "osv_earliest_published_at": "2025-11-11T07:47:12Z",
+  "source_published_at": "2025-11-11T07:47:12Z",
+  "observed_at": "2026-09-07T21:49:09Z",
+  "ingested_at": "2026-09-07T21:49:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T09:52:32Z",
+  "ledger_committed_at": "2026-09-10T09:52:32Z"
+}
