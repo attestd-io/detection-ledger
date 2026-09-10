@@ -1,0 +1,38 @@
+{
+  "id": "vina-lupis2-ruro-2026-09-07",
+  "display_name": "vina-lupis2-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vina-lupis2-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "2.1.3",
+        "unpublished"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110542",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:19:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:19:46Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T21:19:46Z",
+  "ingested_at": "2026-09-07T21:19:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T04:10:03Z",
+  "ledger_committed_at": "2026-09-10T04:10:03Z"
+}
