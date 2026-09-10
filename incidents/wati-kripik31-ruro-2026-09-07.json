@@ -1,0 +1,38 @@
+{
+  "id": "wati-kripik31-ruro-2026-09-07",
+  "display_name": "wati-kripik31-ruro",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wati-kripik31-ruro",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "2.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110691",
+          "osv_published_at": "2025-11-11T07:16:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:22:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:22:24Z",
+  "osv_earliest_published_at": "2025-11-11T07:16:30Z",
+  "source_published_at": "2025-11-11T07:16:30Z",
+  "observed_at": "2026-09-07T21:22:24Z",
+  "ingested_at": "2026-09-07T21:22:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T04:39:02Z",
+  "ledger_committed_at": "2026-09-10T04:39:02Z"
+}
