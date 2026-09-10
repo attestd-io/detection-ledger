@@ -1,0 +1,37 @@
+{
+  "id": "unusual-whippet-excellentdev-2026-09-07",
+  "display_name": "unusual_whippet-excellentdev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "unusual_whippet-excellentdev",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110190",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:13:23Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:13:23Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T21:13:23Z",
+  "ingested_at": "2026-09-07T21:13:23Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T02:59:38Z",
+  "ledger_committed_at": "2026-09-10T02:59:38Z"
+}
