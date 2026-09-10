@@ -1,0 +1,43 @@
+{
+  "id": "wonton-notthedevs-2026-09-07",
+  "display_name": "wonton-notthedevs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wonton-notthedevs",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "1.4.1",
+        "3.1.2",
+        "3.1.3",
+        "3.3.3",
+        "3.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-110985",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:27:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:27:33Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T21:27:33Z",
+  "ingested_at": "2026-09-07T21:27:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T05:36:20Z",
+  "ledger_committed_at": "2026-09-10T05:36:20Z"
+}
