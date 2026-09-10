@@ -1,0 +1,37 @@
+{
+  "id": "characteristic-mite-aqua-23-2026-09-07",
+  "display_name": "characteristic_mite_aqua-23",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "characteristic_mite_aqua-23",
+      "ecosystem": "npm",
+      "versions": [
+        "4.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-111716",
+          "osv_published_at": "2025-11-11T07:47:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:40:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:40:40Z",
+  "osv_earliest_published_at": "2025-11-11T07:47:12Z",
+  "source_published_at": "2025-11-11T07:47:12Z",
+  "observed_at": "2026-09-07T21:40:40Z",
+  "ingested_at": "2026-09-07T21:40:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T08:04:19Z",
+  "ledger_committed_at": "2026-09-10T08:04:19Z"
+}
