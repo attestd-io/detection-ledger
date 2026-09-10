@@ -1,0 +1,39 @@
+{
+  "id": "thoughtful-louse-appteadev-2026-09-07",
+  "display_name": "thoughtful_louse-appteadev",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "thoughtful_louse-appteadev",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.2.4"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109639",
+          "osv_published_at": "2025-11-11T07:44:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:03:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:03:42Z",
+  "osv_earliest_published_at": "2025-11-11T07:44:04Z",
+  "source_published_at": "2025-11-11T07:44:04Z",
+  "observed_at": "2026-09-07T21:03:42Z",
+  "ingested_at": "2026-09-07T21:03:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T01:11:57Z",
+  "ledger_committed_at": "2026-09-10T01:11:57Z"
+}
