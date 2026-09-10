@@ -1,0 +1,37 @@
+{
+  "id": "working-ferret-rose-70-2026-09-07",
+  "display_name": "working_ferret_rose-70",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "working_ferret_rose-70",
+      "ecosystem": "npm",
+      "versions": [
+        "1.4.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-112475",
+          "osv_published_at": "2025-11-11T07:47:12Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:53:16Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:53:16Z",
+  "osv_earliest_published_at": "2025-11-11T07:47:12Z",
+  "source_published_at": "2025-11-11T07:47:12Z",
+  "observed_at": "2026-09-07T21:53:16Z",
+  "ingested_at": "2026-09-07T21:53:16Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T10:50:33Z",
+  "ledger_committed_at": "2026-09-10T10:50:33Z"
+}
