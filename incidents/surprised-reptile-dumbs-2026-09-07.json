@@ -1,0 +1,37 @@
+{
+  "id": "surprised-reptile-dumbs-2026-09-07",
+  "display_name": "surprised_reptile_dumbs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "surprised_reptile_dumbs",
+      "ecosystem": "npm",
+      "versions": [
+        "2.2.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-109344",
+          "osv_published_at": "2025-11-11T07:26:13Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T20:58:29Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T20:58:29Z",
+  "osv_earliest_published_at": "2025-11-11T07:26:13Z",
+  "source_published_at": "2025-11-11T07:26:13Z",
+  "observed_at": "2026-09-07T20:58:29Z",
+  "ingested_at": "2026-09-07T20:58:29Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T00:12:53Z",
+  "ledger_committed_at": "2026-09-10T00:12:53Z"
+}
