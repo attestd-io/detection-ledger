@@ -1,0 +1,38 @@
+{
+  "id": "developer-hub-2026-09-07",
+  "display_name": "developer-hub",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "developer-hub",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-beta",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-1111",
+          "osv_published_at": "2025-02-03T09:01:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-07T21:29:39Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-07T21:29:39Z",
+  "osv_earliest_published_at": "2025-02-03T09:01:37Z",
+  "source_published_at": "2025-02-03T09:01:37Z",
+  "observed_at": "2026-09-07T21:29:39Z",
+  "ingested_at": "2026-09-07T21:29:39Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-10T05:58:44Z",
+  "ledger_committed_at": "2026-09-10T05:58:44Z"
+}
