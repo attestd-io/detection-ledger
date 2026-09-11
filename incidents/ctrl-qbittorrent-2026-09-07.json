@@ -11,14 +11,19 @@
         "9.7.1",
         "9.7.2"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-47138",
+          "osv_published_at": "2025-09-15T23:51:46Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T12:42:37Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T12:42:37Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2025-09-15T23:51:46Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T12:42:37Z",
   "ingested_at": "2026-09-07T12:42:37Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40ctrl%2Fqbittorrent",
-  "ledger_commit_at": "2026-09-07T21:59:01Z",
-  "ledger_committed_at": "2026-09-07T21:59:01Z"
+  "ledger_commit_at": "2026-09-11T20:51:19Z",
+  "ledger_committed_at": "2026-09-11T20:51:19Z"
 }
