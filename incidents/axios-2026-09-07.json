@@ -11,14 +11,19 @@
         "0.30.4",
         "1.14.1"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-2307",
+          "osv_published_at": "2026-03-31T03:15:49Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T07:19:03Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T07:19:03Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-03-31T03:15:49Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T07:19:03Z",
   "ingested_at": "2026-09-07T07:19:03Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/axios",
-  "ledger_commit_at": "2026-09-07T12:49:36Z",
-  "ledger_committed_at": "2026-09-07T12:49:36Z"
+  "ledger_commit_at": "2026-09-11T20:59:57Z",
+  "ledger_committed_at": "2026-09-11T20:59:57Z"
 }
