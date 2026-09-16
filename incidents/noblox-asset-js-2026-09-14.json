@@ -1,0 +1,40 @@
+{
+  "id": "noblox-asset-js-2026-09-14",
+  "display_name": "noblox-asset.js",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "noblox-asset.js",
+      "ecosystem": "npm",
+      "versions": [
+        "7.4.0",
+        "7.4.1",
+        "7.4.2",
+        "7.6.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16148",
+          "osv_published_at": "2026-09-14T16:56:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-14T17:31:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-14T17:31:47Z",
+  "osv_earliest_published_at": "2026-09-14T16:56:44Z",
+  "source_published_at": "2026-09-14T16:56:44Z",
+  "observed_at": "2026-09-14T17:31:47Z",
+  "ingested_at": "2026-09-14T17:31:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:38:58Z",
+  "ledger_committed_at": "2026-09-16T12:38:58Z"
+}

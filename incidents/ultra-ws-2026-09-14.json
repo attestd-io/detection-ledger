@@ -1,0 +1,37 @@
+{
+  "id": "ultra-ws-2026-09-14",
+  "display_name": "ultra-ws",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ultra-ws",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16155",
+          "osv_published_at": "2026-09-14T17:49:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-14T18:32:31Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-14T18:32:31Z",
+  "osv_earliest_published_at": "2026-09-14T17:49:53Z",
+  "source_published_at": "2026-09-14T17:49:53Z",
+  "observed_at": "2026-09-14T18:32:31Z",
+  "ingested_at": "2026-09-14T18:32:31Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:38:58Z",
+  "ledger_committed_at": "2026-09-16T12:38:58Z"
+}

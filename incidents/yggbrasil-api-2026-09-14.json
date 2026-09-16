@@ -1,0 +1,37 @@
+{
+  "id": "yggbrasil-api-2026-09-14",
+  "display_name": "@yggbrasil/api",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@yggbrasil/api",
+      "ecosystem": "npm",
+      "versions": [
+        "9999.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16163",
+          "osv_published_at": "2026-09-14T21:40:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-14T22:34:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-14T22:34:55Z",
+  "osv_earliest_published_at": "2026-09-14T21:40:59Z",
+  "source_published_at": "2026-09-14T21:40:59Z",
+  "observed_at": "2026-09-14T22:34:55Z",
+  "ingested_at": "2026-09-14T22:34:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:38:58Z",
+  "ledger_committed_at": "2026-09-16T12:38:58Z"
+}

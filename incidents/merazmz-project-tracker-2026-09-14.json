@@ -1,0 +1,39 @@
+{
+  "id": "merazmz-project-tracker-2026-09-14",
+  "display_name": "@merazmz/project-tracker",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@merazmz/project-tracker",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16157",
+          "osv_published_at": "2026-09-14T14:49:59Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-14T20:33:53Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-14T20:33:53Z",
+  "osv_earliest_published_at": "2026-09-14T14:49:59Z",
+  "source_published_at": "2026-09-14T14:49:59Z",
+  "observed_at": "2026-09-14T20:33:53Z",
+  "ingested_at": "2026-09-14T20:33:53Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:38:58Z",
+  "ledger_committed_at": "2026-09-16T12:38:58Z"
+}
