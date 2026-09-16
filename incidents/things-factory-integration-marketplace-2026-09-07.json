@@ -13,14 +13,19 @@
         "9.0.44",
         "9.0.45"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-47224",
+          "osv_published_at": "2025-09-16T09:32:32Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T09:36:57Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T09:36:57Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2025-09-16T09:32:32Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T09:36:57Z",
   "ingested_at": "2026-09-07T09:36:57Z",
@@ -30,6 +35,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40things-factory%2Fintegration-marketplace",
-  "ledger_commit_at": "2026-09-07T17:03:15Z",
-  "ledger_committed_at": "2026-09-07T17:03:15Z"
+  "ledger_commit_at": "2026-09-16T12:40:38Z",
+  "ledger_committed_at": "2026-09-16T12:40:38Z"
 }
