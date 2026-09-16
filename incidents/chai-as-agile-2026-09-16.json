@@ -1,0 +1,37 @@
+{
+  "id": "chai-as-agile-2026-09-16",
+  "display_name": "chai-as-agile",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-as-agile",
+      "ecosystem": "npm",
+      "versions": [
+        "2.4.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16207",
+          "osv_published_at": "2026-09-16T06:29:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-16T06:46:18Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-16T06:46:18Z",
+  "osv_earliest_published_at": "2026-09-16T06:29:32Z",
+  "source_published_at": "2026-09-16T06:29:32Z",
+  "observed_at": "2026-09-16T06:46:18Z",
+  "ingested_at": "2026-09-16T06:46:18Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:39:25Z",
+  "ledger_committed_at": "2026-09-16T12:39:25Z"
+}

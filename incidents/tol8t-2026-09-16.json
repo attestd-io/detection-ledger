@@ -1,0 +1,37 @@
+{
+  "id": "tol8t-2026-09-16",
+  "display_name": "tol8t",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tol8t",
+      "ecosystem": "npm",
+      "versions": [
+        "14.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16218",
+          "osv_published_at": "2026-09-16T06:35:20Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-16T07:01:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-16T07:01:26Z",
+  "osv_earliest_published_at": "2026-09-16T06:35:20Z",
+  "source_published_at": "2026-09-16T06:35:20Z",
+  "observed_at": "2026-09-16T07:01:26Z",
+  "ingested_at": "2026-09-16T07:01:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:39:25Z",
+  "ledger_committed_at": "2026-09-16T12:39:25Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "faiss-cpu-avx512-2026-09-16",
+  "display_name": "faiss-cpu-avx512",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "faiss-cpu-avx512",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.9.0",
+        "1.9.1",
+        "1.9.2",
+        "1.9.3",
+        "1.9.4",
+        "1.9.5",
+        "1.9.6",
+        "1.9.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16203",
+          "osv_published_at": "2026-09-14T00:00:00Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-16T01:29:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-16T01:29:56Z",
+  "osv_earliest_published_at": "2026-09-14T00:00:00Z",
+  "source_published_at": "2026-09-14T00:00:00Z",
+  "observed_at": "2026-09-16T01:29:56Z",
+  "ingested_at": "2026-09-16T01:29:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:39:25Z",
+  "ledger_committed_at": "2026-09-16T12:39:25Z"
+}
