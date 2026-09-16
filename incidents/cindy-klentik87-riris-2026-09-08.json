@@ -1,0 +1,39 @@
+{
+  "id": "cindy-klentik87-riris-2026-09-08",
+  "display_name": "cindy-klentik87-riris",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cindy-klentik87-riris",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.1.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-125430",
+          "osv_published_at": "2025-11-11T20:46:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-08T01:58:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-08T01:58:58Z",
+  "osv_earliest_published_at": "2025-11-11T20:46:25Z",
+  "source_published_at": "2025-11-11T20:46:25Z",
+  "observed_at": "2026-09-08T01:58:58Z",
+  "ingested_at": "2026-09-08T01:58:58Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:38:21Z",
+  "ledger_committed_at": "2026-09-16T12:38:21Z"
+}
