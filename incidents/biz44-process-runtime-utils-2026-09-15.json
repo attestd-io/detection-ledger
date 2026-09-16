@@ -1,0 +1,39 @@
+{
+  "id": "biz44-process-runtime-utils-2026-09-15",
+  "display_name": "@biz44/process-runtime-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@biz44/process-runtime-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.1.10",
+        "1.1.79",
+        "1.1.95"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16171",
+          "osv_published_at": "2026-09-14T04:41:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-15T06:36:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-15T06:36:33Z",
+  "osv_earliest_published_at": "2026-09-14T04:41:47Z",
+  "source_published_at": "2026-09-14T04:41:47Z",
+  "observed_at": "2026-09-15T06:36:33Z",
+  "ingested_at": "2026-09-15T06:36:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:39:12Z",
+  "ledger_committed_at": "2026-09-16T12:39:12Z"
+}
