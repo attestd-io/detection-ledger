@@ -11,14 +11,19 @@
         "1.168.5",
         "1.168.8"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3487",
+          "osv_published_at": "2026-05-12T00:04:25Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T08:18:25Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T08:18:25Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-05-12T00:04:25Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T08:18:25Z",
   "ingested_at": "2026-09-07T08:18:25Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40tanstack%2Fstart-client-core",
-  "ledger_commit_at": "2026-09-07T14:59:31Z",
-  "ledger_committed_at": "2026-09-07T14:59:31Z"
+  "ledger_commit_at": "2026-09-16T21:15:06Z",
+  "ledger_committed_at": "2026-09-16T21:15:06Z"
 }
