@@ -11,14 +11,19 @@
         "1.167.38",
         "1.167.41"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3477",
+          "osv_published_at": "2026-05-11T23:59:42Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T09:47:40Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T09:47:40Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-05-11T23:59:42Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T09:47:40Z",
   "ingested_at": "2026-09-07T09:47:40Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40tanstack%2Frouter-plugin",
-  "ledger_commit_at": "2026-09-07T17:33:39Z",
-  "ledger_committed_at": "2026-09-07T17:33:39Z"
+  "ledger_commit_at": "2026-09-16T21:15:52Z",
+  "ledger_committed_at": "2026-09-16T21:15:52Z"
 }
