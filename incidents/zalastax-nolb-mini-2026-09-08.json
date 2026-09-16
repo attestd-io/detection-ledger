@@ -16,15 +16,28 @@
           "osv_published_at": "2025-08-14T18:52:04Z"
         }
       ]
+    },
+    {
+      "package": "@zalastax/nolb-mini-",
+      "ecosystem": "npm",
+      "versions": [
+        "2023.1.24"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-12361",
+          "osv_published_at": "2025-08-14T18:52:04Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
-  "attestd_detected_at": "2026-09-08T01:25:07Z",
+  "attestd_detected_at": "2026-09-08T01:24:22Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-08T01:25:07Z",
   "osv_earliest_published_at": "2025-08-14T18:52:04Z",
   "source_published_at": "2025-08-14T18:52:04Z",
-  "observed_at": "2026-09-08T01:25:07Z",
+  "observed_at": "2026-09-08T01:24:22Z",
   "ingested_at": "2026-09-08T01:25:07Z",
   "first_served_at": null,
   "hours_ahead_of_osv": null,
@@ -32,6 +45,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "",
-  "ledger_commit_at": "2026-09-16T12:21:21Z",
-  "ledger_committed_at": "2026-09-16T12:21:21Z"
+  "ledger_commit_at": "2026-09-16T12:37:01Z",
+  "ledger_committed_at": "2026-09-16T12:37:01Z"
 }
