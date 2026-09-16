@@ -1,0 +1,39 @@
+{
+  "id": "agus-gado-gado82-riris-2026-09-08",
+  "display_name": "agus-gado-gado82-riris",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "agus-gado-gado82-riris",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "3.4.3",
+        "unpublished"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-124865",
+          "osv_published_at": "2025-11-11T20:46:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-08T01:48:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-08T01:48:10Z",
+  "osv_earliest_published_at": "2025-11-11T20:46:25Z",
+  "source_published_at": "2025-11-11T20:46:25Z",
+  "observed_at": "2026-09-08T01:48:10Z",
+  "ingested_at": "2026-09-08T01:48:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:32:36Z",
+  "ledger_committed_at": "2026-09-16T12:32:36Z"
+}
