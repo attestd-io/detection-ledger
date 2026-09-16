@@ -1,0 +1,39 @@
+{
+  "id": "wawan-semur72-breki-2026-09-08",
+  "display_name": "wawan-semur72-breki",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wawan-semur72-breki",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "2.1.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-124258",
+          "osv_published_at": "2025-11-11T20:11:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-08T01:36:48Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-08T01:36:48Z",
+  "osv_earliest_published_at": "2025-11-11T20:11:48Z",
+  "source_published_at": "2025-11-11T20:11:48Z",
+  "observed_at": "2026-09-08T01:36:48Z",
+  "ingested_at": "2026-09-08T01:36:48Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:26:38Z",
+  "ledger_committed_at": "2026-09-16T12:26:38Z"
+}
