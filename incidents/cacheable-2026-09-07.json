@@ -10,14 +10,19 @@
       "versions": [
         "2.5.1"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-11963",
+          "osv_published_at": "2026-08-04T11:28:00Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T05:31:46Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T05:31:46Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-08-04T11:28:00Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T05:31:46Z",
   "ingested_at": "2026-09-07T05:31:46Z",
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/cacheable",
-  "ledger_commit_at": "2026-09-07T08:19:25Z",
-  "ledger_committed_at": "2026-09-07T08:19:25Z"
+  "ledger_commit_at": "2026-09-16T12:51:45Z",
+  "ledger_committed_at": "2026-09-16T12:51:45Z"
 }
