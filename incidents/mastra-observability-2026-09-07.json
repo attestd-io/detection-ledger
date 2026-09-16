@@ -10,14 +10,19 @@
       "versions": [
         "1.14.2"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6073",
+          "osv_published_at": "2026-06-17T18:35:09Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T04:59:05Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T04:59:05Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-17T18:35:09Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T04:59:05Z",
   "ingested_at": "2026-09-07T04:59:05Z",
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40mastra%2Fobservability",
-  "ledger_commit_at": "2026-09-07T06:03:49Z",
-  "ledger_committed_at": "2026-09-07T06:03:49Z"
+  "ledger_commit_at": "2026-09-16T16:23:55Z",
+  "ledger_committed_at": "2026-09-16T16:23:55Z"
 }
