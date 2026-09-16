@@ -11,14 +11,19 @@
         "1.167.68",
         "1.167.71"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3468",
+          "osv_published_at": "2026-05-11T23:54:11Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T09:41:58Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T09:41:58Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-05-11T23:54:11Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T09:41:58Z",
   "ingested_at": "2026-09-07T09:41:58Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40tanstack%2Freact-start",
-  "ledger_commit_at": "2026-09-07T17:20:41Z",
-  "ledger_committed_at": "2026-09-07T17:20:41Z"
+  "ledger_commit_at": "2026-09-16T21:14:12Z",
+  "ledger_committed_at": "2026-09-16T21:14:12Z"
 }
