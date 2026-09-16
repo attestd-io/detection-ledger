@@ -1,0 +1,39 @@
+{
+  "id": "wealthy-basilisk-z3n-2026-09-08",
+  "display_name": "wealthy_basilisk_z3n",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wealthy_basilisk_z3n",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "4.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-124266",
+          "osv_published_at": "2025-11-11T20:11:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-08T01:36:57Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-08T01:36:57Z",
+  "osv_earliest_published_at": "2025-11-11T20:11:48Z",
+  "source_published_at": "2025-11-11T20:11:48Z",
+  "observed_at": "2026-09-08T01:36:57Z",
+  "ingested_at": "2026-09-08T01:36:57Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:26:51Z",
+  "ledger_committed_at": "2026-09-16T12:26:51Z"
+}
