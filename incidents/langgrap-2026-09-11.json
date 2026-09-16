@@ -1,0 +1,37 @@
+{
+  "id": "langgrap-2026-09-11",
+  "display_name": "langgrap",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "langgrap",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.2.45"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16133",
+          "osv_published_at": "2026-09-11T21:00:21Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-11T21:18:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-11T21:18:37Z",
+  "osv_earliest_published_at": "2026-09-11T21:00:21Z",
+  "source_published_at": "2026-09-11T21:00:21Z",
+  "observed_at": "2026-09-11T21:18:37Z",
+  "ingested_at": "2026-09-11T21:18:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:38:46Z",
+  "ledger_committed_at": "2026-09-16T12:38:46Z"
+}
