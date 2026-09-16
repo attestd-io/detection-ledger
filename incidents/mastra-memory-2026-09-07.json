@@ -10,14 +10,19 @@
       "versions": [
         "1.20.4"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-6028",
+          "osv_published_at": "2026-06-17T04:55:59Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T10:29:00Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T10:29:00Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-06-17T04:55:59Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T10:29:00Z",
   "ingested_at": "2026-09-07T10:29:00Z",
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40mastra%2Fmemory",
-  "ledger_commit_at": "2026-09-07T18:02:59Z",
-  "ledger_committed_at": "2026-09-07T18:02:59Z"
+  "ledger_commit_at": "2026-09-16T16:23:01Z",
+  "ledger_committed_at": "2026-09-16T16:23:01Z"
 }
