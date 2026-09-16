@@ -1,0 +1,39 @@
+{
+  "id": "wati-nasiuduk51-breki-2026-09-08",
+  "display_name": "wati-nasiuduk51-breki",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wati-nasiuduk51-breki",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "0.0.1-security.1",
+        "3.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-124196",
+          "osv_published_at": "2025-11-11T20:11:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-08T01:35:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-08T01:35:36Z",
+  "osv_earliest_published_at": "2025-11-11T20:11:48Z",
+  "source_published_at": "2025-11-11T20:11:48Z",
+  "observed_at": "2026-09-08T01:35:36Z",
+  "ingested_at": "2026-09-08T01:35:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:26:10Z",
+  "ledger_committed_at": "2026-09-16T12:26:10Z"
+}
