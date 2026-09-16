@@ -1,0 +1,38 @@
+{
+  "id": "candra-rendang37-riris-2026-09-08",
+  "display_name": "candra-rendang37-riris",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "candra-rendang37-riris",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security.0",
+        "2.1.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-125304",
+          "osv_published_at": "2025-11-11T20:46:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-08T01:56:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-08T01:56:32Z",
+  "osv_earliest_published_at": "2025-11-11T20:46:25Z",
+  "source_published_at": "2025-11-11T20:46:25Z",
+  "observed_at": "2026-09-08T01:56:32Z",
+  "ingested_at": "2026-09-08T01:56:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T12:36:48Z",
+  "ledger_committed_at": "2026-09-16T12:36:48Z"
+}
