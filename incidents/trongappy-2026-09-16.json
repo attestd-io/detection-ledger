@@ -1,0 +1,37 @@
+{
+  "id": "trongappy-2026-09-16",
+  "display_name": "trongappy",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "trongappy",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16242",
+          "osv_published_at": "2026-09-16T19:09:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-16T19:54:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-16T19:54:34Z",
+  "osv_earliest_published_at": "2026-09-16T19:09:57Z",
+  "source_published_at": "2026-09-16T19:09:57Z",
+  "observed_at": "2026-09-16T19:54:34Z",
+  "ingested_at": "2026-09-16T19:54:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-16T19:54:36Z",
+  "ledger_committed_at": "2026-09-16T19:54:36Z"
+}
