@@ -11,14 +11,19 @@
         "4.11.1",
         "4.12.5"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-190926",
+          "osv_published_at": "2025-11-24T16:31:47Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T08:12:12Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T08:12:12Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2025-11-24T16:31:47Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T08:12:12Z",
   "ingested_at": "2026-09-07T08:12:12Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/posthog-react-native",
-  "ledger_commit_at": "2026-09-07T14:34:58Z",
-  "ledger_committed_at": "2026-09-07T14:34:58Z"
+  "ledger_commit_at": "2026-09-17T14:35:37Z",
+  "ledger_committed_at": "2026-09-17T14:35:37Z"
 }
