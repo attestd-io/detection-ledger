@@ -1,0 +1,37 @@
+{
+  "id": "tink-tink-link-core-2026-09-17",
+  "display_name": "@tink/tink-link-core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@tink/tink-link-core",
+      "ecosystem": "npm",
+      "versions": [
+        "9.9.10"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16270",
+          "osv_published_at": "2026-09-17T23:13:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-17T23:26:30Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-17T23:26:30Z",
+  "osv_earliest_published_at": "2026-09-17T23:13:32Z",
+  "source_published_at": "2026-09-17T23:13:32Z",
+  "observed_at": "2026-09-17T23:26:30Z",
+  "ingested_at": "2026-09-17T23:26:30Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-17T23:26:32Z",
+  "ledger_committed_at": "2026-09-17T23:26:32Z"
+}
