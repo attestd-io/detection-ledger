@@ -7678,14 +7678,19 @@
         "3.0.0-snapshot-20260125193746",
         "3.0.0-snapshot-20260209084822"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-191457",
+          "osv_published_at": "2025-11-24T23:52:26Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T09:35:56Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T09:35:56Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2025-11-24T23:52:26Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T09:35:56Z",
   "ingested_at": "2026-09-07T09:35:56Z",
@@ -7695,6 +7700,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40medusajs%2Fmedusa",
-  "ledger_commit_at": "2026-09-07T17:01:56Z",
-  "ledger_committed_at": "2026-09-07T17:01:56Z"
+  "ledger_commit_at": "2026-09-17T15:21:49Z",
+  "ledger_committed_at": "2026-09-17T15:21:49Z"
 }
