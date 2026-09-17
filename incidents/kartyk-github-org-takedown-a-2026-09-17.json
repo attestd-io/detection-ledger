@@ -1,0 +1,40 @@
+{
+  "id": "kartyk-github-org-takedown-a-2026-09-17",
+  "display_name": "@kartyk-github-org/takedown-a",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@kartyk-github-org/takedown-a",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16265",
+          "osv_published_at": "2026-09-17T20:18:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-17T20:40:06Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-17T20:40:06Z",
+  "osv_earliest_published_at": "2026-09-17T20:18:03Z",
+  "source_published_at": "2026-09-17T20:18:03Z",
+  "observed_at": "2026-09-17T20:40:06Z",
+  "ingested_at": "2026-09-17T20:40:06Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-17T20:40:09Z",
+  "ledger_committed_at": "2026-09-17T20:40:09Z"
+}
