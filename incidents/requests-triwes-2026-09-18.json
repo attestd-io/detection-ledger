@@ -1,0 +1,37 @@
+{
+  "id": "requests-triwes-2026-09-18",
+  "display_name": "requests-triwes",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "requests-triwes",
+      "ecosystem": "pypi",
+      "versions": [
+        "2.34.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16275",
+          "osv_published_at": "2026-09-17T23:07:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-18T00:57:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-18T00:57:10Z",
+  "osv_earliest_published_at": "2026-09-17T23:07:16Z",
+  "source_published_at": "2026-09-17T23:07:16Z",
+  "observed_at": "2026-09-18T00:57:10Z",
+  "ingested_at": "2026-09-18T00:57:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-18T00:57:20Z",
+  "ledger_committed_at": "2026-09-18T00:57:20Z"
+}
