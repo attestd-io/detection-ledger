@@ -1,0 +1,37 @@
+{
+  "id": "google-cloud-datacatalog-lineage-producer-client-2026-09-18",
+  "display_name": "google-cloud-datacatalog-lineage-producer-client",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "google-cloud-datacatalog-lineage-producer-client",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.2.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-12279",
+          "osv_published_at": "2024-07-26T16:53:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-18T15:50:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-18T15:50:56Z",
+  "osv_earliest_published_at": "2024-07-26T16:53:30Z",
+  "source_published_at": "2024-07-26T16:53:30Z",
+  "observed_at": "2026-09-18T15:50:56Z",
+  "ingested_at": "2026-09-18T15:50:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-18T15:50:59Z",
+  "ledger_committed_at": "2026-09-18T15:50:59Z"
+}
