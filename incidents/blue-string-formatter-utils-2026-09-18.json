@@ -1,0 +1,37 @@
+{
+  "id": "blue-string-formatter-utils-2026-09-18",
+  "display_name": "blue-string-formatter-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "blue-string-formatter-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16273",
+          "osv_published_at": "2026-09-17T23:19:27Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-18T00:57:08Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-18T00:57:08Z",
+  "osv_earliest_published_at": "2026-09-17T23:19:27Z",
+  "source_published_at": "2026-09-17T23:19:27Z",
+  "observed_at": "2026-09-18T00:57:08Z",
+  "ingested_at": "2026-09-18T00:57:08Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-18T00:57:11Z",
+  "ledger_committed_at": "2026-09-18T00:57:11Z"
+}
