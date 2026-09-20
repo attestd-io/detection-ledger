@@ -1,0 +1,32 @@
+{
+  "id": "dforge-core-dforge-mcp-2026-09-20",
+  "display_name": "@dforge-core/dforge-mcp",
+  "campaign": null,
+  "detection_source": "registry",
+  "packages": [
+    {
+      "package": "@dforge-core/dforge-mcp",
+      "ecosystem": "npm",
+      "versions": [
+        "0.2.21"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "backdoor",
+  "attestd_detected_at": "2026-09-20T18:09:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-20T18:09:45Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-20T18:09:45Z",
+  "ingested_at": "2026-09-20T18:09:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://www.cloudsek.com/blog/ghappier-malware-loader-npm-supply-chain-attack",
+  "ledger_commit_at": "2026-09-20T18:09:47Z",
+  "ledger_committed_at": "2026-09-20T18:09:47Z"
+}
