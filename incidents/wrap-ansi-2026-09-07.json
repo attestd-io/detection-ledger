@@ -10,14 +10,19 @@
       "versions": [
         "9.0.1"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-46983",
+          "osv_published_at": "2025-09-08T17:19:41Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T09:42:17Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T09:42:17Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2025-09-08T17:19:41Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T09:42:17Z",
   "ingested_at": "2026-09-07T09:42:17Z",
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/wrap-ansi",
-  "ledger_commit_at": "2026-09-07T17:21:19Z",
-  "ledger_committed_at": "2026-09-07T17:21:19Z"
+  "ledger_commit_at": "2026-09-21T04:09:37Z",
+  "ledger_committed_at": "2026-09-21T04:09:37Z"
 }
