@@ -11,14 +11,19 @@
         "2.2.11",
         "2.3.11"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-3863",
+          "osv_published_at": "2026-05-19T00:00:00Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T04:53:31Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T04:53:31Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-05-19T00:00:00Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T04:53:31Z",
   "ingested_at": "2026-09-07T04:53:31Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40antv%2Fcomponent",
-  "ledger_commit_at": "2026-09-07T05:49:59Z",
-  "ledger_committed_at": "2026-09-07T05:49:59Z"
+  "ledger_commit_at": "2026-09-21T08:45:48Z",
+  "ledger_committed_at": "2026-09-21T08:45:48Z"
 }
