@@ -1,0 +1,39 @@
+{
+  "id": "rrs-2026-09-21",
+  "display_name": "rrs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "rrs",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.3.100",
+        "0.4.105",
+        "0.4.106"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16346",
+          "osv_published_at": "2026-09-21T03:46:09Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-21T03:54:22Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-21T03:54:22Z",
+  "osv_earliest_published_at": "2026-09-21T03:46:09Z",
+  "source_published_at": "2026-09-21T03:46:09Z",
+  "observed_at": "2026-09-21T03:54:22Z",
+  "ingested_at": "2026-09-21T03:54:22Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-21T03:54:35Z",
+  "ledger_committed_at": "2026-09-21T03:54:35Z"
+}
