@@ -1,0 +1,37 @@
+{
+  "id": "vite-tab-tabui-2026-09-21",
+  "display_name": "@vite-tab/tabui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@vite-tab/tabui",
+      "ecosystem": "npm",
+      "versions": [
+        "7.15.16"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16371",
+          "osv_published_at": "2026-09-21T23:16:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-21T23:31:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-21T23:31:15Z",
+  "osv_earliest_published_at": "2026-09-21T23:16:23Z",
+  "source_published_at": "2026-09-21T23:16:23Z",
+  "observed_at": "2026-09-21T23:31:15Z",
+  "ingested_at": "2026-09-21T23:31:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-21T23:31:20Z",
+  "ledger_committed_at": "2026-09-21T23:31:20Z"
+}
