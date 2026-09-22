@@ -1,0 +1,37 @@
+{
+  "id": "cloushaar-poc-exfil-91827-2026-09-22",
+  "display_name": "cloushaar-poc-exfil-91827",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cloushaar-poc-exfil-91827",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16377",
+          "osv_published_at": "2026-09-22T07:01:53Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-22T07:34:55Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-22T07:34:55Z",
+  "osv_earliest_published_at": "2026-09-22T07:01:53Z",
+  "source_published_at": "2026-09-22T07:01:53Z",
+  "observed_at": "2026-09-22T07:34:55Z",
+  "ingested_at": "2026-09-22T07:34:55Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-22T07:34:58Z",
+  "ledger_committed_at": "2026-09-22T07:34:58Z"
+}
