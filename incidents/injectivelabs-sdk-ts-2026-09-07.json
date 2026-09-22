@@ -10,14 +10,19 @@
       "versions": [
         "1.20.21"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-10165",
+          "osv_published_at": "2026-07-10T18:43:14Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T04:00:45Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T04:00:45Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2026-07-10T18:43:14Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T04:00:45Z",
   "ingested_at": "2026-09-07T04:00:45Z",
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40injectivelabs%2Fsdk-ts",
-  "ledger_commit_at": "2026-09-07T04:29:25Z",
-  "ledger_committed_at": "2026-09-07T04:29:25Z"
+  "ledger_commit_at": "2026-09-22T09:27:10Z",
+  "ledger_committed_at": "2026-09-22T09:27:10Z"
 }
