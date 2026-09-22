@@ -1,0 +1,37 @@
+{
+  "id": "chai-logger-2026-09-22",
+  "display_name": "chai-logger",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "chai-logger",
+      "ecosystem": "npm",
+      "versions": [
+        "3.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16380",
+          "osv_published_at": "2026-09-22T13:58:43Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-22T14:38:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-22T14:38:19Z",
+  "osv_earliest_published_at": "2026-09-22T13:58:43Z",
+  "source_published_at": "2026-09-22T13:58:43Z",
+  "observed_at": "2026-09-22T14:38:19Z",
+  "ingested_at": "2026-09-22T14:38:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-22T14:38:22Z",
+  "ledger_committed_at": "2026-09-22T14:38:22Z"
+}
