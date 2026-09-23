@@ -1,0 +1,41 @@
+{
+  "id": "wizloft-harness-cli-adapter-2026-09-23",
+  "display_name": "@wizloft/harness-cli-adapter",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@wizloft/harness-cli-adapter",
+      "ecosystem": "npm",
+      "versions": [
+        "0.1.0-alpha.2",
+        "0.1.0-alpha.3",
+        "0.1.0-alpha.4",
+        "0.1.2-alpha.1",
+        "0.1.2-alpha.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16424",
+          "osv_published_at": "2026-09-23T00:24:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-23T01:12:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-23T01:12:59Z",
+  "osv_earliest_published_at": "2026-09-23T00:24:46Z",
+  "source_published_at": "2026-09-23T00:24:46Z",
+  "observed_at": "2026-09-23T01:12:59Z",
+  "ingested_at": "2026-09-23T01:12:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-23T01:13:03Z",
+  "ledger_committed_at": "2026-09-23T01:13:03Z"
+}
