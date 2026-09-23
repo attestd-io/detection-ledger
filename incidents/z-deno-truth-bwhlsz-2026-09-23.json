@@ -1,0 +1,38 @@
+{
+  "id": "z-deno-truth-bwhlsz-2026-09-23",
+  "display_name": "z-deno-truth-bwhlsz",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "z-deno-truth-bwhlsz",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0",
+        "2.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16470",
+          "osv_published_at": "2026-09-23T05:08:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-23T05:30:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-23T05:30:33Z",
+  "osv_earliest_published_at": "2026-09-23T05:08:32Z",
+  "source_published_at": "2026-09-23T05:08:32Z",
+  "observed_at": "2026-09-23T05:30:33Z",
+  "ingested_at": "2026-09-23T05:30:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-23T05:30:45Z",
+  "ledger_committed_at": "2026-09-23T05:30:45Z"
+}
