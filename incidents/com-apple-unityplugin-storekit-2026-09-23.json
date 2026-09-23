@@ -1,0 +1,37 @@
+{
+  "id": "com-apple-unityplugin-storekit-2026-09-23",
+  "display_name": "com.apple.unityplugin.storekit",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "com.apple.unityplugin.storekit",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16477",
+          "osv_published_at": "2026-09-23T14:10:47Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-23T14:32:15Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-23T14:32:15Z",
+  "osv_earliest_published_at": "2026-09-23T14:10:47Z",
+  "source_published_at": "2026-09-23T14:10:47Z",
+  "observed_at": "2026-09-23T14:32:15Z",
+  "ingested_at": "2026-09-23T14:32:15Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-23T14:32:21Z",
+  "ledger_committed_at": "2026-09-23T14:32:21Z"
+}
