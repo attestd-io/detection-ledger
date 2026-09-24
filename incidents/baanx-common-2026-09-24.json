@@ -10,15 +10,20 @@
       "versions": [
         "9.9.9"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16485",
+          "osv_published_at": "2026-09-24T00:41:44Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-24T00:40:31Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-24T00:40:31Z",
-  "osv_earliest_published_at": null,
-  "source_published_at": null,
+  "osv_earliest_published_at": "2026-09-24T00:41:44Z",
+  "source_published_at": "2026-09-24T00:41:44Z",
   "observed_at": "2026-09-24T00:40:31Z",
   "ingested_at": "2026-09-24T00:40:31Z",
   "first_served_at": null,
@@ -27,6 +32,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40baanx%2Fcommon",
-  "ledger_commit_at": "2026-09-24T00:40:33Z",
-  "ledger_committed_at": "2026-09-24T00:40:33Z"
+  "ledger_commit_at": "2026-09-24T01:14:58Z",
+  "ledger_committed_at": "2026-09-24T01:14:58Z"
 }
