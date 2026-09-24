@@ -1,0 +1,38 @@
+{
+  "id": "cache-swipper-2026-09-24",
+  "display_name": "cache-swipper",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "cache-swipper",
+      "ecosystem": "npm",
+      "versions": [
+        "3.5.0",
+        "3.6.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17166",
+          "osv_published_at": "2026-09-24T14:51:30Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-24T15:22:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-24T15:22:26Z",
+  "osv_earliest_published_at": "2026-09-24T14:51:30Z",
+  "source_published_at": "2026-09-24T14:51:30Z",
+  "observed_at": "2026-09-24T15:22:26Z",
+  "ingested_at": "2026-09-24T15:22:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-24T15:22:43Z",
+  "ledger_committed_at": "2026-09-24T15:22:43Z"
+}
