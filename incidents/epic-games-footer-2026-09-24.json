@@ -1,0 +1,38 @@
+{
+  "id": "epic-games-footer-2026-09-24",
+  "display_name": "epic-games-footer",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "epic-games-footer",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-49150",
+          "osv_published_at": "2025-10-30T17:38:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-24T03:45:37Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-24T03:45:37Z",
+  "osv_earliest_published_at": "2025-10-30T17:38:57Z",
+  "source_published_at": "2025-10-30T17:38:57Z",
+  "observed_at": "2026-09-24T03:45:37Z",
+  "ingested_at": "2026-09-24T03:45:37Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-24T03:45:39Z",
+  "ledger_committed_at": "2026-09-24T03:45:39Z"
+}
