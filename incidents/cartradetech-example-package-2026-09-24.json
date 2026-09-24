@@ -1,0 +1,37 @@
+{
+  "id": "cartradetech-example-package-2026-09-24",
+  "display_name": "@cartradetech/example-package",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@cartradetech/example-package",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16492",
+          "osv_published_at": "2026-09-22T17:01:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-24T09:32:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-24T09:32:32Z",
+  "osv_earliest_published_at": "2026-09-22T17:01:48Z",
+  "source_published_at": "2026-09-22T17:01:48Z",
+  "observed_at": "2026-09-24T09:32:32Z",
+  "ingested_at": "2026-09-24T09:32:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-24T09:32:46Z",
+  "ledger_committed_at": "2026-09-24T09:32:46Z"
+}
