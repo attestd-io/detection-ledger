@@ -1,0 +1,37 @@
+{
+  "id": "zeal-utils-2026-09-24",
+  "display_name": "zeal-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zeal-utils",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16542",
+          "osv_published_at": "2026-09-22T17:46:49Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-24T09:33:56Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-24T09:33:56Z",
+  "osv_earliest_published_at": "2026-09-22T17:46:49Z",
+  "source_published_at": "2026-09-22T17:46:49Z",
+  "observed_at": "2026-09-24T09:33:56Z",
+  "ingested_at": "2026-09-24T09:33:56Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-24T09:34:11Z",
+  "ledger_committed_at": "2026-09-24T09:34:11Z"
+}
