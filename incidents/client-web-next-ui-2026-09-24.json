@@ -1,0 +1,38 @@
+{
+  "id": "client-web-next-ui-2026-09-24",
+  "display_name": "@client-web-next/ui",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@client-web-next/ui",
+      "ecosystem": "npm",
+      "versions": [
+        "9.999.2",
+        "9.999.3"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-16512",
+          "osv_published_at": "2026-09-22T17:02:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-24T09:33:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-24T09:33:32Z",
+  "osv_earliest_published_at": "2026-09-22T17:02:48Z",
+  "source_published_at": "2026-09-22T17:02:48Z",
+  "observed_at": "2026-09-24T09:33:32Z",
+  "ingested_at": "2026-09-24T09:33:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-24T09:33:46Z",
+  "ledger_committed_at": "2026-09-24T09:33:46Z"
+}
