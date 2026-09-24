@@ -1,0 +1,40 @@
+{
+  "id": "vercel-runtime-python-2026-09-24",
+  "display_name": "vercel-runtime-python",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "vercel-runtime-python",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0",
+        "100.100.99",
+        "100.99.99",
+        "99.99.99"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17168",
+          "osv_published_at": "2026-09-24T23:23:58Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-24T23:41:42Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-24T23:41:42Z",
+  "osv_earliest_published_at": "2026-09-24T23:23:58Z",
+  "source_published_at": "2026-09-24T23:23:58Z",
+  "observed_at": "2026-09-24T23:41:42Z",
+  "ingested_at": "2026-09-24T23:41:42Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-24T23:41:45Z",
+  "ledger_committed_at": "2026-09-24T23:41:45Z"
+}
