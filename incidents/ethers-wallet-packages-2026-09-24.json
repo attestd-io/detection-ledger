@@ -1,0 +1,37 @@
+{
+  "id": "ethers-wallet-packages-2026-09-24",
+  "display_name": "ethers-wallet-packages",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "ethers-wallet-packages",
+      "ecosystem": "npm",
+      "versions": [
+        "5.8.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-4554",
+          "osv_published_at": "2026-05-20T02:40:25Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-24T09:02:14Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-24T09:02:14Z",
+  "osv_earliest_published_at": "2026-05-20T02:40:25Z",
+  "source_published_at": "2026-05-20T02:40:25Z",
+  "observed_at": "2026-09-24T09:02:14Z",
+  "ingested_at": "2026-09-24T09:02:14Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-24T09:02:18Z",
+  "ledger_committed_at": "2026-09-24T09:02:18Z"
+}
