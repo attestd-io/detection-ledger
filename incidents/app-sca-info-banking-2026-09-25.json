@@ -1,0 +1,37 @@
+{
+  "id": "app-sca-info-banking-2026-09-25",
+  "display_name": "app-sca-info-banking",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "app-sca-info-banking",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.24"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17182",
+          "osv_published_at": "2026-09-25T08:35:37Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-25T08:59:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-25T08:59:35Z",
+  "osv_earliest_published_at": "2026-09-25T08:35:37Z",
+  "source_published_at": "2026-09-25T08:35:37Z",
+  "observed_at": "2026-09-25T08:59:35Z",
+  "ingested_at": "2026-09-25T08:59:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-25T08:59:38Z",
+  "ledger_committed_at": "2026-09-25T08:59:38Z"
+}
