@@ -1,0 +1,38 @@
+{
+  "id": "epic-node-ecom-services-2026-09-25",
+  "display_name": "epic-node-ecom-services",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "epic-node-ecom-services",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1-security",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-49169",
+          "osv_published_at": "2025-10-30T17:38:57Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-25T05:28:36Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-25T05:28:36Z",
+  "osv_earliest_published_at": "2025-10-30T17:38:57Z",
+  "source_published_at": "2025-10-30T17:38:57Z",
+  "observed_at": "2026-09-25T05:28:36Z",
+  "ingested_at": "2026-09-25T05:28:36Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-25T05:28:39Z",
+  "ledger_committed_at": "2026-09-25T05:28:39Z"
+}
