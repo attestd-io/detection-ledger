@@ -1,0 +1,37 @@
+{
+  "id": "requests-cache-utils-2026-09-26",
+  "display_name": "requests-cache-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "requests-cache-utils",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17191",
+          "osv_published_at": "2026-09-26T22:49:02Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-26T23:20:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-26T23:20:19Z",
+  "osv_earliest_published_at": "2026-09-26T22:49:02Z",
+  "source_published_at": "2026-09-26T22:49:02Z",
+  "observed_at": "2026-09-26T23:20:19Z",
+  "ingested_at": "2026-09-26T23:20:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-26T23:20:21Z",
+  "ledger_committed_at": "2026-09-26T23:20:21Z"
+}
