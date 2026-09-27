@@ -36,6 +36,8 @@ Each incident is one JSON object in `incidents/{id}.json` and one row in `ledger
 
 These timestamp fields are intentionally separate. Do not treat `source_published_at` as artifact publish time when the source is an OSV advisory that reused an older ID. Lead-time reporting should use `source_published_at`, `observed_at` / `first_served_at`, and `press_coverage_at` as distinct clocks.
 
+Optional timestamp fields may be omitted on a row rather than serialized as JSON `null`. Treat a missing key the same as null.
+
 Each element of `packages[]`:
 
 | Field | Type | Description |
