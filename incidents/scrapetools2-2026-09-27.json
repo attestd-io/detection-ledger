@@ -1,0 +1,40 @@
+{
+  "id": "scrapetools2-2026-09-27",
+  "display_name": "scrapetools2",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "scrapetools2",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.2.0",
+        "0.2.1",
+        "1.2.0",
+        "1.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17199",
+          "osv_published_at": "2026-09-27T14:33:48Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-27T14:53:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-27T14:53:09Z",
+  "osv_earliest_published_at": "2026-09-27T14:33:48Z",
+  "source_published_at": "2026-09-27T14:33:48Z",
+  "observed_at": "2026-09-27T14:53:09Z",
+  "ingested_at": "2026-09-27T14:53:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-27T14:53:12Z",
+  "ledger_committed_at": "2026-09-27T14:53:12Z"
+}
