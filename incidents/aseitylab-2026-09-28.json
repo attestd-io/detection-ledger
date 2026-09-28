@@ -1,0 +1,38 @@
+{
+  "id": "aseitylab-2026-09-28",
+  "display_name": "aseitylab",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "aseitylab",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0",
+        "0.1.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17240",
+          "osv_published_at": "2026-09-28T21:24:44Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-28T22:32:33Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-28T22:32:33Z",
+  "osv_earliest_published_at": "2026-09-28T21:24:44Z",
+  "source_published_at": "2026-09-28T21:24:44Z",
+  "observed_at": "2026-09-28T22:32:33Z",
+  "ingested_at": "2026-09-28T22:32:33Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-28T22:32:38Z",
+  "ledger_committed_at": "2026-09-28T22:32:38Z"
+}
