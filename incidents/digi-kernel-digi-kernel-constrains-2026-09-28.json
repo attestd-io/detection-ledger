@@ -1,0 +1,37 @@
+{
+  "id": "digi-kernel-digi-kernel-constrains-2026-09-28",
+  "display_name": "@digi-kernel/digi-kernel-constrains",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@digi-kernel/digi-kernel-constrains",
+      "ecosystem": "npm",
+      "versions": [
+        "33.1337.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17203",
+          "osv_published_at": "2026-09-28T03:53:16Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-28T04:45:26Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-28T04:45:26Z",
+  "osv_earliest_published_at": "2026-09-28T03:53:16Z",
+  "source_published_at": "2026-09-28T03:53:16Z",
+  "observed_at": "2026-09-28T04:45:26Z",
+  "ingested_at": "2026-09-28T04:45:26Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-28T04:45:37Z",
+  "ledger_committed_at": "2026-09-28T04:45:37Z"
+}
