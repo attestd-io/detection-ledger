@@ -1,0 +1,37 @@
+{
+  "id": "azure-langchain-example-2026-09-28",
+  "display_name": "azure-langchain-example",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "azure-langchain-example",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17213",
+          "osv_published_at": "2026-09-28T07:34:50Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-28T08:47:24Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-28T08:47:24Z",
+  "osv_earliest_published_at": "2026-09-28T07:34:50Z",
+  "source_published_at": "2026-09-28T07:34:50Z",
+  "observed_at": "2026-09-28T08:47:24Z",
+  "ingested_at": "2026-09-28T08:47:24Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-28T08:47:27Z",
+  "ledger_committed_at": "2026-09-28T08:47:27Z"
+}
