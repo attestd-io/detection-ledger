@@ -1,0 +1,37 @@
+{
+  "id": "wbnr-probe-visible-check-2026-09-28",
+  "display_name": "wbnr-probe-visible-check",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "wbnr-probe-visible-check",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17212",
+          "osv_published_at": "2026-09-28T06:46:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-28T07:02:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-28T07:02:09Z",
+  "osv_earliest_published_at": "2026-09-28T06:46:04Z",
+  "source_published_at": "2026-09-28T06:46:04Z",
+  "observed_at": "2026-09-28T07:02:09Z",
+  "ingested_at": "2026-09-28T07:02:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-28T07:02:19Z",
+  "ledger_committed_at": "2026-09-28T07:02:19Z"
+}

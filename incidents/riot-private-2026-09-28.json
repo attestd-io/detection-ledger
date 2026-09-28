@@ -1,0 +1,37 @@
+{
+  "id": "riot-private-2026-09-28",
+  "display_name": "riot-private",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "riot-private",
+      "ecosystem": "npm",
+      "versions": [
+        "100.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17208",
+          "osv_published_at": "2026-09-28T06:15:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-28T07:02:07Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-28T07:02:07Z",
+  "osv_earliest_published_at": "2026-09-28T06:15:36Z",
+  "source_published_at": "2026-09-28T06:15:36Z",
+  "observed_at": "2026-09-28T07:02:07Z",
+  "ingested_at": "2026-09-28T07:02:07Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-28T07:02:19Z",
+  "ledger_committed_at": "2026-09-28T07:02:19Z"
+}
