@@ -69,9 +69,26 @@ def main() -> int:
                 print(f"{path.name}: package entry is not an object", file=sys.stderr)
                 errors += 1
                 continue
+            name = pkg.get("package")
+            if not isinstance(name, str) or not name.strip():
+                print(f"{path.name}: package entry missing package name", file=sys.stderr)
+                errors += 1
             eco = pkg.get("ecosystem")
             if eco not in ALLOWED_ECOSYSTEMS:
                 print(f"{path.name}: bad ecosystem {eco!r}", file=sys.stderr)
+                errors += 1
+            versions = pkg.get("versions")
+            if not isinstance(versions, list) or not versions:
+                print(
+                    f"{path.name}: package {name!r} versions must be a non-empty array",
+                    file=sys.stderr,
+                )
+                errors += 1
+            elif any(not isinstance(v, str) or not v.strip() for v in versions):
+                print(
+                    f"{path.name}: package {name!r} has a non-string or empty version",
+                    file=sys.stderr,
+                )
                 errors += 1
 
     if errors:
