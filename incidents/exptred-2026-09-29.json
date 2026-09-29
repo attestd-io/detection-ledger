@@ -1,0 +1,37 @@
+{
+  "id": "exptred-2026-09-29",
+  "display_name": "exptred",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "exptred",
+      "ecosystem": "npm",
+      "versions": [
+        "5.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17246",
+          "osv_published_at": "2026-09-29T14:39:46Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-29T14:53:09Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-29T14:53:09Z",
+  "osv_earliest_published_at": "2026-09-29T14:39:46Z",
+  "source_published_at": "2026-09-29T14:39:46Z",
+  "observed_at": "2026-09-29T14:53:09Z",
+  "ingested_at": "2026-09-29T14:53:09Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-29T14:53:36Z",
+  "ledger_committed_at": "2026-09-29T14:53:36Z"
+}
