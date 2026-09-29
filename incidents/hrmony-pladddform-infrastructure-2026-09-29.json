@@ -1,0 +1,38 @@
+{
+  "id": "hrmony-pladddform-infrastructure-2026-09-29",
+  "display_name": "@hrmony/pladddform-infrastructure",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@hrmony/pladddform-infrastructure",
+      "ecosystem": "npm",
+      "versions": [
+        "40.14.3",
+        "40.99.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17277",
+          "osv_published_at": "2026-09-29T16:30:10Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-29T16:53:44Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-29T16:53:44Z",
+  "osv_earliest_published_at": "2026-09-29T16:30:10Z",
+  "source_published_at": "2026-09-29T16:30:10Z",
+  "observed_at": "2026-09-29T16:53:44Z",
+  "ingested_at": "2026-09-29T16:53:44Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-29T16:54:04Z",
+  "ledger_committed_at": "2026-09-29T16:54:04Z"
+}
