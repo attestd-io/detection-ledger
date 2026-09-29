@@ -66,10 +66,19 @@ git log --show-signature -1
 
 GPG signatures apply when the committer configured signing (manual sync). Contents-API auto-push commits are public GitHub commits and may be unsigned.
 
+CI runs `python3 scripts/validate_ledger.py` on every push and pull request to `main`. Locally:
+
+```bash
+python3 scripts/validate_ledger.py
+```
+
+The script checks that `ledger.json` ids match `incidents/*.json`, that each incident file has `id`, `detection_source`, and a non-empty `packages` array, and that each package object has `package`, `ecosystem` (`npm` or `pypi`), and a non-empty `versions` list. It does not rewrite incident payloads.
+
 ## Files
 
 - `incidents/{id}.json` — one file per incident
 - `ledger.json` — machine-readable index
+- `scripts/validate_ledger.py` — index/incident parity and package-shape checks used by CI
 
 Repository: https://github.com/attestd-io/detection-ledger
 
