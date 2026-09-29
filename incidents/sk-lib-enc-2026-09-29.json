@@ -1,0 +1,37 @@
+{
+  "id": "sk-lib-enc-2026-09-29",
+  "display_name": "sk-lib-enc",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "sk-lib-enc",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17284",
+          "osv_published_at": "2026-09-29T17:30:01Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-29T18:40:45Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-29T18:40:45Z",
+  "osv_earliest_published_at": "2026-09-29T17:30:01Z",
+  "source_published_at": "2026-09-29T17:30:01Z",
+  "observed_at": "2026-09-29T18:40:45Z",
+  "ingested_at": "2026-09-29T18:40:45Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-29T18:40:48Z",
+  "ledger_committed_at": "2026-09-29T18:40:48Z"
+}
