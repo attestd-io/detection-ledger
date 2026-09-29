@@ -1,0 +1,37 @@
+{
+  "id": "hrmony-api-gateway-service-config-2026-09-29",
+  "display_name": "@hrmony/api-gateway-service-config",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@hrmony/api-gateway-service-config",
+      "ecosystem": "npm",
+      "versions": [
+        "0.99.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17250",
+          "osv_published_at": "2026-09-29T16:30:28Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-29T16:53:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-29T16:53:35Z",
+  "osv_earliest_published_at": "2026-09-29T16:30:28Z",
+  "source_published_at": "2026-09-29T16:30:28Z",
+  "observed_at": "2026-09-29T16:53:35Z",
+  "ingested_at": "2026-09-29T16:53:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-29T16:53:52Z",
+  "ledger_committed_at": "2026-09-29T16:53:52Z"
+}
