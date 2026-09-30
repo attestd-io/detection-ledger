@@ -1,0 +1,37 @@
+{
+  "id": "bfox-build-utils-2026-09-30",
+  "display_name": "bfox-build-utils",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "bfox-build-utils",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.997"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17319",
+          "osv_published_at": "2026-09-30T03:04:36Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-30T03:29:51Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-30T03:29:51Z",
+  "osv_earliest_published_at": "2026-09-30T03:04:36Z",
+  "source_published_at": "2026-09-30T03:04:36Z",
+  "observed_at": "2026-09-30T03:29:51Z",
+  "ingested_at": "2026-09-30T03:29:51Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-30T03:30:02Z",
+  "ledger_committed_at": "2026-09-30T03:30:02Z"
+}
