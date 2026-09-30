@@ -1,0 +1,39 @@
+{
+  "id": "beautifytext-2026-09-30",
+  "display_name": "beautifytext",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "beautifytext",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.3",
+        "1.0.4",
+        "1.0.7"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17417",
+          "osv_published_at": "2026-09-30T19:15:23Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-30T19:55:47Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-30T19:55:47Z",
+  "osv_earliest_published_at": "2026-09-30T19:15:23Z",
+  "source_published_at": "2026-09-30T19:15:23Z",
+  "observed_at": "2026-09-30T19:55:47Z",
+  "ingested_at": "2026-09-30T19:55:47Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-30T19:55:50Z",
+  "ledger_committed_at": "2026-09-30T19:55:50Z"
+}
