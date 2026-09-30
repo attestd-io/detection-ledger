@@ -1,0 +1,39 @@
+{
+  "id": "xzbails-2026-09-30",
+  "display_name": "xzbails",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "xzbails",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.3",
+        "0.0.4",
+        "0.0.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17410",
+          "osv_published_at": null
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-30T10:33:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-30T10:33:12Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-30T10:33:12Z",
+  "ingested_at": "2026-09-30T10:33:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-30T10:33:40Z",
+  "ledger_committed_at": "2026-09-30T10:33:40Z"
+}

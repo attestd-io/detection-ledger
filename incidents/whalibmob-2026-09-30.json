@@ -1,0 +1,56 @@
+{
+  "id": "whalibmob-2026-09-30",
+  "display_name": "whalibmob",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "whalibmob",
+      "ecosystem": "npm",
+      "versions": [
+        "5.24.0",
+        "5.24.1",
+        "5.24.2",
+        "5.25.0",
+        "5.28.0",
+        "5.29.0",
+        "5.29.1",
+        "5.29.2",
+        "5.29.3",
+        "5.29.4",
+        "5.29.5",
+        "5.29.6",
+        "5.30.0",
+        "5.32.0",
+        "5.32.1",
+        "5.32.2",
+        "5.33.2",
+        "5.33.3",
+        "5.33.4",
+        "5.33.5"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17408",
+          "osv_published_at": null
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-09-30T10:33:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-09-30T10:33:12Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-09-30T10:33:12Z",
+  "ingested_at": "2026-09-30T10:33:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-09-30T10:33:40Z",
+  "ledger_committed_at": "2026-09-30T10:33:40Z"
+}
