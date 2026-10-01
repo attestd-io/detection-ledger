@@ -11,14 +11,19 @@
         "1.95.6",
         "1.95.7"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2024-11183",
+          "osv_published_at": "2024-12-03T22:45:37Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T07:16:14Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T07:16:14Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2024-12-03T22:45:37Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T07:16:14Z",
   "ingested_at": "2026-09-07T07:16:14Z",
@@ -28,6 +33,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/%40solana%2Fweb3.js",
-  "ledger_commit_at": "2026-09-07T12:45:45Z",
-  "ledger_committed_at": "2026-09-07T12:45:45Z"
+  "ledger_commit_at": "2026-10-01T22:09:40Z",
+  "ledger_committed_at": "2026-10-01T22:09:40Z"
 }
