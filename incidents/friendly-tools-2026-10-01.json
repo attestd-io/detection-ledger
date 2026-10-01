@@ -1,0 +1,38 @@
+{
+  "id": "friendly-tools-2026-10-01",
+  "display_name": "friendly-tools",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "friendly-tools",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1",
+        "0.2"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17419",
+          "osv_published_at": "2026-10-01T12:08:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-01T12:44:00Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-01T12:44:00Z",
+  "osv_earliest_published_at": "2026-10-01T12:08:07Z",
+  "source_published_at": "2026-10-01T12:08:07Z",
+  "observed_at": "2026-10-01T12:44:00Z",
+  "ingested_at": "2026-10-01T12:44:00Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-01T12:44:02Z",
+  "ledger_committed_at": "2026-10-01T12:44:02Z"
+}
