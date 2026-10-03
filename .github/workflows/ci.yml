@@ -13,5 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Validator unit tests
+        run: python3 -m unittest discover -s tests -v
+
       - name: Validate ledger.json against incident files
         run: python3 scripts/validate_ledger.py
