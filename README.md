@@ -72,13 +72,16 @@ CI runs `python3 scripts/validate_ledger.py` on every push and pull request to `
 python3 scripts/validate_ledger.py
 ```
 
-The script checks that `ledger.json` ids match `incidents/*.json`, that each incident file has `id`, `detection_source`, and a non-empty `packages` array, and that each package object has `package`, `ecosystem` (`npm` or `pypi`), and a non-empty `versions` list. It does not rewrite incident payloads.
+The script checks that `ledger.json` ids match `incidents/*.json`. The same required keys (`id`, `detection_source`, non-empty `packages`) and package shape (`package`, `ecosystem` `npm` or `pypi`, non-empty `versions`) apply to both index rows and incident files. The dashboard reads `ledger.json`; a well-formed incident file is not enough if the index row is missing those fields. The script does not compare index vs file package contents and does not rewrite incident payloads.
+
+CI also runs `python3 -m unittest discover -s tests -v` against fixture ledgers.
 
 ## Files
 
 - `incidents/{id}.json` — one file per incident
-- `ledger.json` — machine-readable index
-- `scripts/validate_ledger.py` — index/incident parity and package-shape checks used by CI
+- `ledger.json` — machine-readable index (what the live dashboard fetches)
+- `scripts/validate_ledger.py` — id parity plus package-shape checks on index rows and incident files
+- `tests/test_validate_ledger.py` — fixture tests for the validator
 
 Repository: https://github.com/attestd-io/detection-ledger
 
