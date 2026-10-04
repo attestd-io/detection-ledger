@@ -1,0 +1,42 @@
+{
+  "id": "py7zr-2026-10-04",
+  "display_name": "py7zr",
+  "campaign": null,
+  "detection_source": "pypi_yank",
+  "packages": [
+    {
+      "package": "py7zr",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.10.0",
+        "0.10.1",
+        "0.10.2",
+        "0.11.0",
+        "0.11.1",
+        "0.11.2",
+        "0.9.10",
+        "0.9.5",
+        "0.9.7",
+        "0.9.8",
+        "0.9.9"
+      ],
+      "osv_entries": []
+    }
+  ],
+  "malware_type": "yanked_release",
+  "attestd_detected_at": "2026-10-04T14:08:32Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-04T14:08:32Z",
+  "osv_earliest_published_at": null,
+  "source_published_at": null,
+  "observed_at": "2026-10-04T14:08:32Z",
+  "ingested_at": "2026-10-04T14:08:32Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "https://pypi.org/pypi/py7zr/json",
+  "ledger_commit_at": "2026-10-04T14:08:34Z",
+  "ledger_committed_at": "2026-10-04T14:08:34Z"
+}
