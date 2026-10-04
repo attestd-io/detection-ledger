@@ -1,0 +1,37 @@
+{
+  "id": "css-snap-target-polyfill-2026-10-04",
+  "display_name": "css-snap-target-polyfill",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "css-snap-target-polyfill",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17487",
+          "osv_published_at": "2026-10-04T23:15:33Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-04T23:20:12Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-04T23:20:12Z",
+  "osv_earliest_published_at": "2026-10-04T23:15:33Z",
+  "source_published_at": "2026-10-04T23:15:33Z",
+  "observed_at": "2026-10-04T23:20:12Z",
+  "ingested_at": "2026-10-04T23:20:12Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-04T23:20:26Z",
+  "ledger_committed_at": "2026-10-04T23:20:26Z"
+}
