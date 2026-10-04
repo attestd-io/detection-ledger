@@ -1,0 +1,37 @@
+{
+  "id": "anthropic-sdk-2026-10-04",
+  "display_name": "anthropic-sdk",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "anthropic-sdk",
+      "ecosystem": "pypi",
+      "versions": [
+        "0.1.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17472",
+          "osv_published_at": "2026-10-04T19:09:32Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-04T19:49:34Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-04T19:49:34Z",
+  "osv_earliest_published_at": "2026-10-04T19:09:32Z",
+  "source_published_at": "2026-10-04T19:09:32Z",
+  "observed_at": "2026-10-04T19:49:34Z",
+  "ingested_at": "2026-10-04T19:49:34Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-04T19:49:37Z",
+  "ledger_committed_at": "2026-10-04T19:49:37Z"
+}
