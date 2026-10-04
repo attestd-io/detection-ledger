@@ -1,0 +1,37 @@
+{
+  "id": "studiocode-tools-2026-10-04",
+  "display_name": "studiocode_tools",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "studiocode_tools",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17523",
+          "osv_published_at": "2026-10-04T23:25:54Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-04T23:50:35Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-04T23:50:35Z",
+  "osv_earliest_published_at": "2026-10-04T23:25:54Z",
+  "source_published_at": "2026-10-04T23:25:54Z",
+  "observed_at": "2026-10-04T23:50:35Z",
+  "ingested_at": "2026-10-04T23:50:35Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-04T23:50:54Z",
+  "ledger_committed_at": "2026-10-04T23:50:54Z"
+}
