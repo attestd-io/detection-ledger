@@ -1,0 +1,37 @@
+{
+  "id": "angulra-core-2026-10-04",
+  "display_name": "@angulra/core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@angulra/core",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.67"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17496",
+          "osv_published_at": "2026-10-04T23:18:17Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-04T23:50:28Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-04T23:50:28Z",
+  "osv_earliest_published_at": "2026-10-04T23:18:17Z",
+  "source_published_at": "2026-10-04T23:18:17Z",
+  "observed_at": "2026-10-04T23:50:28Z",
+  "ingested_at": "2026-10-04T23:50:28Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-04T23:50:42Z",
+  "ledger_committed_at": "2026-10-04T23:50:42Z"
+}

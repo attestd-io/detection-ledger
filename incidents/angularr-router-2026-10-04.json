@@ -1,0 +1,37 @@
+{
+  "id": "angularr-router-2026-10-04",
+  "display_name": "@angularr/router",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@angularr/router",
+      "ecosystem": "npm",
+      "versions": [
+        "2.2.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17494",
+          "osv_published_at": "2026-10-04T23:18:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-04T23:50:27Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-04T23:50:27Z",
+  "osv_earliest_published_at": "2026-10-04T23:18:03Z",
+  "source_published_at": "2026-10-04T23:18:03Z",
+  "observed_at": "2026-10-04T23:50:27Z",
+  "ingested_at": "2026-10-04T23:50:27Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-04T23:50:42Z",
+  "ledger_committed_at": "2026-10-04T23:50:42Z"
+}
