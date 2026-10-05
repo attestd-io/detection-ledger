@@ -1,0 +1,37 @@
+{
+  "id": "angulaar-core-2026-10-05",
+  "display_name": "@angulaar/core",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@angulaar/core",
+      "ecosystem": "npm",
+      "versions": [
+        "22.2.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17537",
+          "osv_published_at": "2026-10-05T03:33:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-05T04:06:19Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-05T04:06:19Z",
+  "osv_earliest_published_at": "2026-10-05T03:33:04Z",
+  "source_published_at": "2026-10-05T03:33:04Z",
+  "observed_at": "2026-10-05T04:06:19Z",
+  "ingested_at": "2026-10-05T04:06:19Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-05T04:06:32Z",
+  "ledger_committed_at": "2026-10-05T04:06:32Z"
+}
