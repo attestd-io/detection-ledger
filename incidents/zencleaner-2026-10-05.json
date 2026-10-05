@@ -1,0 +1,39 @@
+{
+  "id": "zencleaner-2026-10-05",
+  "display_name": "zencleaner",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "zencleaner",
+      "ecosystem": "pypi",
+      "versions": [
+        "1.0.0",
+        "1.0.3",
+        "1.0.3.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17629",
+          "osv_published_at": "2026-10-03T22:47:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-05T23:06:05Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-05T23:06:05Z",
+  "osv_earliest_published_at": "2026-10-03T22:47:45Z",
+  "source_published_at": "2026-10-03T22:47:45Z",
+  "observed_at": "2026-10-05T23:06:05Z",
+  "ingested_at": "2026-10-05T23:06:05Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-05T23:06:09Z",
+  "ledger_committed_at": "2026-10-05T23:06:09Z"
+}
