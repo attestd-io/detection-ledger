@@ -1,0 +1,42 @@
+{
+  "id": "browser-metrics-plugin-contrib-2026-10-07",
+  "display_name": "browser-metrics-plugin.contrib",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "browser-metrics-plugin.contrib",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.1",
+        "1.0.0",
+        "1.0.1",
+        "1.1.0",
+        "2.0.1",
+        "99.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17640",
+          "osv_published_at": "2026-10-07T00:01:40Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-07T06:56:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-07T06:56:11Z",
+  "osv_earliest_published_at": "2026-10-07T00:01:40Z",
+  "source_published_at": "2026-10-07T00:01:40Z",
+  "observed_at": "2026-10-07T06:56:11Z",
+  "ingested_at": "2026-10-07T06:56:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-07T06:56:23Z",
+  "ledger_committed_at": "2026-10-07T06:56:23Z"
+}
