@@ -12,14 +12,19 @@
         "18.0.3",
         "18.0.4"
       ],
-      "osv_entries": []
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2025-190703",
+          "osv_published_at": "2025-11-24T12:52:36Z"
+        }
+      ]
     }
   ],
   "malware_type": "malware",
   "attestd_detected_at": "2026-09-07T06:54:33Z",
   "flagged_at": null,
   "confirmed_at": "2026-09-07T06:54:33Z",
-  "osv_earliest_published_at": null,
+  "osv_earliest_published_at": "2025-11-24T12:52:36Z",
   "source_published_at": null,
   "observed_at": "2026-09-07T06:54:33Z",
   "ingested_at": "2026-09-07T06:54:33Z",
@@ -29,6 +34,6 @@
   "press_coverage_at": null,
   "press_urls": [],
   "advisory_url": "https://registry.npmjs.org/zapier-platform-cli",
-  "ledger_commit_at": "2026-09-07T12:20:27Z",
-  "ledger_committed_at": "2026-09-07T12:20:27Z"
+  "ledger_commit_at": "2026-10-07T15:05:07Z",
+  "ledger_committed_at": "2026-10-07T15:05:07Z"
 }
