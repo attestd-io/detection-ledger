@@ -1,0 +1,37 @@
+{
+  "id": "personio-pipeline-projen-2026-10-07",
+  "display_name": "personio-pipeline-projen",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "personio-pipeline-projen",
+      "ecosystem": "npm",
+      "versions": [
+        "1.171.31"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17642",
+          "osv_published_at": "2026-10-07T04:52:26Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-07T06:56:10Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-07T06:56:10Z",
+  "osv_earliest_published_at": "2026-10-07T04:52:26Z",
+  "source_published_at": "2026-10-07T04:52:26Z",
+  "observed_at": "2026-10-07T06:56:10Z",
+  "ingested_at": "2026-10-07T06:56:10Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-07T06:56:13Z",
+  "ledger_committed_at": "2026-10-07T06:56:13Z"
+}
