@@ -1,0 +1,38 @@
+{
+  "id": "brat-generator-2026-10-08",
+  "display_name": "brat-generator",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "brat-generator",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-stage",
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17674",
+          "osv_published_at": "2026-10-08T13:31:42Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-08T13:39:11Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-08T13:39:11Z",
+  "osv_earliest_published_at": "2026-10-08T13:31:42Z",
+  "source_published_at": "2026-10-08T13:31:42Z",
+  "observed_at": "2026-10-08T13:39:11Z",
+  "ingested_at": "2026-10-08T13:39:11Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-08T13:39:22Z",
+  "ledger_committed_at": "2026-10-08T13:39:22Z"
+}
