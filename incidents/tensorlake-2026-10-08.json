@@ -1,0 +1,37 @@
+{
+  "id": "tensorlake-2026-10-08",
+  "display_name": "tensorlake",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "tensorlake",
+      "ecosystem": "npm",
+      "versions": [
+        "0.5.144"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17650",
+          "osv_published_at": "2026-10-08T02:54:39Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-08T03:51:46Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-08T03:51:46Z",
+  "osv_earliest_published_at": "2026-10-08T02:54:39Z",
+  "source_published_at": "2026-10-08T02:54:39Z",
+  "observed_at": "2026-10-08T03:51:46Z",
+  "ingested_at": "2026-10-08T03:51:46Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-08T03:51:48Z",
+  "ledger_committed_at": "2026-10-08T03:51:48Z"
+}
