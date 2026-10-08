@@ -1,0 +1,37 @@
+{
+  "id": "mfasolver-2026-10-08",
+  "display_name": "mfasolver",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "mfasolver",
+      "ecosystem": "npm",
+      "versions": [
+        "1.0.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17663",
+          "osv_published_at": "2026-10-08T03:45:15Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-08T04:07:01Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-08T04:07:01Z",
+  "osv_earliest_published_at": "2026-10-08T03:45:15Z",
+  "source_published_at": "2026-10-08T03:45:15Z",
+  "observed_at": "2026-10-08T04:07:01Z",
+  "ingested_at": "2026-10-08T04:07:01Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-08T04:07:11Z",
+  "ledger_committed_at": "2026-10-08T04:07:11Z"
+}

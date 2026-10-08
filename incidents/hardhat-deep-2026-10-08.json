@@ -1,0 +1,37 @@
+{
+  "id": "hardhat-deep-2026-10-08",
+  "display_name": "hardhat-deep",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hardhat-deep",
+      "ecosystem": "npm",
+      "versions": [
+        "2.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17659",
+          "osv_published_at": "2026-10-08T03:43:45Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-08T04:06:59Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-08T04:06:59Z",
+  "osv_earliest_published_at": "2026-10-08T03:43:45Z",
+  "source_published_at": "2026-10-08T03:43:45Z",
+  "observed_at": "2026-10-08T04:06:59Z",
+  "ingested_at": "2026-10-08T04:06:59Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-08T04:07:11Z",
+  "ledger_committed_at": "2026-10-08T04:07:11Z"
+}

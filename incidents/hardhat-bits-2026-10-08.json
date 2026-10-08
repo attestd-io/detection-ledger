@@ -1,0 +1,37 @@
+{
+  "id": "hardhat-bits-2026-10-08",
+  "display_name": "hardhat-bits",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "hardhat-bits",
+      "ecosystem": "npm",
+      "versions": [
+        "2.21.0"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17658",
+          "osv_published_at": "2026-10-08T03:39:07Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-08T04:06:58Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-08T04:06:58Z",
+  "osv_earliest_published_at": "2026-10-08T03:39:07Z",
+  "source_published_at": "2026-10-08T03:39:07Z",
+  "observed_at": "2026-10-08T04:06:58Z",
+  "ingested_at": "2026-10-08T04:06:58Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-08T04:07:11Z",
+  "ledger_committed_at": "2026-10-08T04:07:11Z"
+}
