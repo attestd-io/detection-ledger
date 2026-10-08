@@ -1,0 +1,38 @@
+{
+  "id": "bellaxchuu-libsignal-node-2026-10-08",
+  "display_name": "@bellaxchuu/libsignal-node",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@bellaxchuu/libsignal-node",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-stage",
+        "2.0.1"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17676",
+          "osv_published_at": "2026-10-08T13:37:03Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-08T14:39:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-08T14:39:40Z",
+  "osv_earliest_published_at": "2026-10-08T13:37:03Z",
+  "source_published_at": "2026-10-08T13:37:03Z",
+  "observed_at": "2026-10-08T14:39:40Z",
+  "ingested_at": "2026-10-08T14:39:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-08T14:39:54Z",
+  "ledger_committed_at": "2026-10-08T14:39:54Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bellaxchuu-overbugs-2026-10-08",
+  "display_name": "@bellaxchuu/overbugs",
+  "campaign": null,
+  "detection_source": "osv",
+  "packages": [
+    {
+      "package": "@bellaxchuu/overbugs",
+      "ecosystem": "npm",
+      "versions": [
+        "0.0.0-stage",
+        "0.1.8"
+      ],
+      "osv_entries": [
+        {
+          "osv_id": "MAL-2026-17677",
+          "osv_published_at": "2026-10-08T13:37:04Z"
+        }
+      ]
+    }
+  ],
+  "malware_type": "malware",
+  "attestd_detected_at": "2026-10-08T14:39:40Z",
+  "flagged_at": null,
+  "confirmed_at": "2026-10-08T14:39:40Z",
+  "osv_earliest_published_at": "2026-10-08T13:37:04Z",
+  "source_published_at": "2026-10-08T13:37:04Z",
+  "observed_at": "2026-10-08T14:39:40Z",
+  "ingested_at": "2026-10-08T14:39:40Z",
+  "first_served_at": null,
+  "hours_ahead_of_osv": null,
+  "hours_ahead_of_press": null,
+  "press_coverage_at": null,
+  "press_urls": [],
+  "advisory_url": "",
+  "ledger_commit_at": "2026-10-08T14:39:54Z",
+  "ledger_committed_at": "2026-10-08T14:39:54Z"
+}
